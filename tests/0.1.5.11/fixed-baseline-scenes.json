@@ -1,0 +1,348 @@
+{
+	"captures": [
+		{
+			"file": "visibility-fixed-baseline-cabin-front",
+			"name": "cabin-front",
+			"player": [
+				356.359100341797,
+				615.331604003906
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-cabin-back",
+			"name": "cabin-back",
+			"player": [
+				356.359100341797,
+				538.479125976562
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-gate-center-215",
+			"name": "gate-center-215",
+			"player": [
+				1994.0,
+				215.0
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-gate-center-245",
+			"name": "gate-center-245",
+			"player": [
+				1994.0,
+				245.0
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-gate-center-275",
+			"name": "gate-center-275",
+			"player": [
+				1994.0,
+				275.0
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-gate-center-305",
+			"name": "gate-center-305",
+			"player": [
+				1994.0,
+				305.0
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-tree_0-front",
+			"name": "tree_0-front",
+			"player": [
+				1221.85766601562,
+				231.172622680664
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-tree_0-back",
+			"name": "tree_0-back",
+			"player": [
+				1221.85766601562,
+				187.240783691406
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-tree_1-front",
+			"name": "tree_1-front",
+			"player": [
+				561.121459960938,
+				336.567047119141
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-tree_1-back",
+			"name": "tree_1-back",
+			"player": [
+				561.121459960938,
+				298.643371582031
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-tree_5-front",
+			"name": "tree_5-front",
+			"player": [
+				2035.63720703125,
+				1135.04223632812
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-tree_5-back",
+			"name": "tree_5-back",
+			"player": [
+				2035.63720703125,
+				1094.64318847656
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-tree_4-front",
+			"name": "tree_4-front",
+			"player": [
+				1498.97875976562,
+				623.936828613281
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-tree_4-back",
+			"name": "tree_4-back",
+			"player": [
+				1498.97875976562,
+				580.2373046875
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-tree_2-front",
+			"name": "tree_2-front",
+			"player": [
+				1197.24560546875,
+				1253.84753417969
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-tree_2-back",
+			"name": "tree_2-back",
+			"player": [
+				1197.24560546875,
+				1215.91345214844
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-tree_3-front",
+			"name": "tree_3-front",
+			"player": [
+				1494.42687988281,
+				298.702819824219
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-tree_3-back",
+			"name": "tree_3-back",
+			"player": [
+				1494.42687988281,
+				256.319458007812
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-prop_1-front",
+			"name": "prop_1-front",
+			"player": [
+				514.781616210938,
+				652.871215820312
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-prop_1-back",
+			"name": "prop_1-back",
+			"player": [
+				514.781616210938,
+				622.8359375
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-prop_3-front",
+			"name": "prop_3-front",
+			"player": [
+				228.069580078125,
+				633.622314453125
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-prop_3-back",
+			"name": "prop_3-back",
+			"player": [
+				228.069580078125,
+				609.211730957031
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-prop_4-front",
+			"name": "prop_4-front",
+			"player": [
+				266.798126220703,
+				671.726379394531
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-prop_4-back",
+			"name": "prop_4-back",
+			"player": [
+				266.798126220703,
+				644.663818359375
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-bench-0-front",
+			"name": "bench-0-front",
+			"player": [
+				621.280883789062,
+				708.867370605469
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-bench-0-back",
+			"name": "bench-0-back",
+			"player": [
+				621.280883789062,
+				679.957275390625
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-ore_0-front",
+			"name": "ore_0-front",
+			"player": [
+				832.34521484375,
+				563.490905761719
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-ore_0-back",
+			"name": "ore_0-back",
+			"player": [
+				832.34521484375,
+				526.068298339844
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-ore_1-front",
+			"name": "ore_1-front",
+			"player": [
+				1541.16198730469,
+				547.906616210938
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-ore_1-back",
+			"name": "ore_1-back",
+			"player": [
+				1541.16198730469,
+				511.840942382812
+			],
+			"walkable": false
+		},
+		{
+			"file": "visibility-fixed-baseline-ore_2-front",
+			"name": "ore_2-front",
+			"player": [
+				703.931762695312,
+				1049.88928222656
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-ore_2-back",
+			"name": "ore_2-back",
+			"player": [
+				703.931762695312,
+				1016.55023193359
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-bank_rock-0-1-front",
+			"name": "bank_rock-0-1-front",
+			"player": [
+				1038.76538085938,
+				410.575439453125
+			],
+			"walkable": false
+		},
+		{
+			"file": "visibility-fixed-baseline-bank_rock-0-1-back",
+			"name": "bank_rock-0-1-back",
+			"player": [
+				1038.76538085938,
+				378.933624267578
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-bank_rock-1-0-front",
+			"name": "bank_rock-1-0-front",
+			"player": [
+				627.786987304688,
+				1122.80358886719
+			],
+			"walkable": false
+		},
+		{
+			"file": "visibility-fixed-baseline-bank_rock-1-0-back",
+			"name": "bank_rock-1-0-back",
+			"player": [
+				627.786987304688,
+				1099.95690917969
+			],
+			"walkable": true
+		},
+		{
+			"file": "visibility-fixed-baseline-bank_rock-2-1-front",
+			"name": "bank_rock-2-1-front",
+			"player": [
+				1518.59106445312,
+				520.626892089844
+			],
+			"walkable": false
+		},
+		{
+			"file": "visibility-fixed-baseline-bank_rock-2-1-back",
+			"name": "bank_rock-2-1-back",
+			"player": [
+				1518.59106445312,
+				490.438537597656
+			],
+			"walkable": false
+		}
+	],
+	"method": "0.1.5.10 actual Canvas commands drawn at exact final 0.1.5.11 camera/player poses. Some positions are blocked in old physics and are intentionally shown for render comparison. Software replay, not native GPU screenshot.",
+	"version": "0.1.5.10"
+}

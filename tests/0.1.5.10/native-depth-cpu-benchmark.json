@@ -1,0 +1,179 @@
+{
+  "band_cache_entries": 109,
+  "cached_band_total": 6803,
+  "godot": {
+    "build": "official",
+    "hash": "ed1daf0bf001b61586d9930840f2f1394092c079",
+    "hex": 263938,
+    "major": 4,
+    "minor": 7,
+    "patch": 2,
+    "status": "stable",
+    "string": "4.7.2-stable (official)",
+    "timestamp": 0
+  },
+  "iterations_per_case": 100,
+  "max_bands_per_cached_object": 272,
+  "native_texture_cache_entries": 34,
+  "scenes": [
+    {
+      "camera": [
+        0.0,
+        250.0
+      ],
+      "full_world_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 6863,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 6803,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 100,
+        "maximum_ms": 202.535,
+        "mean_ms": 68.62919,
+        "median_ms": 62.812,
+        "minimum_ms": 59.312,
+        "p95_ms": 87.339,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      },
+      "player": [
+        360.0,
+        760.0
+      ],
+      "scene": "camp",
+      "visible_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 3968,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 3908,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 100,
+        "maximum_ms": 39.122,
+        "mean_ms": 34.42785,
+        "median_ms": 34.232,
+        "minimum_ms": 33.375,
+        "p95_ms": 35.593,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      }
+    },
+    {
+      "camera": [
+        1050.0,
+        650.0
+      ],
+      "full_world_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 6863,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 6803,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 100,
+        "maximum_ms": 73.146,
+        "mean_ms": 63.73235,
+        "median_ms": 63.669,
+        "minimum_ms": 59.524,
+        "p95_ms": 65.729,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      },
+      "player": [
+        1550.0,
+        1100.0
+      ],
+      "scene": "forest",
+      "visible_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 1945,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 1885,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 100,
+        "maximum_ms": 145.299,
+        "mean_ms": 31.77605,
+        "median_ms": 24.034,
+        "minimum_ms": 19.699,
+        "p95_ms": 78.833,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      }
+    },
+    {
+      "camera": [
+        650.0,
+        200.0
+      ],
+      "full_world_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 6863,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 6803,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 100,
+        "maximum_ms": 228.364,
+        "mean_ms": 65.83342,
+        "median_ms": 62.531,
+        "minimum_ms": 60.083,
+        "p95_ms": 71.825,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      },
+      "player": [
+        1000.0,
+        625.0
+      ],
+      "scene": "pond",
+      "visible_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 3592,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 3532,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 100,
+        "maximum_ms": 37.609,
+        "mean_ms": 29.21196,
+        "median_ms": 28.866,
+        "minimum_ms": 27.931,
+        "p95_ms": 30.634,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      }
+    }
+  ],
+  "scope": "Cached CPU paint_entries construction and sort in native-source-texture runtime. No Canvas command recorder, GPU rendering, physical display, frame time or FPS measurement. Single local headless run; timing varies with concurrent jobs.",
+  "version": "0.1.5.10",
+  "viewport": [
+    1100.0,
+    720.0
+  ]
+}

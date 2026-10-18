@@ -1,0 +1,12 @@
+Forest Wanderer 0.1.4 validation
+57 survival/mechanics checks: PASS.
+143 asset/pivot/collision checks: PASS.
+11 interface states exercised without GDScript errors.
+Native rendered captures: day, sunset, crafting, night, left, right, up,
+lake and collision overlay. Inspected character alignment and pond outlines.
+Final app launched successfully from the requested output folder.
+App resources match source scripts, scene, config and all six PNG asset sheets.
+macOS ad-hoc code signature verified.
+Headless engine emits a macOS system CA-certificate warning; this offline game
+requires no network. No GDScript errors in final validation logs.
+This is regression and visual checking, not exhaustive manual playtesting.

@@ -1,0 +1,4 @@
+The procedural leg rig was rejected in review: excessive sideways extension,
+stiff/scissor-like motion and weak anatomy. Do not ship or reuse it.
+The previous six-frame sheet was also inadequate: repeated same-foot poses.
+A new coherent frame cycle must be reviewed as motion before release.

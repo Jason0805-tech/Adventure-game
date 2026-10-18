@@ -1,0 +1,58 @@
+{
+  "version": "0.1.5.10",
+  "date": "2026-10-16",
+  "changes": {
+    "scenery_native_resolution_preserved": true,
+    "texture_downsampling_cap_removed": true,
+    "newly_painted_ground": [
+      2816,
+      1920
+    ],
+    "ground_previous_display": [
+      1100,
+      750
+    ],
+    "high_resolution_actor_sheets": 24,
+    "normal_cell": [
+      192,
+      320
+    ],
+    "action_cell": [
+      384,
+      384
+    ],
+    "actor_atlas_scale": 2.0,
+    "world_display_scale": 0.4,
+    "world_actor_size_pivot_stride_unchanged": true,
+    "normal_tools_loaded_on_selection": true,
+    "collision_profiles_unchanged": true
+  },
+  "checks": {
+    "native_source_preparation_checks": 789,
+    "native_preparation_cases": 99,
+    "hd_actor_pose_and_source_checks": 936,
+    "normal_pose_frames": 144,
+    "action_pose_frames": 96,
+    "npc_pose_frames": 144,
+    "house_front_contacts": 21,
+    "all_model_front_contacts": 443,
+    "native_band_reconstruction_checks": 33252,
+    "depth_module_checks": 70132,
+    "core_feature_checks": 27,
+    "pacing_checks": 10,
+    "comparison_images": 9,
+    "same_seed_quality_scenes": 3,
+    "bundled_source_hash_matches": 53,
+    "native_manual_playthrough": false,
+    "gpu_fps_measured": false,
+    "app_plain_headless_start_exit": 0,
+    "staging_strict_signature_verified": true,
+    "installed_signature_verified": true
+  },
+  "preview_method": "SoftwareCanvas replay of actual game drawing commands at1x and true2x. NativeGPU screenshots and full manual playthrough are not claimed.",
+  "limits": [
+    "Texture sources retain differing native texel densities; this is a quality upgrade, not identical density across every asset.",
+    "Ground atlas is assembled from four newly painted native regions with road-alignment interpolation and overlap blending; output dimensions alone do not prove uniform native detail per pixel.",
+    "The headless renderer cannot verify nativeGPU filtering or device memory."
+  ]
+}

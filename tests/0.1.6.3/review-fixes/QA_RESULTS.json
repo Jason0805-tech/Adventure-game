@@ -1,0 +1,63 @@
+{
+  "version": "0.1.6.3",
+  "status": "passed_and_copied_to_release",
+  "cover": {
+    "source": "素材整理/封面图标/Rowan正脸/A_森林绿底.png",
+    "original_sha256": "ee6d0c6b3c2ff9e871eddeb11a870112b9e4d86fd494fc2eb30df944fe7ad35b",
+    "full_resolution_cover": 1254,
+    "icon": 512,
+    "web_manifest_and_apple_link": "app-icon-rowan.png",
+    "map_unlocks": "not_implemented"
+  },
+  "halo": {
+    "root_cause": "permanent camp illumination applied during dawn/daylight",
+    "fix": "no artificial illumination at daylight; smooth dark-only lamp blend; no free unlit player halo",
+    "before_regression_failures": 50,
+    "after_regression_checks": 1046
+  },
+  "checks": {
+    "lighting": 2794,
+    "torch": 260,
+    "mesh_lifetime": 125,
+    "packaged_original_art": 417,
+    "game_art_and_collision_unchanged": true,
+    "single_html_and_split_payload_match_export": true,
+    "zip_crc": "pass"
+  },
+  "browser": {
+    "platform": "Codex in-app Chromium/WebGL2",
+    "cover_sizes": [
+      [
+        568,
+        320
+      ],
+      [
+        844,
+        390
+      ]
+    ],
+    "cover_no_scroll_or_clipping_at_small_size": true,
+    "actual_actions": [
+      "Enter the forest",
+      "move left using held keyboard input",
+      "open/close backpack",
+      "open/close crafting"
+    ],
+    "real_cycle_log": [
+      "DUSK_START 1",
+      "NIGHT_START 1",
+      "NIGHT_SURVIVED 1"
+    ],
+    "final_single_html": "GAME_READY 0.1.6.3; welcome hidden; no browser errors",
+    "physical_iPhone": "not_tested",
+    "file_protocol": "not_tested"
+  },
+  "hashes": {
+    "world_lighting.gd": "d588fc26f6807f5f6c94a4c92a2cdea91ac48b06d6f011785e61ad62584fd9e7",
+    "pck": "d6c9912f6ae5ec44e1bdb72d6fd24bc9df23ab0fca42c90fc237e5319ee27997",
+    "html": "0af510f7358b5fef5f68eea9869d365887820f35cf38b9c24c31539ed9b6749c",
+    "zip": "e37ccc9ac4b71c8974eed530f596dc3c1018be6a64592b64b53706140f6fdc27"
+  },
+  "release_path": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/output/adventure game 0.1.6.3",
+  "delivered_HTTP_bytes_match_verified_candidate": true
+}

@@ -1,0 +1,26 @@
+AVATAR_RESULT: 1795 checks, 0 failures
+tests FEEDBACK_RESULT: 1017 checks, 0 failures
+navigation NAVIGATION_RESULT: 67 reachable nodes checked, 0 failures; visited 5574 ground cells
+render-states UI_STATE_OK won
+captures SCENE_CAPTURES_COMPLETE
+motion MOTION_GALLERY_CAPTURE_COMPLETE
+Rendered 36 scene command captures
+/var/folders/3h/pzrq4yts61xb4bl94_l6w8jw0000gn/T/forest0152-cfdqsc98/Forest Wanderer.app: replacing existing signature
+/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/output/adventure game 0.1.5.2/Forest Wanderer.app: replacing existing signature
+/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/output/adventure game 0.1.5.2/Forest Wanderer.app: resource fork, Finder information, or similar detritus not allowed
+Traceback (most recent call last):
+  File "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.2/bundle0152.py", line 17, in <module>
+    subprocess.run(['codesign','--force','--deep','--sign','-',str(target)],check=True)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/subprocess.py", line 578, in run
+    raise CalledProcessError(retcode, process.args,
+                             output=stdout, stderr=stderr)
+subprocess.CalledProcessError: Command '['codesign', '--force', '--deep', '--sign', '-', '/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/output/adventure game 0.1.5.2/Forest Wanderer.app']' returned non-zero exit status 1.
+Traceback (most recent call last):
+  File "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.2/final_checks.py", line 20, in <module>
+    subprocess.run(['python3',str(test/'bundle0152.py')],check=True)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/subprocess.py", line 578, in run
+    raise CalledProcessError(retcode, process.args,
+                             output=stdout, stderr=stderr)
+subprocess.CalledProcessError: Command '['python3', '/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.2/bundle0152.py']' returned non-zero exit status 1.

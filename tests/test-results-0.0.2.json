@@ -1,0 +1,244 @@
+{
+  "version": "0.0.2",
+  "source": "/Users/jasonsmacair/Library/Mobile Documents/com~apple~CloudDocs/Downloads/学习/高中BASIS/ap CSP/adventure game program by AI tech/adventure game 0.0.2.py",
+  "sha256": "1f81ea8b409d557053954b4adde05897f65493a934573565d8885920e084be15",
+  "results": [
+    {
+      "name": "文字、小数、负数输入后恢复",
+      "category": "材料收集",
+      "status": "通过",
+      "error": "",
+      "log": "Amount: abc\nPlease enter a whole number, such as 0, 1 or 2.\nAmount: 1.5\nPlease enter a whole number, such as 0, 1 or 2.\nAmount: -1\nYou can't collect a negative number of materials!\nAmount: 2\n",
+      "result": "2"
+    },
+    {
+      "name": "超容量后重新选择，刚好装满10件",
+      "category": "材料收集",
+      "status": "通过",
+      "error": "",
+      "log": "Materials: 0 branches, 0 rocks, 0 grass ropes.\nSpace remaining: 10. Enter 0 to collect none.\nHow many branches do you want to collect? 11\nHow many rocks? 0\nHow many grass ropes do you want to make? 0\nYou can only carry 10 materials. Please choose again.\nMaterials: 0 branches, 0 rocks, 0 grass ropes.\nSpace remaining: 10. Enter 0 to collect none.\nHow many branches do you want to collect? 3\nHow many rocks? 4\nHow many grass ropes do you want to make? 3\n",
+      "result": "(3, 4, 3)"
+    },
+    {
+      "name": "已有材料计入容量，允许全部输入0",
+      "category": "材料收集",
+      "status": "通过",
+      "error": "",
+      "log": "Materials: 3 branches, 4 rocks, 3 grass ropes.\nSpace remaining: 0. Enter 0 to collect none.\nHow many branches do you want to collect? 1\nHow many rocks? 0\nHow many grass ropes do you want to make? 0\nYou can only carry 10 materials. Please choose again.\nMaterials: 3 branches, 4 rocks, 3 grass ropes.\nSpace remaining: 0. Enter 0 to collect none.\nHow many branches do you want to collect? 0\nHow many rocks? 0\nHow many grass ropes do you want to make? 0\n",
+      "result": "(3, 4, 3)"
+    },
+    {
+      "name": "制作 large stone sword",
+      "category": "武器制作",
+      "status": "通过",
+      "error": "",
+      "log": "\nWeapon recipes (branches / rocks / grass ropes -> power):\n  large stone sword: 3 / 4 / 3 -> +4\n  short stone knife: 2 / 2 / 1 -> +2\n  stone axe: 2 / 3 / 2 -> +3\n  wooden knife: 4 / 0 / 2 -> +3\n  wooden sword: 5 / 1 / 2 -> +4\n  amazing stone sword: large stone sword + 1 rock -> upgrade from 4 to 5 power\nMaterials available: 3 branches, 4 rocks, 3 grass ropes.\nType a weapon name, or 'cancel' to return: large stone sword\nYou made large stone sword! Your power is now 4.\n",
+      "result": "(0, 0, 0, 4, ['large stone sword'])"
+    },
+    {
+      "name": "制作 short stone knife",
+      "category": "武器制作",
+      "status": "通过",
+      "error": "",
+      "log": "\nWeapon recipes (branches / rocks / grass ropes -> power):\n  large stone sword: 3 / 4 / 3 -> +4\n  short stone knife: 2 / 2 / 1 -> +2\n  stone axe: 2 / 3 / 2 -> +3\n  wooden knife: 4 / 0 / 2 -> +3\n  wooden sword: 5 / 1 / 2 -> +4\n  amazing stone sword: large stone sword + 1 rock -> upgrade from 4 to 5 power\nMaterials available: 2 branches, 2 rocks, 1 grass ropes.\nType a weapon name, or 'cancel' to return: short stone knife\nYou made short stone knife! Your power is now 2.\n",
+      "result": "(0, 0, 0, 2, ['short stone knife'])"
+    },
+    {
+      "name": "制作 stone axe",
+      "category": "武器制作",
+      "status": "通过",
+      "error": "",
+      "log": "\nWeapon recipes (branches / rocks / grass ropes -> power):\n  large stone sword: 3 / 4 / 3 -> +4\n  short stone knife: 2 / 2 / 1 -> +2\n  stone axe: 2 / 3 / 2 -> +3\n  wooden knife: 4 / 0 / 2 -> +3\n  wooden sword: 5 / 1 / 2 -> +4\n  amazing stone sword: large stone sword + 1 rock -> upgrade from 4 to 5 power\nMaterials available: 2 branches, 3 rocks, 2 grass ropes.\nType a weapon name, or 'cancel' to return: stone axe\nYou made stone axe! Your power is now 3.\n",
+      "result": "(0, 0, 0, 3, ['stone axe'])"
+    },
+    {
+      "name": "制作 wooden knife",
+      "category": "武器制作",
+      "status": "通过",
+      "error": "",
+      "log": "\nWeapon recipes (branches / rocks / grass ropes -> power):\n  large stone sword: 3 / 4 / 3 -> +4\n  short stone knife: 2 / 2 / 1 -> +2\n  stone axe: 2 / 3 / 2 -> +3\n  wooden knife: 4 / 0 / 2 -> +3\n  wooden sword: 5 / 1 / 2 -> +4\n  amazing stone sword: large stone sword + 1 rock -> upgrade from 4 to 5 power\nMaterials available: 4 branches, 0 rocks, 2 grass ropes.\nType a weapon name, or 'cancel' to return: wooden knife\nYou made wooden knife! Your power is now 3.\n",
+      "result": "(0, 0, 0, 3, ['wooden knife'])"
+    },
+    {
+      "name": "制作 wooden sword",
+      "category": "武器制作",
+      "status": "通过",
+      "error": "",
+      "log": "\nWeapon recipes (branches / rocks / grass ropes -> power):\n  large stone sword: 3 / 4 / 3 -> +4\n  short stone knife: 2 / 2 / 1 -> +2\n  stone axe: 2 / 3 / 2 -> +3\n  wooden knife: 4 / 0 / 2 -> +3\n  wooden sword: 5 / 1 / 2 -> +4\n  amazing stone sword: large stone sword + 1 rock -> upgrade from 4 to 5 power\nMaterials available: 5 branches, 1 rocks, 2 grass ropes.\nType a weapon name, or 'cancel' to return: wooden sword\nYou made wooden sword! Your power is now 4.\n",
+      "result": "(0, 0, 0, 4, ['wooden sword'])"
+    },
+    {
+      "name": "材料不足、名称错误、取消制作",
+      "category": "武器制作",
+      "status": "通过",
+      "error": "",
+      "log": "\nWeapon recipes (branches / rocks / grass ropes -> power):\n  large stone sword: 3 / 4 / 3 -> +4\n  short stone knife: 2 / 2 / 1 -> +2\n  stone axe: 2 / 3 / 2 -> +3\n  wooden knife: 4 / 0 / 2 -> +3\n  wooden sword: 5 / 1 / 2 -> +4\n  amazing stone sword: large stone sword + 1 rock -> upgrade from 4 to 5 power\nMaterials available: 0 branches, 0 rocks, 0 grass ropes.\nType a weapon name, or 'cancel' to return: large stone sword\nNot enough materials. Type 'cancel' to return and collect more.\nMaterials available: 0 branches, 0 rocks, 0 grass ropes.\nType a weapon name, or 'cancel' to return: unknown\nUnknown weapon name. Choose a listed weapon or type 'cancel'.\nMaterials available: 0 branches, 0 rocks, 0 grass ropes.\nType a weapon name, or 'cancel' to return: cancel\n",
+      "result": "(0, 0, 0, 0, [])"
+    },
+    {
+      "name": "缺少大石剑时拒绝升级",
+      "category": "武器升级",
+      "status": "通过",
+      "error": "",
+      "log": "\nWeapon recipes (branches / rocks / grass ropes -> power):\n  large stone sword: 3 / 4 / 3 -> +4\n  short stone knife: 2 / 2 / 1 -> +2\n  stone axe: 2 / 3 / 2 -> +3\n  wooden knife: 4 / 0 / 2 -> +3\n  wooden sword: 5 / 1 / 2 -> +4\n  amazing stone sword: large stone sword + 1 rock -> upgrade from 4 to 5 power\nMaterials available: 0 branches, 1 rocks, 0 grass ropes.\nType a weapon name, or 'cancel' to return: amazing stone sword\nYou need a large stone sword and 1 rock for this upgrade.\nMaterials available: 0 branches, 1 rocks, 0 grass ropes.\nType a weapon name, or 'cancel' to return: cancel\n",
+      "result": "(0, 1, 0, 0, [])"
+    },
+    {
+      "name": "缺少石头时拒绝升级",
+      "category": "武器升级",
+      "status": "通过",
+      "error": "",
+      "log": "\nWeapon recipes (branches / rocks / grass ropes -> power):\n  large stone sword: 3 / 4 / 3 -> +4\n  short stone knife: 2 / 2 / 1 -> +2\n  stone axe: 2 / 3 / 2 -> +3\n  wooden knife: 4 / 0 / 2 -> +3\n  wooden sword: 5 / 1 / 2 -> +4\n  amazing stone sword: large stone sword + 1 rock -> upgrade from 4 to 5 power\nMaterials available: 0 branches, 0 rocks, 0 grass ropes.\nType a weapon name, or 'cancel' to return: amazing stone sword\nYou need a large stone sword and 1 rock for this upgrade.\nMaterials available: 0 branches, 0 rocks, 0 grass ropes.\nType a weapon name, or 'cancel' to return: cancel\n",
+      "result": "(0, 0, 0, 4, ['large stone sword'])"
+    },
+    {
+      "name": "升级只消耗1块石头并替换武器",
+      "category": "武器升级",
+      "status": "通过",
+      "error": "",
+      "log": "\nWeapon recipes (branches / rocks / grass ropes -> power):\n  large stone sword: 3 / 4 / 3 -> +4\n  short stone knife: 2 / 2 / 1 -> +2\n  stone axe: 2 / 3 / 2 -> +3\n  wooden knife: 4 / 0 / 2 -> +3\n  wooden sword: 5 / 1 / 2 -> +4\n  amazing stone sword: large stone sword + 1 rock -> upgrade from 4 to 5 power\nMaterials available: 2 branches, 1 rocks, 2 grass ropes.\nType a weapon name, or 'cancel' to return:  AMAZING STONE SWORD \nYou made amazing stone sword! Your power is now 5.\n",
+      "result": "(2, 0, 2, 5, ['amazing stone sword'])"
+    },
+    {
+      "name": "饱食度边界 0",
+      "category": "饱食度",
+      "status": "通过",
+      "error": "",
+      "log": "",
+      "result": "'You are starving!'"
+    },
+    {
+      "name": "饱食度边界 1",
+      "category": "饱食度",
+      "status": "通过",
+      "error": "",
+      "log": "",
+      "result": "'You are very hungry and feel uncomfortable.'"
+    },
+    {
+      "name": "饱食度边界 20",
+      "category": "饱食度",
+      "status": "通过",
+      "error": "",
+      "log": "",
+      "result": "'You are very hungry and feel uncomfortable.'"
+    },
+    {
+      "name": "饱食度边界 21",
+      "category": "饱食度",
+      "status": "通过",
+      "error": "",
+      "log": "",
+      "result": "'You are hungry.'"
+    },
+    {
+      "name": "饱食度边界 40",
+      "category": "饱食度",
+      "status": "通过",
+      "error": "",
+      "log": "",
+      "result": "'You are hungry.'"
+    },
+    {
+      "name": "饱食度边界 41",
+      "category": "饱食度",
+      "status": "通过",
+      "error": "",
+      "log": "",
+      "result": "'You should eat some food soon.'"
+    },
+    {
+      "name": "饱食度边界 60",
+      "category": "饱食度",
+      "status": "通过",
+      "error": "",
+      "log": "",
+      "result": "'You should eat some food soon.'"
+    },
+    {
+      "name": "饱食度边界 61",
+      "category": "饱食度",
+      "status": "通过",
+      "error": "",
+      "log": "",
+      "result": "'You feel well fed.'"
+    },
+    {
+      "name": "饱食度边界 100",
+      "category": "饱食度",
+      "status": "通过",
+      "error": "",
+      "log": "",
+      "result": "'You feel well fed.'"
+    },
+    {
+      "name": "空背包显示",
+      "category": "背包与菜单",
+      "status": "通过",
+      "error": "",
+      "log": "\nMaterials (0/10): 0 branches, 0 rocks, 0 grass ropes\nWeapons: none\nSpecial items: none\nPower: 0 | Fullness: 100/100\n",
+      "result": "None"
+    },
+    {
+      "name": "菜单错误输入与大小写容错",
+      "category": "背包与菜单",
+      "status": "通过",
+      "error": "",
+      "log": "\nPrepare: collect / craft / bag / continue: ???\nPlease enter collect, craft, bag or continue.\n\nPrepare: collect / craft / bag / continue:  BAG \n\nMaterials (0/10): 0 branches, 0 rocks, 0 grass ropes\nWeapons: none\nSpecial items: none\nPower: 0 | Fullness: 100/100\n\nPrepare: collect / craft / bag / continue:  CONTINUE \n",
+      "result": "(0, 0, 0, 0, [])"
+    },
+    {
+      "name": "三晚通关：制作、升级、探索、休息、背包",
+      "category": "完整试玩",
+      "status": "通过",
+      "error": "",
+      "log": "You are in a dark forest. Survive three nights to escape!\nCollect branches, rocks and grass ropes to craft weapons.\nYou can carry 10 materials. Weapons and special items use separate storage.\nWeapon power adds up. Fullness gives advice but does not cause damage yet.\n\n--- Before night 1 | Power needed: 3 ---\n\nPrepare: collect / craft / bag / continue: collect\nMaterials: 0 branches, 0 rocks, 0 grass ropes.\nSpace remaining: 10. Enter 0 to collect none.\nHow many branches do you want to collect? 3\nHow many rocks? 4\nHow many grass ropes do you want to make? 3\n\nPrepare: collect / craft / bag / continue: craft\n\nWeapon recipes (branches / rocks / grass ropes -> power):\n  large stone sword: 3 / 4 / 3 -> +4\n  short stone knife: 2 / 2 / 1 -> +2\n  stone axe: 2 / 3 / 2 -> +3\n  wooden knife: 4 / 0 / 2 -> +3\n  wooden sword: 5 / 1 / 2 -> +4\n  amazing stone sword: large stone sword + 1 rock -> upgrade from 4 to 5 power\nMaterials available: 3 branches, 4 rocks, 3 grass ropes.\nType a weapon name, or 'cancel' to return: large stone sword\nYou made large stone sword! Your power is now 4.\n\nPrepare: collect / craft / bag / continue: bag\n\nMaterials (0/10): 0 branches, 0 rocks, 0 grass ropes\nWeapons: large stone sword\nSpecial items: none\nPower: 4 | Fullness: 100/100\n\nPrepare: collect / craft / bag / continue: continue\nNight is coming. Make sure you have protected yourself.\nChoose: explore / rest / look for food: rest\nYou rest and feel better.\nFullness: 65/100. You feel well fed.\nYou hear movement in the bushes... Your power: 5; needed: 3.\nYou survived NIGHT 1!\n\n--- Before night 2 | Power needed: 6 ---\n\nPrepare: collect / craft / bag / continue: collect\nMaterials: 0 branches, 0 rocks, 0 grass ropes.\nSpace remaining: 10. Enter 0 to collect none.\nHow many branches do you want to collect? 0\nHow many rocks? 1\nHow many grass ropes do you want to make? 0\n\nPrepare: collect / craft / bag / continue: craft\n\nWeapon recipes (branches / rocks / grass ropes -> power):\n  large stone sword: 3 / 4 / 3 -> +4\n  short stone knife: 2 / 2 / 1 -> +2\n  stone axe: 2 / 3 / 2 -> +3\n  wooden knife: 4 / 0 / 2 -> +3\n  wooden sword: 5 / 1 / 2 -> +4\n  amazing stone sword: large stone sword + 1 rock -> upgrade from 4 to 5 power\nMaterials available: 0 branches, 1 rocks, 0 grass ropes.\nType a weapon name, or 'cancel' to return: amazing stone sword\nYou made amazing stone sword! Your power is now 6.\n\nPrepare: collect / craft / bag / continue: continue\nNight is coming. Make sure you have protected yourself.\nChoose: explore / rest / look for food: explore\nYou find a magic stone.\nFullness: 15/100. You are very hungry and feel uncomfortable.\nYou hear movement in the bushes... Your power: 8; needed: 6.\nYou survived NIGHT 2!\n\n--- Before night 3 | Power needed: 9 ---\n\nPrepare: collect / craft / bag / continue: bag\n\nMaterials (0/10): 0 branches, 0 rocks, 0 grass ropes\nWeapons: amazing stone sword\nSpecial items: magic stone\nPower: 8 | Fullness: 15/100\n\nPrepare: collect / craft / bag / continue: continue\nNight is coming. Make sure you have protected yourself.\nChoose: explore / rest / look for food: rest\nYou rest and feel better.\nFullness: 0/100. You are starving!\nYou hear movement in the bushes... Your power: 9; needed: 9.\nYou survived NIGHT 3!\nYou survived all three nights and escaped the forest. YOU WIN!\n",
+      "result": "None"
+    },
+    {
+      "name": "三晚通关：魔法石与药品消耗、觅食",
+      "category": "完整试玩",
+      "status": "通过",
+      "error": "",
+      "log": "You are in a dark forest. Survive three nights to escape!\nCollect branches, rocks and grass ropes to craft weapons.\nYou can carry 10 materials. Weapons and special items use separate storage.\nWeapon power adds up. Fullness gives advice but does not cause damage yet.\n\n--- Before night 1 | Power needed: 3 ---\n\nPrepare: collect / craft / bag / continue: continue\nNight is coming. Make sure you have protected yourself.\nChoose: explore / rest / look for food: explore\nYou find a magic stone.\nFullness: 50/100. You should eat some food soon.\nYou hear movement in the bushes... Your power: 2; needed: 3.\nThe magic stone saves you and is used up.\nYou survived NIGHT 1!\n\n--- Before night 2 | Power needed: 6 ---\n\nPrepare: collect / craft / bag / continue: continue\nNight is coming. Make sure you have protected yourself.\nChoose: explore / rest / look for food: look for food\nYou find some berries and medicine.\nFullness: 50/100. You should eat some food soon.\nYou hear movement in the bushes... Your power: 3; needed: 6.\nYou survive your injuries by using medicine.\nYou survived NIGHT 2!\n\n--- Before night 3 | Power needed: 9 ---\n\nPrepare: collect / craft / bag / continue: continue\nNight is coming. Make sure you have protected yourself.\nChoose: explore / rest / look for food: explore\nYou find a magic stone.\nFullness: 0/100. You are starving!\nYou hear movement in the bushes... Your power: 5; needed: 9.\nThe magic stone saves you and is used up.\nYou survived NIGHT 3!\nYou survived all three nights and escaped the forest. YOU WIN!\n",
+      "result": "None"
+    },
+    {
+      "name": "失败结局：错误行动不重复扣饱食度",
+      "category": "完整试玩",
+      "status": "通过",
+      "error": "",
+      "log": "You are in a dark forest. Survive three nights to escape!\nCollect branches, rocks and grass ropes to craft weapons.\nYou can carry 10 materials. Weapons and special items use separate storage.\nWeapon power adds up. Fullness gives advice but does not cause damage yet.\n\n--- Before night 1 | Power needed: 3 ---\n\nPrepare: collect / craft / bag / continue: continue\nNight is coming. Make sure you have protected yourself.\nChoose: explore / rest / look for food: invalid\nInvalid choice. Enter explore, rest or look for food.\nChoose: explore / rest / look for food: rest\nYou rest and feel better.\nFullness: 65/100. You feel well fed.\nYou hear movement in the bushes... Your power: 1; needed: 3.\nYou are killed by something in the dark... GAME OVER\n",
+      "result": "None"
+    },
+    {
+      "name": "战力刚好达标也能存活",
+      "category": "完整试玩",
+      "status": "通过",
+      "error": "",
+      "log": "You are in a dark forest. Survive three nights to escape!\nCollect branches, rocks and grass ropes to craft weapons.\nYou can carry 10 materials. Weapons and special items use separate storage.\nWeapon power adds up. Fullness gives advice but does not cause damage yet.\n\n--- Before night 1 | Power needed: 3 ---\n\nPrepare: collect / craft / bag / continue: collect\nMaterials: 0 branches, 0 rocks, 0 grass ropes.\nSpace remaining: 10. Enter 0 to collect none.\nHow many branches do you want to collect? 2\nHow many rocks? 2\nHow many grass ropes do you want to make? 1\n\nPrepare: collect / craft / bag / continue: craft\n\nWeapon recipes (branches / rocks / grass ropes -> power):\n  large stone sword: 3 / 4 / 3 -> +4\n  short stone knife: 2 / 2 / 1 -> +2\n  stone axe: 2 / 3 / 2 -> +3\n  wooden knife: 4 / 0 / 2 -> +3\n  wooden sword: 5 / 1 / 2 -> +4\n  amazing stone sword: large stone sword + 1 rock -> upgrade from 4 to 5 power\nMaterials available: 2 branches, 2 rocks, 1 grass ropes.\nType a weapon name, or 'cancel' to return: short stone knife\nYou made short stone knife! Your power is now 2.\n\nPrepare: collect / craft / bag / continue: continue\nNight is coming. Make sure you have protected yourself.\nChoose: explore / rest / look for food: rest\nYou rest and feel better.\nFullness: 65/100. You feel well fed.\nYou hear movement in the bushes... Your power: 3; needed: 3.\nYou survived NIGHT 1!\n\n--- Before night 2 | Power needed: 6 ---\n\nPrepare: collect / craft / bag / continue: continue\nNight is coming. Make sure you have protected yourself.\nChoose: explore / rest / look for food: rest\nYou rest and feel better.\nFullness: 30/100. You are hungry.\nYou hear movement in the bushes... Your power: 4; needed: 6.\nYou are killed by something in the dark... GAME OVER\n",
+      "result": "None"
+    },
+    {
+      "name": "EOFError 正常退出",
+      "category": "退出处理",
+      "status": "通过",
+      "error": "",
+      "log": "You are in a dark forest. Survive three nights to escape!\nCollect branches, rocks and grass ropes to craft weapons.\nYou can carry 10 materials. Weapons and special items use separate storage.\nWeapon power adds up. Fullness gives advice but does not cause damage yet.\n\n--- Before night 1 | Power needed: 3 ---\n\nPrepare: collect / craft / bag / continue: \n\nGame closed. Thanks for playing!\n",
+      "result": "{'__name__': '__main__', '__doc__': 'A small text survival game. Run with Python 3.', '__package__': '', '__loader__': None, '__spec__': None, '__file__': '/Users/jasonsmacair/Library/Mobile Documents/com~apple~CloudDocs/Downloads/学习/高中BASIS/ap CSP/adventure game program by AI tech/adventure game 0.0.2.py', '__cached__': None, '__builtins__': {'__name__': 'builtins', '__doc__': \"Built-in functions, types, exceptions, and other objects.\\n\\nThis module provides direct access to all 'built-in'\\nidentifiers of Python; for example, builtins.len is\\nthe full name for the built-in function len().\\n\\nThis module is not normally accessed explicitly by most\\napplications, but can be useful in modules that provide\\nobjects with the same name as a built-in value, but in\\nwhich the built-in of that name is also needed.\", '__package__': '', '__loader__': <class '_frozen_importlib.BuiltinImporter'>, '__spec__': ModuleSpec(name='builtins', loader=<class '_frozen_importlib.BuiltinImporter'>, origin='built-in'), '__build_class__': <built-in function __build_class__>, '__import__': <built-in function __import__>, 'abs': <built-in function abs>, 'all': <built-in function all>, 'any': <built-in function any>, 'ascii': <built-in function ascii>, 'bin': <built-in function bin>, 'breakpoint': <built-in function breakpoint>, 'callable': <built-in function callable>, 'chr': <built-in function chr>, 'compile': <built-in function compile>, 'delattr': <built-in function delattr>, 'dir': <built-in function dir>, 'divmod': <built-in function divmod>, 'eval': <built-in function eval>, 'exec': <built-in function exec>, 'format': <built-in function format>, 'getattr': <built-in function getattr>, 'globals': <built-in function globals>, 'hasattr': <built-in function hasattr>, 'hash': <built-in function hash>, 'hex': <built-in function hex>, 'id': <built-in function id>, 'input': <built-in function input>, 'isinstance': <built-in function isinstance>, 'issubclass': <built-in function issubclass>, 'iter': <built-in function iter>, 'aiter': <built-in function aiter>, 'len': <built-in function len>, 'locals': <built-in function locals>, 'max': <built-in function max>, 'min': <built-in function min>, 'next': <built-in function next>, 'anext': <built-in function anext>, 'oct': <built-in function oct>, 'ord': <built-in function ord>, 'pow': <built-in function pow>, 'print': <built-in function print>, 'repr': <built-in function repr>, 'round': <built-in function round>, 'setattr': <built-in function setattr>, 'sorted': <built-in function sorted>, 'sum': <built-in function sum>, 'vars': <built-in function vars>, 'None': None, 'Ellipsis': Ellipsis, 'NotImplemented': NotImplemented, 'False': False, 'True': True, 'bool': <class 'bool'>, 'memoryview': <class 'memoryview'>, 'bytearray': <class 'bytearray'>, 'bytes': <class 'bytes'>, 'classmethod': <class 'classmethod'>, 'complex': <class 'complex'>, 'dict': <class 'dict'>, 'enumerate': <class 'enumerate'>, 'filter': <class 'filter'>, 'float': <class 'float'>, 'frozenset': <class 'frozenset'>, 'property': <class 'property'>, 'int': <class 'int'>, 'list': <class 'list'>, 'map': <class 'map'>, 'object': <class 'object'>, 'range': <class 'range'>, 'reversed': <class 'reversed'>, 'set': <class 'set'>, 'slice': <class 'slice'>, 'staticmethod': <class 'staticmethod'>, 'str': <class 'str'>, 'super': <class 'super'>, 'tuple': <class 'tuple'>, 'type': <class 'type'>, 'zip': <class 'zip'>, '__debug__': True, 'BaseException': <class 'BaseException'>, 'BaseExceptionGroup': <class 'BaseExceptionGroup'>, 'Exception': <class 'Exception'>, 'GeneratorExit': <class 'GeneratorExit'>, 'KeyboardInterrupt': <class 'KeyboardInterrupt'>, 'SystemExit': <class 'SystemExit'>, 'ArithmeticError': <class 'ArithmeticError'>, 'AssertionError': <class 'AssertionError'>, 'AttributeError': <class 'AttributeError'>, 'BufferError': <class 'BufferError'>, 'EOFError': <class 'EOFError'>, 'ImportError': <class 'ImportError'>, 'LookupError': <class 'LookupError'>, 'MemoryError': <class 'MemoryError'>, 'NameError': <class 'NameError'>, 'OSError': <class 'OSError'>, 'ReferenceError': <class 'ReferenceError'>, 'RuntimeError': <class 'RuntimeError'>, 'StopAsyncIteration': <class 'StopAsyncIteration'>, 'StopIteration': <class 'StopIteration'>, 'SyntaxError': <class 'SyntaxError'>, 'SystemError': <class 'SystemError'>, 'TypeError': <class 'TypeError'>, 'ValueError': <class 'ValueError'>, 'Warning': <class 'Warning'>, 'FloatingPointError': <class 'FloatingPointError'>, 'OverflowError': <class 'OverflowError'>, 'ZeroDivisionError': <class 'ZeroDivisionError'>, 'BytesWarning': <class 'BytesWarning'>, 'DeprecationWarning': <class 'DeprecationWarning'>, 'EncodingWarning': <class 'EncodingWarning'>, 'FutureWarning': <class 'FutureWarning'>, 'ImportWarning': <class 'ImportWarning'>, 'PendingDeprecationWarning': <class 'PendingDeprecationWarning'>, 'ResourceWarning': <class 'ResourceWarning'>, 'RuntimeWarning': <class 'RuntimeWarning'>, 'SyntaxWarning': <class 'SyntaxWarning'>, 'UnicodeWarning': <class 'UnicodeWarning'>, 'UserWarning': <class 'UserWarning'>, 'BlockingIOError': <class 'BlockingIOError'>, 'ChildProcessError': <class 'ChildProcessError'>, 'ConnectionError': <class 'ConnectionError'>, 'FileExistsError': <class 'FileExistsError'>, 'FileNotFoundError': <class 'FileNotFoundError'>, 'InterruptedError': <class 'InterruptedError'>, 'IsADirectoryError': <class 'IsADirectoryError'>, 'NotADirectoryError': <class 'NotADirectoryError'>, 'PermissionError': <class 'PermissionError'>, 'ProcessLookupError': <class 'ProcessLookupError'>, 'TimeoutError': <class 'TimeoutError'>, 'IndentationError': <class 'IndentationError'>, '_IncompleteInputError': <class '_IncompleteInputError'>, 'IndexError': <class 'IndexError'>, 'KeyError': <class 'KeyError'>, 'ModuleNotFoundError': <class 'ModuleNotFoundError'>, 'NotImplementedError': <class 'NotImplementedError'>, 'PythonFinalizationError': <class 'PythonFinalizationError'>, 'RecursionError': <class 'RecursionError'>, 'UnboundLocalError': <class 'UnboundLocalError'>, 'UnicodeError': <class 'UnicodeError'>, 'BrokenPipeError': <class 'BrokenPipeError'>, 'ConnectionAbortedError': <class 'ConnectionAbortedError'>, 'ConnectionRefusedError': <class 'ConnectionRefusedError'>, 'ConnectionResetError': <class 'ConnectionResetError'>, 'TabError': <class 'TabError'>, 'UnicodeDecodeError': <class 'UnicodeDecodeError'>, 'UnicodeEncodeError': <class 'UnicodeEncodeError'>, 'UnicodeTranslateError': <class 'UnicodeTranslateError'>, 'ExceptionGroup': <class 'ExceptionGroup'>, 'EnvironmentError': <class 'OSError'>, 'IOError': <class 'OSError'>, 'open': <built-in function open>, 'quit': Use quit() or Ctrl-D (i.e. EOF) to exit, 'exit': Use exit() or Ctrl-D (i.e. EOF) to exit, 'copyright': Copyright (c) 2001 Python Software Foundation.\nAll Rights Reserved.\n\nCopyright (c) 2000 BeOpen.com.\nAll Rights Reserved.\n\nCopyright (c) 1995-2001 Corporation for National Research Initiatives.\nAll Rights Reserved.\n\nCopyright (c) 1991-1995 Stichting Mathematisch Centrum, Amsterdam.\nAll Rights Reserved., 'credits': Thanks to CWI, CNRI, BeOpen, Zope Corporation, the Python Software\nFoundation, and a cast of thousands for supporting Python\ndevelopment.  See www.python.org for more information., 'license': Type license() to see the full license text, 'help': Type help() for interactive help, or help(object) for help about object.}, 'RECIPES': {'large stone sword': (3, 4, 3, 4), 'short stone knife': (2, 2, 1, 2), 'stone axe': (2, 3, 2, 3), 'wooden knife': (4, 0, 2, 3), 'wooden sword': (5, 1, 2, 4)}, 'read_amount': <function read_amount at 0x10abfc250>, 'collection': <function collection at 0x10abfc300>, 'weapon_craft': <function weapon_craft at 0x10abfc3b0>, 'food_check': <function food_check at 0x10abfecf0>, 'show_bag': <function show_bag at 0x10abfeda0>, 'preparation': <function preparation at 0x10abfec40>, 'main': <function main at 0x10abfee50>}"
+    },
+    {
+      "name": "KeyboardInterrupt 正常退出",
+      "category": "退出处理",
+      "status": "通过",
+      "error": "",
+      "log": "You are in a dark forest. Survive three nights to escape!\nCollect branches, rocks and grass ropes to craft weapons.\nYou can carry 10 materials. Weapons and special items use separate storage.\nWeapon power adds up. Fullness gives advice but does not cause damage yet.\n\n--- Before night 1 | Power needed: 3 ---\n\nPrepare: collect / craft / bag / continue: \n\nGame closed. Thanks for playing!\n",
+      "result": "{'__name__': '__main__', '__doc__': 'A small text survival game. Run with Python 3.', '__package__': '', '__loader__': None, '__spec__': None, '__file__': '/Users/jasonsmacair/Library/Mobile Documents/com~apple~CloudDocs/Downloads/学习/高中BASIS/ap CSP/adventure game program by AI tech/adventure game 0.0.2.py', '__cached__': None, '__builtins__': {'__name__': 'builtins', '__doc__': \"Built-in functions, types, exceptions, and other objects.\\n\\nThis module provides direct access to all 'built-in'\\nidentifiers of Python; for example, builtins.len is\\nthe full name for the built-in function len().\\n\\nThis module is not normally accessed explicitly by most\\napplications, but can be useful in modules that provide\\nobjects with the same name as a built-in value, but in\\nwhich the built-in of that name is also needed.\", '__package__': '', '__loader__': <class '_frozen_importlib.BuiltinImporter'>, '__spec__': ModuleSpec(name='builtins', loader=<class '_frozen_importlib.BuiltinImporter'>, origin='built-in'), '__build_class__': <built-in function __build_class__>, '__import__': <built-in function __import__>, 'abs': <built-in function abs>, 'all': <built-in function all>, 'any': <built-in function any>, 'ascii': <built-in function ascii>, 'bin': <built-in function bin>, 'breakpoint': <built-in function breakpoint>, 'callable': <built-in function callable>, 'chr': <built-in function chr>, 'compile': <built-in function compile>, 'delattr': <built-in function delattr>, 'dir': <built-in function dir>, 'divmod': <built-in function divmod>, 'eval': <built-in function eval>, 'exec': <built-in function exec>, 'format': <built-in function format>, 'getattr': <built-in function getattr>, 'globals': <built-in function globals>, 'hasattr': <built-in function hasattr>, 'hash': <built-in function hash>, 'hex': <built-in function hex>, 'id': <built-in function id>, 'input': <built-in function input>, 'isinstance': <built-in function isinstance>, 'issubclass': <built-in function issubclass>, 'iter': <built-in function iter>, 'aiter': <built-in function aiter>, 'len': <built-in function len>, 'locals': <built-in function locals>, 'max': <built-in function max>, 'min': <built-in function min>, 'next': <built-in function next>, 'anext': <built-in function anext>, 'oct': <built-in function oct>, 'ord': <built-in function ord>, 'pow': <built-in function pow>, 'print': <built-in function print>, 'repr': <built-in function repr>, 'round': <built-in function round>, 'setattr': <built-in function setattr>, 'sorted': <built-in function sorted>, 'sum': <built-in function sum>, 'vars': <built-in function vars>, 'None': None, 'Ellipsis': Ellipsis, 'NotImplemented': NotImplemented, 'False': False, 'True': True, 'bool': <class 'bool'>, 'memoryview': <class 'memoryview'>, 'bytearray': <class 'bytearray'>, 'bytes': <class 'bytes'>, 'classmethod': <class 'classmethod'>, 'complex': <class 'complex'>, 'dict': <class 'dict'>, 'enumerate': <class 'enumerate'>, 'filter': <class 'filter'>, 'float': <class 'float'>, 'frozenset': <class 'frozenset'>, 'property': <class 'property'>, 'int': <class 'int'>, 'list': <class 'list'>, 'map': <class 'map'>, 'object': <class 'object'>, 'range': <class 'range'>, 'reversed': <class 'reversed'>, 'set': <class 'set'>, 'slice': <class 'slice'>, 'staticmethod': <class 'staticmethod'>, 'str': <class 'str'>, 'super': <class 'super'>, 'tuple': <class 'tuple'>, 'type': <class 'type'>, 'zip': <class 'zip'>, '__debug__': True, 'BaseException': <class 'BaseException'>, 'BaseExceptionGroup': <class 'BaseExceptionGroup'>, 'Exception': <class 'Exception'>, 'GeneratorExit': <class 'GeneratorExit'>, 'KeyboardInterrupt': <class 'KeyboardInterrupt'>, 'SystemExit': <class 'SystemExit'>, 'ArithmeticError': <class 'ArithmeticError'>, 'AssertionError': <class 'AssertionError'>, 'AttributeError': <class 'AttributeError'>, 'BufferError': <class 'BufferError'>, 'EOFError': <class 'EOFError'>, 'ImportError': <class 'ImportError'>, 'LookupError': <class 'LookupError'>, 'MemoryError': <class 'MemoryError'>, 'NameError': <class 'NameError'>, 'OSError': <class 'OSError'>, 'ReferenceError': <class 'ReferenceError'>, 'RuntimeError': <class 'RuntimeError'>, 'StopAsyncIteration': <class 'StopAsyncIteration'>, 'StopIteration': <class 'StopIteration'>, 'SyntaxError': <class 'SyntaxError'>, 'SystemError': <class 'SystemError'>, 'TypeError': <class 'TypeError'>, 'ValueError': <class 'ValueError'>, 'Warning': <class 'Warning'>, 'FloatingPointError': <class 'FloatingPointError'>, 'OverflowError': <class 'OverflowError'>, 'ZeroDivisionError': <class 'ZeroDivisionError'>, 'BytesWarning': <class 'BytesWarning'>, 'DeprecationWarning': <class 'DeprecationWarning'>, 'EncodingWarning': <class 'EncodingWarning'>, 'FutureWarning': <class 'FutureWarning'>, 'ImportWarning': <class 'ImportWarning'>, 'PendingDeprecationWarning': <class 'PendingDeprecationWarning'>, 'ResourceWarning': <class 'ResourceWarning'>, 'RuntimeWarning': <class 'RuntimeWarning'>, 'SyntaxWarning': <class 'SyntaxWarning'>, 'UnicodeWarning': <class 'UnicodeWarning'>, 'UserWarning': <class 'UserWarning'>, 'BlockingIOError': <class 'BlockingIOError'>, 'ChildProcessError': <class 'ChildProcessError'>, 'ConnectionError': <class 'ConnectionError'>, 'FileExistsError': <class 'FileExistsError'>, 'FileNotFoundError': <class 'FileNotFoundError'>, 'InterruptedError': <class 'InterruptedError'>, 'IsADirectoryError': <class 'IsADirectoryError'>, 'NotADirectoryError': <class 'NotADirectoryError'>, 'PermissionError': <class 'PermissionError'>, 'ProcessLookupError': <class 'ProcessLookupError'>, 'TimeoutError': <class 'TimeoutError'>, 'IndentationError': <class 'IndentationError'>, '_IncompleteInputError': <class '_IncompleteInputError'>, 'IndexError': <class 'IndexError'>, 'KeyError': <class 'KeyError'>, 'ModuleNotFoundError': <class 'ModuleNotFoundError'>, 'NotImplementedError': <class 'NotImplementedError'>, 'PythonFinalizationError': <class 'PythonFinalizationError'>, 'RecursionError': <class 'RecursionError'>, 'UnboundLocalError': <class 'UnboundLocalError'>, 'UnicodeError': <class 'UnicodeError'>, 'BrokenPipeError': <class 'BrokenPipeError'>, 'ConnectionAbortedError': <class 'ConnectionAbortedError'>, 'ConnectionRefusedError': <class 'ConnectionRefusedError'>, 'ConnectionResetError': <class 'ConnectionResetError'>, 'TabError': <class 'TabError'>, 'UnicodeDecodeError': <class 'UnicodeDecodeError'>, 'UnicodeEncodeError': <class 'UnicodeEncodeError'>, 'UnicodeTranslateError': <class 'UnicodeTranslateError'>, 'ExceptionGroup': <class 'ExceptionGroup'>, 'EnvironmentError': <class 'OSError'>, 'IOError': <class 'OSError'>, 'open': <built-in function open>, 'quit': Use quit() or Ctrl-D (i.e. EOF) to exit, 'exit': Use exit() or Ctrl-D (i.e. EOF) to exit, 'copyright': Copyright (c) 2001 Python Software Foundation.\nAll Rights Reserved.\n\nCopyright (c) 2000 BeOpen.com.\nAll Rights Reserved.\n\nCopyright (c) 1995-2001 Corporation for National Research Initiatives.\nAll Rights Reserved.\n\nCopyright (c) 1991-1995 Stichting Mathematisch Centrum, Amsterdam.\nAll Rights Reserved., 'credits': Thanks to CWI, CNRI, BeOpen, Zope Corporation, the Python Software\nFoundation, and a cast of thousands for supporting Python\ndevelopment.  See www.python.org for more information., 'license': Type license() to see the full license text, 'help': Type help() for interactive help, or help(object) for help about object.}, 'RECIPES': {'large stone sword': (3, 4, 3, 4), 'short stone knife': (2, 2, 1, 2), 'stone axe': (2, 3, 2, 3), 'wooden knife': (4, 0, 2, 3), 'wooden sword': (5, 1, 2, 4)}, 'read_amount': <function read_amount at 0x10abff3d0>, 'collection': <function collection at 0x10abff320>, 'weapon_craft': <function weapon_craft at 0x10abff7f0>, 'food_check': <function food_check at 0x10abff8a0>, 'show_bag': <function show_bag at 0x10abff950>, 'preparation': <function preparation at 0x10abffa00>, 'main': <function main at 0x10abffab0>}"
+    }
+  ],
+  "passed": 29,
+  "total": 29,
+  "executed_lines": 139,
+  "executable_lines": 139,
+  "missing_lines": []
+}

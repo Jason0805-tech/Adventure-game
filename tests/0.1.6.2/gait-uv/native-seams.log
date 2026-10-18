@@ -1,0 +1,45 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+NATIVE_SEAMS rabbit:0 { "boundary_keys": 320, "coincident_candidates": 141, "opaque_seams": 96, "body_pairs": 96, "leg_pairs": 0, "split_interval_pairs": 0, "rejected_transparent": 45 }
+NATIVE_SEAMS rabbit:1 { "boundary_keys": 392, "coincident_candidates": 200, "opaque_seams": 107, "body_pairs": 97, "leg_pairs": 10, "split_interval_pairs": 0, "rejected_transparent": 93 }
+NATIVE_SEAMS rabbit:2 { "boundary_keys": 436, "coincident_candidates": 225, "opaque_seams": 129, "body_pairs": 106, "leg_pairs": 23, "split_interval_pairs": 2, "rejected_transparent": 96 }
+NATIVE_SEAMS rabbit:3 { "boundary_keys": 415, "coincident_candidates": 207, "opaque_seams": 115, "body_pairs": 103, "leg_pairs": 12, "split_interval_pairs": 2, "rejected_transparent": 92 }
+NATIVE_SEAMS rabbit:4 { "boundary_keys": 311, "coincident_candidates": 131, "opaque_seams": 70, "body_pairs": 70, "leg_pairs": 0, "split_interval_pairs": 0, "rejected_transparent": 61 }
+NATIVE_SEAMS rabbit:5 { "boundary_keys": 386, "coincident_candidates": 179, "opaque_seams": 116, "body_pairs": 104, "leg_pairs": 12, "split_interval_pairs": 0, "rejected_transparent": 63 }
+NATIVE_SEAMS rabbit:6 { "boundary_keys": 395, "coincident_candidates": 190, "opaque_seams": 124, "body_pairs": 109, "leg_pairs": 15, "split_interval_pairs": 2, "rejected_transparent": 66 }
+NATIVE_SEAMS rabbit:7 { "boundary_keys": 359, "coincident_candidates": 168, "opaque_seams": 104, "body_pairs": 93, "leg_pairs": 11, "split_interval_pairs": 3, "rejected_transparent": 64 }
+NATIVE_SEAMS deer:0 { "boundary_keys": 341, "coincident_candidates": 173, "opaque_seams": 126, "body_pairs": 126, "leg_pairs": 0, "split_interval_pairs": 0, "rejected_transparent": 47 }
+NATIVE_SEAMS deer:1 { "boundary_keys": 598, "coincident_candidates": 357, "opaque_seams": 193, "body_pairs": 175, "leg_pairs": 18, "split_interval_pairs": 0, "rejected_transparent": 164 }
+NATIVE_SEAMS deer:2 { "boundary_keys": 738, "coincident_candidates": 475, "opaque_seams": 123, "body_pairs": 94, "leg_pairs": 29, "split_interval_pairs": 0, "rejected_transparent": 352 }
+NATIVE_SEAMS deer:3 { "boundary_keys": 640, "coincident_candidates": 395, "opaque_seams": 94, "body_pairs": 86, "leg_pairs": 8, "split_interval_pairs": 1, "rejected_transparent": 301 }
+NATIVE_SEAMS deer:4 { "boundary_keys": 386, "coincident_candidates": 183, "opaque_seams": 67, "body_pairs": 43, "leg_pairs": 24, "split_interval_pairs": 1, "rejected_transparent": 116 }
+NATIVE_SEAMS deer:5 { "boundary_keys": 645, "coincident_candidates": 396, "opaque_seams": 94, "body_pairs": 77, "leg_pairs": 17, "split_interval_pairs": 1, "rejected_transparent": 302 }
+NATIVE_SEAMS deer:6 { "boundary_keys": 731, "coincident_candidates": 452, "opaque_seams": 146, "body_pairs": 120, "leg_pairs": 26, "split_interval_pairs": 1, "rejected_transparent": 306 }
+NATIVE_SEAMS deer:7 { "boundary_keys": 558, "coincident_candidates": 325, "opaque_seams": 98, "body_pairs": 73, "leg_pairs": 25, "split_interval_pairs": 2, "rejected_transparent": 227 }
+NATIVE_SEAMS fox:0 { "boundary_keys": 292, "coincident_candidates": 146, "opaque_seams": 78, "body_pairs": 69, "leg_pairs": 9, "split_interval_pairs": 3, "rejected_transparent": 68 }
+NATIVE_SEAMS fox:1 { "boundary_keys": 426, "coincident_candidates": 218, "opaque_seams": 131, "body_pairs": 118, "leg_pairs": 13, "split_interval_pairs": 2, "rejected_transparent": 87 }
+NATIVE_SEAMS fox:2 { "boundary_keys": 588, "coincident_candidates": 362, "opaque_seams": 183, "body_pairs": 158, "leg_pairs": 25, "split_interval_pairs": 1, "rejected_transparent": 179 }
+NATIVE_SEAMS fox:3 { "boundary_keys": 431, "coincident_candidates": 219, "opaque_seams": 107, "body_pairs": 81, "leg_pairs": 26, "split_interval_pairs": 3, "rejected_transparent": 112 }
+NATIVE_SEAMS fox:4 { "boundary_keys": 192, "coincident_candidates": 87, "opaque_seams": 63, "body_pairs": 63, "leg_pairs": 0, "split_interval_pairs": 0, "rejected_transparent": 24 }
+NATIVE_SEAMS fox:5 { "boundary_keys": 362, "coincident_candidates": 156, "opaque_seams": 90, "body_pairs": 90, "leg_pairs": 0, "split_interval_pairs": 1, "rejected_transparent": 66 }
+NATIVE_SEAMS fox:6 { "boundary_keys": 545, "coincident_candidates": 292, "opaque_seams": 171, "body_pairs": 141, "leg_pairs": 30, "split_interval_pairs": 2, "rejected_transparent": 121 }
+NATIVE_SEAMS fox:7 { "boundary_keys": 458, "coincident_candidates": 252, "opaque_seams": 118, "body_pairs": 105, "leg_pairs": 13, "split_interval_pairs": 1, "rejected_transparent": 134 }
+NATIVE_SEAMS wolf:0 { "boundary_keys": 522, "coincident_candidates": 295, "opaque_seams": 150, "body_pairs": 61, "leg_pairs": 89, "split_interval_pairs": 6, "rejected_transparent": 145 }
+NATIVE_SEAMS wolf:1 { "boundary_keys": 600, "coincident_candidates": 355, "opaque_seams": 126, "body_pairs": 126, "leg_pairs": 0, "split_interval_pairs": 0, "rejected_transparent": 229 }
+NATIVE_SEAMS wolf:2 { "boundary_keys": 871, "coincident_candidates": 571, "opaque_seams": 167, "body_pairs": 167, "leg_pairs": 0, "split_interval_pairs": 0, "rejected_transparent": 404 }
+NATIVE_SEAMS wolf:3 { "boundary_keys": 568, "coincident_candidates": 337, "opaque_seams": 136, "body_pairs": 109, "leg_pairs": 27, "split_interval_pairs": 2, "rejected_transparent": 201 }
+NATIVE_SEAMS wolf:4 { "boundary_keys": 450, "coincident_candidates": 249, "opaque_seams": 110, "body_pairs": 110, "leg_pairs": 0, "split_interval_pairs": 0, "rejected_transparent": 139 }
+NATIVE_SEAMS wolf:5 { "boundary_keys": 554, "coincident_candidates": 318, "opaque_seams": 151, "body_pairs": 115, "leg_pairs": 36, "split_interval_pairs": 0, "rejected_transparent": 167 }
+NATIVE_SEAMS wolf:6 { "boundary_keys": 842, "coincident_candidates": 528, "opaque_seams": 212, "body_pairs": 204, "leg_pairs": 8, "split_interval_pairs": 1, "rejected_transparent": 316 }
+NATIVE_SEAMS wolf:7 { "boundary_keys": 552, "coincident_candidates": 333, "opaque_seams": 116, "body_pairs": 116, "leg_pairs": 0, "split_interval_pairs": 0, "rejected_transparent": 217 }
+NATIVE_SEAMS bear:0 { "boundary_keys": 518, "coincident_candidates": 279, "opaque_seams": 97, "body_pairs": 97, "leg_pairs": 0, "split_interval_pairs": 1, "rejected_transparent": 182 }
+NATIVE_SEAMS bear:1 { "boundary_keys": 623, "coincident_candidates": 377, "opaque_seams": 132, "body_pairs": 113, "leg_pairs": 19, "split_interval_pairs": 1, "rejected_transparent": 245 }
+NATIVE_SEAMS bear:2 { "boundary_keys": 827, "coincident_candidates": 505, "opaque_seams": 229, "body_pairs": 157, "leg_pairs": 72, "split_interval_pairs": 0, "rejected_transparent": 276 }
+NATIVE_SEAMS bear:3 { "boundary_keys": 655, "coincident_candidates": 385, "opaque_seams": 119, "body_pairs": 103, "leg_pairs": 16, "split_interval_pairs": 1, "rejected_transparent": 266 }
+NATIVE_SEAMS bear:4 { "boundary_keys": 507, "coincident_candidates": 279, "opaque_seams": 92, "body_pairs": 85, "leg_pairs": 7, "split_interval_pairs": 0, "rejected_transparent": 187 }
+NATIVE_SEAMS bear:5 { "boundary_keys": 638, "coincident_candidates": 374, "opaque_seams": 131, "body_pairs": 128, "leg_pairs": 3, "split_interval_pairs": 5, "rejected_transparent": 243 }
+NATIVE_SEAMS bear:6 { "boundary_keys": 812, "coincident_candidates": 489, "opaque_seams": 235, "body_pairs": 189, "leg_pairs": 46, "split_interval_pairs": 0, "rejected_transparent": 254 }
+NATIVE_SEAMS bear:7 { "boundary_keys": 605, "coincident_candidates": 360, "opaque_seams": 135, "body_pairs": 103, "leg_pairs": 32, "split_interval_pairs": 2, "rejected_transparent": 225 }
+NATIVE_SEAMS_RESULT headings=40 opaque_seams=5081

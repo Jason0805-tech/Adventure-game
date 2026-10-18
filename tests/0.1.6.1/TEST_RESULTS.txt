@@ -1,0 +1,87 @@
+FOREST WANDERER 0.1.6.1 — FINAL RELEASE VALIDATION
+2026-10-16
+
+Release: ../../output/adventure game 0.1.6.1/
+Launch: Forest Wanderer.app (bundled Godot 4.7.2 runtime).
+The game interface remains English. Previous releases are preserved.
+
+Implemented
+1. Continuous articulated 2D quadruped cycles, driven by actual travel distance.
+   Fixed native painted body identity per heading; no reversed image sequence.
+   Support and raised forward recovery are separate. Blocked/resting animals
+   do not advance their walking phase; chase/flee uses the same phase pattern.
+   All 40 authored heading-specific ground footprints are retained. Body, eyes,
+   shadows and feet share registration. Depth-facing strides are perspective
+   compressed; this is a stylized gait, not exact world-space foot locking in
+   every heading. Native source PNGs are unchanged.
+2. Random ecological spawn points and persistent individual temperament, goals,
+   pauses, pace and escape-side choices. Passive animals flee nearby players;
+   predators see, investigate scent, detour, pursue, stop/warn, then attack.
+   Ground obstacles still prevent attacks through walls. NPCs independently
+   roam and physically walk back to camp at dusk. Menus freeze complete state.
+3. Continuous dawn/noon/evening/dusk/midnight/before-dawn exposure and warmth.
+   Torch: 2 branches + 2 fibers, field-craft in C; T toggles it. 120 lit seconds,
+   160-world-unit / 5 m outer radius, soft falloff. Unlit time saves fuel.
+   Drop/pickup preserves remaining fuel. The right-hand weapon stays equipped.
+   Camp remains illuminated; midnight elsewhere retains dense 98% dark fog.
+4. Actual wolves' red and bears' green eye landmarks glow in darkness, blink,
+   obey distance/ground-obstacle visibility, and fade in light. Rear-facing
+   animals show no eyes. No decorative phantom enemies are generated.
+
+Final passing evidence
+- gait/export-gait.log: 112,275 checks, 0 errors. Complete wrap, monotonic
+  support/recovery, all contact paw outlines within retained ground profiles,
+  body identity and local/world triangulation.
+- native-gait-stress.log / native-gait-stress-result.json: 11,520 actual native
+  Canvas pose draws over 288 redraw frames; 564,480 native-input polygon
+  checks, 0 invalid. All five species, eight headings, 32 phases, three world
+  positions and idle/wander/chase modes. No GDScript or polygon draw errors.
+- ecology-behavior.log: 66 checks, 0 failures.
+- ecology-world.log: 54,377 checks, 0 failures, three seeds/four transitions.
+- wildlife-proximity-world.log: 1,425 checks, 0 failures; passive escape,
+  predator detours around the original tree, sight/scent/attack/recovery,
+  real ground clearance and no blocked walking. Count is lower than the old
+  failing run because successful attacks terminate the simulation loops early.
+- npc-world.log: 4,128 checks, 0 failures. Rowan/Ash travel 881.9/1833.0 units
+  in daytime, cover 16/51 map cells, then reach protected camp without teleport.
+- wildlife-logic.log: 76 checks, 0 failures.
+- test_lighting.log: 2,794 checks, 0 failures. Continuous phase boundaries,
+  5 m range, exposure falloff, camp, eye anchors/LOS/blinks and mesh colour.
+- torch_integration.log: 260 checks pass. Craft/payment, fuel, toggles,
+  menus, drop/pickup, burnout, off-hand coexistence and all human grip poses.
+- smoke_features.log: 27 existing-feature checks pass.
+- test_night_cycle.log: 39 checks pass, including the three-night outcome.
+- wildlife_combat_integration.log: 30 checks, 0 failures.
+- test_morning_contacts.log: 6 checks, 0 failures.
+- preserved-art-and-collisions.json: 50 checks, 0 failures. All 45 native
+  artwork images, collision_profiles and four ground/depth/density modules
+  byte-identical to 0.1.6. No source resolution reduction.
+- package-validation.json: all 64 bundled resources match final sources;
+  signed App launches from /private/tmp, GAME_READY 0.1.6.1, exit 0, and
+  no script, parse, invalid-polygon or triangulation errors.
+
+The initial native night/torch tests exposed precision loss in tiny world-space
+pigment polygons. Final rendering triangulates local coordinates first and
+submits explicit mesh triangles with translation afterward. Affected original
+regressions were rerun without weakening assertions and now pass.
+
+Performance samples (headless, this machine, not an FPS guarantee)
+Lighting mesh build mean ~0.99 ms. Cold species navigation cache builds wolf
+~3.4 ms / bear ~4.1 ms, then is reused until the map navigation revision changes.
+
+Visual QA and limits
+captures/ and previews/ replay actual final release Canvas commands and native
+textures, including UV-mapped bodies, vertex-colour lighting, mesh source-over
+pigment blending and final display density. The eight time/camp/torch scenes
+are intentionally staged for comparison; the 32-frame five-animal cycle uses
+the actual draw_animal function. Headings and six sequential phases were
+visually inspected. previews/daylight-and-torch.jpg and five-animal-cycle.gif
+are convenient review files. These are software replays; no manual native-GPU
+playthrough is claimed. Native engine drawing is independently exercised above.
+Platform user-log write and macOS certificate messages under the sandbox are
+distinct from script/drawing failures. Earlier diagnostic logs are retained.
+
+Reproduce: run Godot --headless --path <release folder> --script <test .gd>.
+Runtime/config/rig metadata backup: release-source.zip.
+All bundled source/asset SHA256 hashes: validated-runtime-hashes.json.
+Reusable gait sources and provenance: ../../素材整理/动物/0.1.6.1/.

@@ -1,0 +1,37 @@
+{
+  "samples": [
+    {
+      "frame": 8,
+      "direction": 0,
+      "armed": true,
+      "equal": true,
+      "changed_channels": 0,
+      "max_error": 0
+    },
+    {
+      "frame": 2,
+      "direction": 2,
+      "armed": true,
+      "equal": true,
+      "changed_channels": 0,
+      "max_error": 0
+    },
+    {
+      "frame": 8,
+      "direction": 6,
+      "armed": false,
+      "equal": true,
+      "changed_channels": 0,
+      "max_error": 0
+    },
+    {
+      "frame": 6,
+      "direction": 12,
+      "armed": false,
+      "equal": true,
+      "changed_channels": 0,
+      "max_error": 0
+    }
+  ],
+  "seconds": 2.808171033859253
+}

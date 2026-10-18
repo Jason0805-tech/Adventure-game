@@ -1,0 +1,52 @@
+{
+  "version": "0.1.5.8",
+  "features": {
+    "full_non_enterable_cabin": true,
+    "independent_shore_rock_colliders": 17,
+    "individually_authored_sprite_profiles": 48,
+    "polygons": 81,
+    "polygon_vertices": 1863,
+    "full_visible_solid_wood_and_stone": true,
+    "boot_capsule_collision": true,
+    "movement_substep": 1.5,
+    "stable_tree_identity": true,
+    "static_scenery_world_units_per_texel": 2.0,
+    "ground_display_pixels": [
+      1100,
+      750
+    ],
+    "ground_micro_stroke_overlay": false,
+    "source_geometry_anchors_preserved": true,
+    "player_speed": 108.0,
+    "day_seconds": 180.0
+  },
+  "checks": {
+    "independent_visible_solid_assertions": 5269,
+    "independent_source_landmarks": 98,
+    "mapped_visible_solid_samples": 274,
+    "mapped_canopy_samples": 124,
+    "same_object_long_frame_motion_cases": 1096,
+    "actual_game_display_density_assertions": 416,
+    "actual_display_size_combinations": 83,
+    "prepared_cache_entries_before_test": 139,
+    "paint_density_module_assertions": 273,
+    "feature_smokes": 27,
+    "pacing_smokes": 10,
+    "navigation_local_cells": 30,
+    "navigation_distant_cells_unchanged": 5696,
+    "canvas_scenario_replays": 6,
+    "app_headless_from_tmp": true,
+    "bundle_hash_matches": 52,
+    "staging_strict_signature": true,
+    "installed_signature_verified": true,
+    "native_manual_playthrough": false
+  },
+  "limits": [
+    "No indoor scene; the whole cabin blocks movement.",
+    "Overhead foliage and open gate passage remain passable.",
+    "Display sampling unifies ground/static scenery; character/UI images are unchanged.",
+    "Canvas replay previews are not native GPU screenshots.",
+    "Shore rocks still draw within the pond image; blocking geometry is independent.",
+    "Closing the game resets the run; no save system."
+  ]
+}

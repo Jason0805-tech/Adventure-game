@@ -1,0 +1,11 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf
+Headless script: tests/0.1.5.7/ground_replay_capture.gd
+Project: output/adventure game 0.1.5.7
+GROUND_CANVAS_CAPTURES_COMPLETE strokes=55423
+Exit code: 0
+
+Environment diagnostics returned by the engine:
+  Could not create the sandboxed Library/Application Support/Godot/app_userdata
+  directory or its user://logs folder.
+  get_system_ca_certificates: Condition "ret != noErr" is true.
+These diagnostics did not stop software Canvas recording.

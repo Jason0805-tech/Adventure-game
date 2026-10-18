@@ -1,0 +1,95 @@
+{
+  "checks": 0,
+  "issues": [
+    "wolf/2",
+    "deer/2"
+  ],
+  "species": {
+    "deer": {
+      "2": {
+        "collapsed_visible_triangles": 0,
+        "examples": [
+          {
+            "area_ratio": -0.552715301513672,
+            "phase": 0.0,
+            "triangle": 12353
+          },
+          {
+            "area_ratio": -0.339470505714417,
+            "phase": 0.0,
+            "triangle": 12354
+          },
+          {
+            "area_ratio": -0.591989398002625,
+            "phase": 0.0,
+            "triangle": 12383
+          },
+          {
+            "area_ratio": -0.963020801544189,
+            "phase": 0.0,
+            "triangle": 12543
+          },
+          {
+            "area_ratio": -0.853583574295044,
+            "phase": 0.0,
+            "triangle": 12544
+          }
+        ],
+        "fixed_uv": true,
+        "flipped_visible_triangles": 906,
+        "idle_exact": true,
+        "max_area_ratio": 6.17917251586914,
+        "max_sole_excess_world": 4.63760757446289,
+        "min_area_ratio": -11.3214597702026,
+        "original_sole_max_excess": 0.0,
+        "original_sole_outside": 0,
+        "sole_checks": 1110,
+        "sole_outside": 66,
+        "visible_triangles": 2216
+      }
+    },
+    "wolf": {
+      "2": {
+        "collapsed_visible_triangles": 9,
+        "examples": [
+          {
+            "area_ratio": -0.144657477736473,
+            "phase": 0.0,
+            "triangle": 12419
+          },
+          {
+            "area_ratio": -0.194541960954666,
+            "phase": 0.0,
+            "triangle": 12804
+          },
+          {
+            "area_ratio": -0.297480136156082,
+            "phase": 0.0,
+            "triangle": 12805
+          },
+          {
+            "area_ratio": -0.486747741699219,
+            "phase": 0.0,
+            "triangle": 12806
+          },
+          {
+            "area_ratio": -0.126373291015625,
+            "phase": 0.0,
+            "triangle": 12807
+          }
+        ],
+        "fixed_uv": true,
+        "flipped_visible_triangles": 604,
+        "idle_exact": true,
+        "max_area_ratio": 6.51089096069336,
+        "max_sole_excess_world": 1.80736923217773,
+        "min_area_ratio": -3.82245111465454,
+        "original_sole_max_excess": 0.0,
+        "original_sole_outside": 0,
+        "sole_checks": 1579,
+        "sole_outside": 22,
+        "visible_triangles": 3276
+      }
+    }
+  }
+}

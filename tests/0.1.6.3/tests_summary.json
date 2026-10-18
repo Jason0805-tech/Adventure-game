@@ -1,0 +1,72 @@
+{
+  "version": "0.1.6.3",
+  "checkpoint_utc": "2026-10-17T02:38:36.432751+00:00",
+  "native_mobile_tests_passed": true,
+  "total_native_checks": 13159,
+  "source_hashes": {
+    "main.gd": "1b9140b1f32817d8fb10cfcb22a7fde17ebe3158f71ec1b78bc6ac65a5eff20b",
+    "mobile_controls.gd": "412a4881d2f64c5299534d8a6d02730b19404f5442b75b8dc1e5101ff2b8348e",
+    "mobile_ui.gd": "689a046b23e9d7f4fc200f4e67433d5f7e17a4e589d80a32f20e462002be922f"
+  },
+  "parse_check_passed": true,
+  "suites": [
+    {
+      "result": "mobile_controls_results.json",
+      "scope": "Finger ownership, hold/cancel and responsive target layout",
+      "passed": true,
+      "checks": 3106,
+      "source_hashes_current": true,
+      "native_draws": null
+    },
+    {
+      "result": "mobile_ui_integration_result.json",
+      "scope": "Real-scene backpack, quick slots, crafting and native drawing",
+      "passed": true,
+      "checks": 50,
+      "source_hashes_current": true,
+      "native_draws": 8
+    },
+    {
+      "result": "mobile_actual_input_result.json",
+      "scope": "Independent actual-scene movement, lifecycle and complete simulation freeze",
+      "passed": true,
+      "checks": 235,
+      "source_hashes_current": true,
+      "native_draws": null
+    },
+    {
+      "result": "mobile_placement_result.json",
+      "scope": "Actual mobile UI target, weather and toast placement",
+      "passed": true,
+      "checks": 9768,
+      "source_hashes_current": true,
+      "native_draws": 36
+    }
+  ],
+  "placement_cases": {
+    "virtual_height": 720,
+    "css_heights": [
+      320,
+      390
+    ],
+    "virtual_widths": [
+      960,
+      1080,
+      1319,
+      1320,
+      1518,
+      1920
+    ],
+    "minimum_touch_target_css_px": 44,
+    "overlap_failures": 0,
+    "explicit_native_draw_frames": 44
+  },
+  "browser_device_status": "Not covered by these native tests. Parent task owns browser verification. No physical iPhone/Safari or GPU screenshot claim.",
+  "environmental_messages": [
+    "Read-only default macOS app_userdata path emits startup directory diagnostics in sandbox.",
+    "macOS certificate query may emit ret!=noErr.",
+    "Source runs using raw Image.load_from_file emit Godot export warnings; separate parent packaging audit must prove raw asset inclusion."
+  ],
+  "gameplay_note": "Existing movement policy cancels tool actions while walking; multitouch finger ownership is independent, but tool commit still requires stopping.",
+  "checkpoint_archive": "mobile_controls_checkpoint.zip"
+}

@@ -1,0 +1,15 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-wolf.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.1/art-revision/audit_source_skin.gd:42)
+SKIN_AUDIT wolf/2 { "idle_exact": true, "fixed_uv": true, "visible_triangles": 3276, "flipped_visible_triangles": 604, "collapsed_visible_triangles": 9, "max_area_ratio": 6.51089096069336, "min_area_ratio": -3.82245111465454, "sole_checks": 1579, "sole_outside": 22, "max_sole_excess_world": 1.80736923217773, "original_sole_outside": 0, "original_sole_max_excess": 0.0, "examples": [{ "phase": 0.0, "triangle": 12419, "area_ratio": -0.14465747773647 }, { "phase": 0.0, "triangle": 12804, "area_ratio": -0.19454196095467 }, { "phase": 0.0, "triangle": 12805, "area_ratio": -0.29748013615608 }, { "phase": 0.0, "triangle": 12806, "area_ratio": -0.48674774169922 }, { "phase": 0.0, "triangle": 12807, "area_ratio": -0.12637329101562 }] }
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-deer.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.1/art-revision/audit_source_skin.gd:42)
+SKIN_AUDIT deer/2 { "idle_exact": true, "fixed_uv": true, "visible_triangles": 2216, "flipped_visible_triangles": 906, "collapsed_visible_triangles": 0, "max_area_ratio": 6.17917251586914, "min_area_ratio": -11.3214597702026, "sole_checks": 1110, "sole_outside": 66, "max_sole_excess_world": 4.63760757446289, "original_sole_outside": 0, "original_sole_max_excess": 0.0, "examples": [{ "phase": 0.0, "triangle": 12353, "area_ratio": -0.55271530151367 }, { "phase": 0.0, "triangle": 12354, "area_ratio": -0.33947050571442 }, { "phase": 0.0, "triangle": 12383, "area_ratio": -0.59198939800262 }, { "phase": 0.0, "triangle": 12543, "area_ratio": -0.96302080154419 }, { "phase": 0.0, "triangle": 12544, "area_ratio": -0.85358357429504 }] }
+SOURCE_SKIN_AUDIT issues=["wolf/2", "deer/2"]

@@ -1,0 +1,9 @@
+Edit image 1 ONLY the four specific cells below. Keep every other cell, all text, paper, brushwork, palette and cute flat 2D painted art unchanged. Image 2 is the correct 4x4 yaw reference, not a style reference.
+
+Four exact corrections:
+1. Cell labelled 135, row 2 column 3: turn the entire traveler so his back faces us and his nose/cheek is on the RIGHT edge, looking away toward the upper RIGHT. His current visible cheek on the LEFT is WRONG. Backpack lies left/center, right arm and sword at the RIGHT edge.
+2. Cell labelled 150, row 2 column 4: nearly straight back view with just a TINY peach cheek sliver on the RIGHT; face looking upper RIGHT away. Not left. Backpack largely centered, right hand on RIGHT.
+3. Cell labelled 225, row 3 column 3: back three-quarter view looking away upper LEFT; peach cheek/nose at LEFT edge. His current cheek on the RIGHT is WRONG. Pack on right/center, weapon-bearing anatomical right arm far and mostly hidden.
+4. Cell labelled 240, row 3 column 4: back/left view approaching left profile, face at LEFT edge pointing LEFT, pack to the RIGHT. NOT right-facing. Right hand far and naturally hidden.
+
+These are actual body rotations, not just head turns. Correct the whole body, coat, legs, hat and pack perspective together. Do not horizontally flip any full-body character (keep anatomical right-hand equipment). Do not change any other cells. Do not add detail or 3D shading. Preserve the exact loose oil/gouache cartoon aesthetic of image 1.

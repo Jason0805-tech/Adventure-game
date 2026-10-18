@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "created_on": "2026-10-15",
+  "purpose": "Reusable app cover artwork and planned exploration unlock metadata",
+  "generator": "built-in image_gen",
+  "origin_release": "0.1.5.9",
+  "integration_status": "web_0.1.6.3_cover_and_icons_installed_unlock_system_not_implemented",
+  "default_cover_id": null,
+  "map_assignments_confirmed": false,
+  "unlock_policy": {
+    "trigger": "first_exploration_of_assigned_map",
+    "permanent_across_runs": true,
+    "selection": "player_chooses_from_unlocked_covers",
+    "automatic_selection_on_unlock": false,
+    "map_bindings": "Assign stable map IDs after maps are defined; null IDs must never unlock a cover."
+  },
+  "covers": [
+    {
+      "id": "rowan_forest_green",
+      "demo_id": "A",
+      "display_name": "Forest Green",
+      "display_name_zh": "森林绿底",
+      "character": "Rowan",
+      "file": "Rowan正脸/A_森林绿底.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "ee6d0c6b3c2ff9e871eddeb11a870112b9e4d86fd494fc2eb30df944fe7ad35b",
+      "asset_approval": "accepted_for_collection",
+      "unlock_requirement": {
+        "type": "explore_map",
+        "map_id": null,
+        "status": "pending_map_assignment"
+      }
+    },
+    {
+      "id": "rowan_warm_portrait",
+      "demo_id": "B",
+      "display_name": "Warm Portrait",
+      "display_name_zh": "暖色近景",
+      "character": "Rowan",
+      "file": "Rowan正脸/B_暖色近景.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "844bf489db02726a3afd30cc11b994405f574ea37296a497dc35af503ff2373f",
+      "asset_approval": "accepted_for_collection",
+      "unlock_requirement": {
+        "type": "explore_map",
+        "map_id": null,
+        "status": "pending_map_assignment"
+      }
+    },
+    {
+      "id": "rowan_twilight_blue",
+      "demo_id": "C",
+      "display_name": "Twilight Blue",
+      "display_name_zh": "暮色蓝底",
+      "character": "Rowan",
+      "file": "Rowan正脸/C_暮色蓝底.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "05cfad25f1828336b07f72f81e8e41aa46cb5b65c864209d56bd393a8f5a31e5",
+      "asset_approval": "accepted_for_collection",
+      "unlock_requirement": {
+        "type": "explore_map",
+        "map_id": null,
+        "status": "pending_map_assignment"
+      }
+    }
+  ],
+  "web_release_cover": {
+    "version": "0.1.6.3",
+    "cover_id": "rowan_forest_green",
+    "usage": [
+      "launch_page",
+      "favicon",
+      "apple_touch_icon",
+      "web_manifest",
+      "project_icon"
+    ],
+    "reason": "User requested the previously designed app cover on 2026-10-17; A selected from the approved collection for this web release.",
+    "map_unlocks_implemented": false
+  }
+}

@@ -1,0 +1,9 @@
+FOREST WANDERER 0.1.5.5 — REBUILD CHECKS (2026-10-14)
+
+PASS: Rebuilt and re-signed Forest Wanderer.app from the release project and bundled runtime sources.
+PASS: Godot 4.7.2 loaded the project and emitted GAME_READY 0.1.5.5 with no GDScript runtime errors.
+PASS: All 27 feature-smoke checks passed: backpack, field axe crafting, tree chopping and drops, workbench placement, pickaxe and fishing-rod recipes, toolbar assignment, mining, fishing and eating, tool repair, and Ash's walking cycle.
+PASS: Packaged ForestWanderer0155 launcher started from /tmp and emitted GAME_READY 0.1.5.5 (exit code 0).
+PASS: App code signature verified during packaging; all 48 runtime source/art files matched the release folder by SHA-256.
+
+A native graphics-window play session was not manually performed. In this sandbox, Godot could not create its normal user-data/log directory under ~/Library/Application Support and macOS certificate discovery printed an error. Those environment messages did not prevent startup or the feature smoke checks.

@@ -1,0 +1,6 @@
+bear {'headings': 8, 'visible_flips': 0, 'source_holes': 0, 'source_overlaps': 0, 'max_additional_ground_excess': 0.18820462400721638, 'max_stretch': 1.347875398430942}
+deer {'headings': 8, 'visible_flips': 0, 'source_holes': 0, 'source_overlaps': 0, 'max_additional_ground_excess': 0.1989142100017105, 'max_stretch': 1.7324049561429764}
+fox {'headings': 8, 'visible_flips': 0, 'source_holes': 0, 'source_overlaps': 0, 'max_additional_ground_excess': 0.1793999163963882, 'max_stretch': 2.1138261172754103}
+rabbit {'headings': 8, 'visible_flips': 0, 'source_holes': 0, 'source_overlaps': 0, 'max_additional_ground_excess': 0.1317014626837416, 'max_stretch': 2.27857434176374}
+wolf {'headings': 8, 'visible_flips': 0, 'source_holes': 0, 'source_overlaps': 0, 'max_additional_ground_excess': 0.179796388237639, 'max_stretch': 1.7061189002202868}
+COMPILED_SKIN_AUDIT headings= 40 failures= 0

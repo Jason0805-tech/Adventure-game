@@ -1,0 +1,178 @@
+{
+  "checks": 43,
+  "failures": 0,
+  "records": [
+    {
+      "path": "assets/utility-props.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/held-use-weapon-8.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/meadow.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/ground-blends.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/harvest-nodes.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/held-weapon-2.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/held-weapon-3.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/npc-ash-directions.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/held-weapon-1.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/held-weapon-0.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/utility-icons.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/ponds.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/held-weapon-4.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/held-weapon-5.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/cabin-props.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/held-weapon-7.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/held-weapon-6.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/painted-torso-source.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/paint-materials.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/equipment.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/tree-variants.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/held-weapon-8.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/tool-use-meta.json",
+      "unchanged": true
+    },
+    {
+      "path": "assets/traveler-use-directions.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/traveler-armed-directions.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/held-use-weapon-7.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/materials.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/status-icons.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/held-use-weapon-6.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/npcs.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/traveler-directions.json",
+      "unchanged": true
+    },
+    {
+      "path": "assets/held-use-weapon-4.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/traveler-unarmed-directions.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/held-use-weapon-5.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/held-use-weapon-1.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/npc-rowan-directions.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/held-use-weapon-0.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/held-use-weapon-2.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/npc-torso-source.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/environment.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/npc-rowan-lantern.png",
+      "unchanged": true
+    },
+    {
+      "path": "assets/held-use-weapon-3.png",
+      "unchanged": true
+    },
+    {
+      "path": "collision_profiles.json",
+      "unchanged": true
+    }
+  ]
+}

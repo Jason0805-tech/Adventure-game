@@ -1,0 +1,9 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+GAME_READY 0.1.6.1
+PROXIMITY_DETOUR species=wolf body=tree:(1218.397, 236.2422):-1 states=["investigate", "chase", "windup", "recover"] closest=39.6924095153809 p=(1317.971, 248.4603) player=(1323.858, 209.2068)
+PROXIMITY_DETOUR species=bear body=tree:(1218.397, 236.2422):-1 states=["investigate", "chase", "windup", "recover"] closest=64.6005630493164 p=(1337.94, 272.2536) player=(1323.858, 209.2068)
+NAVIGATION_CACHE_BUILD_USEC { "wolf": 3404, "bear": 4085 } cache_hits=21
+WILDLIFE_PROXIMITY_WORLD_RESULT checks=1425 failures=0 arena=(890.0, 220.0)

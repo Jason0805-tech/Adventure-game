@@ -1,0 +1,60 @@
+{
+	"method": "Software replay of actual ordered Canvas commands. Identical player, facing, camera, world seed and time; not native GPU screenshots.",
+	"resource_seed": 159,
+	"scenes": [
+		{
+			"camera": [
+				80.0,
+				360.0
+			],
+			"commands": 894,
+			"name": "camp",
+			"player": [
+				360.0,
+				730.0
+			],
+			"player_walkable": true,
+			"size": [
+				640,
+				480
+			],
+			"tag": "baseline"
+		},
+		{
+			"camera": [
+				540.0,
+				880.0
+			],
+			"commands": 629,
+			"name": "forest",
+			"player": [
+				860.0,
+				1240.0
+			],
+			"player_walkable": true,
+			"size": [
+				640,
+				480
+			],
+			"tag": "baseline"
+		},
+		{
+			"camera": [
+				780.0,
+				230.0
+			],
+			"commands": 848,
+			"name": "pond",
+			"player": [
+				1100.0,
+				630.0
+			],
+			"player_walkable": true,
+			"size": [
+				640,
+				480
+			],
+			"tag": "baseline"
+		}
+	]
+}

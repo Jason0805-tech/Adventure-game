@@ -1,0 +1,18 @@
+{
+  "raw_png_files": 45,
+  "all_png_rgba8_mib": 1162.4972343444824,
+  "all_source_file_mib": 68.91198921203613,
+  "max_dimension": 6144,
+  "larger_than_4096": [
+    "res://assets/held-use-weapon-0.png",
+    "res://assets/held-use-weapon-1.png",
+    "res://assets/held-use-weapon-2.png",
+    "res://assets/held-use-weapon-3.png",
+    "res://assets/held-use-weapon-4.png",
+    "res://assets/held-use-weapon-5.png",
+    "res://assets/held-use-weapon-6.png",
+    "res://assets/held-use-weapon-7.png",
+    "res://assets/held-use-weapon-8.png",
+    "res://assets/traveler-use-directions.png"
+  ]
+}

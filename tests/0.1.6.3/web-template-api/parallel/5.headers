@@ -1,0 +1,50 @@
+HTTP/2 302 
+date: Sat, 17 Oct 2026 02:35:46 GMT
+content-type: text/html;charset=utf-8
+content-length: 0
+location: https://release-assets.githubusercontent.com/github-production-release-asset/688986521/6bec7ddc-8c73-4f99-9f8f-fa495fbfc57d?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-17T03%3A16%3A16Z&rscd=attachment%3B+filename%3DGodot_v4.7.2-stable_export_templates.tpz&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-17T02%3A15%3A42Z&ske=2026-10-17T03%3A16%3A16Z&sks=b&skv=2018-11-09&sig=FnKYnLK8Otz2MFrA5KaxQQQs9FtoI%2FxZ%2FzSK%2B1HYnVE%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MjIwODE0NiwibmJmIjoxNzkyMjA0NTQ2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.zYvCOS1RyZarFtIWaJE3RKkzMrbef_tGlHr3wrqDBjo&response-content-disposition=attachment%3B%20filename%3DGodot_v4.7.2-stable_export_templates.tpz&response-content-type=application%2Foctet-stream
+x-github-api-version-selected: 2022-11-28
+access-control-expose-headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset, Warning
+access-control-allow-origin: *
+strict-transport-security: max-age=31536000; includeSubdomains; preload
+x-frame-options: deny
+x-content-type-options: nosniff
+x-xss-protection: 0
+referrer-policy: origin-when-cross-origin, strict-origin-when-cross-origin
+content-security-policy: default-src 'none'
+vary: Accept-Encoding, Accept, X-Requested-With
+server: github.com
+x-ratelimit-limit: 60
+x-ratelimit-remaining: 44
+x-ratelimit-used: 16
+x-ratelimit-resource: core
+x-ratelimit-reset: 1792207511
+x-github-request-id: F930:2AEFC2:22764EE:347BA05:6AD2DF02
+x-github-edge-region: southeastasia
+
+HTTP/2 206 
+last-modified: Tue, 18 Aug 2026 16:06:29 GMT
+etag: "0x8DEFD42A9FBDD09"
+server: Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0
+x-ms-request-id: 8e23829a-101e-0036-446f-566c25000000
+x-ms-version: 2018-11-09
+x-ms-creation-time: Tue, 18 Aug 2026 16:06:29 GMT
+x-ms-lease-status: unlocked
+x-ms-lease-state: available
+x-ms-blob-type: BlockBlob
+x-ms-server-encrypted: true
+x-ms-access-tier: Hot
+x-ms-access-tier-inferred: true
+via: 1.1 varnish, 1.1 varnish
+accept-ranges: bytes
+age: 2244
+date: Sat, 17 Oct 2026 02:35:46 GMT
+x-served-by: cache-iad-khef600064-IAD, cache-nrt-rjtf7700059-NRT
+x-cache: HIT, HIT
+x-cache-hits: 1, 0
+x-timer: S1792204547.640757,VS0,VE1
+content-disposition: attachment; filename=Godot_v4.7.2-stable_export_templates.tpz
+content-type: application/octet-stream
+content-range: bytes 1058776718-1059825293/1281349702
+content-length: 1048576
+

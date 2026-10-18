@@ -1,0 +1,20 @@
+{
+  "band_cache_entries": 22,
+  "checks": 70132,
+  "failures": [],
+  "note": "Isolated module tests, exact source alpha partition and local contour depths; not a native manual playthrough.",
+  "ponds": [
+    {
+      "pixels": 18975,
+      "rocks": 7
+    },
+    {
+      "pixels": 8250,
+      "rocks": 5
+    },
+    {
+      "pixels": 7140,
+      "rocks": 5
+    }
+  ]
+}

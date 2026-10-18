@@ -1,0 +1,47 @@
+ERROR: Could not create directory: '/Users/jasonsmacair/Library/Application Support/Godot/app_userdata/Forest Wanderer 0.1.5.7'.
+   at: make_dir_recursive (core/io/dir_access.cpp:179)
+ERROR: Error attempting to create data dir: /Users/jasonsmacair/Library/Application Support/Godot/app_userdata/Forest Wanderer 0.1.5.7.
+   at: ensure_user_data_dir (core/os/os.cpp:442)
+ERROR: Could not create directory: 'user://logs'.
+   at: make_dir_recursive (core/io/dir_access.cpp:179)
+ERROR: Failed to open log file for writing: user://logs/godot.log
+   at: rotate_file (core/io/logger.cpp:169)
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+PASS geometry: full containment
+PASS geometry: containment symmetry
+PASS geometry: separated polygons
+PASS geometry: touching edge blocks
+PASS geometry: touching corner blocks
+PASS geometry: crossing-only overlap without contained vertices
+PASS geometry: crossing-only overlap symmetry
+PASS geometry: concave notch remains walkable
+PASS geometry: concave filled arm blocks
+PASS geometry: point in concave gap is outside
+PASS geometry: point exactly on concave boundary is inside
+PASS geometry: clockwise winding remains supported
+PASS geometry: mixed winding remains supported
+PASS geometry: line crossing polygon
+PASS geometry: line entirely contained
+PASS geometry: line entirely inside concave notch
+PASS geometry: line collinear with boundary
+PASS geometry: line starts on corner
+PASS geometry: nearby parallel line remains clear
+PASS geometry: zero-length line inside
+PASS geometry: zero-length line outside
+PASS geometry: collinear segments overlap
+PASS geometry: separated collinear segments
+PASS geometry: diagonal edge crossing
+PASS geometry: scale then rotation then translation
+PASS geometry: transformed polygon bounds
+PASS geometry: broad phase includes touching boundaries
+PASS geometry: broad phase handles negative rectangles
+PASS geometry: ellipse foot dimensions and smooth contour
+PASS geometry: ellipse center contained
+PASS geometry: ellipse excludes former square corner
+PASS geometry: capsule foot dimensions
+PASS geometry: empty contours are safe
+PASS geometry: empty line target is safe
+GEOMETRY_RESULTS checks=34 failures=0

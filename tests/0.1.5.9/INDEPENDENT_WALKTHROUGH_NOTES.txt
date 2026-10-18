@@ -1,0 +1,69 @@
+Independent model walkthrough validation for 0.1.5.9
+
+Physical movement: PASS, 48,830 assertions, zero failures.
+169 actual scenery instances in the seeded world (resource_seed = 159),
+152 additional depleted or alternate instances, 9,717 approach routes,
+48,585 real move_player calls, 9,023 saved contact poses.
+
+Each solid/support model is approached at 16 support directions in the actual
+world and with the same object's own colliders isolated. Each reachable approach
+then exercises inward long-frame, both tangents, and a diagonal movement using
+the production movement code. This tests feasible paths rather than claiming
+that a player can occupy all possible coordinates: 171 candidate starts were
+unavailable because of nearby world solids or the world edge, and are explicitly
+counted as skipped. Every model instance and model variant still has routes.
+
+Includes all six standing tree variants, both stump variants, four shrubs,
+all live/spent material variants, five exported camp prop variants, full cabin,
+gate, four ore instances and three ore variants/depletion, original and newly
+placed workbench, all three water bodies, all 17 independently solid bank stones.
+Passable grass/fiber and depleted resources remain passable by design.
+
+NPC navigation is simulated for 60 seconds with the actual navigation and walk
+animation logic. Rowan traveled 1,459.9996 units and had 1,460 moving frames.
+Ash traveled 1,902.0389 units and had 1,327 moving frames. Neither actor enters
+static scene geometry at the sampled frames; both advance walking animation.
+
+Physical validation by itself is insufficient for this user regression.
+The independent visual audit samples opaque pixels in the original avatar atlas
+and alpha-composites the actual ordered production Canvas texture commands.
+It measures the avatar opacity that remains after object paint, rather than
+merely checking scalar depths or proving an existing collider internally.
+The baseline old-order cabin test reproduces 10 failures among 21 front routes,
+including almost complete loss of the actor's head and torso at x=300..370.
+The final house audit must retain the exact same source-pixel criteria.
+
+Every static solid instance receives additional local front-contact checks;
+every exported model/state has multiple columns and a saved world-only Canvas
+capture. Own-object source texture AND drawing transform identify paint so an
+identical nearby variant cannot cause a false independent-object failure.
+Tree branch poses above its root are intentionally behind the canopy, which
+uses the established fade rule; those poses are not incorrectly asserted fully
+in front. Legitimate overhead gate arch occlusion requires a distinct reviewed
+classification and is retained in the raw audit output.
+
+Reports:
+- all-model-walkthrough-results.json
+- all-model-contact-poses.json
+- npc-walkthrough-results.json
+- baseline-front-visibility.json
+- front-visibility-results.json
+- all-model-front-visibility.json
+- all-model-front-poses.json
+- captures/allfront-*.json and matching software rendered PNG previews
+
+The visual captures replay actual Canvas commands in software. This is not a
+claim of a native manual playthrough or exhaustive coverage of all random seeds.
+
+Final visibility results: PASS 443/443 all-model front contacts; PASS 21/21
+original cabin routes; PASS 3/3 focused gate pillar contacts. These use the
+original strict avatar-alpha threshold. The old 1/443 gate failure is preserved
+in front-audit-before-gate-coherence.json; it was fixed rather than exempted.
+Fresh corrected-gate-* captures retain the previously failing center pose.
+Normal shipped-world NPC navigation: PASS 244/244 assertions over 60 seconds,
+with live trees/resources and normal ore intact.
+Model contact-sheet inputs: model-contact-capture-manifest.json.
+
+All 17 individual bankstone IDs additionally have fresh front-contact images,
+17/17 strict opacity checks passed. The representative capture manifest now
+contains 68 fresh capture inputs, including every distinct shoreline stone.

@@ -1,0 +1,9 @@
+{
+  "checks": 1795,
+  "failures": 0,
+  "headings": 16,
+  "walk_frames": 8,
+  "idle_frames": 1,
+  "same_right_hand": true,
+  "fixed_segment_lengths": true
+}

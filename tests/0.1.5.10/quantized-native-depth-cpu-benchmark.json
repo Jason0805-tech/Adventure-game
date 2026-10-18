@@ -1,0 +1,650 @@
+{
+  "band_cache_entries": 109,
+  "cached_band_total": 1005,
+  "godot": {
+    "build": "official",
+    "hash": "ed1daf0bf001b61586d9930840f2f1394092c079",
+    "hex": 263938,
+    "major": 4,
+    "minor": 7,
+    "patch": 2,
+    "status": "stable",
+    "string": "4.7.2-stable (official)",
+    "timestamp": 0
+  },
+  "iterations_per_case": 30,
+  "max_bands_per_cached_object": 82,
+  "native_texture_cache_entries": 34,
+  "scenes": [
+    {
+      "camera": [
+        0.0,
+        250.0
+      ],
+      "depth_step_world_units": 0.25,
+      "full_world_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 5201,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 5141,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 30,
+        "maximum_ms": 93.96,
+        "mean_ms": 58.4691666666667,
+        "median_ms": 55.07,
+        "minimum_ms": 43.528,
+        "p95_ms": 74.439,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      },
+      "player": [
+        360.0,
+        760.0
+      ],
+      "scene": "camp",
+      "visible_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 3032,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 2972,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 30,
+        "maximum_ms": 25.905,
+        "mean_ms": 24.7111,
+        "median_ms": 24.617,
+        "minimum_ms": 23.668,
+        "p95_ms": 25.614,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      }
+    },
+    {
+      "camera": [
+        1050.0,
+        650.0
+      ],
+      "depth_step_world_units": 0.25,
+      "full_world_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 5201,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 5141,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 30,
+        "maximum_ms": 49.211,
+        "mean_ms": 46.6445333333333,
+        "median_ms": 46.69,
+        "minimum_ms": 44.889,
+        "p95_ms": 47.259,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      },
+      "player": [
+        1550.0,
+        1100.0
+      ],
+      "scene": "forest",
+      "visible_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 1417,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 1357,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 30,
+        "maximum_ms": 16.379,
+        "mean_ms": 14.2436666666667,
+        "median_ms": 14.383,
+        "minimum_ms": 12.509,
+        "p95_ms": 16.177,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      }
+    },
+    {
+      "camera": [
+        650.0,
+        200.0
+      ],
+      "depth_step_world_units": 0.25,
+      "full_world_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 5201,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 5141,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 30,
+        "maximum_ms": 50.694,
+        "mean_ms": 46.6202333333333,
+        "median_ms": 46.267,
+        "minimum_ms": 43.867,
+        "p95_ms": 49.536,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      },
+      "player": [
+        1000.0,
+        625.0
+      ],
+      "scene": "pond",
+      "visible_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 2733,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 2673,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 30,
+        "maximum_ms": 27.785,
+        "mean_ms": 22.1539,
+        "median_ms": 21.795,
+        "minimum_ms": 20.221,
+        "p95_ms": 26.789,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      }
+    },
+    {
+      "camera": [
+        0.0,
+        250.0
+      ],
+      "depth_step_world_units": 0.5,
+      "full_world_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 3207,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 3147,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 30,
+        "maximum_ms": 30.363,
+        "mean_ms": 27.0571,
+        "median_ms": 26.438,
+        "minimum_ms": 26.169,
+        "p95_ms": 29.334,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      },
+      "player": [
+        360.0,
+        760.0
+      ],
+      "scene": "camp",
+      "visible_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 1926,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 1866,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 30,
+        "maximum_ms": 19.298,
+        "mean_ms": 16.8691,
+        "median_ms": 16.707,
+        "minimum_ms": 15.068,
+        "p95_ms": 18.98,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      }
+    },
+    {
+      "camera": [
+        1050.0,
+        650.0
+      ],
+      "depth_step_world_units": 0.5,
+      "full_world_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 3207,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 3147,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 30,
+        "maximum_ms": 38.015,
+        "mean_ms": 31.1836,
+        "median_ms": 31.12,
+        "minimum_ms": 25.302,
+        "p95_ms": 34.67,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      },
+      "player": [
+        1550.0,
+        1100.0
+      ],
+      "scene": "forest",
+      "visible_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 847,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 787,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 30,
+        "maximum_ms": 7.916,
+        "mean_ms": 7.61166666666667,
+        "median_ms": 7.595,
+        "minimum_ms": 7.369,
+        "p95_ms": 7.885,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      }
+    },
+    {
+      "camera": [
+        650.0,
+        200.0
+      ],
+      "depth_step_world_units": 0.5,
+      "full_world_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 3207,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 3147,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 30,
+        "maximum_ms": 41.853,
+        "mean_ms": 33.0047,
+        "median_ms": 32.475,
+        "minimum_ms": 27.3,
+        "p95_ms": 40.466,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      },
+      "player": [
+        1000.0,
+        625.0
+      ],
+      "scene": "pond",
+      "visible_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 1676,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 1616,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 30,
+        "maximum_ms": 19.249,
+        "mean_ms": 14.1028666666667,
+        "median_ms": 13.503,
+        "minimum_ms": 13.003,
+        "p95_ms": 16.273,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      }
+    },
+    {
+      "camera": [
+        0.0,
+        250.0
+      ],
+      "depth_step_world_units": 1.0,
+      "full_world_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 1803,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 1743,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 30,
+        "maximum_ms": 21.435,
+        "mean_ms": 16.6773,
+        "median_ms": 16.229,
+        "minimum_ms": 14.465,
+        "p95_ms": 20.502,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      },
+      "player": [
+        360.0,
+        760.0
+      ],
+      "scene": "camp",
+      "visible_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 1102,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 1042,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 30,
+        "maximum_ms": 13.154,
+        "mean_ms": 10.2695666666667,
+        "median_ms": 10.074,
+        "minimum_ms": 9.36,
+        "p95_ms": 12.184,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      }
+    },
+    {
+      "camera": [
+        1050.0,
+        650.0
+      ],
+      "depth_step_world_units": 1.0,
+      "full_world_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 1803,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 1743,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 30,
+        "maximum_ms": 20.483,
+        "mean_ms": 17.4002,
+        "median_ms": 17.434,
+        "minimum_ms": 14.934,
+        "p95_ms": 18.92,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      },
+      "player": [
+        1550.0,
+        1100.0
+      ],
+      "scene": "forest",
+      "visible_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 478,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 418,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 30,
+        "maximum_ms": 6.388,
+        "mean_ms": 5.5511,
+        "median_ms": 5.536,
+        "minimum_ms": 4.955,
+        "p95_ms": 6.387,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      }
+    },
+    {
+      "camera": [
+        650.0,
+        200.0
+      ],
+      "depth_step_world_units": 1.0,
+      "full_world_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 1803,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 1743,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 30,
+        "maximum_ms": 17.985,
+        "mean_ms": 16.6895333333333,
+        "median_ms": 17.174,
+        "minimum_ms": 15.052,
+        "p95_ms": 17.877,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      },
+      "player": [
+        1000.0,
+        625.0
+      ],
+      "scene": "pond",
+      "visible_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 957,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 897,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 30,
+        "maximum_ms": 10.922,
+        "mean_ms": 8.55106666666667,
+        "median_ms": 8.345,
+        "minimum_ms": 8.116,
+        "p95_ms": 9.356,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      }
+    },
+    {
+      "camera": [
+        0.0,
+        250.0
+      ],
+      "depth_step_world_units": 2.0,
+      "full_world_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 1065,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 1005,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 30,
+        "maximum_ms": 12.762,
+        "mean_ms": 9.4707,
+        "median_ms": 9.201,
+        "minimum_ms": 8.685,
+        "p95_ms": 11.512,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      },
+      "player": [
+        360.0,
+        760.0
+      ],
+      "scene": "camp",
+      "visible_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 656,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 596,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 30,
+        "maximum_ms": 6.544,
+        "mean_ms": 6.08766666666667,
+        "median_ms": 6.071,
+        "minimum_ms": 5.961,
+        "p95_ms": 6.335,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      }
+    },
+    {
+      "camera": [
+        1050.0,
+        650.0
+      ],
+      "depth_step_world_units": 2.0,
+      "full_world_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 1065,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 1005,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 30,
+        "maximum_ms": 9.393,
+        "mean_ms": 9.1931,
+        "median_ms": 9.192,
+        "minimum_ms": 8.928,
+        "p95_ms": 9.26,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      },
+      "player": [
+        1550.0,
+        1100.0
+      ],
+      "scene": "forest",
+      "visible_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 307,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 247,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 30,
+        "maximum_ms": 3.665,
+        "mean_ms": 3.61343333333333,
+        "median_ms": 3.614,
+        "minimum_ms": 3.511,
+        "p95_ms": 3.655,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      }
+    },
+    {
+      "camera": [
+        650.0,
+        200.0
+      ],
+      "depth_step_world_units": 2.0,
+      "full_world_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 1065,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 1005,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 30,
+        "maximum_ms": 9.27,
+        "mean_ms": 9.18736666666667,
+        "median_ms": 9.192,
+        "minimum_ms": 8.902,
+        "p95_ms": 9.232,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      },
+      "player": [
+        1000.0,
+        625.0
+      ],
+      "scene": "pond",
+      "visible_entries": {
+        "band_cache_after": 109,
+        "band_cache_before": 109,
+        "entry_count": 578,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 518,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 30,
+        "maximum_ms": 5.449,
+        "mean_ms": 5.4105,
+        "median_ms": 5.414,
+        "minimum_ms": 5.228,
+        "p95_ms": 5.447,
+        "texture_builds_after": 34,
+        "texture_builds_before": 34
+      }
+    }
+  ],
+  "scope": "TEST-ONLY cache re-quantization; no runtime file edits. Cached CPU paint_entries construction and sort in native-source-texture runtime. No Canvas command recorder, GPU rendering, physical display, frame time or FPS measurement. Single local headless run; timing varies with concurrent jobs.",
+  "version": "0.1.5.10",
+  "viewport": [
+    1100.0,
+    720.0
+  ]
+}

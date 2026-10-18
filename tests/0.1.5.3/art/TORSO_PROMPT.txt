@@ -1,0 +1,17 @@
+Use case: style-transfer.
+Asset type: production 2D game puppet torso atlas, TRUE transparent background.
+Image 1 is the APPROVED 2D painted traveler character/style. Image 2 is ONLY the exact body/head/backpack yaw and silhouette reference, with arms and legs deliberately omitted. Image 3 is approved painted environment style.
+
+Create a 4 columns x 4 rows sheet of 16 ARMLESS AND LEGLESS traveler TORSO cutouts, on real transparent alpha. Each cutout contains ONLY head, blue beanie + gold pompom, tiny rough dot eyes, orange hair, mustard coat body down to its rounded bottom hem, and olive backpack + bedroll. No arms, sleeves hanging outside body, hands, fingers, legs, trousers, boots, weapon, shadows, backdrop, paper, text, labels or grid lines. Arms and legs will be attached by the game animation rig; adding any here creates duplicate limbs. The yellow coat is a compact body garment with shoulders ready for separate sleeve attachment, not a long dress.
+
+Exact same cozy 2D oil/gouache style and proportions as image 1: broad irregular opaque brush masses, few features, matte flat paint, tiny rough eyes, warm ochre coat, teal-blue hat, olive pack. NOT a 3D model, realistic volume, plastic, smooth shading or fine realistic texture. Image 2 must be REPAINTED in image 1's art style, do not retain its rendering appearance. No shiny outlines or glow.
+
+Follow the exact yaw in each corresponding cell of image 2. Left-to-right then top-to-bottom:
+0,30,45,60 / 90,120,135,150 / 180,210,225,240 / 270,300,315,330.
+0 front face; 90 profile facing RIGHT; 180 back; 270 profile facing LEFT.
+120,135,150 are rear views turned to screen RIGHT, diminishing cheek on RIGHT, not left.
+210,225,240 are rear views turned to screen LEFT, cheek on LEFT, not right.
+30 and 330 are shallow turns near front; 45 and315 diagonals; 60 and300 approach profiles.
+Head, torso, coat and backpack turn together, keep angle changes subtle and true, never accidentally reverse rear views.
+
+Sixteen evenly spaced complete cutouts at equal scale. Keep every torso fully isolated within its own cell with generous transparent margins. Pompom/face/coat all connected as one character cutout; preserve rough hand-painted edges and actual alpha. No baked ground shadow or foot circle. No new costume, accessories or design changes.

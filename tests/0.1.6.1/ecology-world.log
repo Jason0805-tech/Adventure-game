@@ -1,0 +1,18 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+GAME_READY 0.1.6.1
+WILDLIFE_WORLD phase=day seed=16 count=9
+WILDLIFE_WORLD phase=dusk seed=16 count=2
+WILDLIFE_WORLD phase=night seed=16 count=4
+WILDLIFE_WORLD phase=day seed=16 count=9
+WILDLIFE_WORLD phase=day seed=157 count=9
+WILDLIFE_WORLD phase=dusk seed=157 count=2
+WILDLIFE_WORLD phase=night seed=157 count=4
+WILDLIFE_WORLD phase=day seed=157 count=9
+WILDLIFE_WORLD phase=day seed=516 count=9
+WILDLIFE_WORLD phase=dusk seed=516 count=2
+WILDLIFE_WORLD phase=night seed=516 count=4
+WILDLIFE_WORLD phase=day seed=516 count=9
+WILDLIFE_WORLD_RESULT checks=54377 failures=0 max_live=9 moved_species=["rabbit", "deer", "fox", "wolf", "bear"]

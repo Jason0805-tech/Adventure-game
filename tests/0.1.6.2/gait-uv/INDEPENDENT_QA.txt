@@ -1,0 +1,18 @@
+Independent compiled native-paint gait audit — 0.1.6.2
+
+Final frozen production hashes:
+animal_gait.gd f677cf03232c3aacde6dfe1cc002dd6fbacfa4b301857e1c8cc3396a8796d97b
+assets/animal_atlas.json c1710d7b98fd88a5d7987679d8dbebc9287df5a54bd9b8046bca0362cde37a38
+assets/animal-skin-topology.bin 6559021db0830595ca751d316875e84e92b9b968e2f7023eee8debbca920ca98
+
+PASS: 40 headings; 35,138 moving native vertices; 35,342 idle-identity/wrap/signature checks.
+PASS: 634,398 original alpha-painted source pixel centers covered; no painted source holes or interior overlaps; source UVs match original atlas registration.
+PASS: 827,000 visible native triangle/phase checks; zero inversions and zero collapses. Body/leg seam underlap quads intentionally have zero source UV area and are excluded from native-paint partition metrics.
+PASS: 45,804 actual stance sole samples; maximum additional ground-profile excess is 0.198915 world units. Raised source feet and preexisting original painted fur excess are recorded separately, not used to enlarge physical profiles.
+PASS: independent continuous stance range check on 121 original contacting paws: maximum additional excess 0.198911 world units. The phase range is bounded by its two support endpoints and any vertical-cap hinge, using the production affine 4px skin weights.
+PASS: 5 native animal PNG files remain byte-identical to 0.1.6. Eight ecology, NPC, ground/collision, inventory/items and lighting modules remain byte-identical to 0.1.6.1.
+
+Moving-only source registration patch: final-ground-bias-patch.json, 31 rest_shift corrections merged by gait agent. Original paw size/shape, requested reach, source RGBA and all physical ground footprints remain unchanged.
+
+Authoritative results: independent-compiled-skin-audit.json/.log; independent-export.log; final-ground-bias-verification.json/.log.
+Diagnostic only: potential_static_paw_pixels can include adjacent fur or deliberately excluded part of a broad annotation. It is not itself proof of a visible spur. Final native Canvas captures require separate visual review; these numeric checks are not a manual gameplay/native-GPU playthrough.

@@ -1,0 +1,2130 @@
+{
+  "version": "0.1.5.11",
+  "method": "Native source-art points manually selected before reading or executing new collision contours. Physical expectation is top-down ground volume, not opaque visual silhouette. Tall upper wood/roof/table/arch pixels are explicitly negative tests. All 48 exported profiles, all 17 shoreline stones. Current field branch/fiber and spent nodes intentionally soft. Actor-capsule-free assertions are separate from source center coverage. Initial five root points were found on low foliage after independent 4x source inspection; retained as center-negative, with new bare-wood points added. Initial failed report is preserved.",
+  "samples": [
+    {
+      "profile": "tree_0",
+      "part": "grounded_trunk_root",
+      "source_px": [
+        270,
+        445
+      ],
+      "source_size": [
+        506,
+        534
+      ],
+      "uv": [
+        0.5335968379446641,
+        0.8333333333333334
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "tree_0",
+      "part": "low_foliage_in_front_of_root",
+      "source_px": [
+        250,
+        483
+      ],
+      "source_size": [
+        506,
+        534
+      ],
+      "uv": [
+        0.49407114624505927,
+        0.9044943820224719
+      ],
+      "expect": "free",
+      "capsule_clear": false
+    },
+    {
+      "profile": "tree_0",
+      "part": "elevated_bark_or_fork",
+      "source_px": [
+        283,
+        250
+      ],
+      "source_size": [
+        506,
+        534
+      ],
+      "uv": [
+        0.5592885375494071,
+        0.4681647940074906
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "tree_0",
+      "part": "upper_leaf_canopy",
+      "source_px": [
+        328.90000000000003,
+        117.48
+      ],
+      "source_size": [
+        506,
+        534
+      ],
+      "uv": [
+        0.65,
+        0.22
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "tree_1",
+      "part": "grounded_trunk_root",
+      "source_px": [
+        225,
+        430
+      ],
+      "source_size": [
+        434,
+        526
+      ],
+      "uv": [
+        0.5184331797235023,
+        0.8174904942965779
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "tree_1",
+      "part": "low_foliage_in_front_of_root",
+      "source_px": [
+        226,
+        475
+      ],
+      "source_size": [
+        434,
+        526
+      ],
+      "uv": [
+        0.5207373271889401,
+        0.903041825095057
+      ],
+      "expect": "free",
+      "capsule_clear": false
+    },
+    {
+      "profile": "tree_1",
+      "part": "elevated_bark_or_fork",
+      "source_px": [
+        204,
+        345
+      ],
+      "source_size": [
+        434,
+        526
+      ],
+      "uv": [
+        0.4700460829493088,
+        0.655893536121673
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "tree_1",
+      "part": "upper_leaf_canopy",
+      "source_px": [
+        282.1,
+        115.72
+      ],
+      "source_size": [
+        434,
+        526
+      ],
+      "uv": [
+        0.65,
+        0.22
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "tree_2",
+      "part": "grounded_trunk_root",
+      "source_px": [
+        195,
+        440
+      ],
+      "source_size": [
+        444,
+        534
+      ],
+      "uv": [
+        0.4391891891891892,
+        0.8239700374531835
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "tree_2",
+      "part": "low_foliage_in_front_of_root",
+      "source_px": [
+        190,
+        485
+      ],
+      "source_size": [
+        444,
+        534
+      ],
+      "uv": [
+        0.42792792792792794,
+        0.9082397003745318
+      ],
+      "expect": "free",
+      "capsule_clear": false
+    },
+    {
+      "profile": "tree_2",
+      "part": "elevated_bark_or_fork",
+      "source_px": [
+        254,
+        170
+      ],
+      "source_size": [
+        444,
+        534
+      ],
+      "uv": [
+        0.5720720720720721,
+        0.31835205992509363
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "tree_2",
+      "part": "upper_leaf_canopy",
+      "source_px": [
+        288.6,
+        117.48
+      ],
+      "source_size": [
+        444,
+        534
+      ],
+      "uv": [
+        0.65,
+        0.22
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "tree_3",
+      "part": "grounded_trunk_root",
+      "source_px": [
+        218,
+        350
+      ],
+      "source_size": [
+        444,
+        426
+      ],
+      "uv": [
+        0.49099099099099097,
+        0.8215962441314554
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "tree_3",
+      "part": "low_foliage_in_front_of_root",
+      "source_px": [
+        225,
+        387
+      ],
+      "source_size": [
+        444,
+        426
+      ],
+      "uv": [
+        0.5067567567567568,
+        0.9084507042253521
+      ],
+      "expect": "free",
+      "capsule_clear": false
+    },
+    {
+      "profile": "tree_3",
+      "part": "elevated_bark_or_fork",
+      "source_px": [
+        235,
+        223
+      ],
+      "source_size": [
+        444,
+        426
+      ],
+      "uv": [
+        0.5292792792792793,
+        0.5234741784037559
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "tree_3",
+      "part": "upper_leaf_canopy",
+      "source_px": [
+        288.6,
+        93.72
+      ],
+      "source_size": [
+        444,
+        426
+      ],
+      "uv": [
+        0.65,
+        0.22
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "tree_4",
+      "part": "grounded_trunk_root",
+      "source_px": [
+        150,
+        440
+      ],
+      "source_size": [
+        318,
+        506
+      ],
+      "uv": [
+        0.4716981132075472,
+        0.8695652173913043
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "tree_4",
+      "part": "elevated_bark_or_fork",
+      "source_px": [
+        164,
+        300
+      ],
+      "source_size": [
+        318,
+        506
+      ],
+      "uv": [
+        0.5157232704402516,
+        0.5928853754940712
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "tree_4",
+      "part": "upper_leaf_canopy",
+      "source_px": [
+        206.70000000000002,
+        111.32000000000001
+      ],
+      "source_size": [
+        318,
+        506
+      ],
+      "uv": [
+        0.65,
+        0.22
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "tree_5",
+      "part": "grounded_trunk_root",
+      "source_px": [
+        232,
+        438
+      ],
+      "source_size": [
+        416,
+        500
+      ],
+      "uv": [
+        0.5576923076923077,
+        0.876
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "tree_5",
+      "part": "low_foliage_in_front_of_root",
+      "source_px": [
+        224,
+        460
+      ],
+      "source_size": [
+        416,
+        500
+      ],
+      "uv": [
+        0.5384615384615384,
+        0.92
+      ],
+      "expect": "free",
+      "capsule_clear": false
+    },
+    {
+      "profile": "tree_5",
+      "part": "elevated_bark_or_fork",
+      "source_px": [
+        203,
+        174
+      ],
+      "source_size": [
+        416,
+        500
+      ],
+      "uv": [
+        0.4879807692307692,
+        0.348
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "tree_5",
+      "part": "upper_leaf_canopy",
+      "source_px": [
+        270.40000000000003,
+        110.0
+      ],
+      "source_size": [
+        416,
+        500
+      ],
+      "uv": [
+        0.6500000000000001,
+        0.22
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "shrub_0",
+      "part": "root_core",
+      "source_px": [
+        208.08,
+        265.68
+      ],
+      "source_size": [
+        408,
+        328
+      ],
+      "uv": [
+        0.51,
+        0.81
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "shrub_0",
+      "part": "elevated_leaf_spread",
+      "source_px": [
+        195.84,
+        65.60000000000001
+      ],
+      "source_size": [
+        408,
+        328
+      ],
+      "uv": [
+        0.48,
+        0.20000000000000004
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "shrub_1",
+      "part": "root_core",
+      "source_px": [
+        216.24,
+        220.32000000000002
+      ],
+      "source_size": [
+        424,
+        272
+      ],
+      "uv": [
+        0.51,
+        0.81
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "shrub_1",
+      "part": "elevated_leaf_spread",
+      "source_px": [
+        203.51999999999998,
+        54.400000000000006
+      ],
+      "source_size": [
+        424,
+        272
+      ],
+      "uv": [
+        0.48,
+        0.2
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "shrub_2",
+      "part": "root_core",
+      "source_px": [
+        219.3,
+        178.20000000000002
+      ],
+      "source_size": [
+        430,
+        220
+      ],
+      "uv": [
+        0.51,
+        0.81
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "shrub_2",
+      "part": "elevated_leaf_spread",
+      "source_px": [
+        206.4,
+        44.0
+      ],
+      "source_size": [
+        430,
+        220
+      ],
+      "uv": [
+        0.48000000000000004,
+        0.2
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "shrub_3",
+      "part": "root_core",
+      "source_px": [
+        186.66,
+        186.3
+      ],
+      "source_size": [
+        366,
+        230
+      ],
+      "uv": [
+        0.51,
+        0.81
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "shrub_3",
+      "part": "elevated_leaf_spread",
+      "source_px": [
+        175.68,
+        46.0
+      ],
+      "source_size": [
+        366,
+        230
+      ],
+      "uv": [
+        0.48000000000000004,
+        0.2
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "cabin",
+      "part": "closed_door_ground_volume",
+      "source_px": [
+        368,
+        367
+      ],
+      "source_size": [
+        572,
+        498
+      ],
+      "uv": [
+        0.6433566433566433,
+        0.7369477911646586
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "cabin",
+      "part": "left_wall_ground_volume",
+      "source_px": [
+        175,
+        359
+      ],
+      "source_size": [
+        572,
+        498
+      ],
+      "uv": [
+        0.30594405594405594,
+        0.7208835341365462
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "cabin",
+      "part": "front_step_ground_volume",
+      "source_px": [
+        427,
+        446
+      ],
+      "source_size": [
+        572,
+        498
+      ],
+      "uv": [
+        0.7465034965034965,
+        0.8955823293172691
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "cabin",
+      "part": "lowest_step_front",
+      "source_px": [
+        396,
+        460
+      ],
+      "source_size": [
+        572,
+        498
+      ],
+      "uv": [
+        0.6923076923076923,
+        0.9236947791164659
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "cabin",
+      "part": "ground_below_oblique_step",
+      "source_px": [
+        396,
+        480
+      ],
+      "source_size": [
+        572,
+        498
+      ],
+      "uv": [
+        0.6923076923076923,
+        0.963855421686747
+      ],
+      "expect": "free",
+      "capsule_clear": false
+    },
+    {
+      "profile": "cabin",
+      "part": "elevated_chimney",
+      "source_px": [
+        158,
+        40
+      ],
+      "source_size": [
+        572,
+        498
+      ],
+      "uv": [
+        0.2762237762237762,
+        0.08032128514056225
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "cabin",
+      "part": "elevated_roof",
+      "source_px": [
+        297,
+        174
+      ],
+      "source_size": [
+        572,
+        498
+      ],
+      "uv": [
+        0.5192307692307693,
+        0.3493975903614458
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "prop_0",
+      "part": "closed_door_ground_volume",
+      "source_px": [
+        368,
+        367
+      ],
+      "source_size": [
+        572,
+        498
+      ],
+      "uv": [
+        0.6433566433566433,
+        0.7369477911646586
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "prop_0",
+      "part": "left_wall_ground_volume",
+      "source_px": [
+        175,
+        359
+      ],
+      "source_size": [
+        572,
+        498
+      ],
+      "uv": [
+        0.30594405594405594,
+        0.7208835341365462
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "prop_0",
+      "part": "front_step_ground_volume",
+      "source_px": [
+        427,
+        446
+      ],
+      "source_size": [
+        572,
+        498
+      ],
+      "uv": [
+        0.7465034965034965,
+        0.8955823293172691
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "prop_0",
+      "part": "lowest_step_front",
+      "source_px": [
+        396,
+        460
+      ],
+      "source_size": [
+        572,
+        498
+      ],
+      "uv": [
+        0.6923076923076923,
+        0.9236947791164659
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "prop_0",
+      "part": "ground_below_oblique_step",
+      "source_px": [
+        396,
+        480
+      ],
+      "source_size": [
+        572,
+        498
+      ],
+      "uv": [
+        0.6923076923076923,
+        0.963855421686747
+      ],
+      "expect": "free",
+      "capsule_clear": false
+    },
+    {
+      "profile": "prop_0",
+      "part": "elevated_chimney",
+      "source_px": [
+        158,
+        40
+      ],
+      "source_size": [
+        572,
+        498
+      ],
+      "uv": [
+        0.2762237762237762,
+        0.08032128514056225
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "prop_0",
+      "part": "elevated_roof",
+      "source_px": [
+        297,
+        174
+      ],
+      "source_size": [
+        572,
+        498
+      ],
+      "uv": [
+        0.5192307692307693,
+        0.3493975903614458
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "gate",
+      "part": "left_masonry_foot",
+      "source_px": [
+        91,
+        284
+      ],
+      "source_size": [
+        468,
+        396
+      ],
+      "uv": [
+        0.19444444444444445,
+        0.7171717171717171
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "gate",
+      "part": "right_masonry_foot",
+      "source_px": [
+        348,
+        334
+      ],
+      "source_size": [
+        468,
+        396
+      ],
+      "uv": [
+        0.7435897435897436,
+        0.8434343434343434
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "gate",
+      "part": "opening_center",
+      "source_px": [
+        235,
+        240
+      ],
+      "source_size": [
+        468,
+        396
+      ],
+      "uv": [
+        0.5021367521367521,
+        0.6060606060606061
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "gate",
+      "part": "overhead_lintel",
+      "source_px": [
+        230,
+        55
+      ],
+      "source_size": [
+        468,
+        396
+      ],
+      "uv": [
+        0.49145299145299143,
+        0.1388888888888889
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "prop_1",
+      "part": "lower_solid_body",
+      "source_px": [
+        181.56,
+        193.5
+      ],
+      "source_size": [
+        356,
+        258
+      ],
+      "uv": [
+        0.51,
+        0.75
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "prop_1",
+      "part": "upper_wood_or_lid",
+      "source_px": [
+        170.88,
+        46.44
+      ],
+      "source_size": [
+        356,
+        258
+      ],
+      "uv": [
+        0.48,
+        0.18
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "prop_2",
+      "part": "lower_solid_body",
+      "source_px": [
+        205.02,
+        219.0
+      ],
+      "source_size": [
+        402,
+        292
+      ],
+      "uv": [
+        0.51,
+        0.75
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "prop_2",
+      "part": "upper_wood_or_lid",
+      "source_px": [
+        192.95999999999998,
+        52.559999999999995
+      ],
+      "source_size": [
+        402,
+        292
+      ],
+      "uv": [
+        0.4799999999999999,
+        0.18
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "prop_3",
+      "part": "lower_solid_body",
+      "source_px": [
+        185.64000000000001,
+        237.0
+      ],
+      "source_size": [
+        364,
+        316
+      ],
+      "uv": [
+        0.51,
+        0.75
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "prop_3",
+      "part": "upper_wood_or_lid",
+      "source_px": [
+        174.72,
+        56.879999999999995
+      ],
+      "source_size": [
+        364,
+        316
+      ],
+      "uv": [
+        0.48,
+        0.18
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "prop_4",
+      "part": "lower_solid_body",
+      "source_px": [
+        192.78,
+        234.0
+      ],
+      "source_size": [
+        378,
+        312
+      ],
+      "uv": [
+        0.51,
+        0.75
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "prop_4",
+      "part": "upper_wood_or_lid",
+      "source_px": [
+        181.44,
+        56.16
+      ],
+      "source_size": [
+        378,
+        312
+      ],
+      "uv": [
+        0.48,
+        0.18
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "prop_5",
+      "part": "lower_solid_body",
+      "source_px": [
+        165.24,
+        180.0
+      ],
+      "source_size": [
+        324,
+        240
+      ],
+      "uv": [
+        0.51,
+        0.75
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "prop_5",
+      "part": "upper_wood_or_lid",
+      "source_px": [
+        155.51999999999998,
+        43.199999999999996
+      ],
+      "source_size": [
+        324,
+        240
+      ],
+      "uv": [
+        0.4799999999999999,
+        0.18
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "bench",
+      "part": "left_support_ground",
+      "source_px": [
+        119,
+        298
+      ],
+      "source_size": [
+        464,
+        378
+      ],
+      "uv": [
+        0.25646551724137934,
+        0.7883597883597884
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "bench",
+      "part": "right_support_ground",
+      "source_px": [
+        329,
+        297
+      ],
+      "source_size": [
+        464,
+        378
+      ],
+      "uv": [
+        0.709051724137931,
+        0.7857142857142857
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "bench",
+      "part": "lower_crossbrace",
+      "source_px": [
+        241,
+        294
+      ],
+      "source_size": [
+        464,
+        378
+      ],
+      "uv": [
+        0.5193965517241379,
+        0.7777777777777778
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "bench",
+      "part": "elevated_tools_tabletop",
+      "source_px": [
+        239,
+        166
+      ],
+      "source_size": [
+        464,
+        378
+      ],
+      "uv": [
+        0.5150862068965517,
+        0.43915343915343913
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "bench",
+      "part": "elevated_rear_post",
+      "source_px": [
+        108,
+        77
+      ],
+      "source_size": [
+        464,
+        378
+      ],
+      "uv": [
+        0.23275862068965517,
+        0.2037037037037037
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "stump_0",
+      "part": "lower_wood_root",
+      "source_px": [
+        241.74,
+        270.18
+      ],
+      "source_size": [
+        474,
+        342
+      ],
+      "uv": [
+        0.51,
+        0.79
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "stump_0",
+      "part": "elevated_cut_face",
+      "source_px": [
+        241.74,
+        68.4
+      ],
+      "source_size": [
+        474,
+        342
+      ],
+      "uv": [
+        0.51,
+        0.2
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "stump_1",
+      "part": "lower_wood_root",
+      "source_px": [
+        204.0,
+        268.6
+      ],
+      "source_size": [
+        400,
+        340
+      ],
+      "uv": [
+        0.51,
+        0.79
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "stump_1",
+      "part": "elevated_cut_face",
+      "source_px": [
+        204.0,
+        68.0
+      ],
+      "source_size": [
+        400,
+        340
+      ],
+      "uv": [
+        0.51,
+        0.2
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "ore_0",
+      "part": "main_boulder_ground",
+      "source_px": [
+        268.8,
+        228.0
+      ],
+      "source_size": [
+        448,
+        300
+      ],
+      "uv": [
+        0.6,
+        0.76
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "ore_0",
+      "part": "foreground_boulder_ground",
+      "source_px": [
+        125.44000000000001,
+        240.0
+      ],
+      "source_size": [
+        448,
+        300
+      ],
+      "uv": [
+        0.28,
+        0.8
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "ore_0",
+      "part": "elevated_peak",
+      "source_px": [
+        246.40000000000003,
+        45.0
+      ],
+      "source_size": [
+        448,
+        300
+      ],
+      "uv": [
+        0.55,
+        0.15
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "ore_1",
+      "part": "main_boulder_ground",
+      "source_px": [
+        255.6,
+        272.08
+      ],
+      "source_size": [
+        426,
+        358
+      ],
+      "uv": [
+        0.6,
+        0.76
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "ore_1",
+      "part": "foreground_boulder_ground",
+      "source_px": [
+        119.28000000000002,
+        286.40000000000003
+      ],
+      "source_size": [
+        426,
+        358
+      ],
+      "uv": [
+        0.28,
+        0.8
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "ore_1",
+      "part": "elevated_peak",
+      "source_px": [
+        234.3,
+        53.699999999999996
+      ],
+      "source_size": [
+        426,
+        358
+      ],
+      "uv": [
+        0.55,
+        0.15
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "ore_2",
+      "part": "main_boulder_ground",
+      "source_px": [
+        252.0,
+        226.48
+      ],
+      "source_size": [
+        420,
+        298
+      ],
+      "uv": [
+        0.6,
+        0.76
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "ore_2",
+      "part": "foreground_boulder_ground",
+      "source_px": [
+        117.60000000000001,
+        238.4
+      ],
+      "source_size": [
+        420,
+        298
+      ],
+      "uv": [
+        0.28,
+        0.8
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "ore_2",
+      "part": "elevated_peak",
+      "source_px": [
+        231.00000000000003,
+        44.699999999999996
+      ],
+      "source_size": [
+        420,
+        298
+      ],
+      "uv": [
+        0.55,
+        0.15
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "resource_branch_0",
+      "part": "soft_collectible_or_remnant",
+      "source_px": [
+        137.5,
+        192.75
+      ],
+      "source_size": [
+        275,
+        257
+      ],
+      "uv": [
+        0.5,
+        0.75
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "resource_branch_1",
+      "part": "soft_collectible_or_remnant",
+      "source_px": [
+        132.0,
+        183.0
+      ],
+      "source_size": [
+        264,
+        244
+      ],
+      "uv": [
+        0.5,
+        0.75
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "resource_branch_2",
+      "part": "soft_collectible_or_remnant",
+      "source_px": [
+        136.0,
+        200.25
+      ],
+      "source_size": [
+        272,
+        267
+      ],
+      "uv": [
+        0.5,
+        0.75
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "resource_branch_spent_0",
+      "part": "soft_collectible_or_remnant",
+      "source_px": [
+        107.0,
+        124.5
+      ],
+      "source_size": [
+        214,
+        166
+      ],
+      "uv": [
+        0.5,
+        0.75
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "resource_branch_spent_1",
+      "part": "soft_collectible_or_remnant",
+      "source_px": [
+        98.0,
+        114.0
+      ],
+      "source_size": [
+        196,
+        152
+      ],
+      "uv": [
+        0.5,
+        0.75
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "resource_branch_spent_2",
+      "part": "soft_collectible_or_remnant",
+      "source_px": [
+        108.0,
+        117.0
+      ],
+      "source_size": [
+        216,
+        156
+      ],
+      "uv": [
+        0.5,
+        0.75
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "resource_rock_0",
+      "part": "small_rock_ground",
+      "source_px": [
+        135.0,
+        160.5
+      ],
+      "source_size": [
+        270,
+        214
+      ],
+      "uv": [
+        0.5,
+        0.75
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "resource_rock_1",
+      "part": "small_rock_ground",
+      "source_px": [
+        113.0,
+        162.0
+      ],
+      "source_size": [
+        226,
+        216
+      ],
+      "uv": [
+        0.5,
+        0.75
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "resource_rock_2",
+      "part": "small_rock_ground",
+      "source_px": [
+        133.0,
+        157.5
+      ],
+      "source_size": [
+        266,
+        210
+      ],
+      "uv": [
+        0.5,
+        0.75
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "resource_rock_spent_0",
+      "part": "soft_collectible_or_remnant",
+      "source_px": [
+        121.0,
+        120.0
+      ],
+      "source_size": [
+        242,
+        160
+      ],
+      "uv": [
+        0.5,
+        0.75
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "resource_rock_spent_1",
+      "part": "soft_collectible_or_remnant",
+      "source_px": [
+        115.0,
+        105.0
+      ],
+      "source_size": [
+        230,
+        140
+      ],
+      "uv": [
+        0.5,
+        0.75
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "resource_rock_spent_2",
+      "part": "soft_collectible_or_remnant",
+      "source_px": [
+        115.0,
+        127.5
+      ],
+      "source_size": [
+        230,
+        170
+      ],
+      "uv": [
+        0.5,
+        0.75
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "resource_rope_0",
+      "part": "soft_collectible_or_remnant",
+      "source_px": [
+        116.0,
+        222.0
+      ],
+      "source_size": [
+        232,
+        296
+      ],
+      "uv": [
+        0.5,
+        0.75
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "resource_rope_1",
+      "part": "soft_collectible_or_remnant",
+      "source_px": [
+        115.0,
+        252.0
+      ],
+      "source_size": [
+        230,
+        336
+      ],
+      "uv": [
+        0.5,
+        0.75
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "resource_rope_2",
+      "part": "soft_collectible_or_remnant",
+      "source_px": [
+        114.0,
+        210.0
+      ],
+      "source_size": [
+        228,
+        280
+      ],
+      "uv": [
+        0.5,
+        0.75
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "resource_rope_spent_0",
+      "part": "soft_collectible_or_remnant",
+      "source_px": [
+        112.0,
+        109.5
+      ],
+      "source_size": [
+        224,
+        146
+      ],
+      "uv": [
+        0.5,
+        0.75
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "resource_rope_spent_1",
+      "part": "soft_collectible_or_remnant",
+      "source_px": [
+        104.0,
+        94.5
+      ],
+      "source_size": [
+        208,
+        126
+      ],
+      "uv": [
+        0.5,
+        0.75
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "resource_rope_spent_2",
+      "part": "soft_collectible_or_remnant",
+      "source_px": [
+        108.0,
+        96.0
+      ],
+      "source_size": [
+        216,
+        128
+      ],
+      "uv": [
+        0.5,
+        0.75
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "pond_0_rocks",
+      "part": "shore_stone_0_ground",
+      "source_px": [
+        205,
+        83
+      ],
+      "source_size": [
+        571,
+        404
+      ],
+      "uv": [
+        0.35901926444833626,
+        0.20544554455445543
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "pond_0_rocks",
+      "part": "shore_stone_1_ground",
+      "source_px": [
+        454,
+        136
+      ],
+      "source_size": [
+        571,
+        404
+      ],
+      "uv": [
+        0.7950963222416813,
+        0.33663366336633666
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "pond_0_rocks",
+      "part": "shore_stone_2_ground",
+      "source_px": [
+        403,
+        102
+      ],
+      "source_size": [
+        571,
+        404
+      ],
+      "uv": [
+        0.7057793345008757,
+        0.2524752475247525
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "pond_0_rocks",
+      "part": "shore_stone_3_ground",
+      "source_px": [
+        88,
+        152
+      ],
+      "source_size": [
+        571,
+        404
+      ],
+      "uv": [
+        0.15411558669001751,
+        0.37623762376237624
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "pond_0_rocks",
+      "part": "shore_stone_4_ground",
+      "source_px": [
+        98,
+        320
+      ],
+      "source_size": [
+        571,
+        404
+      ],
+      "uv": [
+        0.17162872154115585,
+        0.7920792079207921
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "pond_0_rocks",
+      "part": "shore_stone_5_ground",
+      "source_px": [
+        221,
+        360
+      ],
+      "source_size": [
+        571,
+        404
+      ],
+      "uv": [
+        0.38704028021015763,
+        0.8910891089108911
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "pond_0_rocks",
+      "part": "shore_stone_6_ground",
+      "source_px": [
+        397,
+        369
+      ],
+      "source_size": [
+        571,
+        404
+      ],
+      "uv": [
+        0.6952714535901926,
+        0.9133663366336634
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "pond_0",
+      "part": "water_center",
+      "source_px": [
+        280,
+        200
+      ],
+      "source_size": [
+        571,
+        404
+      ],
+      "uv": [
+        0.4903677758318739,
+        0.49504950495049505
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "pond_0",
+      "part": "upper_reeds_on_passable_land",
+      "source_px": [
+        302,
+        15
+      ],
+      "source_size": [
+        571,
+        404
+      ],
+      "uv": [
+        0.5288966725043783,
+        0.03712871287128713
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "pond_1_rocks",
+      "part": "shore_stone_0_ground",
+      "source_px": [
+        209,
+        90
+      ],
+      "source_size": [
+        601,
+        426
+      ],
+      "uv": [
+        0.34775374376039936,
+        0.2112676056338028
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "pond_1_rocks",
+      "part": "shore_stone_1_ground",
+      "source_px": [
+        453,
+        130
+      ],
+      "source_size": [
+        601,
+        426
+      ],
+      "uv": [
+        0.7537437603993344,
+        0.3051643192488263
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "pond_1_rocks",
+      "part": "shore_stone_2_ground",
+      "source_px": [
+        64,
+        257
+      ],
+      "source_size": [
+        601,
+        426
+      ],
+      "uv": [
+        0.1064891846921797,
+        0.6032863849765259
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "pond_1_rocks",
+      "part": "shore_stone_3_ground",
+      "source_px": [
+        126,
+        335
+      ],
+      "source_size": [
+        601,
+        426
+      ],
+      "uv": [
+        0.2096505823627288,
+        0.7863849765258216
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "pond_1_rocks",
+      "part": "shore_stone_4_ground",
+      "source_px": [
+        214,
+        356
+      ],
+      "source_size": [
+        601,
+        426
+      ],
+      "uv": [
+        0.3560732113144759,
+        0.8356807511737089
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "pond_1",
+      "part": "water_center",
+      "source_px": [
+        300,
+        215
+      ],
+      "source_size": [
+        601,
+        426
+      ],
+      "uv": [
+        0.49916805324459235,
+        0.5046948356807511
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "pond_1",
+      "part": "upper_reeds_on_passable_land",
+      "source_px": [
+        280,
+        15
+      ],
+      "source_size": [
+        601,
+        426
+      ],
+      "uv": [
+        0.46589018302828616,
+        0.035211267605633804
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    },
+    {
+      "profile": "pond_2_rocks",
+      "part": "shore_stone_0_ground",
+      "source_px": [
+        402,
+        215
+      ],
+      "source_size": [
+        472,
+        390
+      ],
+      "uv": [
+        0.8516949152542372,
+        0.5512820512820513
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "pond_2_rocks",
+      "part": "shore_stone_1_ground",
+      "source_px": [
+        314,
+        368
+      ],
+      "source_size": [
+        472,
+        390
+      ],
+      "uv": [
+        0.6652542372881356,
+        0.9435897435897436
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "pond_2_rocks",
+      "part": "shore_stone_2_ground",
+      "source_px": [
+        94,
+        315
+      ],
+      "source_size": [
+        472,
+        390
+      ],
+      "uv": [
+        0.19915254237288135,
+        0.8076923076923077
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "pond_2_rocks",
+      "part": "shore_stone_3_ground",
+      "source_px": [
+        321,
+        178
+      ],
+      "source_size": [
+        472,
+        390
+      ],
+      "uv": [
+        0.6800847457627118,
+        0.4564102564102564
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "pond_2_rocks",
+      "part": "shore_stone_4_ground",
+      "source_px": [
+        369,
+        241
+      ],
+      "source_size": [
+        472,
+        390
+      ],
+      "uv": [
+        0.7817796610169492,
+        0.617948717948718
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "pond_2",
+      "part": "water_center",
+      "source_px": [
+        235,
+        210
+      ],
+      "source_size": [
+        472,
+        390
+      ],
+      "uv": [
+        0.4978813559322034,
+        0.5384615384615384
+      ],
+      "expect": "solid",
+      "capsule_clear": true
+    },
+    {
+      "profile": "pond_2",
+      "part": "upper_reeds_on_passable_land",
+      "source_px": [
+        330,
+        12
+      ],
+      "source_size": [
+        472,
+        390
+      ],
+      "uv": [
+        0.6991525423728814,
+        0.03076923076923077
+      ],
+      "expect": "free",
+      "capsule_clear": true
+    }
+  ]
+}

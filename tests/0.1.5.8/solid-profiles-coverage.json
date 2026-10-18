@@ -1,0 +1,3797 @@
+{
+  "source": "Independent hand-picked visual material labels on runtime-trimmed sprites; samples are not generated from polygons.",
+  "policy": "Full visible solid rock/wood/building body, plants excluded. Trees retain trunk/root collision and overhead canopy passage. Gate opening passable.",
+  "profiles": {
+    "cabin": {
+      "sprite": "cabin",
+      "size": [
+        572,
+        498
+      ],
+      "polygon_count": 1,
+      "solid_samples": [
+        {
+          "label": "chimney upper",
+          "uv": [
+            0.29021,
+            0.08032
+          ],
+          "pixel": [
+            166,
+            40
+          ],
+          "covered": true
+        },
+        {
+          "label": "chimney base",
+          "uv": [
+            0.27273,
+            0.18273
+          ],
+          "pixel": [
+            156,
+            91
+          ],
+          "covered": true
+        },
+        {
+          "label": "left roof",
+          "uv": [
+            0.1451,
+            0.31526
+          ],
+          "pixel": [
+            83,
+            157
+          ],
+          "covered": true
+        },
+        {
+          "label": "roof centre",
+          "uv": [
+            0.53497,
+            0.30321
+          ],
+          "pixel": [
+            306,
+            151
+          ],
+          "covered": true
+        },
+        {
+          "label": "roof upper right",
+          "uv": [
+            0.73252,
+            0.11847
+          ],
+          "pixel": [
+            419,
+            59
+          ],
+          "covered": true
+        },
+        {
+          "label": "right roof edge",
+          "uv": [
+            0.87762,
+            0.35743
+          ],
+          "pixel": [
+            502,
+            178
+          ],
+          "covered": true
+        },
+        {
+          "label": "left wall",
+          "uv": [
+            0.17308,
+            0.49799
+          ],
+          "pixel": [
+            99,
+            248
+          ],
+          "covered": true
+        },
+        {
+          "label": "side wall lower",
+          "uv": [
+            0.29545,
+            0.70281
+          ],
+          "pixel": [
+            169,
+            350
+          ],
+          "covered": true
+        },
+        {
+          "label": "front wall left",
+          "uv": [
+            0.46329,
+            0.66265
+          ],
+          "pixel": [
+            265,
+            330
+          ],
+          "covered": true
+        },
+        {
+          "label": "door cannot enter",
+          "uv": [
+            0.63986,
+            0.65663
+          ],
+          "pixel": [
+            366,
+            327
+          ],
+          "covered": true
+        },
+        {
+          "label": "front wall right",
+          "uv": [
+            0.79371,
+            0.62048
+          ],
+          "pixel": [
+            454,
+            309
+          ],
+          "covered": true
+        },
+        {
+          "label": "top step",
+          "uv": [
+            0.70629,
+            0.80321
+          ],
+          "pixel": [
+            404,
+            400
+          ],
+          "covered": true
+        },
+        {
+          "label": "lower step",
+          "uv": [
+            0.7535,
+            0.88353
+          ],
+          "pixel": [
+            431,
+            440
+          ],
+          "covered": true
+        },
+        {
+          "label": "lower left roof",
+          "uv": [
+            0.41958,
+            0.53614
+          ],
+          "pixel": [
+            240,
+            267
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "left outer foliage",
+          "uv": [
+            0.0472,
+            0.6747
+          ],
+          "pixel": [
+            27,
+            336
+          ],
+          "passable": true
+        },
+        {
+          "label": "right outer foliage",
+          "uv": [
+            0.94056,
+            0.74699
+          ],
+          "pixel": [
+            538,
+            372
+          ],
+          "passable": true
+        },
+        {
+          "label": "front outer foliage",
+          "uv": [
+            0.41084,
+            0.95984
+          ],
+          "pixel": [
+            235,
+            478
+          ],
+          "passable": true
+        },
+        {
+          "label": "above roof",
+          "uv": [
+            0.61014,
+            0.0241
+          ],
+          "pixel": [
+            349,
+            12
+          ],
+          "passable": true
+        },
+        {
+          "label": "outside right wall",
+          "uv": [
+            0.95455,
+            0.5261
+          ],
+          "pixel": [
+            546,
+            262
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Complete solid cabin: chimney, roof, both walls, closed door and both steps. There is no indoor scene. Outer decorative foliage stays passable.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/cabin-annotated.png"
+    },
+    "prop_0": {
+      "sprite": "prop_0",
+      "size": [
+        572,
+        498
+      ],
+      "polygon_count": 1,
+      "solid_samples": [
+        {
+          "label": "chimney upper",
+          "uv": [
+            0.29021,
+            0.08032
+          ],
+          "pixel": [
+            166,
+            40
+          ],
+          "covered": true
+        },
+        {
+          "label": "chimney base",
+          "uv": [
+            0.27273,
+            0.18273
+          ],
+          "pixel": [
+            156,
+            91
+          ],
+          "covered": true
+        },
+        {
+          "label": "left roof",
+          "uv": [
+            0.1451,
+            0.31526
+          ],
+          "pixel": [
+            83,
+            157
+          ],
+          "covered": true
+        },
+        {
+          "label": "roof centre",
+          "uv": [
+            0.53497,
+            0.30321
+          ],
+          "pixel": [
+            306,
+            151
+          ],
+          "covered": true
+        },
+        {
+          "label": "roof upper right",
+          "uv": [
+            0.73252,
+            0.11847
+          ],
+          "pixel": [
+            419,
+            59
+          ],
+          "covered": true
+        },
+        {
+          "label": "right roof edge",
+          "uv": [
+            0.87762,
+            0.35743
+          ],
+          "pixel": [
+            502,
+            178
+          ],
+          "covered": true
+        },
+        {
+          "label": "left wall",
+          "uv": [
+            0.17308,
+            0.49799
+          ],
+          "pixel": [
+            99,
+            248
+          ],
+          "covered": true
+        },
+        {
+          "label": "side wall lower",
+          "uv": [
+            0.29545,
+            0.70281
+          ],
+          "pixel": [
+            169,
+            350
+          ],
+          "covered": true
+        },
+        {
+          "label": "front wall left",
+          "uv": [
+            0.46329,
+            0.66265
+          ],
+          "pixel": [
+            265,
+            330
+          ],
+          "covered": true
+        },
+        {
+          "label": "door cannot enter",
+          "uv": [
+            0.63986,
+            0.65663
+          ],
+          "pixel": [
+            366,
+            327
+          ],
+          "covered": true
+        },
+        {
+          "label": "front wall right",
+          "uv": [
+            0.79371,
+            0.62048
+          ],
+          "pixel": [
+            454,
+            309
+          ],
+          "covered": true
+        },
+        {
+          "label": "top step",
+          "uv": [
+            0.70629,
+            0.80321
+          ],
+          "pixel": [
+            404,
+            400
+          ],
+          "covered": true
+        },
+        {
+          "label": "lower step",
+          "uv": [
+            0.7535,
+            0.88353
+          ],
+          "pixel": [
+            431,
+            440
+          ],
+          "covered": true
+        },
+        {
+          "label": "lower left roof",
+          "uv": [
+            0.41958,
+            0.53614
+          ],
+          "pixel": [
+            240,
+            267
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "left outer foliage",
+          "uv": [
+            0.0472,
+            0.6747
+          ],
+          "pixel": [
+            27,
+            336
+          ],
+          "passable": true
+        },
+        {
+          "label": "right outer foliage",
+          "uv": [
+            0.94056,
+            0.74699
+          ],
+          "pixel": [
+            538,
+            372
+          ],
+          "passable": true
+        },
+        {
+          "label": "front outer foliage",
+          "uv": [
+            0.41084,
+            0.95984
+          ],
+          "pixel": [
+            235,
+            478
+          ],
+          "passable": true
+        },
+        {
+          "label": "above roof",
+          "uv": [
+            0.61014,
+            0.0241
+          ],
+          "pixel": [
+            349,
+            12
+          ],
+          "passable": true
+        },
+        {
+          "label": "outside right wall",
+          "uv": [
+            0.95455,
+            0.5261
+          ],
+          "pixel": [
+            546,
+            262
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Same complete closed cabin silhouette as cabin; no wall-only footprint.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/prop_0-annotated.png"
+    },
+    "prop_1": {
+      "sprite": "prop_1",
+      "size": [
+        356,
+        258
+      ],
+      "polygon_count": 1,
+      "solid_samples": [
+        {
+          "label": "rear log",
+          "uv": [
+            0.38764,
+            0.21318
+          ],
+          "pixel": [
+            138,
+            55
+          ],
+          "covered": true
+        },
+        {
+          "label": "rear cut end",
+          "uv": [
+            0.61236,
+            0.37984
+          ],
+          "pixel": [
+            218,
+            98
+          ],
+          "covered": true
+        },
+        {
+          "label": "front log",
+          "uv": [
+            0.31742,
+            0.53488
+          ],
+          "pixel": [
+            113,
+            138
+          ],
+          "covered": true
+        },
+        {
+          "label": "front cut end",
+          "uv": [
+            0.54775,
+            0.71318
+          ],
+          "pixel": [
+            195,
+            184
+          ],
+          "covered": true
+        },
+        {
+          "label": "right cut end",
+          "uv": [
+            0.75843,
+            0.5969
+          ],
+          "pixel": [
+            270,
+            154
+          ],
+          "covered": true
+        },
+        {
+          "label": "upper log tip",
+          "uv": [
+            0.31461,
+            0.07364
+          ],
+          "pixel": [
+            112,
+            19
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "left flowers",
+          "uv": [
+            0.06742,
+            0.67054
+          ],
+          "pixel": [
+            24,
+            173
+          ],
+          "passable": true
+        },
+        {
+          "label": "right flowers",
+          "uv": [
+            0.92416,
+            0.77907
+          ],
+          "pixel": [
+            329,
+            201
+          ],
+          "passable": true
+        },
+        {
+          "label": "below front end",
+          "uv": [
+            0.55618,
+            0.96124
+          ],
+          "pixel": [
+            198,
+            248
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Whole three-log pile, including upper timber and both rounded cut faces; excludes foliage.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/prop_1-annotated.png"
+    },
+    "prop_2": {
+      "sprite": "prop_2",
+      "size": [
+        402,
+        292
+      ],
+      "polygon_count": 1,
+      "solid_samples": [
+        {
+          "label": "rear log upper",
+          "uv": [
+            0.31841,
+            0.09932
+          ],
+          "pixel": [
+            128,
+            29
+          ],
+          "covered": true
+        },
+        {
+          "label": "rear timber",
+          "uv": [
+            0.43284,
+            0.26712
+          ],
+          "pixel": [
+            174,
+            78
+          ],
+          "covered": true
+        },
+        {
+          "label": "rear cut face",
+          "uv": [
+            0.66915,
+            0.40068
+          ],
+          "pixel": [
+            269,
+            117
+          ],
+          "covered": true
+        },
+        {
+          "label": "right cut face",
+          "uv": [
+            0.82587,
+            0.58904
+          ],
+          "pixel": [
+            332,
+            172
+          ],
+          "covered": true
+        },
+        {
+          "label": "front wood",
+          "uv": [
+            0.35075,
+            0.56164
+          ],
+          "pixel": [
+            141,
+            164
+          ],
+          "covered": true
+        },
+        {
+          "label": "front cut face",
+          "uv": [
+            0.59453,
+            0.69863
+          ],
+          "pixel": [
+            239,
+            204
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "left low foliage",
+          "uv": [
+            0.06716,
+            0.71575
+          ],
+          "pixel": [
+            27,
+            209
+          ],
+          "passable": true
+        },
+        {
+          "label": "right ground",
+          "uv": [
+            0.95771,
+            0.87329
+          ],
+          "pixel": [
+            385,
+            255
+          ],
+          "passable": true
+        },
+        {
+          "label": "below timber",
+          "uv": [
+            0.6393,
+            0.93493
+          ],
+          "pixel": [
+            257,
+            273
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Long log pile full silhouette; each timber and exposed circular cut end is blocked.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/prop_2-annotated.png"
+    },
+    "prop_3": {
+      "sprite": "prop_3",
+      "size": [
+        364,
+        316
+      ],
+      "polygon_count": 1,
+      "solid_samples": [
+        {
+          "label": "barrel lid",
+          "uv": [
+            0.49451,
+            0.12025
+          ],
+          "pixel": [
+            180,
+            38
+          ],
+          "covered": true
+        },
+        {
+          "label": "left hoop",
+          "uv": [
+            0.25275,
+            0.28797
+          ],
+          "pixel": [
+            92,
+            91
+          ],
+          "covered": true
+        },
+        {
+          "label": "barrel belly",
+          "uv": [
+            0.48901,
+            0.51899
+          ],
+          "pixel": [
+            178,
+            164
+          ],
+          "covered": true
+        },
+        {
+          "label": "right hoop",
+          "uv": [
+            0.76648,
+            0.64873
+          ],
+          "pixel": [
+            279,
+            205
+          ],
+          "covered": true
+        },
+        {
+          "label": "barrel foot",
+          "uv": [
+            0.54396,
+            0.85759
+          ],
+          "pixel": [
+            198,
+            271
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "left flowers",
+          "uv": [
+            0.08516,
+            0.72785
+          ],
+          "pixel": [
+            31,
+            230
+          ],
+          "passable": true
+        },
+        {
+          "label": "right flowers",
+          "uv": [
+            0.92857,
+            0.77848
+          ],
+          "pixel": [
+            338,
+            246
+          ],
+          "passable": true
+        },
+        {
+          "label": "below barrel",
+          "uv": [
+            0.53846,
+            0.96835
+          ],
+          "pixel": [
+            196,
+            306
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Whole barrel, lid to rounded belly and bottom rim; no side entry through upper volume.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/prop_3-annotated.png"
+    },
+    "prop_4": {
+      "sprite": "prop_4",
+      "size": [
+        378,
+        312
+      ],
+      "polygon_count": 1,
+      "solid_samples": [
+        {
+          "label": "crate top back",
+          "uv": [
+            0.50265,
+            0.10577
+          ],
+          "pixel": [
+            190,
+            33
+          ],
+          "covered": true
+        },
+        {
+          "label": "crate top left",
+          "uv": [
+            0.26984,
+            0.21474
+          ],
+          "pixel": [
+            102,
+            67
+          ],
+          "covered": true
+        },
+        {
+          "label": "crate top front",
+          "uv": [
+            0.61905,
+            0.29487
+          ],
+          "pixel": [
+            234,
+            92
+          ],
+          "covered": true
+        },
+        {
+          "label": "left side",
+          "uv": [
+            0.29101,
+            0.45833
+          ],
+          "pixel": [
+            110,
+            143
+          ],
+          "covered": true
+        },
+        {
+          "label": "right side",
+          "uv": [
+            0.66931,
+            0.58013
+          ],
+          "pixel": [
+            253,
+            181
+          ],
+          "covered": true
+        },
+        {
+          "label": "front upright foot",
+          "uv": [
+            0.47619,
+            0.80449
+          ],
+          "pixel": [
+            180,
+            251
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "left flowers",
+          "uv": [
+            0.05556,
+            0.67949
+          ],
+          "pixel": [
+            21,
+            212
+          ],
+          "passable": true
+        },
+        {
+          "label": "right flowers",
+          "uv": [
+            0.92063,
+            0.74359
+          ],
+          "pixel": [
+            348,
+            232
+          ],
+          "passable": true
+        },
+        {
+          "label": "below crate",
+          "uv": [
+            0.47884,
+            0.97115
+          ],
+          "pixel": [
+            181,
+            303
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Full crate boards and uprights with hand-authored oblique edges; outside foliage excluded.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/prop_4-annotated.png"
+    },
+    "prop_5": {
+      "sprite": "prop_5",
+      "size": [
+        324,
+        240
+      ],
+      "polygon_count": 1,
+      "solid_samples": [
+        {
+          "label": "grey crate top",
+          "uv": [
+            0.50926,
+            0.2125
+          ],
+          "pixel": [
+            165,
+            51
+          ],
+          "covered": true
+        },
+        {
+          "label": "left panel",
+          "uv": [
+            0.30556,
+            0.45833
+          ],
+          "pixel": [
+            99,
+            110
+          ],
+          "covered": true
+        },
+        {
+          "label": "right panel",
+          "uv": [
+            0.67284,
+            0.57917
+          ],
+          "pixel": [
+            218,
+            139
+          ],
+          "covered": true
+        },
+        {
+          "label": "far upright",
+          "uv": [
+            0.81481,
+            0.41667
+          ],
+          "pixel": [
+            264,
+            100
+          ],
+          "covered": true
+        },
+        {
+          "label": "front upright foot",
+          "uv": [
+            0.47531,
+            0.87917
+          ],
+          "pixel": [
+            154,
+            211
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "left outside plants",
+          "uv": [
+            0.07099,
+            0.6875
+          ],
+          "pixel": [
+            23,
+            165
+          ],
+          "passable": true
+        },
+        {
+          "label": "right outside plants",
+          "uv": [
+            0.91975,
+            0.77917
+          ],
+          "pixel": [
+            298,
+            187
+          ],
+          "passable": true
+        },
+        {
+          "label": "bottom ground",
+          "uv": [
+            0.65741,
+            0.97083
+          ],
+          "pixel": [
+            213,
+            233
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Grey crate full body and top contour, separate from prop_4 silhouette.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/prop_5-annotated.png"
+    },
+    "bench": {
+      "sprite": "bench",
+      "size": [
+        464,
+        378
+      ],
+      "polygon_count": 1,
+      "solid_samples": [
+        {
+          "label": "left high post",
+          "uv": [
+            0.25647,
+            0.19577
+          ],
+          "pixel": [
+            119,
+            74
+          ],
+          "covered": true
+        },
+        {
+          "label": "table left",
+          "uv": [
+            0.13147,
+            0.43651
+          ],
+          "pixel": [
+            61,
+            165
+          ],
+          "covered": true
+        },
+        {
+          "label": "table centre",
+          "uv": [
+            0.53448,
+            0.50265
+          ],
+          "pixel": [
+            248,
+            190
+          ],
+          "covered": true
+        },
+        {
+          "label": "table right",
+          "uv": [
+            0.84483,
+            0.59788
+          ],
+          "pixel": [
+            392,
+            226
+          ],
+          "covered": true
+        },
+        {
+          "label": "front apron",
+          "uv": [
+            0.51509,
+            0.70106
+          ],
+          "pixel": [
+            239,
+            265
+          ],
+          "covered": true
+        },
+        {
+          "label": "under support board",
+          "uv": [
+            0.48491,
+            0.77249
+          ],
+          "pixel": [
+            225,
+            292
+          ],
+          "covered": true
+        },
+        {
+          "label": "left leg foot",
+          "uv": [
+            0.22629,
+            0.88095
+          ],
+          "pixel": [
+            105,
+            333
+          ],
+          "covered": true
+        },
+        {
+          "label": "right leg foot",
+          "uv": [
+            0.73491,
+            0.88624
+          ],
+          "pixel": [
+            341,
+            335
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "left vegetation",
+          "uv": [
+            0.03448,
+            0.74339
+          ],
+          "pixel": [
+            16,
+            281
+          ],
+          "passable": true
+        },
+        {
+          "label": "right vegetation",
+          "uv": [
+            0.94828,
+            0.79365
+          ],
+          "pixel": [
+            440,
+            300
+          ],
+          "passable": true
+        },
+        {
+          "label": "under beam clear",
+          "uv": [
+            0.4806,
+            0.91005
+          ],
+          "pixel": [
+            223,
+            344
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Whole workbench top, rear post, apron, supporting beam and legs. Small side vegetation and below-beam gap remain open.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/bench-annotated.png"
+    },
+    "stump_0": {
+      "sprite": "stump_0",
+      "size": [
+        474,
+        342
+      ],
+      "polygon_count": 1,
+      "solid_samples": [
+        {
+          "label": "stump cut surface",
+          "uv": [
+            0.48945,
+            0.30117
+          ],
+          "pixel": [
+            232,
+            103
+          ],
+          "covered": true
+        },
+        {
+          "label": "left upper bark",
+          "uv": [
+            0.29536,
+            0.25439
+          ],
+          "pixel": [
+            140,
+            87
+          ],
+          "covered": true
+        },
+        {
+          "label": "right upper bark",
+          "uv": [
+            0.72363,
+            0.30409
+          ],
+          "pixel": [
+            343,
+            104
+          ],
+          "covered": true
+        },
+        {
+          "label": "front bark",
+          "uv": [
+            0.54219,
+            0.5731
+          ],
+          "pixel": [
+            257,
+            196
+          ],
+          "covered": true
+        },
+        {
+          "label": "left lateral root",
+          "uv": [
+            0.09072,
+            0.66082
+          ],
+          "pixel": [
+            43,
+            226
+          ],
+          "covered": true
+        },
+        {
+          "label": "left long root",
+          "uv": [
+            0.24684,
+            0.84211
+          ],
+          "pixel": [
+            117,
+            288
+          ],
+          "covered": true
+        },
+        {
+          "label": "right lateral root",
+          "uv": [
+            0.92194,
+            0.62865
+          ],
+          "pixel": [
+            437,
+            215
+          ],
+          "covered": true
+        },
+        {
+          "label": "right long root",
+          "uv": [
+            0.81857,
+            0.88596
+          ],
+          "pixel": [
+            388,
+            303
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "left foliage",
+          "uv": [
+            0.0654,
+            0.38889
+          ],
+          "pixel": [
+            31,
+            133
+          ],
+          "passable": true
+        },
+        {
+          "label": "right foliage",
+          "uv": [
+            0.90717,
+            0.38012
+          ],
+          "pixel": [
+            430,
+            130
+          ],
+          "passable": true
+        },
+        {
+          "label": "bottom foliage",
+          "uv": [
+            0.41983,
+            0.95322
+          ],
+          "pixel": [
+            199,
+            326
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Entire visible woody stump, cut top, bark, and all long irregular roots; leaves outside wood excluded.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/stump_0-annotated.png"
+    },
+    "stump_1": {
+      "sprite": "stump_1",
+      "size": [
+        400,
+        340
+      ],
+      "polygon_count": 1,
+      "solid_samples": [
+        {
+          "label": "broken rim highest",
+          "uv": [
+            0.67,
+            0.09412
+          ],
+          "pixel": [
+            268,
+            32
+          ],
+          "covered": true
+        },
+        {
+          "label": "left broken wood",
+          "uv": [
+            0.5125,
+            0.14118
+          ],
+          "pixel": [
+            205,
+            48
+          ],
+          "covered": true
+        },
+        {
+          "label": "upright bark",
+          "uv": [
+            0.605,
+            0.43235
+          ],
+          "pixel": [
+            242,
+            147
+          ],
+          "covered": true
+        },
+        {
+          "label": "left root",
+          "uv": [
+            0.2075,
+            0.85588
+          ],
+          "pixel": [
+            83,
+            291
+          ],
+          "covered": true
+        },
+        {
+          "label": "right horizontal root",
+          "uv": [
+            0.9275,
+            0.72647
+          ],
+          "pixel": [
+            371,
+            247
+          ],
+          "covered": true
+        },
+        {
+          "label": "right low root",
+          "uv": [
+            0.8075,
+            0.90588
+          ],
+          "pixel": [
+            323,
+            308
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "left plant",
+          "uv": [
+            0.1225,
+            0.59706
+          ],
+          "pixel": [
+            49,
+            203
+          ],
+          "passable": true
+        },
+        {
+          "label": "right plant",
+          "uv": [
+            0.845,
+            0.40882
+          ],
+          "pixel": [
+            338,
+            139
+          ],
+          "passable": true
+        },
+        {
+          "label": "below roots",
+          "uv": [
+            0.53,
+            0.97647
+          ],
+          "pixel": [
+            212,
+            332
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Whole broken stump including high splintered bark and both protruding lateral roots.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/stump_1-annotated.png"
+    },
+    "ore_0": {
+      "sprite": "ore_0",
+      "size": [
+        448,
+        300
+      ],
+      "polygon_count": 2,
+      "solid_samples": [
+        {
+          "label": "big ore top",
+          "uv": [
+            0.72545,
+            0.17667
+          ],
+          "pixel": [
+            325,
+            53
+          ],
+          "covered": true
+        },
+        {
+          "label": "big ore centre",
+          "uv": [
+            0.60938,
+            0.51667
+          ],
+          "pixel": [
+            273,
+            155
+          ],
+          "covered": true
+        },
+        {
+          "label": "big ore right edge",
+          "uv": [
+            0.82812,
+            0.57
+          ],
+          "pixel": [
+            371,
+            171
+          ],
+          "covered": true
+        },
+        {
+          "label": "big ore low face",
+          "uv": [
+            0.64732,
+            0.78667
+          ],
+          "pixel": [
+            290,
+            236
+          ],
+          "covered": true
+        },
+        {
+          "label": "small ore top",
+          "uv": [
+            0.27232,
+            0.63667
+          ],
+          "pixel": [
+            122,
+            191
+          ],
+          "covered": true
+        },
+        {
+          "label": "small ore foot",
+          "uv": [
+            0.34152,
+            0.89667
+          ],
+          "pixel": [
+            153,
+            269
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "left plants",
+          "uv": [
+            0.08705,
+            0.60333
+          ],
+          "pixel": [
+            39,
+            181
+          ],
+          "passable": true
+        },
+        {
+          "label": "right plants",
+          "uv": [
+            0.91964,
+            0.73
+          ],
+          "pixel": [
+            412,
+            219
+          ],
+          "passable": true
+        },
+        {
+          "label": "lower gap foliage",
+          "uv": [
+            0.52009,
+            0.92333
+          ],
+          "pixel": [
+            233,
+            277
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Two complete exposed ore rocks, including upper peaks and side faces; leafy exterior excluded.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/ore_0-annotated.png"
+    },
+    "ore_1": {
+      "sprite": "ore_1",
+      "size": [
+        426,
+        358
+      ],
+      "polygon_count": 2,
+      "solid_samples": [
+        {
+          "label": "peak exposed",
+          "uv": [
+            0.47887,
+            0.08939
+          ],
+          "pixel": [
+            204,
+            32
+          ],
+          "covered": true
+        },
+        {
+          "label": "big ore left",
+          "uv": [
+            0.29812,
+            0.44134
+          ],
+          "pixel": [
+            127,
+            158
+          ],
+          "covered": true
+        },
+        {
+          "label": "big ore centre",
+          "uv": [
+            0.51878,
+            0.46369
+          ],
+          "pixel": [
+            221,
+            166
+          ],
+          "covered": true
+        },
+        {
+          "label": "big ore right low",
+          "uv": [
+            0.74883,
+            0.68715
+          ],
+          "pixel": [
+            319,
+            246
+          ],
+          "covered": true
+        },
+        {
+          "label": "small ore upper",
+          "uv": [
+            0.22535,
+            0.61453
+          ],
+          "pixel": [
+            96,
+            220
+          ],
+          "covered": true
+        },
+        {
+          "label": "small ore foot",
+          "uv": [
+            0.30282,
+            0.87151
+          ],
+          "pixel": [
+            129,
+            312
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "left outside foliage",
+          "uv": [
+            0.07277,
+            0.49441
+          ],
+          "pixel": [
+            31,
+            177
+          ],
+          "passable": true
+        },
+        {
+          "label": "right outside foliage",
+          "uv": [
+            0.91549,
+            0.6676
+          ],
+          "pixel": [
+            390,
+            239
+          ],
+          "passable": true
+        },
+        {
+          "label": "bottom outside",
+          "uv": [
+            0.54225,
+            0.9581
+          ],
+          "pixel": [
+            231,
+            343
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Complete tall ore peak and independent foreground stone, no thin lower-foot-only barriers.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/ore_1-annotated.png"
+    },
+    "ore_2": {
+      "sprite": "ore_2",
+      "size": [
+        420,
+        298
+      ],
+      "polygon_count": 2,
+      "solid_samples": [
+        {
+          "label": "broad ore top",
+          "uv": [
+            0.57857,
+            0.30872
+          ],
+          "pixel": [
+            243,
+            92
+          ],
+          "covered": true
+        },
+        {
+          "label": "large ore centre",
+          "uv": [
+            0.63333,
+            0.58054
+          ],
+          "pixel": [
+            266,
+            173
+          ],
+          "covered": true
+        },
+        {
+          "label": "large ore right",
+          "uv": [
+            0.81429,
+            0.63087
+          ],
+          "pixel": [
+            342,
+            188
+          ],
+          "covered": true
+        },
+        {
+          "label": "large ore bottom",
+          "uv": [
+            0.64048,
+            0.81879
+          ],
+          "pixel": [
+            269,
+            244
+          ],
+          "covered": true
+        },
+        {
+          "label": "small ore top",
+          "uv": [
+            0.25476,
+            0.64765
+          ],
+          "pixel": [
+            107,
+            193
+          ],
+          "covered": true
+        },
+        {
+          "label": "small ore bottom",
+          "uv": [
+            0.36429,
+            0.88255
+          ],
+          "pixel": [
+            153,
+            263
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "upper plants",
+          "uv": [
+            0.79286,
+            0.20134
+          ],
+          "pixel": [
+            333,
+            60
+          ],
+          "passable": true
+        },
+        {
+          "label": "left plants",
+          "uv": [
+            0.05952,
+            0.71141
+          ],
+          "pixel": [
+            25,
+            212
+          ],
+          "passable": true
+        },
+        {
+          "label": "below rock plants",
+          "uv": [
+            0.51667,
+            0.93624
+          ],
+          "pixel": [
+            217,
+            279
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Full broad ore mound and foreground stone; grey material counts as solid at every height.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/ore_2-annotated.png"
+    },
+    "gate": {
+      "sprite": "gate",
+      "size": [
+        468,
+        396
+      ],
+      "polygon_count": 2,
+      "solid_samples": [
+        {
+          "label": "left upper stone",
+          "uv": [
+            0.33761,
+            0.18182
+          ],
+          "pixel": [
+            158,
+            72
+          ],
+          "covered": true
+        },
+        {
+          "label": "left mid stone",
+          "uv": [
+            0.27137,
+            0.43182
+          ],
+          "pixel": [
+            127,
+            171
+          ],
+          "covered": true
+        },
+        {
+          "label": "left lower stone",
+          "uv": [
+            0.28205,
+            0.57576
+          ],
+          "pixel": [
+            132,
+            228
+          ],
+          "covered": true
+        },
+        {
+          "label": "left foot rock",
+          "uv": [
+            0.19444,
+            0.69444
+          ],
+          "pixel": [
+            91,
+            275
+          ],
+          "covered": true
+        },
+        {
+          "label": "right upper stone",
+          "uv": [
+            0.55342,
+            0.15404
+          ],
+          "pixel": [
+            259,
+            61
+          ],
+          "covered": true
+        },
+        {
+          "label": "right high pillar",
+          "uv": [
+            0.7265,
+            0.35606
+          ],
+          "pixel": [
+            340,
+            141
+          ],
+          "covered": true
+        },
+        {
+          "label": "right lower pillar",
+          "uv": [
+            0.70513,
+            0.58333
+          ],
+          "pixel": [
+            330,
+            231
+          ],
+          "covered": true
+        },
+        {
+          "label": "right foot rock",
+          "uv": [
+            0.76282,
+            0.86111
+          ],
+          "pixel": [
+            357,
+            341
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "gate opening upper",
+          "uv": [
+            0.51068,
+            0.39394
+          ],
+          "pixel": [
+            239,
+            156
+          ],
+          "passable": true
+        },
+        {
+          "label": "gate opening centre",
+          "uv": [
+            0.51709,
+            0.55808
+          ],
+          "pixel": [
+            242,
+            221
+          ],
+          "passable": true
+        },
+        {
+          "label": "gate opening lower",
+          "uv": [
+            0.53205,
+            0.7298
+          ],
+          "pixel": [
+            249,
+            289
+          ],
+          "passable": true
+        },
+        {
+          "label": "left outer flowers",
+          "uv": [
+            0.05342,
+            0.56818
+          ],
+          "pixel": [
+            25,
+            225
+          ],
+          "passable": true
+        },
+        {
+          "label": "right outer flowers",
+          "uv": [
+            0.92735,
+            0.74747
+          ],
+          "pixel": [
+            434,
+            296
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Both complete irregular masonry sides and individual foot rocks. The central arch opening stays traversable; overhead greenery is not a solid.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/gate-annotated.png"
+    },
+    "pond_0_rocks": {
+      "sprite": "pond_0",
+      "size": [
+        571,
+        404
+      ],
+      "polygon_count": 7,
+      "solid_samples": [
+        {
+          "label": "left isolated rock",
+          "uv": [
+            0.15236,
+            0.35396
+          ],
+          "pixel": [
+            87,
+            143
+          ],
+          "covered": true
+        },
+        {
+          "label": "top boulder",
+          "uv": [
+            0.36778,
+            0.13614
+          ],
+          "pixel": [
+            210,
+            55
+          ],
+          "covered": true
+        },
+        {
+          "label": "top small right stone",
+          "uv": [
+            0.70928,
+            0.24257
+          ],
+          "pixel": [
+            405,
+            98
+          ],
+          "covered": true
+        },
+        {
+          "label": "right boulder",
+          "uv": [
+            0.80736,
+            0.29703
+          ],
+          "pixel": [
+            461,
+            120
+          ],
+          "covered": true
+        },
+        {
+          "label": "left bottom boulder",
+          "uv": [
+            0.16813,
+            0.74257
+          ],
+          "pixel": [
+            96,
+            300
+          ],
+          "covered": true
+        },
+        {
+          "label": "bottom small stone",
+          "uv": [
+            0.38529,
+            0.87129
+          ],
+          "pixel": [
+            220,
+            352
+          ],
+          "covered": true
+        },
+        {
+          "label": "bottom right boulder",
+          "uv": [
+            0.69702,
+            0.86634
+          ],
+          "pixel": [
+            398,
+            350
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "left shore grass gap",
+          "uv": [
+            0.07005,
+            0.52723
+          ],
+          "pixel": [
+            40,
+            213
+          ],
+          "passable": true
+        },
+        {
+          "label": "right upper outer grass",
+          "uv": [
+            0.94921,
+            0.36634
+          ],
+          "pixel": [
+            542,
+            148
+          ],
+          "passable": true
+        },
+        {
+          "label": "lower grass between stones",
+          "uv": [
+            0.5359,
+            0.89851
+          ],
+          "pixel": [
+            306,
+            363
+          ],
+          "passable": true
+        },
+        {
+          "label": "above top stone",
+          "uv": [
+            0.36077,
+            0.0198
+          ],
+          "pixel": [
+            206,
+            8
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Seven independently drawn shore-rock solids: top, upper-right small, upper-right large, left small, left low, bottom small, bottom-right. Separate from retained water.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/pond_0_rocks-annotated.png"
+    },
+    "pond_1_rocks": {
+      "sprite": "pond_1",
+      "size": [
+        601,
+        426
+      ],
+      "polygon_count": 5,
+      "solid_samples": [
+        {
+          "label": "top small stone",
+          "uv": [
+            0.35607,
+            0.18545
+          ],
+          "pixel": [
+            214,
+            79
+          ],
+          "covered": true
+        },
+        {
+          "label": "right top boulder",
+          "uv": [
+            0.75874,
+            0.23944
+          ],
+          "pixel": [
+            456,
+            102
+          ],
+          "covered": true
+        },
+        {
+          "label": "left small stone",
+          "uv": [
+            0.09983,
+            0.57512
+          ],
+          "pixel": [
+            60,
+            245
+          ],
+          "covered": true
+        },
+        {
+          "label": "left lower boulder",
+          "uv": [
+            0.21963,
+            0.723
+          ],
+          "pixel": [
+            132,
+            308
+          ],
+          "covered": true
+        },
+        {
+          "label": "lower small stone",
+          "uv": [
+            0.35441,
+            0.8169
+          ],
+          "pixel": [
+            213,
+            348
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "top right outer shore",
+          "uv": [
+            0.90682,
+            0.14319
+          ],
+          "pixel": [
+            545,
+            61
+          ],
+          "passable": true
+        },
+        {
+          "label": "lower outer shore",
+          "uv": [
+            0.48752,
+            0.9108
+          ],
+          "pixel": [
+            293,
+            388
+          ],
+          "passable": true
+        },
+        {
+          "label": "upper grass bank",
+          "uv": [
+            0.56406,
+            0.10563
+          ],
+          "pixel": [
+            339,
+            45
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Five separate complete visible shore rocks. Each upper/side face and each tiny stone is solid; green bank remains passable.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/pond_1_rocks-annotated.png"
+    },
+    "pond_2_rocks": {
+      "sprite": "pond_2",
+      "size": [
+        472,
+        390
+      ],
+      "polygon_count": 5,
+      "solid_samples": [
+        {
+          "label": "left shore boulder",
+          "uv": [
+            0.18432,
+            0.74359
+          ],
+          "pixel": [
+            87,
+            290
+          ],
+          "covered": true
+        },
+        {
+          "label": "bottom shore boulder",
+          "uv": [
+            0.66737,
+            0.90513
+          ],
+          "pixel": [
+            315,
+            353
+          ],
+          "covered": true
+        },
+        {
+          "label": "right shore boulder",
+          "uv": [
+            0.85169,
+            0.50513
+          ],
+          "pixel": [
+            402,
+            197
+          ],
+          "covered": true
+        },
+        {
+          "label": "small upper water stone",
+          "uv": [
+            0.6822,
+            0.44103
+          ],
+          "pixel": [
+            322,
+            172
+          ],
+          "covered": true
+        },
+        {
+          "label": "small lower water stone",
+          "uv": [
+            0.7839,
+            0.60513
+          ],
+          "pixel": [
+            370,
+            236
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "top left grass",
+          "uv": [
+            0.08898,
+            0.31026
+          ],
+          "pixel": [
+            42,
+            121
+          ],
+          "passable": true
+        },
+        {
+          "label": "below left gap ground",
+          "uv": [
+            0.46822,
+            0.93333
+          ],
+          "pixel": [
+            221,
+            364
+          ],
+          "passable": true
+        },
+        {
+          "label": "outer right grass",
+          "uv": [
+            0.97034,
+            0.59744
+          ],
+          "pixel": [
+            458,
+            233
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Three large bank rocks plus both small water stones have distinct solids. Entire visible grey rock, not just lower base, is blocked.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/pond_2_rocks-annotated.png"
+    },
+    "resource_rock_0": {
+      "sprite": "resource_rock_0",
+      "size": [
+        270,
+        214
+      ],
+      "polygon_count": 2,
+      "solid_samples": [
+        {
+          "label": "big rock top",
+          "uv": [
+            0.55926,
+            0.17757
+          ],
+          "pixel": [
+            151,
+            38
+          ],
+          "covered": true
+        },
+        {
+          "label": "big rock middle",
+          "uv": [
+            0.40741,
+            0.42056
+          ],
+          "pixel": [
+            110,
+            90
+          ],
+          "covered": true
+        },
+        {
+          "label": "big rock side",
+          "uv": [
+            0.65926,
+            0.52336
+          ],
+          "pixel": [
+            178,
+            112
+          ],
+          "covered": true
+        },
+        {
+          "label": "small stone",
+          "uv": [
+            0.73704,
+            0.71963
+          ],
+          "pixel": [
+            199,
+            154
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "right foliage",
+          "uv": [
+            0.93333,
+            0.43925
+          ],
+          "pixel": [
+            252,
+            94
+          ],
+          "passable": true
+        },
+        {
+          "label": "lower outside plants",
+          "uv": [
+            0.49259,
+            0.92991
+          ],
+          "pixel": [
+            133,
+            199
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Complete collectible main boulder and small foreground stone; visible solid upper faces now covered.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/resource_rock_0-annotated.png"
+    },
+    "resource_rock_1": {
+      "sprite": "resource_rock_1",
+      "size": [
+        226,
+        216
+      ],
+      "polygon_count": 2,
+      "solid_samples": [
+        {
+          "label": "main upper stone",
+          "uv": [
+            0.43805,
+            0.32407
+          ],
+          "pixel": [
+            99,
+            70
+          ],
+          "covered": true
+        },
+        {
+          "label": "main grey face",
+          "uv": [
+            0.41593,
+            0.59722
+          ],
+          "pixel": [
+            94,
+            129
+          ],
+          "covered": true
+        },
+        {
+          "label": "small stone",
+          "uv": [
+            0.66814,
+            0.80093
+          ],
+          "pixel": [
+            151,
+            173
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "upper right plant",
+          "uv": [
+            0.76106,
+            0.30093
+          ],
+          "pixel": [
+            172,
+            65
+          ],
+          "passable": true
+        },
+        {
+          "label": "left plants",
+          "uv": [
+            0.05752,
+            0.5787
+          ],
+          "pixel": [
+            13,
+            125
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Complete tall grey collectible stone and its separate lower foreground stone.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/resource_rock_1-annotated.png"
+    },
+    "resource_rock_2": {
+      "sprite": "resource_rock_2",
+      "size": [
+        266,
+        210
+      ],
+      "polygon_count": 2,
+      "solid_samples": [
+        {
+          "label": "large top grey",
+          "uv": [
+            0.57143,
+            0.1
+          ],
+          "pixel": [
+            152,
+            21
+          ],
+          "covered": true
+        },
+        {
+          "label": "large right side",
+          "uv": [
+            0.7406,
+            0.40952
+          ],
+          "pixel": [
+            197,
+            86
+          ],
+          "covered": true
+        },
+        {
+          "label": "large centre",
+          "uv": [
+            0.55263,
+            0.55714
+          ],
+          "pixel": [
+            147,
+            117
+          ],
+          "covered": true
+        },
+        {
+          "label": "small front rock",
+          "uv": [
+            0.33083,
+            0.72857
+          ],
+          "pixel": [
+            88,
+            153
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "outer right leaves",
+          "uv": [
+            0.93233,
+            0.50952
+          ],
+          "pixel": [
+            248,
+            107
+          ],
+          "passable": true
+        },
+        {
+          "label": "outer bottom green",
+          "uv": [
+            0.71429,
+            0.91905
+          ],
+          "pixel": [
+            190,
+            193
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Full broad collectible grey rocks, including the peak, shoulder, and foreground stone.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/resource_rock_2-annotated.png"
+    },
+    "resource_rock_spent_0": {
+      "sprite": "resource_rock_spent_0",
+      "size": [
+        242,
+        160
+      ],
+      "polygon_count": 3,
+      "solid_samples": [
+        {
+          "label": "left remnant",
+          "uv": [
+            0.16942,
+            0.675
+          ],
+          "pixel": [
+            41,
+            108
+          ],
+          "covered": true
+        },
+        {
+          "label": "middle remnant",
+          "uv": [
+            0.49587,
+            0.54375
+          ],
+          "pixel": [
+            120,
+            87
+          ],
+          "covered": true
+        },
+        {
+          "label": "right remnant",
+          "uv": [
+            0.76033,
+            0.7125
+          ],
+          "pixel": [
+            184,
+            114
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "upper right leaves",
+          "uv": [
+            0.88017,
+            0.43125
+          ],
+          "pixel": [
+            213,
+            69
+          ],
+          "passable": true
+        },
+        {
+          "label": "low left bank",
+          "uv": [
+            0.04545,
+            0.875
+          ],
+          "pixel": [
+            11,
+            140
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Three independently outlined remaining solid stones; removed decorative foliage and retained actual stone gaps.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/resource_rock_spent_0-annotated.png"
+    },
+    "resource_rock_spent_1": {
+      "sprite": "resource_rock_spent_1",
+      "size": [
+        230,
+        140
+      ],
+      "polygon_count": 2,
+      "solid_samples": [
+        {
+          "label": "upper remnant",
+          "uv": [
+            0.48261,
+            0.25714
+          ],
+          "pixel": [
+            111,
+            36
+          ],
+          "covered": true
+        },
+        {
+          "label": "lower remnant",
+          "uv": [
+            0.38696,
+            0.64286
+          ],
+          "pixel": [
+            89,
+            90
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "left outside plants",
+          "uv": [
+            0.08696,
+            0.53571
+          ],
+          "pixel": [
+            20,
+            75
+          ],
+          "passable": true
+        },
+        {
+          "label": "right outside plants",
+          "uv": [
+            0.86522,
+            0.65
+          ],
+          "pixel": [
+            199,
+            91
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Both full visible depleted stones rather than cropped lower contact patches.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/resource_rock_spent_1-annotated.png"
+    },
+    "resource_rock_spent_2": {
+      "sprite": "resource_rock_spent_2",
+      "size": [
+        230,
+        170
+      ],
+      "polygon_count": 3,
+      "solid_samples": [
+        {
+          "label": "upper left remnant",
+          "uv": [
+            0.3913,
+            0.53529
+          ],
+          "pixel": [
+            90,
+            91
+          ],
+          "covered": true
+        },
+        {
+          "label": "right remnant",
+          "uv": [
+            0.65652,
+            0.69412
+          ],
+          "pixel": [
+            151,
+            118
+          ],
+          "covered": true
+        },
+        {
+          "label": "bottom remnant",
+          "uv": [
+            0.42609,
+            0.89412
+          ],
+          "pixel": [
+            98,
+            152
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "upper right plants",
+          "uv": [
+            0.84783,
+            0.48235
+          ],
+          "pixel": [
+            195,
+            82
+          ],
+          "passable": true
+        },
+        {
+          "label": "lower left leaves",
+          "uv": [
+            0.16957,
+            0.84118
+          ],
+          "pixel": [
+            39,
+            143
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Three complete surviving stones, separately traced with open surrounding green ground.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/resource_rock_spent_2-annotated.png"
+    },
+    "tree_0": {
+      "sprite": "tree_0",
+      "size": [
+        506,
+        534
+      ],
+      "polygon_count": 2,
+      "solid_samples": [
+        {
+          "label": "upper left exposed wood",
+          "uv": [
+            0.54348,
+            0.43633
+          ],
+          "pixel": [
+            275,
+            233
+          ],
+          "covered": true
+        },
+        {
+          "label": "upper right fork",
+          "uv": [
+            0.61462,
+            0.45693
+          ],
+          "pixel": [
+            311,
+            244
+          ],
+          "covered": true
+        },
+        {
+          "label": "middle trunk",
+          "uv": [
+            0.54743,
+            0.59363
+          ],
+          "pixel": [
+            277,
+            317
+          ],
+          "covered": true
+        },
+        {
+          "label": "left diagonal branch",
+          "uv": [
+            0.36166,
+            0.64419
+          ],
+          "pixel": [
+            183,
+            344
+          ],
+          "covered": true
+        },
+        {
+          "label": "left upward twig",
+          "uv": [
+            0.36364,
+            0.57491
+          ],
+          "pixel": [
+            184,
+            307
+          ],
+          "covered": true
+        },
+        {
+          "label": "right branch",
+          "uv": [
+            0.68577,
+            0.67228
+          ],
+          "pixel": [
+            347,
+            359
+          ],
+          "covered": true
+        },
+        {
+          "label": "right thin branch",
+          "uv": [
+            0.75494,
+            0.61049
+          ],
+          "pixel": [
+            382,
+            326
+          ],
+          "covered": true
+        },
+        {
+          "label": "lower bark",
+          "uv": [
+            0.55336,
+            0.81835
+          ],
+          "pixel": [
+            280,
+            437
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "upper green canopy",
+          "uv": [
+            0.56719,
+            0.11049
+          ],
+          "pixel": [
+            287,
+            59
+          ],
+          "passable": true
+        },
+        {
+          "label": "left teal canopy",
+          "uv": [
+            0.1581,
+            0.29213
+          ],
+          "pixel": [
+            80,
+            156
+          ],
+          "passable": true
+        },
+        {
+          "label": "right teal canopy",
+          "uv": [
+            0.83597,
+            0.51311
+          ],
+          "pixel": [
+            423,
+            274
+          ],
+          "passable": true
+        },
+        {
+          "label": "left green canopy",
+          "uv": [
+            0.25099,
+            0.3839
+          ],
+          "pixel": [
+            127,
+            205
+          ],
+          "passable": true
+        },
+        {
+          "label": "gap between right forks",
+          "uv": [
+            0.70356,
+            0.53184
+          ],
+          "pixel": [
+            356,
+            284
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Original measured root footprint and unchanged root depth, plus independently traced visible wood: trunk, exposed fork and large branches. Foliage canopy and empty gaps remain passable; no whole-canopy collision.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/tree_0-annotated.png"
+    },
+    "tree_1": {
+      "sprite": "tree_1",
+      "size": [
+        434,
+        526
+      ],
+      "polygon_count": 2,
+      "solid_samples": [
+        {
+          "label": "exposed upper pine bark",
+          "uv": [
+            0.45622,
+            0.71863
+          ],
+          "pixel": [
+            198,
+            378
+          ],
+          "covered": true
+        },
+        {
+          "label": "pine trunk centre",
+          "uv": [
+            0.46544,
+            0.77567
+          ],
+          "pixel": [
+            202,
+            408
+          ],
+          "covered": true
+        },
+        {
+          "label": "pine lower bark",
+          "uv": [
+            0.48387,
+            0.81939
+          ],
+          "pixel": [
+            210,
+            431
+          ],
+          "covered": true
+        },
+        {
+          "label": "left root wood",
+          "uv": [
+            0.43548,
+            0.8251
+          ],
+          "pixel": [
+            189,
+            434
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "pine top foliage",
+          "uv": [
+            0.47465,
+            0.11407
+          ],
+          "pixel": [
+            206,
+            60
+          ],
+          "passable": true
+        },
+        {
+          "label": "pine middle foliage",
+          "uv": [
+            0.39171,
+            0.43916
+          ],
+          "pixel": [
+            170,
+            231
+          ],
+          "passable": true
+        },
+        {
+          "label": "pine left low canopy",
+          "uv": [
+            0.21429,
+            0.72433
+          ],
+          "pixel": [
+            93,
+            381
+          ],
+          "passable": true
+        },
+        {
+          "label": "pine right low canopy",
+          "uv": [
+            0.71198,
+            0.76616
+          ],
+          "pixel": [
+            309,
+            403
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Original measured root footprint and unchanged root depth, plus independently traced visible wood: trunk, exposed fork and large branches. Foliage canopy and empty gaps remain passable; no whole-canopy collision.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/tree_1-annotated.png"
+    },
+    "tree_2": {
+      "sprite": "tree_2",
+      "size": [
+        444,
+        534
+      ],
+      "polygon_count": 3,
+      "solid_samples": [
+        {
+          "label": "left top birch fork",
+          "uv": [
+            0.53604,
+            0.28277
+          ],
+          "pixel": [
+            238,
+            151
+          ],
+          "covered": true
+        },
+        {
+          "label": "top pale twig",
+          "uv": [
+            0.5991,
+            0.25094
+          ],
+          "pixel": [
+            266,
+            134
+          ],
+          "covered": true
+        },
+        {
+          "label": "upper right twig",
+          "uv": [
+            0.65541,
+            0.26779
+          ],
+          "pixel": [
+            291,
+            143
+          ],
+          "covered": true
+        },
+        {
+          "label": "high trunk",
+          "uv": [
+            0.54054,
+            0.39139
+          ],
+          "pixel": [
+            240,
+            209
+          ],
+          "covered": true
+        },
+        {
+          "label": "left thin branch",
+          "uv": [
+            0.44369,
+            0.48315
+          ],
+          "pixel": [
+            197,
+            258
+          ],
+          "covered": true
+        },
+        {
+          "label": "right pale branch",
+          "uv": [
+            0.62162,
+            0.50936
+          ],
+          "pixel": [
+            276,
+            272
+          ],
+          "covered": true
+        },
+        {
+          "label": "trunk middle",
+          "uv": [
+            0.47748,
+            0.59363
+          ],
+          "pixel": [
+            212,
+            317
+          ],
+          "covered": true
+        },
+        {
+          "label": "lower bark",
+          "uv": [
+            0.41441,
+            0.78839
+          ],
+          "pixel": [
+            184,
+            421
+          ],
+          "covered": true
+        },
+        {
+          "label": "right dark branch",
+          "uv": [
+            0.54505,
+            0.65918
+          ],
+          "pixel": [
+            242,
+            352
+          ],
+          "covered": true
+        },
+        {
+          "label": "left rear dark branch",
+          "uv": [
+            0.39414,
+            0.63109
+          ],
+          "pixel": [
+            175,
+            337
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "upper leaf crown",
+          "uv": [
+            0.68243,
+            0.11985
+          ],
+          "pixel": [
+            303,
+            64
+          ],
+          "passable": true
+        },
+        {
+          "label": "left upper leaves",
+          "uv": [
+            0.36261,
+            0.26592
+          ],
+          "pixel": [
+            161,
+            142
+          ],
+          "passable": true
+        },
+        {
+          "label": "right leaf crown",
+          "uv": [
+            0.79505,
+            0.48689
+          ],
+          "pixel": [
+            353,
+            260
+          ],
+          "passable": true
+        },
+        {
+          "label": "left teal leaves",
+          "uv": [
+            0.22523,
+            0.52809
+          ],
+          "pixel": [
+            100,
+            282
+          ],
+          "passable": true
+        },
+        {
+          "label": "right low leaves",
+          "uv": [
+            0.57207,
+            0.83895
+          ],
+          "pixel": [
+            254,
+            448
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Original measured root footprint and unchanged root depth, plus independently traced visible wood: trunk, exposed fork and large branches. Foliage canopy and empty gaps remain passable; no whole-canopy collision.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/tree_2-annotated.png"
+    },
+    "tree_3": {
+      "sprite": "tree_3",
+      "size": [
+        444,
+        426
+      ],
+      "polygon_count": 2,
+      "solid_samples": [
+        {
+          "label": "highest exposed fork",
+          "uv": [
+            0.52928,
+            0.4554
+          ],
+          "pixel": [
+            235,
+            194
+          ],
+          "covered": true
+        },
+        {
+          "label": "middle bark",
+          "uv": [
+            0.50901,
+            0.6338
+          ],
+          "pixel": [
+            226,
+            270
+          ],
+          "covered": true
+        },
+        {
+          "label": "left upward branch",
+          "uv": [
+            0.39189,
+            0.52347
+          ],
+          "pixel": [
+            174,
+            223
+          ],
+          "covered": true
+        },
+        {
+          "label": "left diagonal branch",
+          "uv": [
+            0.32883,
+            0.5939
+          ],
+          "pixel": [
+            146,
+            253
+          ],
+          "covered": true
+        },
+        {
+          "label": "right diagonal branch",
+          "uv": [
+            0.63514,
+            0.65023
+          ],
+          "pixel": [
+            282,
+            277
+          ],
+          "covered": true
+        },
+        {
+          "label": "lower bark",
+          "uv": [
+            0.52477,
+            0.80047
+          ],
+          "pixel": [
+            233,
+            341
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "top green leaf crown",
+          "uv": [
+            0.59459,
+            0.14789
+          ],
+          "pixel": [
+            264,
+            63
+          ],
+          "passable": true
+        },
+        {
+          "label": "left green canopy",
+          "uv": [
+            0.18919,
+            0.34977
+          ],
+          "pixel": [
+            84,
+            149
+          ],
+          "passable": true
+        },
+        {
+          "label": "right teal canopy",
+          "uv": [
+            0.78604,
+            0.40845
+          ],
+          "pixel": [
+            349,
+            174
+          ],
+          "passable": true
+        },
+        {
+          "label": "right lower leaves",
+          "uv": [
+            0.80631,
+            0.66667
+          ],
+          "pixel": [
+            358,
+            284
+          ],
+          "passable": true
+        },
+        {
+          "label": "left dark canopy",
+          "uv": [
+            0.21396,
+            0.65728
+          ],
+          "pixel": [
+            95,
+            280
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Original measured root footprint and unchanged root depth, plus independently traced visible wood: trunk, exposed fork and large branches. Foliage canopy and empty gaps remain passable; no whole-canopy collision.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/tree_3-annotated.png"
+    },
+    "tree_4": {
+      "sprite": "tree_4",
+      "size": [
+        318,
+        506
+      ],
+      "polygon_count": 2,
+      "solid_samples": [
+        {
+          "label": "upper pine bark",
+          "uv": [
+            0.54403,
+            0.69368
+          ],
+          "pixel": [
+            173,
+            351
+          ],
+          "covered": true
+        },
+        {
+          "label": "middle pine bark",
+          "uv": [
+            0.51887,
+            0.75692
+          ],
+          "pixel": [
+            165,
+            383
+          ],
+          "covered": true
+        },
+        {
+          "label": "left exposed wood",
+          "uv": [
+            0.43396,
+            0.81225
+          ],
+          "pixel": [
+            138,
+            411
+          ],
+          "covered": true
+        },
+        {
+          "label": "lower pine bark",
+          "uv": [
+            0.51572,
+            0.85573
+          ],
+          "pixel": [
+            164,
+            433
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "pine top",
+          "uv": [
+            0.5283,
+            0.10474
+          ],
+          "pixel": [
+            168,
+            53
+          ],
+          "passable": true
+        },
+        {
+          "label": "pine middle foliage",
+          "uv": [
+            0.49686,
+            0.33399
+          ],
+          "pixel": [
+            158,
+            169
+          ],
+          "passable": true
+        },
+        {
+          "label": "left low canopy",
+          "uv": [
+            0.2044,
+            0.7253
+          ],
+          "pixel": [
+            65,
+            367
+          ],
+          "passable": true
+        },
+        {
+          "label": "right low canopy",
+          "uv": [
+            0.78931,
+            0.80632
+          ],
+          "pixel": [
+            251,
+            408
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Original measured root footprint and unchanged root depth, plus independently traced visible wood: trunk, exposed fork and large branches. Foliage canopy and empty gaps remain passable; no whole-canopy collision.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/tree_4-annotated.png"
+    },
+    "tree_5": {
+      "sprite": "tree_5",
+      "size": [
+        416,
+        500
+      ],
+      "polygon_count": 2,
+      "solid_samples": [
+        {
+          "label": "high left bark twig",
+          "uv": [
+            0.49038,
+            0.302
+          ],
+          "pixel": [
+            204,
+            151
+          ],
+          "covered": true
+        },
+        {
+          "label": "upper left fork outer bark",
+          "uv": [
+            0.48798,
+            0.348
+          ],
+          "pixel": [
+            203,
+            174
+          ],
+          "covered": true
+        },
+        {
+          "label": "trunk below first fork",
+          "uv": [
+            0.51923,
+            0.436
+          ],
+          "pixel": [
+            216,
+            218
+          ],
+          "covered": true
+        },
+        {
+          "label": "left upward bark",
+          "uv": [
+            0.34135,
+            0.574
+          ],
+          "pixel": [
+            142,
+            287
+          ],
+          "covered": true
+        },
+        {
+          "label": "left diagonal branch",
+          "uv": [
+            0.39183,
+            0.664
+          ],
+          "pixel": [
+            163,
+            332
+          ],
+          "covered": true
+        },
+        {
+          "label": "left middle twig",
+          "uv": [
+            0.4399,
+            0.542
+          ],
+          "pixel": [
+            183,
+            271
+          ],
+          "covered": true
+        },
+        {
+          "label": "right upper bark twig",
+          "uv": [
+            0.72115,
+            0.42
+          ],
+          "pixel": [
+            300,
+            210
+          ],
+          "covered": true
+        },
+        {
+          "label": "right side bark twig",
+          "uv": [
+            0.77644,
+            0.516
+          ],
+          "pixel": [
+            323,
+            258
+          ],
+          "covered": true
+        },
+        {
+          "label": "right diagonal bark",
+          "uv": [
+            0.63702,
+            0.592
+          ],
+          "pixel": [
+            265,
+            296
+          ],
+          "covered": true
+        },
+        {
+          "label": "central main bark",
+          "uv": [
+            0.52644,
+            0.706
+          ],
+          "pixel": [
+            219,
+            353
+          ],
+          "covered": true
+        },
+        {
+          "label": "lower main bark",
+          "uv": [
+            0.52163,
+            0.848
+          ],
+          "pixel": [
+            217,
+            424
+          ],
+          "covered": true
+        }
+      ],
+      "passable_samples": [
+        {
+          "label": "top yellow crown",
+          "uv": [
+            0.46635,
+            0.188
+          ],
+          "pixel": [
+            194,
+            94
+          ],
+          "passable": true
+        },
+        {
+          "label": "left teal crown",
+          "uv": [
+            0.13702,
+            0.352
+          ],
+          "pixel": [
+            57,
+            176
+          ],
+          "passable": true
+        },
+        {
+          "label": "right yellow crown",
+          "uv": [
+            0.75721,
+            0.322
+          ],
+          "pixel": [
+            315,
+            161
+          ],
+          "passable": true
+        },
+        {
+          "label": "right leaf beside branch",
+          "uv": [
+            0.88702,
+            0.464
+          ],
+          "pixel": [
+            369,
+            232
+          ],
+          "passable": true
+        },
+        {
+          "label": "left low yellow leaves",
+          "uv": [
+            0.17308,
+            0.55
+          ],
+          "pixel": [
+            72,
+            275
+          ],
+          "passable": true
+        },
+        {
+          "label": "right low teal leaves",
+          "uv": [
+            0.68269,
+            0.766
+          ],
+          "pixel": [
+            284,
+            383
+          ],
+          "passable": true
+        }
+      ],
+      "note": "Original measured root footprint and unchanged root depth, plus independently traced visible wood: trunk, exposed fork and large branches. Foliage canopy and empty gaps remain passable; no whole-canopy collision.",
+      "overlay": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.8/solid-profiles/tree_5-annotated.png"
+    }
+  },
+  "failures": []
+}

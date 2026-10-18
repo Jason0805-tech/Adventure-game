@@ -1,0 +1,174 @@
+{
+  "checks": 42,
+  "failures": 0,
+  "records": [
+    {
+      "asset": "cabin-props.png",
+      "identical": true
+    },
+    {
+      "asset": "environment.png",
+      "identical": true
+    },
+    {
+      "asset": "equipment.png",
+      "identical": true
+    },
+    {
+      "asset": "ground-blends.png",
+      "identical": true
+    },
+    {
+      "asset": "harvest-nodes.png",
+      "identical": true
+    },
+    {
+      "asset": "held-use-weapon-0.png",
+      "identical": true
+    },
+    {
+      "asset": "held-use-weapon-1.png",
+      "identical": true
+    },
+    {
+      "asset": "held-use-weapon-2.png",
+      "identical": true
+    },
+    {
+      "asset": "held-use-weapon-3.png",
+      "identical": true
+    },
+    {
+      "asset": "held-use-weapon-4.png",
+      "identical": true
+    },
+    {
+      "asset": "held-use-weapon-5.png",
+      "identical": true
+    },
+    {
+      "asset": "held-use-weapon-6.png",
+      "identical": true
+    },
+    {
+      "asset": "held-use-weapon-7.png",
+      "identical": true
+    },
+    {
+      "asset": "held-use-weapon-8.png",
+      "identical": true
+    },
+    {
+      "asset": "held-weapon-0.png",
+      "identical": true
+    },
+    {
+      "asset": "held-weapon-1.png",
+      "identical": true
+    },
+    {
+      "asset": "held-weapon-2.png",
+      "identical": true
+    },
+    {
+      "asset": "held-weapon-3.png",
+      "identical": true
+    },
+    {
+      "asset": "held-weapon-4.png",
+      "identical": true
+    },
+    {
+      "asset": "held-weapon-5.png",
+      "identical": true
+    },
+    {
+      "asset": "held-weapon-6.png",
+      "identical": true
+    },
+    {
+      "asset": "held-weapon-7.png",
+      "identical": true
+    },
+    {
+      "asset": "held-weapon-8.png",
+      "identical": true
+    },
+    {
+      "asset": "materials.png",
+      "identical": true
+    },
+    {
+      "asset": "meadow.png",
+      "identical": true
+    },
+    {
+      "asset": "npc-ash-directions.png",
+      "identical": true
+    },
+    {
+      "asset": "npc-rowan-directions.png",
+      "identical": true
+    },
+    {
+      "asset": "npc-rowan-lantern.png",
+      "identical": true
+    },
+    {
+      "asset": "npc-torso-source.png",
+      "identical": true
+    },
+    {
+      "asset": "npcs.png",
+      "identical": true
+    },
+    {
+      "asset": "paint-materials.png",
+      "identical": true
+    },
+    {
+      "asset": "painted-torso-source.png",
+      "identical": true
+    },
+    {
+      "asset": "ponds.png",
+      "identical": true
+    },
+    {
+      "asset": "status-icons.png",
+      "identical": true
+    },
+    {
+      "asset": "tool-use-meta.json",
+      "identical": true
+    },
+    {
+      "asset": "traveler-armed-directions.png",
+      "identical": true
+    },
+    {
+      "asset": "traveler-directions.json",
+      "identical": true
+    },
+    {
+      "asset": "traveler-unarmed-directions.png",
+      "identical": true
+    },
+    {
+      "asset": "traveler-use-directions.png",
+      "identical": true
+    },
+    {
+      "asset": "tree-variants.png",
+      "identical": true
+    },
+    {
+      "asset": "utility-icons.png",
+      "identical": true
+    },
+    {
+      "asset": "utility-props.png",
+      "identical": true
+    }
+  ]
+}

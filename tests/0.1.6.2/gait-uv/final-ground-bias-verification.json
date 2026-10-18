@@ -1,0 +1,2028 @@
+{
+  "bear": {
+    "0": [
+      {
+        "name": "front_left",
+        "reach_unchanged": 7.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 54
+      },
+      {
+        "name": "front_right",
+        "reach_unchanged": 7.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 45
+      }
+    ],
+    "1": [
+      {
+        "name": "hind_right",
+        "reach_unchanged": 7.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.03460739834408777,
+        "final_extra_excess": 0.03460739834408777,
+        "final_total_excess": 0.03460739834408777,
+        "source_contact_points": 39
+      },
+      {
+        "name": "hind_left",
+        "reach_unchanged": 10.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 51
+      },
+      {
+        "name": "front_left",
+        "reach_unchanged": 10.0,
+        "original_rest_shift": [
+          -8.0,
+          1.0625
+        ],
+        "proposed_rest_shift": [
+          -8.0,
+          1.0625
+        ],
+        "initial_extra_excess": 0.17341074226285969,
+        "final_extra_excess": 0.17341074226285969,
+        "final_total_excess": 0.28806918237218504,
+        "source_contact_points": 43
+      }
+    ],
+    "2": [
+      {
+        "name": "hind_left",
+        "reach_unchanged": 9.0,
+        "original_rest_shift": [
+          4.0,
+          0.25
+        ],
+        "proposed_rest_shift": [
+          4.0,
+          0.25
+        ],
+        "initial_extra_excess": 0.18646034252105537,
+        "final_extra_excess": 0.18646034252105537,
+        "final_total_excess": 0.18646034252105537,
+        "source_contact_points": 51
+      },
+      {
+        "name": "hind_right",
+        "reach_unchanged": 9.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 50
+      },
+      {
+        "name": "front_right",
+        "reach_unchanged": 9.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 37
+      },
+      {
+        "name": "front_left",
+        "reach_unchanged": 9.0,
+        "original_rest_shift": [
+          -1.625,
+          0.25
+        ],
+        "proposed_rest_shift": [
+          -1.625,
+          0.25
+        ],
+        "initial_extra_excess": 0.16097533540981424,
+        "final_extra_excess": 0.16097533540981424,
+        "final_total_excess": 0.16097533540981424,
+        "source_contact_points": 50
+      }
+    ],
+    "3": [
+      {
+        "name": "hind_left",
+        "reach_unchanged": 9.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 46
+      },
+      {
+        "name": "hind_right",
+        "reach_unchanged": 9.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 53
+      },
+      {
+        "name": "front_left",
+        "reach_unchanged": 7.0,
+        "original_rest_shift": [
+          -2.75,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          -2.75,
+          0.0
+        ],
+        "initial_extra_excess": 0.17620501857144433,
+        "final_extra_excess": 0.17620501857144433,
+        "final_total_excess": 0.17620501857144433,
+        "source_contact_points": 44
+      }
+    ],
+    "4": [
+      {
+        "name": "hind_right",
+        "reach_unchanged": 7.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 42
+      },
+      {
+        "name": "hind_left",
+        "reach_unchanged": 7.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 45
+      }
+    ],
+    "5": [
+      {
+        "name": "front_right",
+        "reach_unchanged": 7.0,
+        "original_rest_shift": [
+          4.75,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          4.75,
+          0.0
+        ],
+        "initial_extra_excess": 0.1882056155478331,
+        "final_extra_excess": 0.1882056155478331,
+        "final_total_excess": 0.30128358184750326,
+        "source_contact_points": 37
+      },
+      {
+        "name": "hind_left",
+        "reach_unchanged": 9.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 42
+      },
+      {
+        "name": "hind_right",
+        "reach_unchanged": 9.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 55
+      }
+    ],
+    "6": [
+      {
+        "name": "hind_right",
+        "reach_unchanged": 9.0,
+        "original_rest_shift": [
+          -4.25,
+          3.6875
+        ],
+        "proposed_rest_shift": [
+          -4.25,
+          3.6875
+        ],
+        "initial_extra_excess": 0.17527729885451038,
+        "final_extra_excess": 0.17527729885451038,
+        "final_total_excess": 0.17527729885451038,
+        "source_contact_points": 49
+      },
+      {
+        "name": "hind_left",
+        "reach_unchanged": 9.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 50
+      },
+      {
+        "name": "front_left",
+        "reach_unchanged": 9.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 34
+      },
+      {
+        "name": "front_right",
+        "reach_unchanged": 9.0,
+        "original_rest_shift": [
+          4.75,
+          1.0
+        ],
+        "proposed_rest_shift": [
+          4.75,
+          1.0
+        ],
+        "initial_extra_excess": 0.17431285320847145,
+        "final_extra_excess": 0.17431285320847145,
+        "final_total_excess": 0.17431285320847145,
+        "source_contact_points": 43
+      }
+    ],
+    "7": [
+      {
+        "name": "hind_left",
+        "reach_unchanged": 7.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 45
+      },
+      {
+        "name": "front_left",
+        "reach_unchanged": 9.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 46
+      },
+      {
+        "name": "front_right",
+        "reach_unchanged": 9.0,
+        "original_rest_shift": [
+          6.6875,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          6.6875,
+          0.0
+        ],
+        "initial_extra_excess": 0.17852525440124012,
+        "final_extra_excess": 0.17852525440124012,
+        "final_total_excess": 0.523311314240642,
+        "source_contact_points": 49
+      }
+    ]
+  },
+  "deer": {
+    "0": [
+      {
+        "name": "front_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          1.5,
+          1.5
+        ],
+        "proposed_rest_shift": [
+          1.5,
+          1.5
+        ],
+        "initial_extra_excess": 0.17275056686376988,
+        "final_extra_excess": 0.17275056686376988,
+        "final_total_excess": 0.17275056686376988,
+        "source_contact_points": 12
+      },
+      {
+        "name": "front_left",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 18
+      }
+    ],
+    "1": [
+      {
+        "name": "hind_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          7.75,
+          0.25
+        ],
+        "proposed_rest_shift": [
+          7.75,
+          0.25
+        ],
+        "initial_extra_excess": 0.18559269198761363,
+        "final_extra_excess": 0.18559269198761363,
+        "final_total_excess": 0.18559269198761363,
+        "source_contact_points": 16
+      },
+      {
+        "name": "hind_left",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          2.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          2.0
+        ],
+        "initial_extra_excess": 0.19891083333334159,
+        "final_extra_excess": 0.19891083333334159,
+        "final_total_excess": 0.23536916666667373,
+        "source_contact_points": 16
+      },
+      {
+        "name": "front_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 17
+      },
+      {
+        "name": "front_left",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 14
+      }
+    ],
+    "2": [
+      {
+        "name": "hind_right",
+        "reach_unchanged": 18.0,
+        "original_rest_shift": [
+          17.5,
+          3.0625
+        ],
+        "proposed_rest_shift": [
+          17.5,
+          3.0625
+        ],
+        "initial_extra_excess": 0.17751606243705353,
+        "final_extra_excess": 0.17751606243705353,
+        "final_total_excess": 0.17751606243705353,
+        "source_contact_points": 18
+      },
+      {
+        "name": "hind_left",
+        "reach_unchanged": 18.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 24
+      },
+      {
+        "name": "front_right",
+        "reach_unchanged": 18.0,
+        "original_rest_shift": [
+          -12.5,
+          0.0625
+        ],
+        "proposed_rest_shift": [
+          -12.5,
+          0.0625
+        ],
+        "initial_extra_excess": 0.1732813457932778,
+        "final_extra_excess": 0.1732813457932778,
+        "final_total_excess": 0.1732813457932778,
+        "source_contact_points": 21
+      },
+      {
+        "name": "front_left",
+        "reach_unchanged": 18.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 18
+      }
+    ],
+    "3": [
+      {
+        "name": "hind_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          6.0,
+          -0.75
+        ],
+        "proposed_rest_shift": [
+          6.0,
+          -0.75
+        ],
+        "initial_extra_excess": 0.1741038311567653,
+        "final_extra_excess": 0.1741038311567653,
+        "final_total_excess": 0.1741038311567653,
+        "source_contact_points": 18
+      },
+      {
+        "name": "hind_left",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 22
+      },
+      {
+        "name": "front_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 18
+      },
+      {
+        "name": "front_left",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          -0.3125,
+          0.5
+        ],
+        "proposed_rest_shift": [
+          -0.3125,
+          0.5
+        ],
+        "initial_extra_excess": 0.17340607752631243,
+        "final_extra_excess": 0.17340607752631243,
+        "final_total_excess": 0.17340607752631243,
+        "source_contact_points": 18
+      }
+    ],
+    "4": [
+      {
+        "name": "hind_right",
+        "reach_unchanged": 7.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 20
+      },
+      {
+        "name": "hind_left",
+        "reach_unchanged": 7.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 9
+      }
+    ],
+    "5": [
+      {
+        "name": "front_right",
+        "reach_unchanged": 9.0,
+        "original_rest_shift": [
+          1.0,
+          3.0
+        ],
+        "proposed_rest_shift": [
+          1.0,
+          3.0
+        ],
+        "initial_extra_excess": 0.16130527483660373,
+        "final_extra_excess": 0.16130527483660373,
+        "final_total_excess": 0.16130527483660373,
+        "source_contact_points": 18
+      },
+      {
+        "name": "front_left",
+        "reach_unchanged": 10.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 18
+      },
+      {
+        "name": "hind_left",
+        "reach_unchanged": 10.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 23
+      },
+      {
+        "name": "hind_right",
+        "reach_unchanged": 10.0,
+        "original_rest_shift": [
+          -6.0,
+          0.625
+        ],
+        "proposed_rest_shift": [
+          -6.0,
+          0.625
+        ],
+        "initial_extra_excess": 0.1791164717298468,
+        "final_extra_excess": 0.1791164717298468,
+        "final_total_excess": 0.1791164717298468,
+        "source_contact_points": 19
+      }
+    ],
+    "6": [
+      {
+        "name": "front_left",
+        "reach_unchanged": 10.0,
+        "original_rest_shift": [
+          10.0,
+          3.5
+        ],
+        "proposed_rest_shift": [
+          10.0,
+          3.5
+        ],
+        "initial_extra_excess": 0.17541284688509684,
+        "final_extra_excess": 0.17541284688509684,
+        "final_total_excess": 0.17541284688509684,
+        "source_contact_points": 25
+      },
+      {
+        "name": "front_right",
+        "reach_unchanged": 10.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 18
+      },
+      {
+        "name": "hind_right",
+        "reach_unchanged": 10.0,
+        "original_rest_shift": [
+          -7.25,
+          0.75
+        ],
+        "proposed_rest_shift": [
+          -7.25,
+          0.75
+        ],
+        "initial_extra_excess": 0.1646011750783174,
+        "final_extra_excess": 0.1646011750783174,
+        "final_total_excess": 0.1646011750783174,
+        "source_contact_points": 18
+      },
+      {
+        "name": "hind_left",
+        "reach_unchanged": 10.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 25
+      }
+    ],
+    "7": [
+      {
+        "name": "front_left",
+        "reach_unchanged": 10.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 20
+      },
+      {
+        "name": "front_right",
+        "reach_unchanged": 8.0,
+        "original_rest_shift": [
+          0.0,
+          1.25
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          1.25
+        ],
+        "initial_extra_excess": 0.1629516427291975,
+        "final_extra_excess": 0.1629516427291975,
+        "final_total_excess": 0.564030833333323,
+        "source_contact_points": 3
+      },
+      {
+        "name": "hind_left",
+        "reach_unchanged": 9.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 19
+      },
+      {
+        "name": "hind_right",
+        "reach_unchanged": 8.0,
+        "original_rest_shift": [
+          -3.0,
+          2.5
+        ],
+        "proposed_rest_shift": [
+          -3.0,
+          2.5
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.21383224602531747,
+        "source_contact_points": 9
+      }
+    ]
+  },
+  "fox": {
+    "0": [
+      {
+        "name": "front_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 22
+      },
+      {
+        "name": "front_left",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 23
+      }
+    ],
+    "1": [
+      {
+        "name": "hind_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          4.5,
+          5.25
+        ],
+        "proposed_rest_shift": [
+          4.5,
+          5.25
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 8
+      },
+      {
+        "name": "front_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 29
+      },
+      {
+        "name": "front_left",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.75,
+          4.75
+        ],
+        "proposed_rest_shift": [
+          0.75,
+          4.75
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 15
+      }
+    ],
+    "2": [
+      {
+        "name": "hind_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          4.5,
+          3.0
+        ],
+        "proposed_rest_shift": [
+          4.5,
+          3.0
+        ],
+        "initial_extra_excess": 0.17939991639638375,
+        "final_extra_excess": 0.17939991639638375,
+        "final_total_excess": 0.17939991639638375,
+        "source_contact_points": 18
+      },
+      {
+        "name": "hind_left",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 30
+      },
+      {
+        "name": "front_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 24
+      },
+      {
+        "name": "front_left",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          -5.25,
+          2.0
+        ],
+        "proposed_rest_shift": [
+          -5.25,
+          2.0
+        ],
+        "initial_extra_excess": 0.178318366850319,
+        "final_extra_excess": 0.178318366850319,
+        "final_total_excess": 0.178318366850319,
+        "source_contact_points": 22
+      }
+    ],
+    "3": [
+      {
+        "name": "hind_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 25
+      },
+      {
+        "name": "front_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 20
+      },
+      {
+        "name": "front_left",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          -3.5,
+          0.5
+        ],
+        "proposed_rest_shift": [
+          -3.5,
+          0.5
+        ],
+        "initial_extra_excess": 0.17439935378290716,
+        "final_extra_excess": 0.17439935378290716,
+        "final_total_excess": 0.17439935378290716,
+        "source_contact_points": 16
+      }
+    ],
+    "4": [
+      {
+        "name": "hind_left",
+        "reach_unchanged": 10.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 22
+      }
+    ],
+    "5": [
+      {
+        "name": "front_left",
+        "reach_unchanged": 7.87,
+        "original_rest_shift": [
+          3.0,
+          12.75
+        ],
+        "proposed_rest_shift": [
+          3.0,
+          12.75
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 24
+      },
+      {
+        "name": "hind_left",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 24
+      }
+    ],
+    "6": [
+      {
+        "name": "front_left",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          9.4375,
+          2.6875
+        ],
+        "proposed_rest_shift": [
+          9.4375,
+          2.6875
+        ],
+        "initial_extra_excess": 0.17865541932110052,
+        "final_extra_excess": 0.17865541932110052,
+        "final_total_excess": 0.17865541932110052,
+        "source_contact_points": 25
+      },
+      {
+        "name": "front_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 24
+      },
+      {
+        "name": "hind_left",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          -8.5,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          -8.5,
+          0.0
+        ],
+        "initial_extra_excess": 0.17427992422911665,
+        "final_extra_excess": 0.17427992422911665,
+        "final_total_excess": 0.17427992422911665,
+        "source_contact_points": 35
+      },
+      {
+        "name": "hind_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 13
+      }
+    ],
+    "7": [
+      {
+        "name": "front_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          9.0,
+          0.0625
+        ],
+        "proposed_rest_shift": [
+          9.0,
+          0.0625
+        ],
+        "initial_extra_excess": 0.17794136689250273,
+        "final_extra_excess": 0.17794136689250273,
+        "final_total_excess": 0.5749573884893655,
+        "source_contact_points": 17
+      },
+      {
+        "name": "front_left",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 24
+      },
+      {
+        "name": "hind_right",
+        "reach_unchanged": 10.0,
+        "original_rest_shift": [
+          0.0,
+          0.75
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.75
+        ],
+        "initial_extra_excess": 0.02751760479042531,
+        "final_extra_excess": 0.02751760479042531,
+        "final_total_excess": 0.02751760479042531,
+        "source_contact_points": 4
+      },
+      {
+        "name": "hind_left",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 20
+      }
+    ]
+  },
+  "rabbit": {
+    "0": [
+      {
+        "name": "front_left",
+        "reach_unchanged": 6.0,
+        "original_rest_shift": [
+          0.25,
+          0.25
+        ],
+        "proposed_rest_shift": [
+          0.25,
+          0.25
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 32
+      },
+      {
+        "name": "front_right",
+        "reach_unchanged": 6.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0993045508930317,
+        "final_extra_excess": 0.0993045508930317,
+        "final_total_excess": 0.19496078646749737,
+        "source_contact_points": 30
+      }
+    ],
+    "1": [
+      {
+        "name": "front_near",
+        "reach_unchanged": 6.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 43
+      },
+      {
+        "name": "hind_near",
+        "reach_unchanged": 6.0,
+        "original_rest_shift": [
+          2.25,
+          2.1875
+        ],
+        "proposed_rest_shift": [
+          2.25,
+          2.1875
+        ],
+        "initial_extra_excess": 0.17900491902095705,
+        "final_extra_excess": 0.17900491902095705,
+        "final_total_excess": 0.17900491902095705,
+        "source_contact_points": 37
+      },
+      {
+        "name": "front_far",
+        "reach_unchanged": 5.0,
+        "original_rest_shift": [
+          -2.5,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          -2.5,
+          0.0
+        ],
+        "initial_extra_excess": 0.13837589682726126,
+        "final_extra_excess": 0.13837589682726126,
+        "final_total_excess": 0.21667832535153675,
+        "source_contact_points": 18
+      }
+    ],
+    "2": [
+      {
+        "name": "hind_near",
+        "reach_unchanged": 6.0,
+        "original_rest_shift": [
+          5.0,
+          0.4375
+        ],
+        "proposed_rest_shift": [
+          5.0,
+          0.4375
+        ],
+        "initial_extra_excess": 0.17834315452220828,
+        "final_extra_excess": 0.17834315452220828,
+        "final_total_excess": 0.3150520014180289,
+        "source_contact_points": 52
+      },
+      {
+        "name": "front_near",
+        "reach_unchanged": 6.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 30
+      },
+      {
+        "name": "front_far",
+        "reach_unchanged": 5.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 4
+      }
+    ],
+    "3": [
+      {
+        "name": "hind_near",
+        "reach_unchanged": 6.0,
+        "original_rest_shift": [
+          3.25,
+          0.75
+        ],
+        "proposed_rest_shift": [
+          3.25,
+          0.75
+        ],
+        "initial_extra_excess": 0.1747807379155324,
+        "final_extra_excess": 0.1747807379155324,
+        "final_total_excess": 0.48347381834712166,
+        "source_contact_points": 61
+      },
+      {
+        "name": "front_near",
+        "reach_unchanged": 6.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 28
+      }
+    ],
+    "4": [
+      {
+        "name": "hind_left",
+        "reach_unchanged": 6.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.15393106948014434,
+        "final_extra_excess": 0.15393106948014434,
+        "final_total_excess": 0.44746599512326757,
+        "source_contact_points": 27
+      },
+      {
+        "name": "hind_right",
+        "reach_unchanged": 6.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.15393106948014434,
+        "final_extra_excess": 0.15393106948014434,
+        "final_total_excess": 0.24591285826734843,
+        "source_contact_points": 24
+      }
+    ],
+    "5": [
+      {
+        "name": "hind_near",
+        "reach_unchanged": 6.0,
+        "original_rest_shift": [
+          -2.6875,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          -2.6875,
+          0.0
+        ],
+        "initial_extra_excess": 0.1718594504409392,
+        "final_extra_excess": 0.1718594504409392,
+        "final_total_excess": 0.1718594504409392,
+        "source_contact_points": 47
+      },
+      {
+        "name": "front_near",
+        "reach_unchanged": 6.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 23
+      },
+      {
+        "name": "hind_far",
+        "reach_unchanged": 5.0,
+        "original_rest_shift": [
+          -2.6875,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          -2.6875,
+          0.0
+        ],
+        "initial_extra_excess": 0.17523589710742815,
+        "final_extra_excess": 0.17523589710742815,
+        "final_total_excess": 0.45231050854317,
+        "source_contact_points": 8
+      }
+    ],
+    "6": [
+      {
+        "name": "hind_near",
+        "reach_unchanged": 6.0,
+        "original_rest_shift": [
+          -5.0,
+          2.0
+        ],
+        "proposed_rest_shift": [
+          -5.0,
+          2.0
+        ],
+        "initial_extra_excess": 0.17551024636405632,
+        "final_extra_excess": 0.17551024636405632,
+        "final_total_excess": 0.5865871116053993,
+        "source_contact_points": 39
+      },
+      {
+        "name": "front_near",
+        "reach_unchanged": 6.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 41
+      },
+      {
+        "name": "front_far",
+        "reach_unchanged": 5.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 11
+      }
+    ],
+    "7": [
+      {
+        "name": "front_near",
+        "reach_unchanged": 6.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 36
+      },
+      {
+        "name": "hind_near",
+        "reach_unchanged": 6.0,
+        "original_rest_shift": [
+          -4.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          -4.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.17164139761127917,
+        "final_extra_excess": 0.17164139761127917,
+        "final_total_excess": 0.502440795658651,
+        "source_contact_points": 32
+      },
+      {
+        "name": "front_far",
+        "reach_unchanged": 5.0,
+        "original_rest_shift": [
+          1.25,
+          0.25
+        ],
+        "proposed_rest_shift": [
+          1.25,
+          0.25
+        ],
+        "initial_extra_excess": 0.07731669296700439,
+        "final_extra_excess": 0.07731669296700439,
+        "final_total_excess": 0.07731669296700439,
+        "source_contact_points": 24
+      }
+    ]
+  },
+  "wolf": {
+    "0": [
+      {
+        "name": "front_left",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.625,
+          1.875
+        ],
+        "proposed_rest_shift": [
+          0.625,
+          1.875
+        ],
+        "initial_extra_excess": 0.17911473953611967,
+        "final_extra_excess": 0.17911473953611967,
+        "final_total_excess": 0.17911473953611967,
+        "source_contact_points": 35
+      },
+      {
+        "name": "front_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 27
+      },
+      {
+        "name": "hind_left",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          1.375,
+          1.5
+        ],
+        "proposed_rest_shift": [
+          1.375,
+          1.5
+        ],
+        "initial_extra_excess": 0.17939567497582498,
+        "final_extra_excess": 0.17939567497582498,
+        "final_total_excess": 0.5014917004658495,
+        "source_contact_points": 1
+      }
+    ],
+    "1": [
+      {
+        "name": "hind_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 22
+      },
+      {
+        "name": "front_left",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          2.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          2.0
+        ],
+        "initial_extra_excess": 0.14389038065934479,
+        "final_extra_excess": 0.14389038065934479,
+        "final_total_excess": 0.3526815894505546,
+        "source_contact_points": 27
+      },
+      {
+        "name": "front_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 27
+      }
+    ],
+    "2": [
+      {
+        "name": "hind_right",
+        "reach_unchanged": 15.0,
+        "original_rest_shift": [
+          2.3125,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          2.3125,
+          0.0
+        ],
+        "initial_extra_excess": 0.17948082295126078,
+        "final_extra_excess": 0.17948082295126078,
+        "final_total_excess": 0.17948082295126078,
+        "source_contact_points": 25
+      },
+      {
+        "name": "hind_left",
+        "reach_unchanged": 15.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 31
+      },
+      {
+        "name": "front_right",
+        "reach_unchanged": 15.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 28
+      },
+      {
+        "name": "front_left",
+        "reach_unchanged": 15.0,
+        "original_rest_shift": [
+          -12.6875,
+          6.0
+        ],
+        "proposed_rest_shift": [
+          -12.6875,
+          6.0
+        ],
+        "initial_extra_excess": 0.17482897464173242,
+        "final_extra_excess": 0.17482897464173242,
+        "final_total_excess": 0.17482897464173242,
+        "source_contact_points": 31
+      }
+    ],
+    "3": [
+      {
+        "name": "hind_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 26
+      },
+      {
+        "name": "front_left",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          2.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          2.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 21
+      },
+      {
+        "name": "front_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 26
+      }
+    ],
+    "4": [
+      {
+        "name": "hind_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.375,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.375,
+          0.0
+        ],
+        "initial_extra_excess": 0.1741863521065703,
+        "final_extra_excess": 0.1741863521065703,
+        "final_total_excess": 0.5795532095671616,
+        "source_contact_points": 28
+      },
+      {
+        "name": "hind_left",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 25
+      }
+    ],
+    "5": [
+      {
+        "name": "front_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          2.25,
+          2.0
+        ],
+        "proposed_rest_shift": [
+          2.25,
+          2.0
+        ],
+        "initial_extra_excess": 0.16647611573275256,
+        "final_extra_excess": 0.16647611573275256,
+        "final_total_excess": 0.16647611573275256,
+        "source_contact_points": 30
+      },
+      {
+        "name": "hind_left",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 34
+      },
+      {
+        "name": "hind_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 28
+      }
+    ],
+    "6": [
+      {
+        "name": "front_left",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          8.9375,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          8.9375,
+          0.0
+        ],
+        "initial_extra_excess": 0.16857803965616291,
+        "final_extra_excess": 0.16857803965616291,
+        "final_total_excess": 0.16857803965616291,
+        "source_contact_points": 36
+      },
+      {
+        "name": "front_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 28
+      },
+      {
+        "name": "hind_left",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 30
+      },
+      {
+        "name": "hind_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          -2.125,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          -2.125,
+          0.0
+        ],
+        "initial_extra_excess": 0.17979638823760524,
+        "final_extra_excess": 0.17979638823760524,
+        "final_total_excess": 0.17979638823760524,
+        "source_contact_points": 24
+      }
+    ],
+    "7": [
+      {
+        "name": "front_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 28
+      },
+      {
+        "name": "front_left",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.08894532571429181,
+        "final_extra_excess": 0.08894532571429181,
+        "final_total_excess": 0.08894532571429181,
+        "source_contact_points": 24
+      },
+      {
+        "name": "hind_right",
+        "reach_unchanged": 12.0,
+        "original_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "proposed_rest_shift": [
+          0.0,
+          0.0
+        ],
+        "initial_extra_excess": 0.0,
+        "final_extra_excess": 0.0,
+        "final_total_excess": 0.0,
+        "source_contact_points": 22
+      }
+    ]
+  }
+}

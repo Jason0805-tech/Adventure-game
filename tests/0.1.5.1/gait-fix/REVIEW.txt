@@ -1,0 +1,17 @@
+Walking correction review
+Previous six-frame sheets repeated poses and were not a coherent walk cycle.
+Procedural leg rig was rejected by the user; it is removed from the release.
+Current replacement: whole painted lower-body poses with fixed upper body,
+no independent leg rotation. Four key poses, mirrored left/right.
+Native Godot capture: motion-00..31.png and painted-walk.gif (pose review).
+Native game capture: play-*.png (actual movement during the playtest session).
+GUI input verification was interrupted by user activity; do not claim that
+agent-driven manual four-direction gameplay validation was completed.
+Automated movement checks and art checks do not prove visual naturalness.
+Final checks after packaging correction:
+- Mechanics: 57 checks, 0 failures. Diagonal speed expectation now follows SPEED.
+- Art/collision checks: 220 checks, 0 failures.
+- New movement lifecycle checks: 18 checks, 0 failures.
+- 11 UI states rendered without script errors.
+- App signature verified; packaged source matches working source.
+Current visual limitation: four key poses; smooth high-frame-count gait remains unfinished.

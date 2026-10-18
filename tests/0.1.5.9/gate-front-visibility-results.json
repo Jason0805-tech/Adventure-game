@@ -1,0 +1,47 @@
+{
+	"checks": 3,
+	"failures": 0,
+	"method": "Same local front-contact criteria and actual Canvas alpha audit as all-model suite; all three gate contacts retain fresh corrected captures.",
+	"results": [
+		{
+			"hidden_samples": [],
+			"label": "gate-live-(2030.0,310.0)-col20",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				1955.24060058594,
+				293.703033447266
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"hidden_samples": [],
+			"label": "gate-live-(2030.0,310.0)-col50",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				1989.9404296875,
+				256.377746582031
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"hidden_samples": [],
+			"label": "gate-live-(2030.0,310.0)-col80",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				2024.64038085938,
+				310.126159667969
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		}
+	],
+	"version": "0.1.5.9"
+}

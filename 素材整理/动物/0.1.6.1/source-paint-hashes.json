@@ -1,0 +1,32 @@
+[
+  {
+    "asset": "wildlife-rabbit.png",
+    "sha256": "5a3df266c08c2ca1340afb95b52c51c7b8c533190b18ab7d4213be0e6aa33fa5",
+    "original_relative_path": "../0.1.6/production/wildlife-rabbit.png",
+    "release_png_unchanged": true
+  },
+  {
+    "asset": "wildlife-deer.png",
+    "sha256": "c3648d4a81e160118366f8f011b6539d27959f159910f1fa651a10de3baac638",
+    "original_relative_path": "../0.1.6/production/wildlife-deer.png",
+    "release_png_unchanged": true
+  },
+  {
+    "asset": "wildlife-fox.png",
+    "sha256": "8454647a49e8d85e088c2062398919fc7dea452e3782bed698959a3398e4ac97",
+    "original_relative_path": "../0.1.6/production/wildlife-fox.png",
+    "release_png_unchanged": true
+  },
+  {
+    "asset": "wildlife-wolf.png",
+    "sha256": "86e4fe6489b65678872644d1b9734e43820ffe7ec469eb8e6df32a961d9f50dd",
+    "original_relative_path": "../0.1.6/production/wildlife-wolf.png",
+    "release_png_unchanged": true
+  },
+  {
+    "asset": "wildlife-bear.png",
+    "sha256": "224baa111faf6d99649dc04cd3be5f12c262780018903f1db36eb4658cb5e952",
+    "original_relative_path": "../0.1.6/production/wildlife-bear.png",
+    "release_png_unchanged": true
+  }
+]

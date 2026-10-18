@@ -1,0 +1,2960 @@
+{
+  "source_release": "0.1.5.9",
+  "method": "Read PNG IHDR and validated runtime crop/display measurements from tests/0.1.5.9/actual-paint-density-results.json. No asset or runtime modification.",
+  "native_avatar": {
+    "cell": [
+      96,
+      160
+    ],
+    "scale": 0.8,
+    "display_world_size": [
+      76.8,
+      128.0
+    ],
+    "native_texels_per_world_unit": 1.25
+  },
+  "native_npc": {
+    "cell": [
+      96,
+      160
+    ],
+    "atlas_size": [
+      768,
+      1440
+    ],
+    "directions": 8,
+    "walk_frames": 9
+  },
+  "meadow_bottleneck": {
+    "source_size": [
+      1518,
+      1036
+    ],
+    "world_size": [
+      2200,
+      1500
+    ],
+    "native_texels_per_world_unit": [
+      0.69,
+      0.6906666666666667
+    ],
+    "old_display_size": [
+      1100,
+      750
+    ],
+    "target_2x_retina_raster_size": [
+      4400,
+      3000
+    ],
+    "target_avatar_density_raster_size": [
+      2750,
+      1875
+    ],
+    "warning": "Larger file dimensions produced by interpolation add no original painted detail. Fresh higher-resolution painting or controlled painted-detail synthesis is necessary for actual extra background detail."
+  },
+  "assets": [
+    {
+      "path": "assets/cabin-props.png",
+      "source_size": [
+        1536,
+        1024
+      ],
+      "source_pixel_count": 1572864
+    },
+    {
+      "path": "assets/environment.png",
+      "source_size": [
+        1536,
+        1024
+      ],
+      "source_pixel_count": 1572864
+    },
+    {
+      "path": "assets/equipment.png",
+      "source_size": [
+        1536,
+        1024
+      ],
+      "source_pixel_count": 1572864
+    },
+    {
+      "path": "assets/ground-blends.png",
+      "source_size": [
+        1536,
+        1024
+      ],
+      "source_pixel_count": 1572864
+    },
+    {
+      "path": "assets/harvest-nodes.png",
+      "source_size": [
+        887,
+        1774
+      ],
+      "source_pixel_count": 1573538
+    },
+    {
+      "path": "assets/held-use-weapon-0.png",
+      "source_size": [
+        3072,
+        1152
+      ],
+      "source_pixel_count": 3538944
+    },
+    {
+      "path": "assets/held-use-weapon-1.png",
+      "source_size": [
+        3072,
+        1152
+      ],
+      "source_pixel_count": 3538944
+    },
+    {
+      "path": "assets/held-use-weapon-2.png",
+      "source_size": [
+        3072,
+        1152
+      ],
+      "source_pixel_count": 3538944
+    },
+    {
+      "path": "assets/held-use-weapon-3.png",
+      "source_size": [
+        3072,
+        1152
+      ],
+      "source_pixel_count": 3538944
+    },
+    {
+      "path": "assets/held-use-weapon-4.png",
+      "source_size": [
+        3072,
+        1152
+      ],
+      "source_pixel_count": 3538944
+    },
+    {
+      "path": "assets/held-use-weapon-5.png",
+      "source_size": [
+        3072,
+        1152
+      ],
+      "source_pixel_count": 3538944
+    },
+    {
+      "path": "assets/held-use-weapon-6.png",
+      "source_size": [
+        3072,
+        1152
+      ],
+      "source_pixel_count": 3538944
+    },
+    {
+      "path": "assets/held-use-weapon-7.png",
+      "source_size": [
+        3072,
+        1152
+      ],
+      "source_pixel_count": 3538944
+    },
+    {
+      "path": "assets/held-use-weapon-8.png",
+      "source_size": [
+        3072,
+        1152
+      ],
+      "source_pixel_count": 3538944
+    },
+    {
+      "path": "assets/held-weapon-0.png",
+      "source_size": [
+        1536,
+        1440
+      ],
+      "source_pixel_count": 2211840
+    },
+    {
+      "path": "assets/held-weapon-1.png",
+      "source_size": [
+        1536,
+        1440
+      ],
+      "source_pixel_count": 2211840
+    },
+    {
+      "path": "assets/held-weapon-2.png",
+      "source_size": [
+        1536,
+        1440
+      ],
+      "source_pixel_count": 2211840
+    },
+    {
+      "path": "assets/held-weapon-3.png",
+      "source_size": [
+        1536,
+        1440
+      ],
+      "source_pixel_count": 2211840
+    },
+    {
+      "path": "assets/held-weapon-4.png",
+      "source_size": [
+        1536,
+        1440
+      ],
+      "source_pixel_count": 2211840
+    },
+    {
+      "path": "assets/held-weapon-5.png",
+      "source_size": [
+        1536,
+        1440
+      ],
+      "source_pixel_count": 2211840
+    },
+    {
+      "path": "assets/held-weapon-6.png",
+      "source_size": [
+        1536,
+        1440
+      ],
+      "source_pixel_count": 2211840
+    },
+    {
+      "path": "assets/held-weapon-7.png",
+      "source_size": [
+        1536,
+        1440
+      ],
+      "source_pixel_count": 2211840
+    },
+    {
+      "path": "assets/held-weapon-8.png",
+      "source_size": [
+        1536,
+        1440
+      ],
+      "source_pixel_count": 2211840
+    },
+    {
+      "path": "assets/materials.png",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "source_pixel_count": 1572516
+    },
+    {
+      "path": "assets/meadow.png",
+      "source_size": [
+        1518,
+        1036
+      ],
+      "source_pixel_count": 1572648
+    },
+    {
+      "path": "assets/npc-ash-directions.png",
+      "source_size": [
+        768,
+        1440
+      ],
+      "source_pixel_count": 1105920
+    },
+    {
+      "path": "assets/npc-rowan-directions.png",
+      "source_size": [
+        768,
+        1440
+      ],
+      "source_pixel_count": 1105920
+    },
+    {
+      "path": "assets/npc-rowan-lantern.png",
+      "source_size": [
+        768,
+        1440
+      ],
+      "source_pixel_count": 1105920
+    },
+    {
+      "path": "assets/npc-torso-source.png",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "source_pixel_count": 1572516
+    },
+    {
+      "path": "assets/npcs.png",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "source_pixel_count": 1572516
+    },
+    {
+      "path": "assets/paint-materials.png",
+      "source_size": [
+        1536,
+        1024
+      ],
+      "source_pixel_count": 1572864
+    },
+    {
+      "path": "assets/painted-torso-source.png",
+      "source_size": [
+        1448,
+        1086
+      ],
+      "source_pixel_count": 1572528
+    },
+    {
+      "path": "assets/ponds.png",
+      "source_size": [
+        1774,
+        887
+      ],
+      "source_pixel_count": 1573538
+    },
+    {
+      "path": "assets/status-icons.png",
+      "source_size": [
+        1983,
+        793
+      ],
+      "source_pixel_count": 1572519
+    },
+    {
+      "path": "assets/traveler-armed-directions.png",
+      "source_size": [
+        1536,
+        1440
+      ],
+      "source_pixel_count": 2211840
+    },
+    {
+      "path": "assets/traveler-unarmed-directions.png",
+      "source_size": [
+        1536,
+        1440
+      ],
+      "source_pixel_count": 2211840
+    },
+    {
+      "path": "assets/traveler-use-directions.png",
+      "source_size": [
+        3072,
+        1152
+      ],
+      "source_pixel_count": 3538944
+    },
+    {
+      "path": "assets/tree-variants.png",
+      "source_size": [
+        1536,
+        1024
+      ],
+      "source_pixel_count": 1572864
+    },
+    {
+      "path": "assets/utility-icons.png",
+      "source_size": [
+        1254,
+        1254
+      ],
+      "source_pixel_count": 1572516
+    },
+    {
+      "path": "assets/utility-props.png",
+      "source_size": [
+        1536,
+        1024
+      ],
+      "source_pixel_count": 1572864
+    }
+  ],
+  "runtime_static_sampling": [
+    {
+      "display_size": [
+        128,
+        111
+      ],
+      "display_texels": 14208,
+      "label": "cabin:(254.9879, 222.0)",
+      "retained_texel_fraction": 0.0498778330103631,
+      "source_size": [
+        572,
+        498
+      ],
+      "source_texels": 284856,
+      "world_size": [
+        254.987945556641,
+        222.0
+      ],
+      "native_texels_per_world_unit": [
+        2.243243298232467,
+        2.2432432432432434
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5019845142897827,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        4.46875,
+        4.486486486486487
+      ],
+      "texel_count_recovery_if_restore_source": 20.048986486486488
+    },
+    {
+      "display_size": [
+        78,
+        66
+      ],
+      "display_texels": 5148,
+      "label": "gate:(156.0, 132.0)",
+      "retained_texel_fraction": 0.0277777777777778,
+      "source_size": [
+        468,
+        396
+      ],
+      "source_texels": 185328,
+      "world_size": [
+        156.0,
+        132.0
+      ],
+      "native_texels_per_world_unit": [
+        3.0,
+        3.0
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.0,
+        6.0
+      ],
+      "texel_count_recovery_if_restore_source": 36.0
+    },
+    {
+      "display_size": [
+        34,
+        25
+      ],
+      "display_texels": 850,
+      "label": "prop_1:(67.6124, 49.0)",
+      "retained_texel_fraction": 0.0092544203466597,
+      "source_size": [
+        356,
+        258
+      ],
+      "source_texels": 91848,
+      "world_size": [
+        67.6124038696289,
+        49.0
+      ],
+      "native_texels_per_world_unit": [
+        5.265306062574608,
+        5.26530612244898
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5028663093470132,
+        0.5102040816326531
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        10.470588235294118,
+        10.32
+      ],
+      "texel_count_recovery_if_restore_source": 108.0564705882353
+    },
+    {
+      "display_size": [
+        27,
+        23
+      ],
+      "display_texels": 621,
+      "label": "prop_3:(52.98734, 46.0)",
+      "retained_texel_fraction": 0.00539887327862011,
+      "source_size": [
+        364,
+        316
+      ],
+      "source_texels": 115024,
+      "world_size": [
+        52.9873428344727,
+        46.0
+      ],
+      "native_texels_per_world_unit": [
+        6.8695650796663,
+        6.869565217391305
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5095556515137091,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        13.481481481481481,
+        13.73913043478261
+      ],
+      "texel_count_recovery_if_restore_source": 185.22383252818037
+    },
+    {
+      "display_size": [
+        21,
+        17
+      ],
+      "display_texels": 357,
+      "label": "prop_4:(41.19231, 34.0)",
+      "retained_texel_fraction": 0.00302706552706553,
+      "source_size": [
+        378,
+        312
+      ],
+      "source_texels": 117936,
+      "world_size": [
+        41.1923065185547,
+        34.0
+      ],
+      "native_texels_per_world_unit": [
+        9.17647084971397,
+        9.176470588235293
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5098039360952206,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        18.0,
+        18.352941176470587
+      ],
+      "texel_count_recovery_if_restore_source": 330.3529411764706
+    },
+    {
+      "display_size": [
+        87,
+        91
+      ],
+      "display_texels": 7917,
+      "label": "tree_0:(172.4569, 182.0)",
+      "retained_texel_fraction": 0.0293000843806901,
+      "source_size": [
+        506,
+        534
+      ],
+      "source_texels": 270204,
+      "world_size": [
+        172.456924438477,
+        182.0
+      ],
+      "native_texels_per_world_unit": [
+        2.9340660089326396,
+        2.934065934065934
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5044737999548214,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        5.816091954022989,
+        5.868131868131868
+      ],
+      "texel_count_recovery_if_restore_source": 34.12959454338765
+    },
+    {
+      "display_size": [
+        64,
+        78
+      ],
+      "display_texels": 4992,
+      "label": "tree_1:(127.8897, 155.0)",
+      "retained_texel_fraction": 0.0218674983792119,
+      "source_size": [
+        434,
+        526
+      ],
+      "source_texels": 228284,
+      "world_size": [
+        127.88973236084,
+        155.0
+      ],
+      "native_texels_per_world_unit": [
+        3.393548426354291,
+        3.393548387096774
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5004311043471765,
+        0.5032258064516129
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.78125,
+        6.743589743589744
+      ],
+      "texel_count_recovery_if_restore_source": 45.72996794871795
+    },
+    {
+      "display_size": [
+        50,
+        80
+      ],
+      "display_texels": 4000,
+      "label": "tree_4:(99.9249, 159.0)",
+      "retained_texel_fraction": 0.0248589255972357,
+      "source_size": [
+        318,
+        506
+      ],
+      "source_texels": 160908,
+      "world_size": [
+        99.9249038696289,
+        159.0
+      ],
+      "native_texels_per_world_unit": [
+        3.182389851631898,
+        3.1823899371069184
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5003757628352041,
+        0.5031446540880503
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.36,
+        6.325
+      ],
+      "texel_count_recovery_if_restore_source": 40.227
+    },
+    {
+      "display_size": [
+        62,
+        75
+      ],
+      "display_texels": 4650,
+      "label": "tree_5:(123.968, 149.0)",
+      "retained_texel_fraction": 0.0223557692307692,
+      "source_size": [
+        416,
+        500
+      ],
+      "source_texels": 208000,
+      "world_size": [
+        123.968002319336,
+        149.0
+      ],
+      "native_texels_per_world_unit": [
+        3.3557046352041935,
+        3.3557046979865772
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5001290562083173,
+        0.5033557046979866
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.709677419354839,
+        6.666666666666667
+      ],
+      "texel_count_recovery_if_restore_source": 44.73118279569893
+    },
+    {
+      "display_size": [
+        74,
+        78
+      ],
+      "display_texels": 5772,
+      "label": "tree_0:(146.8727, 155.0)",
+      "retained_texel_fraction": 0.0213616378736066,
+      "source_size": [
+        506,
+        534
+      ],
+      "source_texels": 270204,
+      "world_size": [
+        146.872665405273,
+        155.0
+      ],
+      "native_texels_per_world_unit": [
+        3.445161144204534,
+        3.445161290322581
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5038377957927579,
+        0.5032258064516129
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.837837837837838,
+        6.846153846153846
+      ],
+      "texel_count_recovery_if_restore_source": 46.812889812889814
+    },
+    {
+      "display_size": [
+        76,
+        92
+      ],
+      "display_texels": 6992,
+      "label": "tree_1:(150.9924, 183.0)",
+      "retained_texel_fraction": 0.0306285153580628,
+      "source_size": [
+        434,
+        526
+      ],
+      "source_texels": 228284,
+      "world_size": [
+        150.992401123047,
+        183.0
+      ],
+      "native_texels_per_world_unit": [
+        2.8743168316551504,
+        2.8743169398907105
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5033365880317775,
+        0.5027322404371585
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        5.7105263157894735,
+        5.717391304347826
+      ],
+      "texel_count_recovery_if_restore_source": 32.649313501144164
+    },
+    {
+      "display_size": [
+        65,
+        78
+      ],
+      "display_texels": 5070,
+      "label": "tree_2:(129.7079, 156.0)",
+      "retained_texel_fraction": 0.0213837432938557,
+      "source_size": [
+        444,
+        534
+      ],
+      "source_texels": 237096,
+      "world_size": [
+        129.707870483398,
+        156.0
+      ],
+      "native_texels_per_world_unit": [
+        3.4230767828142694,
+        3.423076923076923
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5011261055921791,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.8307692307692305,
+        6.846153846153846
+      ],
+      "texel_count_recovery_if_restore_source": 46.76449704142012
+    },
+    {
+      "display_size": [
+        65,
+        78
+      ],
+      "display_texels": 5070,
+      "label": "tree_5:(128.96, 155.0)",
+      "retained_texel_fraction": 0.024375,
+      "source_size": [
+        416,
+        500
+      ],
+      "source_texels": 208000,
+      "world_size": [
+        128.960006713867,
+        155.0
+      ],
+      "native_texels_per_world_unit": [
+        3.2258062836721906,
+        3.225806451612903
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5040322318237798,
+        0.5032258064516129
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.4,
+        6.410256410256411
+      ],
+      "texel_count_recovery_if_restore_source": 41.02564102564103
+    },
+    {
+      "display_size": [
+        74,
+        89
+      ],
+      "display_texels": 6586,
+      "label": "tree_1:(146.8669, 178.0)",
+      "retained_texel_fraction": 0.028850028911356,
+      "source_size": [
+        434,
+        526
+      ],
+      "source_texels": 228284,
+      "world_size": [
+        146.866912841797,
+        178.0
+      ],
+      "native_texels_per_world_unit": [
+        2.955056326863075,
+        2.955056179775281
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5038575303867916,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        5.864864864864865,
+        5.910112359550562
+      ],
+      "texel_count_recovery_if_restore_source": 34.66201032493167
+    },
+    {
+      "display_size": [
+        65,
+        77
+      ],
+      "display_texels": 5005,
+      "label": "tree_5:(128.128, 154.0)",
+      "retained_texel_fraction": 0.0240625,
+      "source_size": [
+        416,
+        500
+      ],
+      "source_texels": 208000,
+      "world_size": [
+        128.128005981445,
+        154.0
+      ],
+      "native_texels_per_world_unit": [
+        3.246753095183917,
+        3.2467532467532467
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5073051711224871,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.4,
+        6.4935064935064934
+      ],
+      "texel_count_recovery_if_restore_source": 41.55844155844156
+    },
+    {
+      "display_size": [
+        55,
+        87
+      ],
+      "display_texels": 4785,
+      "label": "tree_4:(109.3518, 174.0)",
+      "retained_texel_fraction": 0.0297374897456932,
+      "source_size": [
+        318,
+        506
+      ],
+      "source_texels": 160908,
+      "world_size": [
+        109.351776123047,
+        174.0
+      ],
+      "native_texels_per_world_unit": [
+        2.9080460443749323,
+        2.9080459770114944
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5029639384925197,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        5.781818181818182,
+        5.816091954022989
+      ],
+      "texel_count_recovery_if_restore_source": 33.62758620689655
+    },
+    {
+      "display_size": [
+        72,
+        75
+      ],
+      "display_texels": 5400,
+      "label": "tree_0:(142.1348, 150.0)",
+      "retained_texel_fraction": 0.019984900297553,
+      "source_size": [
+        506,
+        534
+      ],
+      "source_texels": 270204,
+      "world_size": [
+        142.134826660156,
+        150.0
+      ],
+      "native_texels_per_world_unit": [
+        3.5600001202368556,
+        3.56
+      ],
+      "old_display_texels_per_world_unit": [
+        0.506561281930936,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        7.027777777777778,
+        7.12
+      ],
+      "texel_count_recovery_if_restore_source": 50.03777777777778
+    },
+    {
+      "display_size": [
+        75,
+        90
+      ],
+      "display_texels": 6750,
+      "label": "tree_2:(148.8315, 179.0)",
+      "retained_texel_fraction": 0.0284694807166717,
+      "source_size": [
+        444,
+        534
+      ],
+      "source_texels": 237096,
+      "world_size": [
+        148.831466674805,
+        179.0
+      ],
+      "native_texels_per_world_unit": [
+        2.9832401031841926,
+        2.983240223463687
+      ],
+      "old_display_texels_per_world_unit": [
+        0.503925693105438,
+        0.5027932960893855
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        5.92,
+        5.933333333333334
+      ],
+      "texel_count_recovery_if_restore_source": 35.12533333333333
+    },
+    {
+      "display_size": [
+        63,
+        75
+      ],
+      "display_texels": 4725,
+      "label": "tree_2:(124.7191, 150.0)",
+      "retained_texel_fraction": 0.0199286365016702,
+      "source_size": [
+        444,
+        534
+      ],
+      "source_texels": 237096,
+      "world_size": [
+        124.719100952148,
+        150.0
+      ],
+      "native_texels_per_world_unit": [
+        3.5600000048938223,
+        3.56
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5051351358295288,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        7.0476190476190474,
+        7.12
+      ],
+      "texel_count_recovery_if_restore_source": 50.179047619047616
+    },
+    {
+      "display_size": [
+        83,
+        88
+      ],
+      "display_texels": 7304,
+      "label": "tree_0:(165.824, 175.0)",
+      "retained_texel_fraction": 0.0270314281061716,
+      "source_size": [
+        506,
+        534
+      ],
+      "source_texels": 270204,
+      "world_size": [
+        165.823974609375,
+        175.0
+      ],
+      "native_texels_per_world_unit": [
+        3.0514284872978363,
+        3.0514285714285716
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5005307597741511,
+        0.5028571428571429
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.096385542168675,
+        6.068181818181818
+      ],
+      "texel_count_recovery_if_restore_source": 36.993975903614455
+    },
+    {
+      "display_size": [
+        82,
+        78
+      ],
+      "display_texels": 6396,
+      "label": "tree_3:(162.5916, 156.0)",
+      "retained_texel_fraction": 0.0338155056464916,
+      "source_size": [
+        444,
+        426
+      ],
+      "source_texels": 189144,
+      "world_size": [
+        162.591552734375,
+        156.0
+      ],
+      "native_texels_per_world_unit": [
+        2.730769173017005,
+        2.730769230769231
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5043312436653028,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        5.414634146341464,
+        5.461538461538462
+      ],
+      "texel_count_recovery_if_restore_source": 29.57223264540338
+    },
+    {
+      "display_size": [
+        88,
+        84
+      ],
+      "display_texels": 7392,
+      "label": "tree_3:(174.0563, 167.0)",
+      "retained_texel_fraction": 0.0390813348559827,
+      "source_size": [
+        444,
+        426
+      ],
+      "source_texels": 189144,
+      "world_size": [
+        174.056335449219,
+        167.0
+      ],
+      "native_texels_per_world_unit": [
+        2.5508982413888472,
+        2.5508982035928143
+      ],
+      "old_display_texels_per_world_unit": [
+        0.505583435230222,
+        0.5029940119760479
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        5.045454545454546,
+        5.071428571428571
+      ],
+      "texel_count_recovery_if_restore_source": 25.587662337662337
+    },
+    {
+      "display_size": [
+        94,
+        90
+      ],
+      "display_texels": 8460,
+      "label": "tree_3:(187.6056, 180.0)",
+      "retained_texel_fraction": 0.0447278264179673,
+      "source_size": [
+        444,
+        426
+      ],
+      "source_texels": 189144,
+      "world_size": [
+        187.60563659668,
+        180.0
+      ],
+      "native_texels_per_world_unit": [
+        2.3666666314217624,
+        2.3666666666666667
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5010510435892921,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        4.723404255319149,
+        4.733333333333333
+      ],
+      "texel_count_recovery_if_restore_source": 22.357446808510637
+    },
+    {
+      "display_size": [
+        54,
+        85
+      ],
+      "display_texels": 4590,
+      "label": "tree_4:(106.8379, 170.0)",
+      "retained_texel_fraction": 0.028525617122828,
+      "source_size": [
+        318,
+        506
+      ],
+      "source_texels": 160908,
+      "world_size": [
+        106.837944030762,
+        170.0
+      ],
+      "native_texels_per_world_unit": [
+        2.976470605877981,
+        2.976470588235294
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5054384047717326,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        5.888888888888889,
+        5.952941176470588
+      ],
+      "texel_count_recovery_if_restore_source": 35.0562091503268
+    },
+    {
+      "display_size": [
+        84,
+        80
+      ],
+      "display_texels": 6720,
+      "label": "tree_3:(166.7606, 160.0)",
+      "retained_texel_fraction": 0.0355284862327116,
+      "source_size": [
+        444,
+        426
+      ],
+      "source_texels": 189144,
+      "world_size": [
+        166.760559082031,
+        160.0
+      ],
+      "native_texels_per_world_unit": [
+        2.662500068625894,
+        2.6625
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5037162291994934,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        5.285714285714286,
+        5.325
+      ],
+      "texel_count_recovery_if_restore_source": 28.146428571428572
+    },
+    {
+      "display_size": [
+        50,
+        79
+      ],
+      "display_texels": 3950,
+      "label": "tree_4:(99.29644, 158.0)",
+      "retained_texel_fraction": 0.0245481890272702,
+      "source_size": [
+        318,
+        506
+      ],
+      "source_texels": 160908,
+      "world_size": [
+        99.2964401245117,
+        158.0
+      ],
+      "native_texels_per_world_unit": [
+        3.202531728239676,
+        3.2025316455696204
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5035427245659868,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.36,
+        6.405063291139241
+      ],
+      "texel_count_recovery_if_restore_source": 40.73620253164557
+    },
+    {
+      "display_size": [
+        72,
+        86
+      ],
+      "display_texels": 6192,
+      "label": "tree_5:(143.104, 172.0)",
+      "retained_texel_fraction": 0.0297692307692308,
+      "source_size": [
+        416,
+        500
+      ],
+      "source_texels": 208000,
+      "world_size": [
+        143.10400390625,
+        172.0
+      ],
+      "native_texels_per_world_unit": [
+        2.906976664835521,
+        2.9069767441860463
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5031305766061479,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        5.777777777777778,
+        5.813953488372093
+      ],
+      "texel_count_recovery_if_restore_source": 33.59173126614987
+    },
+    {
+      "display_size": [
+        76,
+        80
+      ],
+      "display_texels": 6080,
+      "label": "tree_0:(151.6105, 160.0)",
+      "retained_texel_fraction": 0.0225015173720596,
+      "source_size": [
+        506,
+        534
+      ],
+      "source_texels": 270204,
+      "world_size": [
+        151.610488891602,
+        160.0
+      ],
+      "native_texels_per_world_unit": [
+        3.3374999559679432,
+        3.3375
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5012845783667267,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.657894736842105,
+        6.675
+      ],
+      "texel_count_recovery_if_restore_source": 44.44144736842105
+    },
+    {
+      "display_size": [
+        69,
+        83
+      ],
+      "display_texels": 5727,
+      "label": "tree_1:(136.1407, 165.0)",
+      "retained_texel_fraction": 0.0250871721189396,
+      "source_size": [
+        434,
+        526
+      ],
+      "source_texels": 228284,
+      "world_size": [
+        136.140686035156,
+        165.0
+      ],
+      "native_texels_per_world_unit": [
+        3.18787874983917,
+        3.187878787878788
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5068286491679785,
+        0.503030303030303
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.2898550724637685,
+        6.337349397590361
+      ],
+      "texel_count_recovery_if_restore_source": 39.86100925440894
+    },
+    {
+      "display_size": [
+        71,
+        85
+      ],
+      "display_texels": 6035,
+      "label": "tree_1:(140.2662, 170.0)",
+      "retained_texel_fraction": 0.0264363687336826,
+      "source_size": [
+        434,
+        526
+      ],
+      "source_texels": 228284,
+      "world_size": [
+        140.266159057617,
+        170.0
+      ],
+      "native_texels_per_world_unit": [
+        3.094117661136827,
+        3.0941176470588236
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5061805390339048,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.112676056338028,
+        6.188235294117647
+      ],
+      "texel_count_recovery_if_restore_source": 37.82667771333886
+    },
+    {
+      "display_size": [
+        91,
+        87
+      ],
+      "display_texels": 7917,
+      "label": "tree_3:(180.3099, 173.0)",
+      "retained_texel_fraction": 0.0418569978429133,
+      "source_size": [
+        444,
+        426
+      ],
+      "source_texels": 189144,
+      "world_size": [
+        180.309860229492,
+        173.0
+      ],
+      "native_texels_per_world_unit": [
+        2.4624277309898224,
+        2.46242774566474
+      ],
+      "old_display_texels_per_world_unit": [
+        0.504686764684851,
+        0.5028901734104047
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        4.8791208791208796,
+        4.896551724137931
+      ],
+      "texel_count_recovery_if_restore_source": 23.890867752936717
+    },
+    {
+      "display_size": [
+        52,
+        83
+      ],
+      "display_texels": 4316,
+      "label": "tree_4:(103.6957, 165.0)",
+      "retained_texel_fraction": 0.0268227807194173,
+      "source_size": [
+        318,
+        506
+      ],
+      "source_texels": 160908,
+      "world_size": [
+        103.695655822754,
+        165.0
+      ],
+      "native_texels_per_world_unit": [
+        3.0666665587568525,
+        3.066666666666667
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5014674875954601,
+        0.503030303030303
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.115384615384615,
+        6.096385542168675
+      ],
+      "texel_count_recovery_if_restore_source": 37.28174235403151
+    },
+    {
+      "display_size": [
+        69,
+        83
+      ],
+      "display_texels": 5727,
+      "label": "tree_2:(137.191, 165.0)",
+      "retained_texel_fraction": 0.0241547727502784,
+      "source_size": [
+        444,
+        534
+      ],
+      "source_texels": 237096,
+      "world_size": [
+        137.191009521484,
+        165.0
+      ],
+      "native_texels_per_world_unit": [
+        3.236363676808355,
+        3.2363636363636363
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5029484092337309,
+        0.503030303030303
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.434782608695652,
+        6.433734939759036
+      ],
+      "texel_count_recovery_if_restore_source": 41.399685699319015
+    },
+    {
+      "display_size": [
+        68,
+        82
+      ],
+      "display_texels": 5576,
+      "label": "tree_1:(134.4905, 163.0)",
+      "retained_texel_fraction": 0.0244257153370363,
+      "source_size": [
+        434,
+        526
+      ],
+      "source_texels": 228284,
+      "world_size": [
+        134.490493774414,
+        163.0
+      ],
+      "native_texels_per_world_unit": [
+        3.2269938775595888,
+        3.226993865030675
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5056119439494287,
+        0.5030674846625767
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.382352941176471,
+        6.414634146341464
+      ],
+      "texel_count_recovery_if_restore_source": 40.940459110473455
+    },
+    {
+      "display_size": [
+        80,
+        84
+      ],
+      "display_texels": 6720,
+      "label": "tree_0:(159.191, 168.0)",
+      "retained_texel_fraction": 0.0248700981480659,
+      "source_size": [
+        506,
+        534
+      ],
+      "source_texels": 270204,
+      "world_size": [
+        159.191009521484,
+        168.0
+      ],
+      "native_texels_per_world_unit": [
+        3.178571462804321,
+        3.1785714285714284
+      ],
+      "old_display_texels_per_world_unit": [
+        0.502540942735861,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.325,
+        6.357142857142857
+      ],
+      "texel_count_recovery_if_restore_source": 40.20892857142857
+    },
+    {
+      "display_size": [
+        76,
+        92
+      ],
+      "display_texels": 6992,
+      "label": "tree_1:(151.8175, 184.0)",
+      "retained_texel_fraction": 0.0306285153580628,
+      "source_size": [
+        434,
+        526
+      ],
+      "source_texels": 228284,
+      "world_size": [
+        151.817489624023,
+        184.0
+      ],
+      "native_texels_per_world_unit": [
+        2.8586956685610057,
+        2.858695652173913
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5006010848171346,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        5.7105263157894735,
+        5.717391304347826
+      ],
+      "texel_count_recovery_if_restore_source": 32.649313501144164
+    },
+    {
+      "display_size": [
+        58,
+        92
+      ],
+      "display_texels": 5336,
+      "label": "tree_4:(115.0079, 183.0)",
+      "retained_texel_fraction": 0.0331618067467124,
+      "source_size": [
+        318,
+        506
+      ],
+      "source_texels": 160908,
+      "world_size": [
+        115.007904052734,
+        183.0
+      ],
+      "native_texels_per_world_unit": [
+        2.765027348504578,
+        2.7650273224043715
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5043131641926588,
+        0.5027322404371585
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        5.482758620689655,
+        5.5
+      ],
+      "texel_count_recovery_if_restore_source": 30.155172413793103
+    },
+    {
+      "display_size": [
+        50,
+        78
+      ],
+      "display_texels": 3900,
+      "label": "tree_4:(98.03953, 156.0)",
+      "retained_texel_fraction": 0.0242374524573048,
+      "source_size": [
+        318,
+        506
+      ],
+      "source_texels": 160908,
+      "world_size": [
+        98.0395278930664,
+        156.0
+      ],
+      "native_texels_per_world_unit": [
+        3.2435896707586016,
+        3.2435897435897436
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5099983759054405,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.36,
+        6.487179487179487
+      ],
+      "texel_count_recovery_if_restore_source": 41.25846153846154
+    },
+    {
+      "display_size": [
+        64,
+        77
+      ],
+      "display_texels": 4928,
+      "label": "tree_5:(127.296, 153.0)",
+      "retained_texel_fraction": 0.0236923076923077,
+      "source_size": [
+        416,
+        500
+      ],
+      "source_texels": 208000,
+      "world_size": [
+        127.295997619629,
+        153.0
+      ],
+      "native_texels_per_world_unit": [
+        3.2679739173186144,
+        3.2679738562091503
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5027652180490175,
+        0.5032679738562091
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.5,
+        6.4935064935064934
+      ],
+      "texel_count_recovery_if_restore_source": 42.20779220779221
+    },
+    {
+      "display_size": [
+        68,
+        82
+      ],
+      "display_texels": 5576,
+      "label": "tree_2:(135.5281, 163.0)",
+      "retained_texel_fraction": 0.0235178999223943,
+      "source_size": [
+        444,
+        534
+      ],
+      "source_texels": 237096,
+      "world_size": [
+        135.528091430664,
+        163.0
+      ],
+      "native_texels_per_world_unit": [
+        3.276073582332928,
+        3.276073619631902
+      ],
+      "old_display_texels_per_world_unit": [
+        0.501740999096034,
+        0.5030674846625767
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.529411764705882,
+        6.512195121951219
+      ],
+      "texel_count_recovery_if_restore_source": 42.52080344332855
+    },
+    {
+      "display_size": [
+        68,
+        82
+      ],
+      "display_texels": 5576,
+      "label": "tree_5:(135.616, 163.0)",
+      "retained_texel_fraction": 0.0268076923076923,
+      "source_size": [
+        416,
+        500
+      ],
+      "source_texels": 208000,
+      "world_size": [
+        135.615997314453,
+        163.0
+      ],
+      "native_texels_per_world_unit": [
+        3.0674847233208054,
+        3.067484662576687
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5014157720812855,
+        0.5030674846625767
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.117647058823529,
+        6.097560975609756
+      ],
+      "texel_count_recovery_if_restore_source": 37.30272596843616
+    },
+    {
+      "display_size": [
+        75,
+        90
+      ],
+      "display_texels": 6750,
+      "label": "tree_1:(148.5171, 180.0)",
+      "retained_texel_fraction": 0.0295684323036218,
+      "source_size": [
+        434,
+        526
+      ],
+      "source_texels": 228284,
+      "world_size": [
+        148.517105102539,
+        180.0
+      ],
+      "native_texels_per_world_unit": [
+        2.922222323821611,
+        2.922222222222222
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5049923370659466,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        5.786666666666667,
+        5.844444444444444
+      ],
+      "texel_count_recovery_if_restore_source": 33.81985185185185
+    },
+    {
+      "display_size": [
+        63,
+        76
+      ],
+      "display_texels": 4788,
+      "label": "tree_5:(125.632, 151.0)",
+      "retained_texel_fraction": 0.0230192307692308,
+      "source_size": [
+        416,
+        500
+      ],
+      "source_texels": 208000,
+      "world_size": [
+        125.63200378418,
+        151.0
+      ],
+      "native_texels_per_world_unit": [
+        3.3112581784067996,
+        3.3112582781456954
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5014645799029528,
+        0.5033112582781457
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.603174603174603,
+        6.578947368421052
+      ],
+      "texel_count_recovery_if_restore_source": 43.44193817878028
+    },
+    {
+      "display_size": [
+        70,
+        84
+      ],
+      "display_texels": 5880,
+      "label": "tree_2:(139.6854, 168.0)",
+      "retained_texel_fraction": 0.0248000809798563,
+      "source_size": [
+        444,
+        534
+      ],
+      "source_texels": 237096,
+      "world_size": [
+        139.685394287109,
+        168.0
+      ],
+      "native_texels_per_world_unit": [
+        3.1785714051635456,
+        3.1785714285714284
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5011261224356941,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.3428571428571425,
+        6.357142857142857
+      ],
+      "texel_count_recovery_if_restore_source": 40.32244897959184
+    },
+    {
+      "display_size": [
+        76,
+        80
+      ],
+      "display_texels": 6080,
+      "label": "tree_0:(150.6629, 159.0)",
+      "retained_texel_fraction": 0.0225015173720596,
+      "source_size": [
+        506,
+        534
+      ],
+      "source_texels": 270204,
+      "world_size": [
+        150.66291809082,
+        159.0
+      ],
+      "native_texels_per_world_unit": [
+        3.35849063865192,
+        3.358490566037736
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5044373291255848,
+        0.5031446540880503
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.657894736842105,
+        6.675
+      ],
+      "texel_count_recovery_if_restore_source": 44.44144736842105
+    },
+    {
+      "display_size": [
+        85,
+        81
+      ],
+      "display_texels": 6885,
+      "label": "tree_3:(168.8451, 162.0)",
+      "retained_texel_fraction": 0.0364008374571755,
+      "source_size": [
+        444,
+        426
+      ],
+      "source_texels": 189144,
+      "world_size": [
+        168.845077514648,
+        162.0
+      ],
+      "native_texels_per_world_unit": [
+        2.6296295191755363,
+        2.6296296296296298
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5034200656079293,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        5.223529411764706,
+        5.2592592592592595
+      ],
+      "texel_count_recovery_if_restore_source": 27.4718954248366
+    },
+    {
+      "display_size": [
+        83,
+        79
+      ],
+      "display_texels": 6557,
+      "label": "tree_3:(164.6761, 158.0)",
+      "retained_texel_fraction": 0.0346667089624836,
+      "source_size": [
+        444,
+        426
+      ],
+      "source_texels": 189144,
+      "world_size": [
+        164.676055908203,
+        158.0
+      ],
+      "native_texels_per_world_unit": [
+        2.6962025386829964,
+        2.6962025316455698
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5040198439429926,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        5.349397590361446,
+        5.3924050632911396
+      ],
+      "texel_count_recovery_if_restore_source": 28.84611865182248
+    },
+    {
+      "display_size": [
+        63,
+        75
+      ],
+      "display_texels": 4725,
+      "label": "tree_5:(124.8, 150.0)",
+      "retained_texel_fraction": 0.0227163461538462,
+      "source_size": [
+        416,
+        500
+      ],
+      "source_texels": 208000,
+      "world_size": [
+        124.800003051758,
+        150.0
+      ],
+      "native_texels_per_world_unit": [
+        3.333333251822705,
+        3.3333333333333335
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5048076799635347,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.603174603174603,
+        6.666666666666667
+      ],
+      "texel_count_recovery_if_restore_source": 44.02116402116402
+    },
+    {
+      "display_size": [
+        79,
+        83
+      ],
+      "display_texels": 6557,
+      "label": "tree_0:(157.2959, 166.0)",
+      "retained_texel_fraction": 0.0242668502316768,
+      "source_size": [
+        506,
+        534
+      ],
+      "source_texels": 270204,
+      "world_size": [
+        157.295883178711,
+        166.0
+      ],
+      "native_texels_per_world_unit": [
+        3.2168674079353394,
+        3.216867469879518
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5022381921480076,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.405063291139241,
+        6.433734939759036
+      ],
+      "texel_count_recovery_if_restore_source": 41.208479487570536
+    },
+    {
+      "display_size": [
+        90,
+        86
+      ],
+      "display_texels": 7740,
+      "label": "tree_3:(179.2676, 172.0)",
+      "retained_texel_fraction": 0.0409212028930339,
+      "source_size": [
+        444,
+        426
+      ],
+      "source_texels": 189144,
+      "world_size": [
+        179.267608642578,
+        172.0
+      ],
+      "native_texels_per_world_unit": [
+        2.4767441444775606,
+        2.4767441860465116
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5020427319886946,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        4.933333333333334,
+        4.953488372093023
+      ],
+      "texel_count_recovery_if_restore_source": 24.43720930232558
+    },
+    {
+      "display_size": [
+        52,
+        82
+      ],
+      "display_texels": 4264,
+      "label": "tree_4:(103.0672, 164.0)",
+      "retained_texel_fraction": 0.0264996146866532,
+      "source_size": [
+        318,
+        506
+      ],
+      "source_texels": 160908,
+      "world_size": [
+        103.067192077637,
+        164.0
+      ],
+      "native_texels_per_world_unit": [
+        3.085365901502987,
+        3.0853658536585367
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5045252417552054,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.115384615384615,
+        6.170731707317073
+      ],
+      "texel_count_recovery_if_restore_source": 37.73639774859287
+    },
+    {
+      "display_size": [
+        73,
+        87
+      ],
+      "display_texels": 6351,
+      "label": "tree_2:(144.6742, 174.0)",
+      "retained_texel_fraction": 0.0267866180787529,
+      "source_size": [
+        444,
+        534
+      ],
+      "source_texels": 237096,
+      "world_size": [
+        144.674163818359,
+        174.0
+      ],
+      "native_texels_per_world_unit": [
+        3.068965379039273,
+        3.0689655172413794
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5045821456528534,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.082191780821918,
+        6.137931034482759
+      ],
+      "texel_count_recovery_if_restore_source": 37.332073689182806
+    },
+    {
+      "display_size": [
+        65,
+        78
+      ],
+      "display_texels": 5070,
+      "label": "tree_1:(128.7148, 156.0)",
+      "retained_texel_fraction": 0.022209178041387,
+      "source_size": [
+        434,
+        526
+      ],
+      "source_texels": 228284,
+      "world_size": [
+        128.714828491211,
+        156.0
+      ],
+      "native_texels_per_world_unit": [
+        3.371794882433726,
+        3.371794871794872
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5049923211018253,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.676923076923077,
+        6.743589743589744
+      ],
+      "texel_count_recovery_if_restore_source": 45.026429980276134
+    },
+    {
+      "display_size": [
+        52,
+        82
+      ],
+      "display_texels": 4264,
+      "label": "tree_4:(102.4387, 163.0)",
+      "retained_texel_fraction": 0.0264996146866532,
+      "source_size": [
+        318,
+        506
+      ],
+      "source_texels": 160908,
+      "world_size": [
+        102.438735961914,
+        163.0
+      ],
+      "native_texels_per_world_unit": [
+        3.1042944547678735,
+        3.104294478527607
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5076204768802812,
+        0.5030674846625767
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        6.115384615384615,
+        6.170731707317073
+      ],
+      "texel_count_recovery_if_restore_source": 37.73639774859287
+    },
+    {
+      "display_size": [
+        74,
+        88
+      ],
+      "display_texels": 6512,
+      "label": "tree_5:(146.432, 176.0)",
+      "retained_texel_fraction": 0.0313076923076923,
+      "source_size": [
+        416,
+        500
+      ],
+      "source_texels": 208000,
+      "world_size": [
+        146.432006835938,
+        176.0
+      ],
+      "native_texels_per_world_unit": [
+        2.840908958285911,
+        2.840909090909091
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5053539973873976,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        5.621621621621622,
+        5.681818181818182
+      ],
+      "texel_count_recovery_if_restore_source": 31.94103194103194
+    },
+    {
+      "display_size": [
+        96,
+        92
+      ],
+      "display_texels": 8832,
+      "label": "tree_3:(190.7324, 183.0)",
+      "retained_texel_fraction": 0.0466945819058495,
+      "source_size": [
+        444,
+        426
+      ],
+      "source_texels": 189144,
+      "world_size": [
+        190.732391357422,
+        183.0
+      ],
+      "native_texels_per_world_unit": [
+        2.3278688891808024,
+        2.3278688524590163
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5033230030661194,
+        0.5027322404371585
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        4.625,
+        4.630434782608695
+      ],
+      "texel_count_recovery_if_restore_source": 21.41576086956522
+    },
+    {
+      "display_size": [
+        50,
+        31
+      ],
+      "display_texels": 1550,
+      "label": "shrub_3:(98.66087, 62.0)",
+      "retained_texel_fraction": 0.0184129246851984,
+      "source_size": [
+        366,
+        230
+      ],
+      "source_texels": 84180,
+      "world_size": [
+        98.6608657836914,
+        62.0
+      ],
+      "native_texels_per_world_unit": [
+        3.709677561541322,
+        3.7096774193548385
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5067865521231314,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        7.32,
+        7.419354838709677
+      ],
+      "texel_count_recovery_if_restore_source": 54.30967741935484
+    },
+    {
+      "display_size": [
+        47,
+        30
+      ],
+      "display_texels": 1410,
+      "label": "shrub_3:(93.88696, 59.0)",
+      "retained_texel_fraction": 0.0167498218104063,
+      "source_size": [
+        366,
+        230
+      ],
+      "source_texels": 84180,
+      "world_size": [
+        93.8869552612305,
+        59.0
+      ],
+      "native_texels_per_world_unit": [
+        3.8983051370836748,
+        3.8983050847457625
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5006020258003626,
+        0.5084745762711864
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        7.787234042553192,
+        7.666666666666667
+      ],
+      "texel_count_recovery_if_restore_source": 59.702127659574465
+    },
+    {
+      "display_size": [
+        47,
+        29
+      ],
+      "display_texels": 1363,
+      "label": "shrub_3:(92.29565, 58.0)",
+      "retained_texel_fraction": 0.0161914944167261,
+      "source_size": [
+        366,
+        230
+      ],
+      "source_texels": 84180,
+      "world_size": [
+        92.295654296875,
+        58.0
+      ],
+      "native_texels_per_world_unit": [
+        3.9655171501654576,
+        3.9655172413793105
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5092330766605915,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        7.787234042553192,
+        7.931034482758621
+      ],
+      "texel_count_recovery_if_restore_source": 61.760821716801175
+    },
+    {
+      "display_size": [
+        43,
+        27
+      ],
+      "display_texels": 1161,
+      "label": "shrub_3:(85.93044, 54.0)",
+      "retained_texel_fraction": 0.013791874554526,
+      "source_size": [
+        366,
+        230
+      ],
+      "source_texels": 84180,
+      "world_size": [
+        85.9304351806641,
+        54.0
+      ],
+      "native_texels_per_world_unit": [
+        4.2592592395291,
+        4.2592592592592595
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5004047740430363,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        8.511627906976743,
+        8.518518518518519
+      ],
+      "texel_count_recovery_if_restore_source": 72.50645994832041
+    },
+    {
+      "display_size": [
+        40,
+        32
+      ],
+      "display_texels": 1280,
+      "label": "shrub_0:(79.60976, 64.0)",
+      "retained_texel_fraction": 0.00956480153036825,
+      "source_size": [
+        408,
+        328
+      ],
+      "source_texels": 133824,
+      "world_size": [
+        79.6097564697266,
+        64.0
+      ],
+      "native_texels_per_world_unit": [
+        5.124999976041267,
+        5.125
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5024509780432616,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        10.2,
+        10.25
+      ],
+      "texel_count_recovery_if_restore_source": 104.55
+    },
+    {
+      "display_size": [
+        38,
+        31
+      ],
+      "display_texels": 1178,
+      "label": "shrub_0:(75.87805, 61.0)",
+      "retained_texel_fraction": 0.00880260640841703,
+      "source_size": [
+        408,
+        328
+      ],
+      "source_texels": 133824,
+      "world_size": [
+        75.8780517578125,
+        61.0
+      ],
+      "native_texels_per_world_unit": [
+        5.377048969341676,
+        5.377049180327869
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5008035804779012,
+        0.5081967213114754
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        10.736842105263158,
+        10.580645161290322
+      ],
+      "texel_count_recovery_if_restore_source": 113.60271646859083
+    },
+    {
+      "display_size": [
+        42,
+        27
+      ],
+      "display_texels": 1134,
+      "label": "shrub_1:(82.61765, 53.0)",
+      "retained_texel_fraction": 0.00983282463928968,
+      "source_size": [
+        424,
+        272
+      ],
+      "source_texels": 115328,
+      "world_size": [
+        82.6176452636719,
+        53.0
+      ],
+      "native_texels_per_world_unit": [
+        5.1320755832100495,
+        5.132075471698113
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5083659775821275,
+        0.5094339622641509
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        10.095238095238095,
+        10.074074074074074
+      ],
+      "texel_count_recovery_if_restore_source": 101.70017636684304
+    },
+    {
+      "display_size": [
+        50,
+        32
+      ],
+      "display_texels": 1600,
+      "label": "shrub_1:(98.20588, 63.0)",
+      "retained_texel_fraction": 0.013873473917869,
+      "source_size": [
+        424,
+        272
+      ],
+      "source_texels": 115328,
+      "world_size": [
+        98.2058792114258,
+        63.0
+      ],
+      "native_texels_per_world_unit": [
+        4.317460455571886,
+        4.317460317460317
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5091344876853638,
+        0.5079365079365079
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        8.48,
+        8.5
+      ],
+      "texel_count_recovery_if_restore_source": 72.08
+    },
+    {
+      "display_size": [
+        43,
+        27
+      ],
+      "display_texels": 1161,
+      "label": "shrub_3:(84.33913, 53.0)",
+      "retained_texel_fraction": 0.013791874554526,
+      "source_size": [
+        366,
+        230
+      ],
+      "source_texels": 84180,
+      "world_size": [
+        84.3391342163086,
+        53.0
+      ],
+      "native_texels_per_world_unit": [
+        4.339622446933145,
+        4.339622641509434
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5098463530549869,
+        0.5094339622641509
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        8.511627906976743,
+        8.518518518518519
+      ],
+      "texel_count_recovery_if_restore_source": 72.50645994832041
+    },
+    {
+      "display_size": [
+        37,
+        29
+      ],
+      "display_texels": 1073,
+      "label": "shrub_0:(72.14634, 58.0)",
+      "retained_texel_fraction": 0.00801799378287901,
+      "source_size": [
+        408,
+        328
+      ],
+      "source_texels": 133824,
+      "world_size": [
+        72.1463394165039,
+        58.0
+      ],
+      "native_texels_per_world_unit": [
+        5.655172574239678,
+        5.655172413793103
+      ],
+      "old_display_texels_per_world_unit": [
+        0.512846532467814,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        11.027027027027026,
+        11.310344827586206
+      ],
+      "texel_count_recovery_if_restore_source": 124.71947809878844
+    },
+    {
+      "display_size": [
+        49,
+        31
+      ],
+      "display_texels": 1519,
+      "label": "shrub_3:(97.06956, 61.0)",
+      "retained_texel_fraction": 0.0180446661914944,
+      "source_size": [
+        366,
+        230
+      ],
+      "source_texels": 84180,
+      "world_size": [
+        97.0695648193359,
+        61.0
+      ],
+      "native_texels_per_world_unit": [
+        3.7704918187404313,
+        3.7704918032786887
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5047926205417518,
+        0.5081967213114754
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        7.469387755102041,
+        7.419354838709677
+      ],
+      "texel_count_recovery_if_restore_source": 55.41803818301514
+    },
+    {
+      "display_size": [
+        46,
+        29
+      ],
+      "display_texels": 1334,
+      "label": "shrub_3:(90.70435, 57.0)",
+      "retained_texel_fraction": 0.0158469945355191,
+      "source_size": [
+        366,
+        230
+      ],
+      "source_texels": 84180,
+      "world_size": [
+        90.704345703125,
+        57.0
+      ],
+      "native_texels_per_world_unit": [
+        4.035087813740663,
+        4.035087719298246
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5071421842406298,
+        0.5087719298245614
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        7.956521739130435,
+        7.931034482758621
+      ],
+      "texel_count_recovery_if_restore_source": 63.10344827586207
+    },
+    {
+      "display_size": [
+        55,
+        28
+      ],
+      "display_texels": 1540,
+      "label": "shrub_2:(109.4545, 56.0)",
+      "retained_texel_fraction": 0.0162790697674419,
+      "source_size": [
+        430,
+        220
+      ],
+      "source_texels": 94600,
+      "world_size": [
+        109.454544067383,
+        56.0
+      ],
+      "native_texels_per_world_unit": [
+        3.9285714783598302,
+        3.9285714285714284
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5024917007204434,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        7.818181818181818,
+        7.857142857142857
+      ],
+      "texel_count_recovery_if_restore_source": 61.42857142857143
+    },
+    {
+      "display_size": [
+        51,
+        41
+      ],
+      "display_texels": 2091,
+      "label": "bench:(100.6561, 82.0)",
+      "retained_texel_fraction": 0.0119218664477285,
+      "source_size": [
+        464,
+        378
+      ],
+      "source_texels": 175392,
+      "world_size": [
+        100.65608215332,
+        82.0
+      ],
+      "native_texels_per_world_unit": [
+        4.609756212180325,
+        4.609756097560975
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5066757905629237,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        9.098039215686274,
+        9.21951219512195
+      ],
+      "texel_count_recovery_if_restore_source": 83.87948350071736
+    },
+    {
+      "display_size": [
+        47,
+        31
+      ],
+      "display_texels": 1457,
+      "label": "ore_0:(92.58667, 62.0)",
+      "retained_texel_fraction": 0.0108407738095238,
+      "source_size": [
+        448,
+        300
+      ],
+      "source_texels": 134400,
+      "world_size": [
+        92.586669921875,
+        62.0
+      ],
+      "native_texels_per_world_unit": [
+        4.838709507297586,
+        4.838709677419355
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5076324706316664,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        9.53191489361702,
+        9.67741935483871
+      ],
+      "texel_count_recovery_if_restore_source": 92.24433768016472
+    },
+    {
+      "display_size": [
+        37,
+        31
+      ],
+      "display_texels": 1147,
+      "label": "ore_1:(73.77654, 62.0)",
+      "retained_texel_fraction": 0.00752091693550502,
+      "source_size": [
+        426,
+        358
+      ],
+      "source_texels": 152508,
+      "world_size": [
+        73.7765350341797,
+        62.0
+      ],
+      "native_texels_per_world_unit": [
+        5.774193648463428,
+        5.774193548387097
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5015144718148987,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        11.513513513513514,
+        11.548387096774194
+      ],
+      "texel_count_recovery_if_restore_source": 132.96251089799478
+    },
+    {
+      "display_size": [
+        44,
+        31
+      ],
+      "display_texels": 1364,
+      "label": "ore_2:(87.38255, 62.0)",
+      "retained_texel_fraction": 0.0108980504953659,
+      "source_size": [
+        420,
+        298
+      ],
+      "source_texels": 125160,
+      "world_size": [
+        87.3825531005859,
+        62.0
+      ],
+      "native_texels_per_world_unit": [
+        4.806451460814366,
+        4.806451612903226
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5035330101805526,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        9.545454545454545,
+        9.612903225806452
+      ],
+      "texel_count_recovery_if_restore_source": 91.75953079178886
+    },
+    {
+      "display_size": [
+        21,
+        19
+      ],
+      "display_texels": 399,
+      "label": "resource_branch_1:(41.11475, 38.0)",
+      "retained_texel_fraction": 0.00619411326378539,
+      "source_size": [
+        264,
+        244
+      ],
+      "source_texels": 64416,
+      "world_size": [
+        41.1147537231445,
+        38.0
+      ],
+      "native_texels_per_world_unit": [
+        6.421052690177929,
+        6.421052631578948
+      ],
+      "old_display_texels_per_world_unit": [
+        0.510765554900517,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        12.571428571428571,
+        12.842105263157896
+      ],
+      "texel_count_recovery_if_restore_source": 161.4436090225564
+    },
+    {
+      "display_size": [
+        20,
+        19
+      ],
+      "display_texels": 380,
+      "label": "resource_branch_2:(38.71161, 38.0)",
+      "retained_texel_fraction": 0.00523243005067195,
+      "source_size": [
+        272,
+        267
+      ],
+      "source_texels": 72624,
+      "world_size": [
+        38.7116088867188,
+        38.0
+      ],
+      "native_texels_per_world_unit": [
+        7.026316079911572,
+        7.026315789473684
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5166408882287921,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        13.6,
+        14.052631578947368
+      ],
+      "texel_count_recovery_if_restore_source": 191.1157894736842
+    },
+    {
+      "display_size": [
+        21,
+        19
+      ],
+      "display_texels": 399,
+      "label": "resource_branch_0:(40.66148, 38.0)",
+      "retained_texel_fraction": 0.00564556066501592,
+      "source_size": [
+        275,
+        257
+      ],
+      "source_texels": 70675,
+      "world_size": [
+        40.6614799499512,
+        38.0
+      ],
+      "native_texels_per_world_unit": [
+        6.763157670072214,
+        6.7631578947368425
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5164593129873327,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        13.095238095238095,
+        13.526315789473685
+      ],
+      "texel_count_recovery_if_restore_source": 177.13032581453635
+    },
+    {
+      "display_size": [
+        19,
+        15
+      ],
+      "display_texels": 285,
+      "label": "resource_rock_2:(38.0, 30.0)",
+      "retained_texel_fraction": 0.00510204081632653,
+      "source_size": [
+        266,
+        210
+      ],
+      "source_texels": 55860,
+      "world_size": [
+        38.0,
+        30.0
+      ],
+      "native_texels_per_world_unit": [
+        7.0,
+        7.0
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        14.0,
+        14.0
+      ],
+      "texel_count_recovery_if_restore_source": 196.0
+    },
+    {
+      "display_size": [
+        16,
+        15
+      ],
+      "display_texels": 240,
+      "label": "resource_rock_1:(31.38889, 30.0)",
+      "retained_texel_fraction": 0.00491642084562439,
+      "source_size": [
+        226,
+        216
+      ],
+      "source_texels": 48816,
+      "world_size": [
+        31.3888893127441,
+        30.0
+      ],
+      "native_texels_per_world_unit": [
+        7.199999902775867,
+        7.2
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5097345063912119,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        14.125,
+        14.4
+      ],
+      "texel_count_recovery_if_restore_source": 203.4
+    },
+    {
+      "display_size": [
+        19,
+        15
+      ],
+      "display_texels": 285,
+      "label": "resource_rock_0:(37.85047, 30.0)",
+      "retained_texel_fraction": 0.004932502596054,
+      "source_size": [
+        270,
+        214
+      ],
+      "source_texels": 57780,
+      "world_size": [
+        37.8504676818848,
+        30.0
+      ],
+      "native_texels_per_world_unit": [
+        7.13333325942553,
+        7.133333333333334
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5019753034410558,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        14.210526315789474,
+        14.266666666666667
+      ],
+      "texel_count_recovery_if_restore_source": 202.73684210526315
+    },
+    {
+      "display_size": [
+        165,
+        115
+      ],
+      "display_texels": 18975,
+      "label": "pond:0",
+      "retained_texel_fraction": 0.082255379653552,
+      "source_size": [
+        571,
+        404
+      ],
+      "source_texels": 230684,
+      "world_size": [
+        330.0,
+        230.0
+      ],
+      "native_texels_per_world_unit": [
+        1.7303030303030302,
+        1.7565217391304349
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        3.4606060606060605,
+        3.5130434782608697
+      ],
+      "texel_count_recovery_if_restore_source": 12.157259552042161
+    },
+    {
+      "display_size": [
+        110,
+        75
+      ],
+      "display_texels": 8250,
+      "label": "pond:1",
+      "retained_texel_fraction": 0.0322232898221274,
+      "source_size": [
+        601,
+        426
+      ],
+      "source_texels": 256026,
+      "world_size": [
+        220.0,
+        150.0
+      ],
+      "native_texels_per_world_unit": [
+        2.731818181818182,
+        2.84
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        5.463636363636364,
+        5.68
+      ],
+      "texel_count_recovery_if_restore_source": 31.033454545454546
+    },
+    {
+      "display_size": [
+        105,
+        68
+      ],
+      "display_texels": 7140,
+      "label": "pond:2",
+      "retained_texel_fraction": 0.0387874837027379,
+      "source_size": [
+        472,
+        390
+      ],
+      "source_texels": 184080,
+      "world_size": [
+        210.0,
+        135.0
+      ],
+      "native_texels_per_world_unit": [
+        2.2476190476190476,
+        2.888888888888889
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5,
+        0.5037037037037037
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        4.495238095238095,
+        5.735294117647059
+      ],
+      "texel_count_recovery_if_restore_source": 25.781512605042018
+    },
+    {
+      "display_size": [
+        1100,
+        750
+      ],
+      "display_texels": 825000,
+      "label": "meadow",
+      "retained_texel_fraction": 0.524592915897264,
+      "source_size": [
+        1518,
+        1036
+      ],
+      "source_texels": 1572648,
+      "world_size": [
+        2200.0,
+        1500.0
+      ],
+      "native_texels_per_world_unit": [
+        0.69,
+        0.6906666666666667
+      ],
+      "old_display_texels_per_world_unit": [
+        0.5,
+        0.5
+      ],
+      "linear_resolution_recovery_if_restore_source": [
+        1.38,
+        1.3813333333333333
+      ],
+      "texel_count_recovery_if_restore_source": 1.90624
+    }
+  ],
+  "recommendation": [
+    "Remove .9 unconditional2world-unitstexel reduction; use originalfullresolutionRGBA and mipmaps.",
+    "Keep originalsourcegeometry/footanchors/UVs, playeranimation and toolgrip unchanged.",
+    "Improve ground atnativepainterlydetail level; output highresolution with honest resampling disclosure.",
+    "Avoidhighfrequencyphotorealgrain; largerpainterlycolorstrokesareanartdirectionissue separatefrompixelcount.",
+    "allow_hidpi defaults true; canvas_items stretch defaults/currently enabled. 2DMSAA smoothsgeometryedgesonly, notrasterdetail.",
+    "Prepareground mipmaps fromthehigherqualityground; do not cacheallscenery at2worldunits/texel."
+  ]
+}

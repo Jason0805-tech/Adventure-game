@@ -1,0 +1,200 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/environment.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] load_grid (res://main.gd:166)
+       [1] load_art (res://main.gd:237)
+       [2] _ready (res://main.gd:437)
+       [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:45)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/materials.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] load_grid (res://main.gd:166)
+       [1] load_art (res://main.gd:238)
+       [2] _ready (res://main.gd:437)
+       [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:45)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/ponds.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] load_grid (res://main.gd:166)
+       [1] load_art (res://main.gd:239)
+       [2] _ready (res://main.gd:437)
+       [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:45)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/tree-variants.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] load_grid (res://main.gd:166)
+       [1] load_art (res://main.gd:240)
+       [2] _ready (res://main.gd:437)
+       [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:45)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/equipment.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] load_grid (res://main.gd:166)
+       [1] load_art (res://main.gd:241)
+       [2] _ready (res://main.gd:437)
+       [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:45)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/ground-blends.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] load_grid (res://main.gd:166)
+       [1] load_art (res://main.gd:242)
+       [2] _ready (res://main.gd:437)
+       [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:45)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/harvest-nodes.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] auto_grid (res://main.gd:182)
+       [1] load_art (res://main.gd:243)
+       [2] _ready (res://main.gd:437)
+       [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:45)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/harvest-nodes.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] load_grid (res://main.gd:166)
+       [1] auto_grid (res://main.gd:218)
+       [2] load_art (res://main.gd:243)
+       [3] _ready (res://main.gd:437)
+       [4] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:45)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/cabin-props.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] auto_grid (res://main.gd:182)
+       [1] load_art (res://main.gd:244)
+       [2] _ready (res://main.gd:437)
+       [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:45)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/cabin-props.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] load_grid (res://main.gd:166)
+       [1] auto_grid (res://main.gd:218)
+       [2] load_art (res://main.gd:244)
+       [3] _ready (res://main.gd:437)
+       [4] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:45)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/status-icons.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] auto_grid (res://main.gd:182)
+       [1] load_art (res://main.gd:245)
+       [2] _ready (res://main.gd:437)
+       [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:45)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/status-icons.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] load_grid (res://main.gd:166)
+       [1] auto_grid (res://main.gd:218)
+       [2] load_art (res://main.gd:245)
+       [3] _ready (res://main.gd:437)
+       [4] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:45)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/utility-icons.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] load_grid (res://main.gd:166)
+       [1] load_art (res://main.gd:246)
+       [2] _ready (res://main.gd:437)
+       [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:45)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/utility-props.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] load_grid (res://main.gd:166)
+       [1] load_art (res://main.gd:247)
+       [2] _ready (res://main.gd:437)
+       [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:45)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/traveler-unarmed-directions.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] load_texture (res://main.gd:221)
+       [1] load_art (res://main.gd:248)
+       [2] _ready (res://main.gd:437)
+       [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:45)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/npc-rowan-directions.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] load_texture (res://main.gd:221)
+       [1] load_art (res://main.gd:251)
+       [2] _ready (res://main.gd:437)
+       [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:45)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/npc-ash-directions.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] load_texture (res://main.gd:221)
+       [1] load_art (res://main.gd:251)
+       [2] _ready (res://main.gd:437)
+       [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:45)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/npc-rowan-lantern.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] load_texture (res://main.gd:221)
+       [1] load_art (res://main.gd:252)
+       [2] _ready (res://main.gd:437)
+       [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:45)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-bear.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] load_texture (res://main.gd:221)
+       [1] load_animal_art (res://main.gd:299)
+       [2] load_art (res://main.gd:253)
+       [3] _ready (res://main.gd:437)
+       [4] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:45)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-deer.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] load_texture (res://main.gd:221)
+       [1] load_animal_art (res://main.gd:299)
+       [2] load_art (res://main.gd:253)
+       [3] _ready (res://main.gd:437)
+       [4] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:45)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-fox.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] load_texture (res://main.gd:221)
+       [1] load_animal_art (res://main.gd:299)
+       [2] load_art (res://main.gd:253)
+       [3] _ready (res://main.gd:437)
+       [4] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:45)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-rabbit.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] load_texture (res://main.gd:221)
+       [1] load_animal_art (res://main.gd:299)
+       [2] load_art (res://main.gd:253)
+       [3] _ready (res://main.gd:437)
+       [4] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:45)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-wolf.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] load_texture (res://main.gd:221)
+       [1] load_animal_art (res://main.gd:299)
+       [2] load_art (res://main.gd:253)
+       [3] _ready (res://main.gd:437)
+       [4] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:45)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/meadow.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] load_art (res://main.gd:278)
+       [1] _ready (res://main.gd:437)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:45)
+GAME_READY 0.1.6.3
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/traveler-armed-directions.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] load_texture (res://main.gd:221)
+       [1] draw_traveler (res://main.gd:1026)
+       [2] person (res://main.gd:1077)
+       [3] draw_paint_entry (res://main.gd:1210)
+       [4] _draw (res://main.gd:1370)
+       [5] _draw (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:15)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/held-weapon-2.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+   at: load_from_file (core/io/image.cpp:2780)
+   GDScript backtrace (most recent call first):
+       [0] load_texture (res://main.gd:221)
+       [1] held_weapon_texture (res://main.gd:232)
+       [2] draw_traveler (res://main.gd:1031)
+       [3] person (res://main.gd:1077)
+       [4] draw_paint_entry (res://main.gd:1210)
+       [5] _draw (res://main.gd:1370)
+       [6] _draw (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/mobile_ui_integration_checks.gd:15)
+MOBILE_UI_INTEGRATION {"actual_native_draws":8,"checks":50,"draw_command_usec":839117,"failures":[],"passed":true,"scope":"Actual native Godot scene and synthetic ScreenTouch/Drag; not browser/Safari/device QA","source_hashes":{"main.gd":"1b9140b1f32817d8fb10cfcb22a7fde17ebe3158f71ec1b78bc6ac65a5eff20b","mobile_controls.gd":"412a4881d2f64c5299534d8a6d02730b19404f5442b75b8dc1e5101ff2b8348e","mobile_ui.gd":"689a046b23e9d7f4fc200f4e67433d5f7e17a4e589d80a32f20e462002be922f"}}

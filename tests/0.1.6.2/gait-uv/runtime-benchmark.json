@@ -1,0 +1,23 @@
+{
+  "compiled_entries_resident": 40,
+  "description": "Actual native Canvas CPU submission, headless; not a GPU frame-rate measurement",
+  "headings_per_frame": 40,
+  "mean_ms_per_40": 25.8119,
+  "mean_ms_per_animal": 0.6452975,
+  "measured_frames": 10,
+  "ms_per_40_animals": [
+    25.188,
+    25.503,
+    25.62,
+    25.906,
+    25.798,
+    25.765,
+    25.985,
+    26.051,
+    26.066,
+    26.237
+  ],
+  "native_draws": 480,
+  "runtime_boolean_compiles": 0,
+  "warmup_frames": 2
+}

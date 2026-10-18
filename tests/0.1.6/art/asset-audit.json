@@ -1,0 +1,48 @@
+{
+  "checks": 845,
+  "all_passed": true,
+  "species": [
+    {
+      "species": "rabbit",
+      "directions": 8,
+      "distinct_walk_keys_per_direction": 4,
+      "native_crop_matches": 32,
+      "world_height": 32,
+      "reference_height_px": 150
+    },
+    {
+      "species": "deer",
+      "directions": 8,
+      "distinct_walk_keys_per_direction": 4,
+      "native_crop_matches": 32,
+      "world_height": 70,
+      "reference_height_px": 192
+    },
+    {
+      "species": "fox",
+      "directions": 8,
+      "distinct_walk_keys_per_direction": 4,
+      "native_crop_matches": 32,
+      "world_height": 42,
+      "reference_height_px": 167
+    },
+    {
+      "species": "wolf",
+      "directions": 8,
+      "distinct_walk_keys_per_direction": 4,
+      "native_crop_matches": 32,
+      "world_height": 48,
+      "reference_height_px": 182
+    },
+    {
+      "species": "bear",
+      "directions": 8,
+      "distinct_walk_keys_per_direction": 4,
+      "native_crop_matches": 32,
+      "world_height": 76,
+      "reference_height_px": 178
+    }
+  ],
+  "transparency": "Native RGBA alpha composited correctly has no red/yellow matte. Transparent tool preview may expose hidden RGB of near-zero-alpha pixels. Black/green opaque proof images are provided.",
+  "limitations": "Hand-painted separate keyframes have small natural shape variations; anatomy/directions visually reviewed. Gait has four discrete keys, not a continuous rig."
+}

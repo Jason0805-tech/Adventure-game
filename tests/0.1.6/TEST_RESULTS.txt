@@ -1,0 +1,38 @@
+FOREST WANDERER 0.1.6 — FINAL ACCEPTANCE
+
+New content: five painted woodland animals, eight headings and four independent movement keys per species (160 poses).
+Day: rabbit 4, deer 3, fox 2. Dusk: fox 2. Night: wolf 3, bear 1. These are bounded maximum populations in legal forest habitats, not scripted animals always placed on roads. Period changes immediately remove inactive species and physical contacts. Respawn remains bounded.
+
+Nighttime: 180 seconds daylight,6 seconds free dusk,90 seconds free night. No forced camp teleport and no abstract night damage roll. Actual animal attacks use a stopped warning, locked aim, range, walls, recovery and hurt grace. Existing tools/weapons can hit wildlife and consume durability only on confirmed hits. Camp is a refuge. Menus consistently pause the full simulation. Dawn awards exactly once; three nights win.
+
+AUTOMATED CHECKS — ALL PASS
+- wildlife_logic_tests.log: 76 logic checks, including period rules, caps, seed reproducibility, spawn distance, pause, telegraph, recovery, evade, shared hurt grace, melee arc/line of sight, kill and respawn.
+- wildlife_world_tests.log: 54,377 actual-world assertions over three animal seeds and day/dusk/night/day transitions; all five species move, feet stay outside real ground contours/water/camp/each other.
+- wildlife_heading_footprints.log: 165 checks; 40 authored heading-specific ground profiles, 80 independent painted paw landmarks, upper body passability, guarded turns. Wolf and bear can approach and hit from all eight directions without foot overlap.
+- wildlife_combat_integration.log: 30 real-main checks for actual crafted/equipped weapon use, animation hit timing, single commit/durability, miss/rear/wall rejection, axe enemy priority beside a tree, kill/experience, player/NPC contact, animal-aware bench placement, flee, warning interrupt, health, magic-stone ward and modal freeze.
+- night-cycle.log: 39 real-main checks. Night keyboard movement is 108 units/second; all menu types and Esc freeze time, hunger and actions. Night healing, eating, axe crafting, actual felling/material drops/durability and all three dawn awards work. Lethal damage prevents survival award.
+- morning-contacts-final.log: 6 checks. Daily solid-resource regrowth defers while player/NPC/animal feet occupy the spot; cleared positions remain walkable. Unoccupied resources still regrow and restore a collectible quantity. Initial baseline reproduced the two trapping failures and is preserved.
+- animal-scenery-visibility.json: 120 checks, 36,576 native opaque samples. All 15 front contacts complete in the full world, all 60 animation-frame front checks preserve all sampled paint. 58 back frames demonstrate actual scenery occlusion; 2 non-overlap frames are identified. Five water-side shore-back approaches are unavailable and not claimed visited. Detailed scope in ANIMAL_VISIBILITY_RESULTS.txt.
+- house-front.log: 21 original house facade routes remain fully visible.
+- smoke-features.log: 27 existing crafting, inventory, repair, felling, mining, fishing, toolbar and NPC checks.
+- native-quality.log: 765 exact native base-pixel/mipmap checks across 96 preparations.
+- art/asset-audit.json: 845 art checks, 160 native crop matches, four distinct keys for every heading, padding and source registration verified. Fox southeast was regenerated and repaired through image_gen.
+- art/mip-qa/mip-alpha-audit.json: actual Godot load_texture() mip levels composited at world scale on green/night-blue; no visible matte artifacts. The transparent tool viewer may expose hidden bright RGB at near-zero alpha; proper alpha compositing and actual mip checks are clean. Opaque paint and source alpha remain intact.
+- previous-art-collision-preservation.json: all 42 previous assets plus collision_profiles.json remain byte-identical to 0.1.5.11. No native resolution reduction or human pose/grip changes.
+
+APP
+Fresh Swift launcher and bundled Godot 4.7.2, clean staging ad-hoc strict signature and installed signature verified. Final package-validation.json checks all 61 resources against current source. The bundled launcher starts from /private/tmp with headless GAME_READY 0.1.6 and exits 0; no installed-project working directory is required. Source/config/contour backup is release-source.zip; exact runtime hashes are in validated-runtime-hashes.json.
+Sandbox user-log-directory and system-certificate discovery warnings can occur in headless logs. They do not prevent startup; no GDScript parse/runtime failures occurred.
+
+PREVIEWS AND ART
+art/five-animals-preview.png — native painted appearances.
+art/five-animals-walk.gif — four actual painted keys, no rotating-limb animation.
+previews/day-and-night-gameplay.png — actual Canvas replay, staged species arrangement, context hint hidden for clean crop.
+captures/wildlife-day-demo.png and wildlife-night-demo.png — full actual UI.
+captures/wildlife-day-natural.png — unmodified seeded wildlife positions.
+wildlife-capture-manifest.json distinguishes staged demonstrations from natural population capture.
+These are software replays of actual drawing calls, not native GPU screenshots or a manual full playthrough. Actual Godot texture mip data is separately tested. No manual GPU playthrough is claimed.
+
+Original generated sheets, production assets and six exact prompts are archived in ../../素材整理/动物/0.1.6/. Built-in image_gen was used (five species sheets plus one fox direction repair). Code only crops, integer-registers and pads original pixels; no source resampling or limb rotation. Exact prompts are also in the release ART_PROMPTS.txt.
+
+No persistent saves or new animal loot/cooking are introduced. Tests cover the stated seeds, poses and flows, not every possible random world or GPU configuration.

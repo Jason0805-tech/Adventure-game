@@ -1,0 +1,42 @@
+0.1.5.11 independent movement acceptance
+
+The gate reproduction uses source-art opening x≈235/468, which is world x≈1994.
+The gate anchor x=2030 is at its right pillar and is not the passage center.
+Baseline 0.1.5.10 blocks all 6 routes at x1989/1991/1994, y360→155 and y155→360.
+Final test must reach both opposite endpoints through actual move_player.
+The outer lane x1997 has boots extending into the real right pillar foot; it
+must still stop. The source art gap is for actor width28, not a point actor.
+AStar navigation must also cross the arch, with no wide detour around pillars.
+
+Independent source ground landmarks are selected from native cropped PNGs,
+without opening collision_profiles.json to generate expected coordinates.
+They test solid ground bases and explicit free upper-image areas. All water and
+neighbor stones are removed for each stone's own tests, so water cannot hide a
+missing rock body. Upper roofs, trunk forks, tabletops and arch lintels must not
+become physical walls. Field branch/fiber plants and spent remnants are soft.
+A point marked free may be near real wood; such source-center-only samples do
+not claim a full28×14bootcapsule fits there. All distant upper samples also test
+full boots and real motion across the object at that elevation.
+
+The first five root points were mistakenly selected on green foreground leaves
+at small source previews. Source4× crops exposed this; the exact original points
+remain as foliage center-negative tests, and new visibly bare wood points were
+added. Original failure logs/reports remain alongside final output. This was
+source annotation correction, not changing expectations to match polygons.
+
+Full-world acceptance is a continuous17destination walk using actual AStar
+waypoints and60Hzmove_player, with no teleports between route legs. The one
+initial spawn is separate from the focused6arch reproduction starts. The circuit
+includes camp, behind the elevated cabin roof,3pondapproaches,4quadrants,
+archfront/rear,Ash,all4oreveins and returntocamp. NPC positions are separated
+only during focused static scenery tests, to isolate scenery defects.
+
+A separate16direction model walker exercises169actualinstances and152extra
+variants/depleted states both in their real crowded world and in isolation.
+Unavailable world-edge/crowded starts are counted separately and never claimed
+as visited. Actual felling,mining,collection,workbench placement must refresh
+navigation. Both NPC navigation/walk cycles are simulated for60seconds.
+
+These are automated engine movement simulations and source-art checks, not a
+manual nativeGPUplaythrough. Alpha/render acceptance is separately owned by the
+root integration task.

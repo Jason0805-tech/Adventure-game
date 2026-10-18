@@ -1,0 +1,86 @@
+Forest Wanderer 0.1.6 - wildlife simulation acceptance
+
+Runtime files:
+  wildlife.gd - rendering-independent ecological placement, states, combat and ground collision
+  wildlife_data.gd - species stats, habitat rectangles, period restrictions and safety values
+
+Species / activity / cap / behavior:
+  Meadow rabbit / day / 4 / wanders, flees from nearby player
+  Woodland deer / day / 3 / wanders, flees from farther away
+  Red fox / day and dusk / 2 / woodland wander and player avoidance
+  Night wolf / night / 3 / patrol, visible-target chase, stopped telegraph, bite, recovery
+  Forest bear / night / 1 / slower patrol/chase, longer swipe telegraph and recovery
+
+The day/dusk/night rules are game design, not real-world animal-behavior claims.
+Period changes remove wrong-time species and colliders immediately, even with zero delta.
+Regular simulation pauses stop behavior, attack timers and respawn timers.
+Normal seed 0 randomizes; supplied nonzero seeds reproduce ecology.
+
+Spawn placement uses species-specific ground capsules against all real ground contours,
+including water/shore stones. It avoids the 160-unit camp safe zone, 84-unit gate-passage
+area, 90-unit NPC start radius and other animal feet. Day species start at least 170 units
+from the player; night predators start at least 360 units away. A navigation route from
+the player is required, rejecting disconnected scenery pockets. Respawn checks every
+28 simulation seconds and never exceed the species caps. No new loot items are introduced.
+
+Wolf: 95 chase speed, 0.65-second stopped locked-aim warning, 12 damage, 1.30-second recovery.
+Bear: 68 chase speed, 0.95-second stopped locked-aim warning, 22 damage, 1.85-second recovery.
+Both can be outrun by the existing 108-unit/second player. All predators have 3-second
+spawn grace. Shared 1.10-second player hurt grace prevents simultaneous pack damage.
+Weapon hits interrupt warnings, enter recovery and enforce per-animal 0.30-second hit grace.
+Ground walls block sight and melee hits. The host wildlife_damage callback honors wards.
+Animals never enter camp; entering camp cancels a pursuing predator's attack.
+
+Verified by Godot 4.7.2 headless:
+  wildlife_logic_tests.gd: 76 checks, 0 failures.
+  wildlife_world_tests.gd: 54,377 checks, 0 failures.
+  wildlife_combat_integration.gd: 30 checks, 0 failures.
+  wildlife_heading_footprints.gd: 165 checks, 0 failures.
+
+Logic coverage: period caps, reproducibility, pause invariance, zero-delta transitions,
+spawn distances, camp, wider bear vs smaller rabbit collision, bench placement polygon,
+self exclusion, warning timing, recovery, evade, pack grace, weapon arc, wall occlusion,
+attack interruption, kill removal and correctly timed respawn.
+
+World coverage: actual release world, resource seed 157, animal seeds 16/157/516, four
+period transitions each, 6 simulated seconds per phase. Every species populated its cap;
+every species moved on the actual map. Per-tick ground-contour, water, camp, period and
+pairwise animal-feet separation checks passed. Maximum concurrent wildlife: 9.
+No manual native-GPU playthrough is claimed by these automated simulation checks.
+
+Actual-host combat acceptance: night crafting/equipping, use_selected/action-frame hit,
+per-hit durability, single commit, successive attacks, kill/experience, reach/rear/wall
+misses, axe-vs-animal priority beside a real tree, player and NPC contact, clear vs occupied
+bench placement, rabbit flee, real swing interruption, host health/recovery, one-hit magic
+stone wards and no damage or ward use in pause/backpack/crafting/conversation states.
+
+Integration:
+  wildlife.setup(game, seed)
+  wildlife.update(game, delta, "day"|"dusk"|"night", enabled)
+  wildlife.entries() -> draw-only dictionaries with uid, species, p, facing, moving,
+    frame (0..7 walk, 8 idle), state, alpha, hitflash, health, max_health, height,
+    warning and attack_progress
+  wildlife.body_blocked(position, exclude_uid=-1, candidate_polygon=[]) -> bool
+  wildlife.target_near(origin, facing, reach=70) -> {kind:"wildlife",uid,species,pos}
+  wildlife.attack(game,origin,facing,damage=18,reach=64,arc_dot=0.10)
+    -> {hits:int,hit_ids:Array[int],kills:Array[String]}
+
+The host owns rendering, sprite selection, UI, animation source layout, player attack
+timing/durability, experience rewards and daylight duration.
+
+Final art geometry audit:
+  Reviewed all five native 8-heading x 4-key atlases at runtime world scales.
+  Forty stable, individually authored heading capsules follow lower paws/hooves.
+  Eighty independent visible paw landmarks pass, with upper-body negative checks.
+  Side-view deer uses half-width33 and +/-9 registration offset; front/back uses9.
+  Side-view bear uses49 and +/-8 offset; front/back uses25.
+  Wolf uses29 sides vs10 front/back; fox19 vs8; rabbit13 vs8.
+  No head/back/tail silhouette is made solid. Physical turns validate the candidate
+  shape against ground, water and actors before changing the painted heading.
+  Spawn validates its actual initial heading, avoiding rotation-created overlaps.
+  Dedicated wall, NPC and player turn tests pass.
+  All eight approach headings for BOTH predators reach a windup and successful hit
+  without overlapping player feet. Wolf reach43 remains valid; bear reach65 allows
+  its longer side paw envelope. Locked-aim warnings and cooldowns remain unchanged.
+  Locomotion cycle strides match art metadata:40/70/55/60/75 world units.
+  Opaque alpha-composite footprint overlays are under footprint-audit/.

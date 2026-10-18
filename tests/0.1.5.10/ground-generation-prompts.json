@@ -1,0 +1,55 @@
+{
+  "generator": "built-in image_gen",
+  "full_map_attempt": {
+    "prompt": "Use case: precise-object-edit / stylized-concept.\nAsset type: high-resolution top-down 2D game terrain background, one single seamless-looking whole-map image. The attached image is the EDIT TARGET, not merely mood inspiration.\nPrimary request: faithfully repaint this exact terrain at a substantially HIGHER NATIVE RASTER RESOLUTION. Output a landscape image at 3072x2048 pixels or higher if supported, maximum available native resolution. Retain all the reference's entire map composition, road widths, road paths, joins and boundaries. Improve actual painted edge fidelity rather than blurring, smoothing or merely enlarging the old raster.\nThe world maps to 2200x1500 units. A broad horizontal ochre dirt trail crosses at approximately 50% image height. Its main vertical trail joins near 76% image width, coming from bottom, bends slightly then turns to the right at the upper right. The short spur near x18% rises from the horizontal trail. These exact connected path silhouettes and their locations must stay as in the reference; do not redesign the map.\nStyle: flat 2D relaxed hand-painted oil/gouache cartoon, matching the existing image. Broad irregular dabs of sage/moss/teal grass and warm pale ochre road, human-looking broken brush edges and variable overlapping short strokes. Large calm color masses, simple readable flat terrain, richer crisp painted boundaries and finer resolved strokes within the same broad style. Maintain exactly the same palette and soft overcast lighting. Not realism, not pixel art, not 3D, not vector shapes, no shiny polish, no photographic grass blades, no excessive sharp grain, no repeated stamped texture.\nView must remain straight top-down, ground only. Do not add trees, houses, rocks, tall grasses, ponds, shadows, icons, characters, UI, frames, borders, writing or labels. No perspective, no horizon, no changed path layout, no new objects. Full bleed ground fills every pixel.",
+    "source": "exec-da8ac5bf-e4e2-44a7-9346-28794d2a75d9.png",
+    "accepted": false,
+    "reason": "Native output1536x1024 insufficient for requested higher native density"
+  },
+  "tiles": [
+    {
+      "id": "nw",
+      "bounds": [
+        0,
+        0,
+        0.55,
+        0.55
+      ],
+      "spec": "Output ONLY map x0%-55%, y0%-55% (NORTHWEST). Road horizontal center is at 90.9% of tile height, crossing the whole tile left to right near the BOTTOM. Short dead-end path spur is near 33% of tile width, rising from that bottom road toward mid-height. Most of tile is grassy. No main vertical road in this region.",
+      "prompt": "Use case: stylized-concept. Asset type: one high-resolution ground TERRAIN TILE for the flat 2D game Forest Wanderer.\nReference image is the exact entire-map layout and palette. Your output is ONLY the specified rectangular region of that map, cropped conceptually then REPAINTED with native crisp painted brush detail. Do not include the rest of the map. Landscape aspect about 1.47:1, maximum native resolution, no frames.\nAll four region tiles must retain the same exact colors/terrain positions from reference so overlapping regions align. Calm pale sage/moss/teal grass and warm cream/ochre path. Short broad irregular opaque oil/gouache strokes, sparse brush-edge irregularity, flat colors, relaxed illustrated cartoon. No realistic grass, no 3D, no photographic texture, no oversharpening or noise, no fine hairlike strokes. Sharper naturally painted edges, not blurry enlargement. Preserve exact road silhouette and cropped continuation at edges.\nGround only, top-down, full bleed, no characters, trees, bushes, rocks, ponds, shadows, buildings, symbols, labels or text. No grids/panels. No new roads or changed paths.\nREGION: Output ONLY map x0%-55%, y0%-55% (NORTHWEST). Road horizontal center is at 90.9% of tile height, crossing the whole tile left to right near the BOTTOM. Short dead-end path spur is near 33% of tile width, rising from that bottom road toward mid-height. Most of tile is grassy. No main vertical road in this region."
+    },
+    {
+      "id": "ne",
+      "bounds": [
+        0.45,
+        0,
+        0.55,
+        0.55
+      ],
+      "spec": "Output ONLY map x45%-100%, y0%-55% (NORTHEAST). Horizontal path center at90.9% tile height nearBOTTOM. The main vertical path is at56.4% tile width, extends from that horizontal road upward, bends nearupperthird of tile and turns RIGHT to exit right boundary near29% tile height. These are existing roads, exactly as the crop of reference. Grass fills rest.",
+      "prompt": "Use case: stylized-concept. Asset type: one high-resolution ground TERRAIN TILE for the flat 2D game Forest Wanderer.\nReference image is the exact entire-map layout and palette. Your output is ONLY the specified rectangular region of that map, cropped conceptually then REPAINTED with native crisp painted brush detail. Do not include the rest of the map. Landscape aspect about 1.47:1, maximum native resolution, no frames.\nAll four region tiles must retain the same exact colors/terrain positions from reference so overlapping regions align. Calm pale sage/moss/teal grass and warm cream/ochre path. Short broad irregular opaque oil/gouache strokes, sparse brush-edge irregularity, flat colors, relaxed illustrated cartoon. No realistic grass, no 3D, no photographic texture, no oversharpening or noise, no fine hairlike strokes. Sharper naturally painted edges, not blurry enlargement. Preserve exact road silhouette and cropped continuation at edges.\nGround only, top-down, full bleed, no characters, trees, bushes, rocks, ponds, shadows, buildings, symbols, labels or text. No grids/panels. No new roads or changed paths.\nREGION: Output ONLY map x45%-100%, y0%-55% (NORTHEAST). Horizontal path center at90.9% tile height nearBOTTOM. The main vertical path is at56.4% tile width, extends from that horizontal road upward, bends nearupperthird of tile and turns RIGHT to exit right boundary near29% tile height. These are existing roads, exactly as the crop of reference. Grass fills rest."
+    },
+    {
+      "id": "sw",
+      "bounds": [
+        0,
+        0.45,
+        0.55,
+        0.55
+      ],
+      "spec": "Output ONLY map x0%-55%, y45%-100% (SOUTHWEST). Horizontal path center at9.1% tile height nearTOP, crosses whole tile left to right. All below the path is grass. No vertical path and no spur in this crop.",
+      "prompt": "Use case: stylized-concept. Asset type: one high-resolution ground TERRAIN TILE for the flat 2D game Forest Wanderer.\nReference image is the exact entire-map layout and palette. Your output is ONLY the specified rectangular region of that map, cropped conceptually then REPAINTED with native crisp painted brush detail. Do not include the rest of the map. Landscape aspect about 1.47:1, maximum native resolution, no frames.\nAll four region tiles must retain the same exact colors/terrain positions from reference so overlapping regions align. Calm pale sage/moss/teal grass and warm cream/ochre path. Short broad irregular opaque oil/gouache strokes, sparse brush-edge irregularity, flat colors, relaxed illustrated cartoon. No realistic grass, no 3D, no photographic texture, no oversharpening or noise, no fine hairlike strokes. Sharper naturally painted edges, not blurry enlargement. Preserve exact road silhouette and cropped continuation at edges.\nGround only, top-down, full bleed, no characters, trees, bushes, rocks, ponds, shadows, buildings, symbols, labels or text. No grids/panels. No new roads or changed paths.\nREGION: Output ONLY map x0%-55%, y45%-100% (SOUTHWEST). Horizontal path center at9.1% tile height nearTOP, crosses whole tile left to right. All below the path is grass. No vertical path and no spur in this crop."
+    },
+    {
+      "id": "se",
+      "bounds": [
+        0.45,
+        0.45,
+        0.55,
+        0.55
+      ],
+      "spec": "Output ONLY map x45%-100%, y45%-100% (SOUTHEAST). Horizontal path center at9.1% tile height nearTOP, crossing whole tile. Main vertical path at56.4% tile width joins it and continues toBOTTOM boundary. Keep width and gently irregular contours from reference. Grass fills quadrants.",
+      "prompt": "Use case: stylized-concept. Asset type: one high-resolution ground TERRAIN TILE for the flat 2D game Forest Wanderer.\nReference image is the exact entire-map layout and palette. Your output is ONLY the specified rectangular region of that map, cropped conceptually then REPAINTED with native crisp painted brush detail. Do not include the rest of the map. Landscape aspect about 1.47:1, maximum native resolution, no frames.\nAll four region tiles must retain the same exact colors/terrain positions from reference so overlapping regions align. Calm pale sage/moss/teal grass and warm cream/ochre path. Short broad irregular opaque oil/gouache strokes, sparse brush-edge irregularity, flat colors, relaxed illustrated cartoon. No realistic grass, no 3D, no photographic texture, no oversharpening or noise, no fine hairlike strokes. Sharper naturally painted edges, not blurry enlargement. Preserve exact road silhouette and cropped continuation at edges.\nGround only, top-down, full bleed, no characters, trees, bushes, rocks, ponds, shadows, buildings, symbols, labels or text. No grids/panels. No new roads or changed paths.\nREGION: Output ONLY map x45%-100%, y45%-100% (SOUTHEAST). Horizontal path center at9.1% tile height nearTOP, crossing whole tile. Main vertical path at56.4% tile width joins it and continues toBOTTOM boundary. Keep width and gently irregular contours from reference. Grass fills quadrants."
+    }
+  ]
+}

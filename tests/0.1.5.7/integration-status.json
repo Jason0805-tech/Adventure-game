@@ -1,0 +1,31 @@
+{
+  "version": "0.1.5.7",
+  "features": {
+    "stable_tree_identity": true,
+    "ground_detail_strokes": 55423,
+    "individually_authored_sprite_profiles": 45,
+    "contact_polygons": 57,
+    "polygon_vertices": 946,
+    "boot_capsule_collision": true,
+    "movement_substep": 1.5,
+    "stable_contact_depth": true,
+    "player_speed": 108.0,
+    "day_seconds": 180.0
+  },
+  "checks": {
+    "world_assertions": 5562,
+    "world_instances": 157,
+    "long_frame_traversal_cases": 224,
+    "geometry_cases": 34,
+    "feature_smokes": 27,
+    "pacing_smokes": 10,
+    "tree_paint_identity_samples": 120,
+    "canvas_scenario_replays": 13,
+    "native_ui_smoke": "partial: scene, movement, log contact and NPC walking",
+    "full_manual_playthrough": false,
+    "app_headless_from_tmp": true,
+    "bundle_hash_matches": 51,
+    "staging_strict_signature": true,
+    "installed_signature_verified": true
+  }
+}

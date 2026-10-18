@@ -1,0 +1,224 @@
+{
+  "resource_checks": 53,
+  "resource_failures": 0,
+  "art_checks": 42,
+  "art_failures": 0,
+  "bundled_exit_code": 0,
+  "game_ready": true,
+  "launch_wall_seconds": 13.692145582986996,
+  "working_directory": "/private/tmp",
+  "resources": [
+    {
+      "path": "ENGINE_LICENSES.txt",
+      "matches_source": true
+    },
+    {
+      "path": "assets/cabin-props.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/environment.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/equipment.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/ground-blends.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/harvest-nodes.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/held-use-weapon-0.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/held-use-weapon-1.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/held-use-weapon-2.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/held-use-weapon-3.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/held-use-weapon-4.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/held-use-weapon-5.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/held-use-weapon-6.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/held-use-weapon-7.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/held-use-weapon-8.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/held-weapon-0.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/held-weapon-1.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/held-weapon-2.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/held-weapon-3.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/held-weapon-4.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/held-weapon-5.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/held-weapon-6.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/held-weapon-7.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/held-weapon-8.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/materials.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/meadow.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/npc-ash-directions.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/npc-rowan-directions.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/npc-rowan-lantern.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/npc-torso-source.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/npcs.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/paint-materials.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/painted-torso-source.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/ponds.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/status-icons.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/tool-use-meta.json",
+      "matches_source": true
+    },
+    {
+      "path": "assets/traveler-armed-directions.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/traveler-directions.json",
+      "matches_source": true
+    },
+    {
+      "path": "assets/traveler-unarmed-directions.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/traveler-use-directions.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/tree-variants.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/utility-icons.png",
+      "matches_source": true
+    },
+    {
+      "path": "assets/utility-props.png",
+      "matches_source": true
+    },
+    {
+      "path": "collision_profiles.json",
+      "matches_source": true
+    },
+    {
+      "path": "depth_layers.gd",
+      "matches_source": true
+    },
+    {
+      "path": "ground_painter.gd",
+      "matches_source": true
+    },
+    {
+      "path": "inventory.gd",
+      "matches_source": true
+    },
+    {
+      "path": "item_data.gd",
+      "matches_source": true
+    },
+    {
+      "path": "main.gd",
+      "matches_source": true
+    },
+    {
+      "path": "main.tscn",
+      "matches_source": true
+    },
+    {
+      "path": "paint_density.gd",
+      "matches_source": true
+    },
+    {
+      "path": "project.godot",
+      "matches_source": true
+    },
+    {
+      "path": "world_geometry.gd",
+      "matches_source": true
+    }
+  ]
+}

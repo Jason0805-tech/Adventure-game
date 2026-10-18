@@ -1,0 +1,10 @@
+Forest Wanderer 0.1.5.1 — 2026-10-11
+Godot 4.7.2 official, macOS.
+Mechanics: 57 checks, 0 failures.
+Art / collisions / animation: 220 checks, 0 failures.
+11 UI states rendered without script errors.
+Native window launched; 15 visual captures include daylight, sunset, night,
+crafting, cardinal idle poses, ponds, collision outlines and six walking poses.
+Day and walk captures visually reviewed for asset alignment and visible shadows.
+Atlas gap scans were used to correct pond and left-walk region boundaries.
+The headless engine emits a system CA certificate warning; gameplay is offline.

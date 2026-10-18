@@ -1,0 +1,4059 @@
+{
+  "checks": 936,
+  "failures": 0,
+  "normal_cell": [
+    192,
+    320
+  ],
+  "normal_anchor": [
+    96,
+    268
+  ],
+  "action_cell": [
+    384,
+    384
+  ],
+  "action_anchor": [
+    192,
+    332
+  ],
+  "source_art_preserved": true,
+  "world_stride": 60.48000000000001,
+  "rig_scale_only": true,
+  "pngs": [
+    {
+      "file": "traveler-unarmed-directions.png",
+      "size": [
+        3072,
+        2880
+      ],
+      "previous_size": [
+        1536,
+        1440
+      ],
+      "sha256": "ae5a1d31c3e8601aa303a4f98c2687c518a6014665083e81ac26d97e1f084bc0"
+    },
+    {
+      "file": "traveler-armed-directions.png",
+      "size": [
+        3072,
+        2880
+      ],
+      "previous_size": [
+        1536,
+        1440
+      ],
+      "sha256": "315000c8f871df170ed6dba6fbea06fd6ed0cf6618db521106555206b51ed84e"
+    },
+    {
+      "file": "held-weapon-0.png",
+      "size": [
+        3072,
+        2880
+      ],
+      "previous_size": [
+        1536,
+        1440
+      ],
+      "sha256": "144eeea4bc841f2713b04243f62e832ff428ab441d9cbe01ea994500dcddd2e7"
+    },
+    {
+      "file": "held-weapon-1.png",
+      "size": [
+        3072,
+        2880
+      ],
+      "previous_size": [
+        1536,
+        1440
+      ],
+      "sha256": "196608e5be2bf7ce2321f0dcf83989fd4a52dd266fd3f82e473d5171b6b2c3d9"
+    },
+    {
+      "file": "held-weapon-2.png",
+      "size": [
+        3072,
+        2880
+      ],
+      "previous_size": [
+        1536,
+        1440
+      ],
+      "sha256": "84c6f3957a7ffea34d1fd0a769638034b7c244b5274a640d0f56359daab8256b"
+    },
+    {
+      "file": "held-weapon-3.png",
+      "size": [
+        3072,
+        2880
+      ],
+      "previous_size": [
+        1536,
+        1440
+      ],
+      "sha256": "154be1d4828b8a808f7527b82c277be2d9f2c3947e9b10479a9466ea8191f6a8"
+    },
+    {
+      "file": "held-weapon-4.png",
+      "size": [
+        3072,
+        2880
+      ],
+      "previous_size": [
+        1536,
+        1440
+      ],
+      "sha256": "0cc1f4479e30b0e03145074ce8bc463ddb17f41f5a3865299aea3c75d0a7a8df"
+    },
+    {
+      "file": "held-weapon-5.png",
+      "size": [
+        3072,
+        2880
+      ],
+      "previous_size": [
+        1536,
+        1440
+      ],
+      "sha256": "850117d2beba17fa65fc58a05e23da0743e46a6c84f8e1c017da0088925d76ec"
+    },
+    {
+      "file": "held-weapon-6.png",
+      "size": [
+        3072,
+        2880
+      ],
+      "previous_size": [
+        1536,
+        1440
+      ],
+      "sha256": "8e0c3deac8ec52b52ede4e4f1775b780f422973a0d772ef9fa62b7ba63a4d10f"
+    },
+    {
+      "file": "held-weapon-7.png",
+      "size": [
+        3072,
+        2880
+      ],
+      "previous_size": [
+        1536,
+        1440
+      ],
+      "sha256": "f57571df71d6c44fb0cb411ccbbed9ffbe04dff71e3ac423a287b314f006de56"
+    },
+    {
+      "file": "held-weapon-8.png",
+      "size": [
+        3072,
+        2880
+      ],
+      "previous_size": [
+        1536,
+        1440
+      ],
+      "sha256": "cc0512dc93d4ee257acb7b0053115076381a1a45f70723eba50841aebfdfef1d"
+    },
+    {
+      "file": "traveler-use-directions.png",
+      "size": [
+        6144,
+        2304
+      ],
+      "previous_size": [
+        3072,
+        1152
+      ],
+      "sha256": "05009044b3db5d738299bf395842dfa1dda99a39a58e6330d40de65200171706"
+    },
+    {
+      "file": "held-use-weapon-0.png",
+      "size": [
+        6144,
+        2304
+      ],
+      "previous_size": [
+        3072,
+        1152
+      ],
+      "sha256": "bd9563430c44db0397c68e313ff993a069219fd095f4abbfaf9c126f67b8a21a"
+    },
+    {
+      "file": "held-use-weapon-1.png",
+      "size": [
+        6144,
+        2304
+      ],
+      "previous_size": [
+        3072,
+        1152
+      ],
+      "sha256": "a03283d2eb1a992696add138931ca3aae2f639cd994c83bf2a28983a89335a3c"
+    },
+    {
+      "file": "held-use-weapon-2.png",
+      "size": [
+        6144,
+        2304
+      ],
+      "previous_size": [
+        3072,
+        1152
+      ],
+      "sha256": "a993769055e07d67b9dfb2547f0716c3b47b13ea10cc9a857b1c47a63dcb1463"
+    },
+    {
+      "file": "held-use-weapon-3.png",
+      "size": [
+        6144,
+        2304
+      ],
+      "previous_size": [
+        3072,
+        1152
+      ],
+      "sha256": "94ebc2f55664d0247a20cc74760849c19c5a40384a37f7533f20dfe9ebb91d28"
+    },
+    {
+      "file": "held-use-weapon-4.png",
+      "size": [
+        6144,
+        2304
+      ],
+      "previous_size": [
+        3072,
+        1152
+      ],
+      "sha256": "eeb0adcdf26c6e6ccbaded2820f850a37d1ce6ed516c179021deecbd1f3b39c0"
+    },
+    {
+      "file": "held-use-weapon-5.png",
+      "size": [
+        6144,
+        2304
+      ],
+      "previous_size": [
+        3072,
+        1152
+      ],
+      "sha256": "550f4fc2bd068e25763e70a68536b51868c095ff19509b7970053556e128db09"
+    },
+    {
+      "file": "held-use-weapon-6.png",
+      "size": [
+        6144,
+        2304
+      ],
+      "previous_size": [
+        3072,
+        1152
+      ],
+      "sha256": "2d20f497ef749afbd7b9b7c43c23e730295aea2469e7618b48799fccf7b920e1"
+    },
+    {
+      "file": "held-use-weapon-7.png",
+      "size": [
+        6144,
+        2304
+      ],
+      "previous_size": [
+        3072,
+        1152
+      ],
+      "sha256": "26ba104180063773b9fb644eb6601a6870cb5a332fbb597da09eaecb9d59e886"
+    },
+    {
+      "file": "held-use-weapon-8.png",
+      "size": [
+        6144,
+        2304
+      ],
+      "previous_size": [
+        3072,
+        1152
+      ],
+      "sha256": "5240a0a29d60afae359f14e446aaeabf8b1ba9348bcb70ef8f4c3a20bbf7b942"
+    },
+    {
+      "file": "npc-rowan-directions.png",
+      "size": [
+        1536,
+        2880
+      ],
+      "previous_size": [
+        768,
+        1440
+      ],
+      "sha256": "004f9abb363e1da76b944dfa856417aa3cf01540502371102f5a26f2c2024e89"
+    },
+    {
+      "file": "npc-ash-directions.png",
+      "size": [
+        1536,
+        2880
+      ],
+      "previous_size": [
+        768,
+        1440
+      ],
+      "sha256": "aae3ca38489f1c3016eab9506dca3d6267a32be383bafe5cf516a011ef8f74c9"
+    },
+    {
+      "file": "npc-rowan-lantern.png",
+      "size": [
+        1536,
+        2880
+      ],
+      "previous_size": [
+        768,
+        1440
+      ],
+      "sha256": "d2ee913e5d34835a71abae94fd180e50601fa46ee9df9ce20de2fc3b7dc31407"
+    }
+  ],
+  "results": [
+    {
+      "label": "unchanged model/render function painted_rig.py:foot_cycle",
+      "passed": true
+    },
+    {
+      "label": "unchanged model/render function painted_rig.py:jacket",
+      "passed": true
+    },
+    {
+      "label": "unchanged model/render function painted_rig.py:pose",
+      "passed": true
+    },
+    {
+      "label": "unchanged model/render function painted_rig.py:painted_depth",
+      "passed": true
+    },
+    {
+      "label": "unchanged model/render function mesh_math.py:sphere",
+      "passed": true
+    },
+    {
+      "label": "unchanged model/render function mesh_math.py:tube",
+      "passed": true
+    },
+    {
+      "label": "unchanged model/render function mesh_math.py:knee",
+      "passed": true
+    },
+    {
+      "label": "unchanged model/render function mesh_math.py:weapon",
+      "passed": true
+    },
+    {
+      "label": "unchanged model/render function mesh_math.py:rotation",
+      "passed": true
+    },
+    {
+      "label": "unchanged model/render function mesh_math.py:render",
+      "passed": true
+    },
+    {
+      "label": "unchanged model/render function render_tools_npcs.py:tool",
+      "passed": true
+    },
+    {
+      "label": "unchanged model/render function render_tools_npcs.py:swing_angle",
+      "passed": true
+    },
+    {
+      "label": "unchanged model/render function render_tools_npcs.py:rotated_tool",
+      "passed": true
+    },
+    {
+      "label": "unchanged model/render function render_tools_npcs.py:compose",
+      "passed": true
+    },
+    {
+      "label": "normal cell and anchor doubled",
+      "passed": true
+    },
+    {
+      "label": "world stride exactly unchanged",
+      "passed": true
+    },
+    {
+      "label": "headings and walk frame counts unchanged",
+      "passed": true
+    },
+    {
+      "label": "anatomical right-hand convention unchanged",
+      "passed": true
+    },
+    {
+      "label": "all 16 headings x 9 normal frames are represented",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame0 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame0 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame0 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame0 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame0 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame0 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame0 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame0 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame0 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame0 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame0 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame0 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame0 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame0 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame0 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame0 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame0 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame0 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame0 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame0 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame0 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame0 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame0 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame0 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame0 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame0 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame0 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame0 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame0 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame0 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame0 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame0 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame0 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame0 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame0 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame0 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame0 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame0 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame0 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame0 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame0 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame0 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame0 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame0 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame0 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame0 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame0 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame0 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame0 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame0 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame0 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame0 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame0 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame0 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame0 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame0 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame0 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame0 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame0 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame0 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame0 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame0 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame0 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame0 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame1 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame1 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame1 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame1 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame1 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame1 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame1 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame1 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame1 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame1 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame1 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame1 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame1 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame1 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame1 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame1 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame1 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame1 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame1 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame1 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame1 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame1 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame1 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame1 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame1 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame1 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame1 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame1 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame1 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame1 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame1 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame1 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame1 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame1 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame1 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame1 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame1 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame1 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame1 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame1 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame1 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame1 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame1 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame1 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame1 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame1 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame1 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame1 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame1 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame1 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame1 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame1 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame1 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame1 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame1 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame1 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame1 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame1 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame1 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame1 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame1 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame1 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame1 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame1 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame2 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame2 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame2 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame2 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame2 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame2 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame2 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame2 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame2 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame2 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame2 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame2 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame2 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame2 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame2 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame2 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame2 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame2 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame2 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame2 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame2 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame2 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame2 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame2 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame2 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame2 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame2 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame2 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame2 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame2 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame2 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame2 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame2 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame2 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame2 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame2 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame2 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame2 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame2 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame2 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame2 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame2 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame2 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame2 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame2 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame2 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame2 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame2 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame2 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame2 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame2 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame2 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame2 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame2 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame2 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame2 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame2 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame2 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame2 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame2 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame2 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame2 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame2 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame2 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame3 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame3 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame3 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame3 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame3 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame3 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame3 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame3 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame3 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame3 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame3 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame3 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame3 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame3 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame3 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame3 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame3 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame3 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame3 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame3 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame3 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame3 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame3 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame3 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame3 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame3 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame3 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame3 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame3 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame3 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame3 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame3 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame3 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame3 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame3 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame3 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame3 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame3 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame3 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame3 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame3 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame3 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame3 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame3 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame3 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame3 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame3 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame3 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame3 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame3 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame3 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame3 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame3 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame3 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame3 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame3 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame3 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame3 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame3 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame3 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame3 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame3 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame3 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame3 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame4 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame4 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame4 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame4 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame4 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame4 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame4 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame4 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame4 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame4 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame4 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame4 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame4 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame4 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame4 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame4 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame4 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame4 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame4 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame4 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame4 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame4 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame4 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame4 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame4 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame4 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame4 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame4 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame4 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame4 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame4 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame4 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame4 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame4 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame4 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame4 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame4 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame4 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame4 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame4 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame4 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame4 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame4 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame4 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame4 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame4 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame4 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame4 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame4 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame4 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame4 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame4 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame4 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame4 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame4 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame4 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame4 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame4 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame4 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame4 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame4 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame4 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame4 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame4 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame5 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame5 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame5 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame5 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame5 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame5 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame5 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame5 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame5 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame5 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame5 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame5 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame5 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame5 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame5 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame5 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame5 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame5 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame5 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame5 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame5 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame5 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame5 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame5 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame5 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame5 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame5 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame5 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame5 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame5 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame5 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame5 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame5 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame5 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame5 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame5 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame5 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame5 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame5 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame5 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame5 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame5 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame5 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame5 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame5 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame5 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame5 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame5 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame5 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame5 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame5 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame5 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame5 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame5 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame5 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame5 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame5 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame5 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame5 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame5 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame5 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame5 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame5 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame5 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame6 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame6 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame6 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame6 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame6 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame6 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame6 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame6 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame6 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame6 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame6 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame6 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame6 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame6 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame6 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame6 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame6 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame6 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame6 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame6 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame6 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame6 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame6 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame6 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame6 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame6 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame6 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame6 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame6 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame6 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame6 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame6 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame6 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame6 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame6 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame6 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame6 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame6 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame6 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame6 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame6 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame6 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame6 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame6 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame6 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame6 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame6 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame6 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame6 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame6 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame6 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame6 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame6 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame6 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame6 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame6 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame6 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame6 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame6 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame6 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame6 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame6 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame6 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame6 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame7 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame7 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame7 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame7 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame7 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame7 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame7 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame7 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame7 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame7 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame7 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame7 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame7 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame7 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame7 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame7 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame7 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame7 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame7 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame7 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame7 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame7 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame7 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame7 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame7 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame7 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame7 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame7 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame7 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame7 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame7 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame7 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame7 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame7 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame7 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame7 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame7 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame7 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame7 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame7 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame7 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame7 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame7 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame7 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame7 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame7 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame7 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame7 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame7 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame7 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame7 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame7 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame7 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame7 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame7 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame7 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame7 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame7 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame7 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame7 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame7 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame7 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame7 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame7 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame8 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame8 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame8 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle0 frame8 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame8 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame8 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame8 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle30 frame8 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame8 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame8 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame8 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle45 frame8 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame8 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame8 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame8 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle60 frame8 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame8 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame8 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame8 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle90 frame8 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame8 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame8 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame8 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle120 frame8 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame8 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame8 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame8 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle135 frame8 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame8 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame8 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame8 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle150 frame8 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame8 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame8 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame8 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle180 frame8 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame8 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame8 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame8 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle210 frame8 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame8 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame8 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame8 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle225 frame8 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame8 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame8 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame8 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle240 frame8 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame8 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame8 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame8 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle270 frame8 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame8 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame8 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame8 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle300 frame8 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame8 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame8 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame8 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle315 frame8 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame8 exact model positions and 3D grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame8 doubled hand projection preserves normalized grip",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame8 unchanged hand depth",
+      "passed": true
+    },
+    {
+      "label": "normal angle330 frame8 doubled raster bob preserves world movement",
+      "passed": true
+    },
+    {
+      "label": "all 16 headings x 6 action frames retained",
+      "passed": true
+    },
+    {
+      "label": "0_0 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "0_0 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "0_0 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "1_0 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "1_0 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "1_0 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "2_0 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "2_0 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "2_0 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "3_0 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "3_0 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "3_0 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "4_0 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "4_0 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "4_0 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "5_0 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "5_0 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "5_0 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "6_0 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "6_0 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "6_0 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "7_0 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "7_0 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "7_0 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "8_0 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "8_0 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "8_0 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "9_0 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "9_0 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "9_0 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "10_0 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "10_0 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "10_0 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "11_0 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "11_0 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "11_0 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "12_0 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "12_0 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "12_0 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "13_0 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "13_0 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "13_0 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "14_0 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "14_0 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "14_0 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "15_0 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "15_0 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "15_0 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "0_1 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "0_1 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "0_1 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "1_1 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "1_1 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "1_1 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "2_1 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "2_1 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "2_1 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "3_1 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "3_1 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "3_1 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "4_1 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "4_1 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "4_1 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "5_1 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "5_1 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "5_1 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "6_1 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "6_1 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "6_1 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "7_1 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "7_1 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "7_1 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "8_1 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "8_1 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "8_1 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "9_1 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "9_1 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "9_1 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "10_1 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "10_1 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "10_1 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "11_1 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "11_1 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "11_1 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "12_1 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "12_1 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "12_1 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "13_1 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "13_1 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "13_1 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "14_1 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "14_1 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "14_1 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "15_1 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "15_1 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "15_1 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "0_2 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "0_2 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "0_2 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "1_2 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "1_2 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "1_2 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "2_2 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "2_2 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "2_2 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "3_2 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "3_2 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "3_2 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "4_2 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "4_2 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "4_2 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "5_2 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "5_2 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "5_2 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "6_2 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "6_2 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "6_2 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "7_2 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "7_2 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "7_2 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "8_2 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "8_2 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "8_2 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "9_2 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "9_2 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "9_2 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "10_2 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "10_2 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "10_2 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "11_2 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "11_2 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "11_2 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "12_2 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "12_2 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "12_2 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "13_2 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "13_2 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "13_2 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "14_2 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "14_2 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "14_2 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "15_2 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "15_2 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "15_2 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "0_3 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "0_3 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "0_3 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "1_3 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "1_3 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "1_3 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "2_3 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "2_3 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "2_3 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "3_3 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "3_3 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "3_3 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "4_3 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "4_3 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "4_3 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "5_3 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "5_3 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "5_3 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "6_3 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "6_3 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "6_3 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "7_3 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "7_3 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "7_3 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "8_3 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "8_3 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "8_3 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "9_3 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "9_3 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "9_3 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "10_3 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "10_3 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "10_3 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "11_3 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "11_3 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "11_3 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "12_3 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "12_3 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "12_3 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "13_3 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "13_3 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "13_3 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "14_3 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "14_3 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "14_3 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "15_3 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "15_3 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "15_3 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "0_4 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "0_4 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "0_4 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "1_4 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "1_4 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "1_4 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "2_4 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "2_4 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "2_4 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "3_4 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "3_4 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "3_4 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "4_4 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "4_4 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "4_4 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "5_4 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "5_4 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "5_4 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "6_4 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "6_4 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "6_4 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "7_4 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "7_4 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "7_4 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "8_4 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "8_4 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "8_4 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "9_4 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "9_4 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "9_4 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "10_4 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "10_4 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "10_4 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "11_4 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "11_4 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "11_4 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "12_4 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "12_4 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "12_4 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "13_4 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "13_4 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "13_4 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "14_4 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "14_4 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "14_4 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "15_4 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "15_4 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "15_4 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "0_5 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "0_5 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "0_5 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "1_5 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "1_5 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "1_5 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "2_5 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "2_5 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "2_5 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "3_5 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "3_5 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "3_5 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "4_5 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "4_5 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "4_5 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "5_5 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "5_5 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "5_5 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "6_5 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "6_5 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "6_5 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "7_5 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "7_5 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "7_5 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "8_5 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "8_5 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "8_5 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "9_5 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "9_5 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "9_5 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "10_5 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "10_5 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "10_5 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "11_5 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "11_5 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "11_5 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "12_5 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "12_5 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "12_5 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "13_5 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "13_5 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "13_5 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "14_5 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "14_5 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "14_5 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "15_5 exact action grip model position",
+      "passed": true
+    },
+    {
+      "label": "15_5 action hand normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "15_5 action rod tip normalized position unchanged",
+      "passed": true
+    },
+    {
+      "label": "all 144 NPC model poses and heading order byte-equivalent as JSON",
+      "passed": true
+    },
+    {
+      "label": "traveler-unarmed-directions.png true doubled output canvas",
+      "passed": true
+    },
+    {
+      "label": "traveler-unarmed-directions.png retains alpha",
+      "passed": true
+    },
+    {
+      "label": "traveler-armed-directions.png true doubled output canvas",
+      "passed": true
+    },
+    {
+      "label": "traveler-armed-directions.png retains alpha",
+      "passed": true
+    },
+    {
+      "label": "held-weapon-0.png true doubled output canvas",
+      "passed": true
+    },
+    {
+      "label": "held-weapon-0.png retains alpha",
+      "passed": true
+    },
+    {
+      "label": "held-weapon-1.png true doubled output canvas",
+      "passed": true
+    },
+    {
+      "label": "held-weapon-1.png retains alpha",
+      "passed": true
+    },
+    {
+      "label": "held-weapon-2.png true doubled output canvas",
+      "passed": true
+    },
+    {
+      "label": "held-weapon-2.png retains alpha",
+      "passed": true
+    },
+    {
+      "label": "held-weapon-3.png true doubled output canvas",
+      "passed": true
+    },
+    {
+      "label": "held-weapon-3.png retains alpha",
+      "passed": true
+    },
+    {
+      "label": "held-weapon-4.png true doubled output canvas",
+      "passed": true
+    },
+    {
+      "label": "held-weapon-4.png retains alpha",
+      "passed": true
+    },
+    {
+      "label": "held-weapon-5.png true doubled output canvas",
+      "passed": true
+    },
+    {
+      "label": "held-weapon-5.png retains alpha",
+      "passed": true
+    },
+    {
+      "label": "held-weapon-6.png true doubled output canvas",
+      "passed": true
+    },
+    {
+      "label": "held-weapon-6.png retains alpha",
+      "passed": true
+    },
+    {
+      "label": "held-weapon-7.png true doubled output canvas",
+      "passed": true
+    },
+    {
+      "label": "held-weapon-7.png retains alpha",
+      "passed": true
+    },
+    {
+      "label": "held-weapon-8.png true doubled output canvas",
+      "passed": true
+    },
+    {
+      "label": "held-weapon-8.png retains alpha",
+      "passed": true
+    },
+    {
+      "label": "traveler-use-directions.png true doubled output canvas",
+      "passed": true
+    },
+    {
+      "label": "traveler-use-directions.png retains alpha",
+      "passed": true
+    },
+    {
+      "label": "held-use-weapon-0.png true doubled output canvas",
+      "passed": true
+    },
+    {
+      "label": "held-use-weapon-0.png retains alpha",
+      "passed": true
+    },
+    {
+      "label": "held-use-weapon-1.png true doubled output canvas",
+      "passed": true
+    },
+    {
+      "label": "held-use-weapon-1.png retains alpha",
+      "passed": true
+    },
+    {
+      "label": "held-use-weapon-2.png true doubled output canvas",
+      "passed": true
+    },
+    {
+      "label": "held-use-weapon-2.png retains alpha",
+      "passed": true
+    },
+    {
+      "label": "held-use-weapon-3.png true doubled output canvas",
+      "passed": true
+    },
+    {
+      "label": "held-use-weapon-3.png retains alpha",
+      "passed": true
+    },
+    {
+      "label": "held-use-weapon-4.png true doubled output canvas",
+      "passed": true
+    },
+    {
+      "label": "held-use-weapon-4.png retains alpha",
+      "passed": true
+    },
+    {
+      "label": "held-use-weapon-5.png true doubled output canvas",
+      "passed": true
+    },
+    {
+      "label": "held-use-weapon-5.png retains alpha",
+      "passed": true
+    },
+    {
+      "label": "held-use-weapon-6.png true doubled output canvas",
+      "passed": true
+    },
+    {
+      "label": "held-use-weapon-6.png retains alpha",
+      "passed": true
+    },
+    {
+      "label": "held-use-weapon-7.png true doubled output canvas",
+      "passed": true
+    },
+    {
+      "label": "held-use-weapon-7.png retains alpha",
+      "passed": true
+    },
+    {
+      "label": "held-use-weapon-8.png true doubled output canvas",
+      "passed": true
+    },
+    {
+      "label": "held-use-weapon-8.png retains alpha",
+      "passed": true
+    },
+    {
+      "label": "npc-rowan-directions.png true doubled output canvas",
+      "passed": true
+    },
+    {
+      "label": "npc-rowan-directions.png retains alpha",
+      "passed": true
+    },
+    {
+      "label": "npc-ash-directions.png true doubled output canvas",
+      "passed": true
+    },
+    {
+      "label": "npc-ash-directions.png retains alpha",
+      "passed": true
+    },
+    {
+      "label": "npc-rowan-lantern.png true doubled output canvas",
+      "passed": true
+    },
+    {
+      "label": "npc-rowan-lantern.png retains alpha",
+      "passed": true
+    },
+    {
+      "label": "same approved painted source painted-torso-source.png",
+      "passed": true
+    },
+    {
+      "label": "same approved painted source npc-torso-source.png",
+      "passed": true
+    },
+    {
+      "label": "same approved painted source paint-materials.png",
+      "passed": true
+    }
+  ]
+}

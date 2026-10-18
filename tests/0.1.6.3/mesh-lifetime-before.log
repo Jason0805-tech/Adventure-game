@@ -1,0 +1,130 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+ERROR: Canvas mesh remains alive after draw() returns
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:29)
+       [1] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:35)
+ERROR: Runtime mesh retained frame 0
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:29)
+       [1] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:48)
+ERROR: Runtime mesh retained frame 1
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:29)
+       [1] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:48)
+ERROR: Runtime mesh retained frame 2
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:29)
+       [1] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:48)
+ERROR: Runtime mesh retained frame 3
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:29)
+       [1] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:48)
+ERROR: Runtime mesh retained frame 4
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:29)
+       [1] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:48)
+ERROR: Runtime mesh retained frame 5
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:29)
+       [1] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:48)
+ERROR: Runtime mesh retained frame 6
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:29)
+       [1] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:48)
+ERROR: Runtime mesh retained frame 7
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:29)
+       [1] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:48)
+ERROR: Runtime mesh retained frame 8
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:29)
+       [1] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:48)
+ERROR: Runtime mesh retained frame 9
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:29)
+       [1] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:48)
+ERROR: Runtime mesh retained frame 10
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:29)
+       [1] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:48)
+ERROR: Runtime mesh retained frame 11
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:29)
+       [1] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:48)
+ERROR: Runtime mesh retained frame 12
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:29)
+       [1] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:48)
+ERROR: Runtime mesh retained frame 13
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:29)
+       [1] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:48)
+ERROR: Runtime mesh retained frame 14
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:29)
+       [1] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:48)
+ERROR: Runtime mesh retained frame 15
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:29)
+       [1] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:48)
+ERROR: Runtime mesh retained frame 16
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:29)
+       [1] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:48)
+ERROR: Runtime mesh retained frame 17
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:29)
+       [1] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:48)
+ERROR: Runtime mesh retained frame 18
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:29)
+       [1] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:48)
+ERROR: Runtime mesh retained frame 19
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:29)
+       [1] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:48)
+ERROR: Runtime mesh retained frame 20
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:29)
+       [1] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:48)
+ERROR: Runtime mesh retained frame 21
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:29)
+       [1] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:48)
+ERROR: Runtime mesh retained frame 22
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:29)
+       [1] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:48)
+ERROR: Runtime mesh retained frame 23
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:29)
+       [1] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.3/test_canvas_mesh_lifetime.gd:48)
+CANVAS_MESH_LIFETIME 29 checks failures=25

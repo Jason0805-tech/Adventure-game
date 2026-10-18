@@ -1,0 +1,272 @@
+{
+  "version": "0.1.5.10",
+  "count": 53,
+  "all_source_matches": true,
+  "files": [
+    {
+      "path": "ENGINE_LICENSES.txt",
+      "sha256": "ee0ace3d8d5f31d5de560587aa8242a75fba96877ccff1a7c1e8829dac1c57e8",
+      "source_matches": true
+    },
+    {
+      "path": "assets/cabin-props.png",
+      "sha256": "3077f0ac969f22d679af1584c76e2a1933f2b376c4f54c0869d7b2e250b94ec6",
+      "source_matches": true
+    },
+    {
+      "path": "assets/environment.png",
+      "sha256": "60a342530309f4367e2c5ed58f78b93ec9bba61e20aa4ab19146df6fa5ad85bb",
+      "source_matches": true
+    },
+    {
+      "path": "assets/equipment.png",
+      "sha256": "4cce0e33959c4db274f440ed53a1333bd6c79d565b38f854be0edef168cae467",
+      "source_matches": true
+    },
+    {
+      "path": "assets/ground-blends.png",
+      "sha256": "c41491d96e08bed6162d63068265546a30e2fbccb2faa82bed18b82589f12787",
+      "source_matches": true
+    },
+    {
+      "path": "assets/harvest-nodes.png",
+      "sha256": "0f507e38444816727bc0664fccf64a500a29dba5126f62b1bda7009bf3822da6",
+      "source_matches": true
+    },
+    {
+      "path": "assets/held-use-weapon-0.png",
+      "sha256": "bd9563430c44db0397c68e313ff993a069219fd095f4abbfaf9c126f67b8a21a",
+      "source_matches": true
+    },
+    {
+      "path": "assets/held-use-weapon-1.png",
+      "sha256": "a03283d2eb1a992696add138931ca3aae2f639cd994c83bf2a28983a89335a3c",
+      "source_matches": true
+    },
+    {
+      "path": "assets/held-use-weapon-2.png",
+      "sha256": "a993769055e07d67b9dfb2547f0716c3b47b13ea10cc9a857b1c47a63dcb1463",
+      "source_matches": true
+    },
+    {
+      "path": "assets/held-use-weapon-3.png",
+      "sha256": "94ebc2f55664d0247a20cc74760849c19c5a40384a37f7533f20dfe9ebb91d28",
+      "source_matches": true
+    },
+    {
+      "path": "assets/held-use-weapon-4.png",
+      "sha256": "eeb0adcdf26c6e6ccbaded2820f850a37d1ce6ed516c179021deecbd1f3b39c0",
+      "source_matches": true
+    },
+    {
+      "path": "assets/held-use-weapon-5.png",
+      "sha256": "550f4fc2bd068e25763e70a68536b51868c095ff19509b7970053556e128db09",
+      "source_matches": true
+    },
+    {
+      "path": "assets/held-use-weapon-6.png",
+      "sha256": "2d20f497ef749afbd7b9b7c43c23e730295aea2469e7618b48799fccf7b920e1",
+      "source_matches": true
+    },
+    {
+      "path": "assets/held-use-weapon-7.png",
+      "sha256": "26ba104180063773b9fb644eb6601a6870cb5a332fbb597da09eaecb9d59e886",
+      "source_matches": true
+    },
+    {
+      "path": "assets/held-use-weapon-8.png",
+      "sha256": "5240a0a29d60afae359f14e446aaeabf8b1ba9348bcb70ef8f4c3a20bbf7b942",
+      "source_matches": true
+    },
+    {
+      "path": "assets/held-weapon-0.png",
+      "sha256": "144eeea4bc841f2713b04243f62e832ff428ab441d9cbe01ea994500dcddd2e7",
+      "source_matches": true
+    },
+    {
+      "path": "assets/held-weapon-1.png",
+      "sha256": "196608e5be2bf7ce2321f0dcf83989fd4a52dd266fd3f82e473d5171b6b2c3d9",
+      "source_matches": true
+    },
+    {
+      "path": "assets/held-weapon-2.png",
+      "sha256": "84c6f3957a7ffea34d1fd0a769638034b7c244b5274a640d0f56359daab8256b",
+      "source_matches": true
+    },
+    {
+      "path": "assets/held-weapon-3.png",
+      "sha256": "154be1d4828b8a808f7527b82c277be2d9f2c3947e9b10479a9466ea8191f6a8",
+      "source_matches": true
+    },
+    {
+      "path": "assets/held-weapon-4.png",
+      "sha256": "0cc1f4479e30b0e03145074ce8bc463ddb17f41f5a3865299aea3c75d0a7a8df",
+      "source_matches": true
+    },
+    {
+      "path": "assets/held-weapon-5.png",
+      "sha256": "850117d2beba17fa65fc58a05e23da0743e46a6c84f8e1c017da0088925d76ec",
+      "source_matches": true
+    },
+    {
+      "path": "assets/held-weapon-6.png",
+      "sha256": "8e0c3deac8ec52b52ede4e4f1775b780f422973a0d772ef9fa62b7ba63a4d10f",
+      "source_matches": true
+    },
+    {
+      "path": "assets/held-weapon-7.png",
+      "sha256": "f57571df71d6c44fb0cb411ccbbed9ffbe04dff71e3ac423a287b314f006de56",
+      "source_matches": true
+    },
+    {
+      "path": "assets/held-weapon-8.png",
+      "sha256": "cc0512dc93d4ee257acb7b0053115076381a1a45f70723eba50841aebfdfef1d",
+      "source_matches": true
+    },
+    {
+      "path": "assets/materials.png",
+      "sha256": "ce019823fe28c7cb5fb1f4869c56edbebeb1a7050bf58c3c407014b89e8b7298",
+      "source_matches": true
+    },
+    {
+      "path": "assets/meadow.png",
+      "sha256": "314984f67c8474779ae107cc3932bc3f3006307e0cc3e3cf7d614c9bc381d321",
+      "source_matches": true
+    },
+    {
+      "path": "assets/npc-ash-directions.png",
+      "sha256": "aae3ca38489f1c3016eab9506dca3d6267a32be383bafe5cf516a011ef8f74c9",
+      "source_matches": true
+    },
+    {
+      "path": "assets/npc-rowan-directions.png",
+      "sha256": "004f9abb363e1da76b944dfa856417aa3cf01540502371102f5a26f2c2024e89",
+      "source_matches": true
+    },
+    {
+      "path": "assets/npc-rowan-lantern.png",
+      "sha256": "d2ee913e5d34835a71abae94fd180e50601fa46ee9df9ce20de2fc3b7dc31407",
+      "source_matches": true
+    },
+    {
+      "path": "assets/npc-torso-source.png",
+      "sha256": "b0ab881faf822708aa86495089f9aeaa3ac76f3b6b5bf79100635cea91d9e5ba",
+      "source_matches": true
+    },
+    {
+      "path": "assets/npcs.png",
+      "sha256": "cf60eee56af31ab12102b8017ba5d5cc5418901bc330aeac1116a4fe57ba66f6",
+      "source_matches": true
+    },
+    {
+      "path": "assets/paint-materials.png",
+      "sha256": "7b35678e58e33e0bfa4844f30554026342a59d96148b073cee6c2e9acd33414b",
+      "source_matches": true
+    },
+    {
+      "path": "assets/painted-torso-source.png",
+      "sha256": "9c7c456234a1c70ae5cb048de47affa4c8e1074fd9a6275d4e8969b594616bd6",
+      "source_matches": true
+    },
+    {
+      "path": "assets/ponds.png",
+      "sha256": "50834aaf572e5acef19d917d550113b1b1167737ec499acb8302db5571ea99ff",
+      "source_matches": true
+    },
+    {
+      "path": "assets/status-icons.png",
+      "sha256": "5854448e8b07b48fe8736bab3a4dd05437c8119a0e6281683e3449e3da3c0553",
+      "source_matches": true
+    },
+    {
+      "path": "assets/tool-use-meta.json",
+      "sha256": "d6f271b89967458e8570c0cd3280462f81b3a1a285fc1202fb2210738767652b",
+      "source_matches": true
+    },
+    {
+      "path": "assets/traveler-armed-directions.png",
+      "sha256": "315000c8f871df170ed6dba6fbea06fd6ed0cf6618db521106555206b51ed84e",
+      "source_matches": true
+    },
+    {
+      "path": "assets/traveler-directions.json",
+      "sha256": "65dc6e13c2546e12bbfab957ad6875de719ace927574601a7462fc19ce5eef6b",
+      "source_matches": true
+    },
+    {
+      "path": "assets/traveler-unarmed-directions.png",
+      "sha256": "ae5a1d31c3e8601aa303a4f98c2687c518a6014665083e81ac26d97e1f084bc0",
+      "source_matches": true
+    },
+    {
+      "path": "assets/traveler-use-directions.png",
+      "sha256": "05009044b3db5d738299bf395842dfa1dda99a39a58e6330d40de65200171706",
+      "source_matches": true
+    },
+    {
+      "path": "assets/tree-variants.png",
+      "sha256": "cf27e3b6bd70273ad19199b22e3b6915fe1317b8b374c36d7b4c2fa5daec7de4",
+      "source_matches": true
+    },
+    {
+      "path": "assets/utility-icons.png",
+      "sha256": "b39531a7cb9965bba9a3312cf1689b36c68a70f50028de332e5b0a421664e2a8",
+      "source_matches": true
+    },
+    {
+      "path": "assets/utility-props.png",
+      "sha256": "cd74e26ae7619c84c3d2250caf567c3c219c747267ad77193cfc2fc2507bd3f3",
+      "source_matches": true
+    },
+    {
+      "path": "collision_profiles.json",
+      "sha256": "3d939b5b58a4bcb4be0d7da4ee40113708f65c841e8dedd6f396ec5fe8ae4906",
+      "source_matches": true
+    },
+    {
+      "path": "depth_layers.gd",
+      "sha256": "29d6c655eb796a99d220104ab19f5b5940698ea0e3fcf7258db2e5ca54dcbde4",
+      "source_matches": true
+    },
+    {
+      "path": "ground_painter.gd",
+      "sha256": "6b4a6129bd8f7a49829fdc3b56c2d8a47ae5590b7aa5324e279cae7eb2b6a621",
+      "source_matches": true
+    },
+    {
+      "path": "inventory.gd",
+      "sha256": "677fab8048d07d38f0c5c426803b457432ead761cffa669dd3cef0129be90feb",
+      "source_matches": true
+    },
+    {
+      "path": "item_data.gd",
+      "sha256": "827b6c4bb328abc36892eaf9a190381a8cea1da57915792f602754aaab704ea2",
+      "source_matches": true
+    },
+    {
+      "path": "main.gd",
+      "sha256": "249262912bac886eff327fb99279773ecfa287f8fb6f697e959af13a154bd034",
+      "source_matches": true
+    },
+    {
+      "path": "main.tscn",
+      "sha256": "daf260bc4bb27fdcec5706611c763751ef7df01be8c53f84e8aa4678aedf4799",
+      "source_matches": true
+    },
+    {
+      "path": "paint_density.gd",
+      "sha256": "e81304dd64ce1731c1b3baa94461d79f17df04aa334c5178d52312be338b6bd2",
+      "source_matches": true
+    },
+    {
+      "path": "project.godot",
+      "sha256": "c8f64826341f7e96b28c43d35c4527b9a669b142f1a23d2e219c87b6db64542a",
+      "source_matches": true
+    },
+    {
+      "path": "world_geometry.gd",
+      "sha256": "90bd1d12624f2ef9260fbc5cbf5b0755158da6116d2685cfa8878b9720d58fca",
+      "source_matches": true
+    }
+  ]
+}

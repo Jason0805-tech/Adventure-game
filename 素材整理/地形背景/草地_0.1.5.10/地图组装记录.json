@@ -1,0 +1,144 @@
+{
+  "output": [
+    2816,
+    1920
+  ],
+  "world": [
+    2200,
+    1500
+  ],
+  "output_pixels_per_world_unit": [
+    1.28,
+    1.28
+  ],
+  "source_tile_dimensions": [
+    {
+      "id": "nw",
+      "size": [
+        1518,
+        1036
+      ],
+      "bounds": [
+        0,
+        0,
+        0.55,
+        0.55
+      ],
+      "source_road_y": [
+        0.7258687258687259,
+        0.7934789146231646,
+        0.8552123552123552
+      ],
+      "target_road_y": [
+        0.8283608283608282,
+        0.8930795619107305,
+        0.9564759564759564
+      ],
+      "source_road_x": null,
+      "target_road_x": null
+    },
+    {
+      "id": "ne",
+      "size": [
+        1518,
+        1036
+      ],
+      "bounds": [
+        0.45,
+        0,
+        0.55,
+        0.55
+      ],
+      "source_road_y": [
+        0.7693050193050193,
+        0.8257521484186172,
+        0.8832046332046332
+      ],
+      "target_road_y": [
+        0.8283608283608282,
+        0.8930795619107305,
+        0.9564759564759564
+      ],
+      "source_road_x": [
+        0.49604743083003955,
+        0.5282453262320899,
+        0.5599472990777339
+      ],
+      "target_road_x": [
+        0.5700083842376331,
+        0.6154849943582044,
+        0.6622349982033775
+      ]
+    },
+    {
+      "id": "sw",
+      "size": [
+        1518,
+        1036
+      ],
+      "bounds": [
+        0,
+        0.45,
+        0.55,
+        0.55
+      ],
+      "source_road_y": [
+        0.10907335907335908,
+        0.15729402877290205,
+        0.20656370656370657
+      ],
+      "target_road_y": [
+        0.010179010179010118,
+        0.07489774372891232,
+        0.13829413829413828
+      ],
+      "source_road_x": null,
+      "target_road_x": null
+    },
+    {
+      "id": "se",
+      "size": [
+        1518,
+        1036
+      ],
+      "bounds": [
+        0.45,
+        0.45,
+        0.55,
+        0.55
+      ],
+      "source_road_y": [
+        0.14961389961389962,
+        0.20199950207924056,
+        0.2557915057915058
+      ],
+      "target_road_y": [
+        0.010179010179010118,
+        0.07489774372891232,
+        0.13829413829413828
+      ],
+      "source_road_x": [
+        0.5520421607378129,
+        0.5931259173303238,
+        0.6343873517786561
+      ],
+      "target_road_x": [
+        0.5700083842376331,
+        0.6154849943582044,
+        0.6622349982033775
+      ]
+    }
+  ],
+  "original_road_y": [
+    0.4555984555984556,
+    0.4911937590509018,
+    0.5260617760617761
+  ],
+  "original_road_x": [
+    0.7635046113306982,
+    0.7885167468970125,
+    0.8142292490118577
+  ],
+  "method": "Four independently repainted native regions, aligned to original path landmarks and smoothly blended over10%overlaps. No low-resolution full-map image is enlarged to produce the atlas.",
+  "detail_note": "This is newly painted terrain assembled from four native1518x1036regions. Local warp/interpolation aligns roads; output dimensions alone do not guarantee native pixel detail at every location."
+}

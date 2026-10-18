@@ -1,0 +1,101 @@
+{
+	"method": "Software replay of actual release Canvas commands and native textures; staged compositions are explicitly identified. Not a native GPU manual playthrough.",
+	"scenes": [
+		{
+			"day_time": 0.0,
+			"description": "Staged species composition in the actual clearing; real release lighting and Canvas commands",
+			"name": "dawn",
+			"night_elapsed": 0.0,
+			"phase": "day",
+			"player": [
+				1700.0,
+				850.0
+			],
+			"torch": false
+		},
+		{
+			"day_time": 81.0,
+			"description": "Staged species composition in the actual clearing; real release lighting and Canvas commands",
+			"name": "noon",
+			"night_elapsed": 0.0,
+			"phase": "day",
+			"player": [
+				1700.0,
+				850.0
+			],
+			"torch": false
+		},
+		{
+			"day_time": 171.0,
+			"description": "Staged species composition in the actual clearing; real release lighting and Canvas commands",
+			"name": "evening",
+			"night_elapsed": 0.0,
+			"phase": "day",
+			"player": [
+				1700.0,
+				850.0
+			],
+			"torch": false
+		},
+		{
+			"day_time": 171.0,
+			"description": "Dusk at halfway to night; staged composition",
+			"name": "dusk",
+			"night_elapsed": 0.0,
+			"phase": "dusk",
+			"player": [
+				1700.0,
+				850.0
+			],
+			"torch": false
+		},
+		{
+			"day_time": 171.0,
+			"description": "Midnight without a torch: actual predator eye anchors; staged encounter",
+			"name": "midnight-unlit",
+			"night_elapsed": 45.0,
+			"phase": "night",
+			"player": [
+				1700.0,
+				850.0
+			],
+			"torch": false
+		},
+		{
+			"day_time": 171.0,
+			"description": "Same midnight encounter and camera with a crafted lit torch",
+			"name": "midnight-torch",
+			"night_elapsed": 45.0,
+			"phase": "night",
+			"player": [
+				1700.0,
+				850.0
+			],
+			"torch": true
+		},
+		{
+			"day_time": 171.0,
+			"description": "Last seconds of night gradually brighten toward dawn",
+			"name": "before-dawn",
+			"night_elapsed": 88.0,
+			"phase": "night",
+			"player": [
+				1700.0,
+				850.0
+			],
+			"torch": false
+		},
+		{
+			"day_time": 171.0,
+			"description": "Camp lantern is a permanent safe illuminated refuge, without a player torch",
+			"name": "camp-night",
+			"night_elapsed": 45.0,
+			"phase": "night",
+			"player": [
+				500.0,
+				790.0
+			],
+			"torch": false
+		}
+	]
+}

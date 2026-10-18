@@ -1,0 +1,40 @@
+{
+  "groups": {
+    "animal_atlases": {
+      "count": 5,
+      "image_rgba_mip_bytes": 125829080
+    },
+    "avatar_armed": {
+      "count": 1,
+      "image_rgba_mip_bytes": 47185828
+    },
+    "avatar_unarmed": {
+      "count": 1,
+      "image_rgba_mip_bytes": 47185828
+    },
+    "avatar_use": {
+      "count": 1,
+      "image_rgba_mip_bytes": 75497440
+    },
+    "meadow": {
+      "count": 1,
+      "image_rgba_mip_bytes": 16220160
+    },
+    "npc_atlases": {
+      "count": 2,
+      "image_rgba_mip_bytes": 47185824
+    },
+    "rowan_lantern": {
+      "count": 1,
+      "image_rgba_mip_bytes": 23592912
+    },
+    "scenery_and_icons": {
+      "count": 79,
+      "image_rgba_mip_bytes": 51242432
+    }
+  },
+  "load_art_ms": 3169,
+  "retained_model_image_bytes": 72229312,
+  "startup_texture_rgba_mip_bytes": 433939504,
+  "unique_texture_count": 91
+}

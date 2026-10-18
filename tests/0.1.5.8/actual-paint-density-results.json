@@ -1,0 +1,1502 @@
+{
+	"checks": 416,
+	"failures": 0,
+	"initial_prepared_display_cache_entries": 139,
+	"native_object_draw_notifications_measured": false,
+	"sampling": [
+		{
+			"display_size": [
+				128,
+				111
+			],
+			"display_texels": 14208,
+			"label": "cabin:(254.9879, 222.0)",
+			"retained_texel_fraction": 0.0498778330103631,
+			"source_size": [
+				572,
+				498
+			],
+			"source_texels": 284856,
+			"world_size": [
+				254.987945556641,
+				222.0
+			]
+		},
+		{
+			"display_size": [
+				78,
+				66
+			],
+			"display_texels": 5148,
+			"label": "gate:(156.0, 132.0)",
+			"retained_texel_fraction": 0.0277777777777778,
+			"source_size": [
+				468,
+				396
+			],
+			"source_texels": 185328,
+			"world_size": [
+				156.0,
+				132.0
+			]
+		},
+		{
+			"display_size": [
+				34,
+				25
+			],
+			"display_texels": 850,
+			"label": "prop_1:(67.6124, 49.0)",
+			"retained_texel_fraction": 0.0092544203466597,
+			"source_size": [
+				356,
+				258
+			],
+			"source_texels": 91848,
+			"world_size": [
+				67.6124038696289,
+				49.0
+			]
+		},
+		{
+			"display_size": [
+				27,
+				23
+			],
+			"display_texels": 621,
+			"label": "prop_3:(52.98734, 46.0)",
+			"retained_texel_fraction": 0.00539887327862011,
+			"source_size": [
+				364,
+				316
+			],
+			"source_texels": 115024,
+			"world_size": [
+				52.9873428344727,
+				46.0
+			]
+		},
+		{
+			"display_size": [
+				21,
+				17
+			],
+			"display_texels": 357,
+			"label": "prop_4:(41.19231, 34.0)",
+			"retained_texel_fraction": 0.00302706552706553,
+			"source_size": [
+				378,
+				312
+			],
+			"source_texels": 117936,
+			"world_size": [
+				41.1923065185547,
+				34.0
+			]
+		},
+		{
+			"display_size": [
+				87,
+				91
+			],
+			"display_texels": 7917,
+			"label": "tree_0:(172.4569, 182.0)",
+			"retained_texel_fraction": 0.0293000843806901,
+			"source_size": [
+				506,
+				534
+			],
+			"source_texels": 270204,
+			"world_size": [
+				172.456924438477,
+				182.0
+			]
+		},
+		{
+			"display_size": [
+				64,
+				78
+			],
+			"display_texels": 4992,
+			"label": "tree_1:(127.8897, 155.0)",
+			"retained_texel_fraction": 0.0218674983792119,
+			"source_size": [
+				434,
+				526
+			],
+			"source_texels": 228284,
+			"world_size": [
+				127.88973236084,
+				155.0
+			]
+		},
+		{
+			"display_size": [
+				50,
+				80
+			],
+			"display_texels": 4000,
+			"label": "tree_4:(99.9249, 159.0)",
+			"retained_texel_fraction": 0.0248589255972357,
+			"source_size": [
+				318,
+				506
+			],
+			"source_texels": 160908,
+			"world_size": [
+				99.9249038696289,
+				159.0
+			]
+		},
+		{
+			"display_size": [
+				62,
+				75
+			],
+			"display_texels": 4650,
+			"label": "tree_5:(123.968, 149.0)",
+			"retained_texel_fraction": 0.0223557692307692,
+			"source_size": [
+				416,
+				500
+			],
+			"source_texels": 208000,
+			"world_size": [
+				123.968002319336,
+				149.0
+			]
+		},
+		{
+			"display_size": [
+				74,
+				78
+			],
+			"display_texels": 5772,
+			"label": "tree_0:(146.8727, 155.0)",
+			"retained_texel_fraction": 0.0213616378736066,
+			"source_size": [
+				506,
+				534
+			],
+			"source_texels": 270204,
+			"world_size": [
+				146.872665405273,
+				155.0
+			]
+		},
+		{
+			"display_size": [
+				76,
+				92
+			],
+			"display_texels": 6992,
+			"label": "tree_1:(150.9924, 183.0)",
+			"retained_texel_fraction": 0.0306285153580628,
+			"source_size": [
+				434,
+				526
+			],
+			"source_texels": 228284,
+			"world_size": [
+				150.992401123047,
+				183.0
+			]
+		},
+		{
+			"display_size": [
+				65,
+				78
+			],
+			"display_texels": 5070,
+			"label": "tree_2:(129.7079, 156.0)",
+			"retained_texel_fraction": 0.0213837432938557,
+			"source_size": [
+				444,
+				534
+			],
+			"source_texels": 237096,
+			"world_size": [
+				129.707870483398,
+				156.0
+			]
+		},
+		{
+			"display_size": [
+				65,
+				78
+			],
+			"display_texels": 5070,
+			"label": "tree_5:(128.96, 155.0)",
+			"retained_texel_fraction": 0.024375,
+			"source_size": [
+				416,
+				500
+			],
+			"source_texels": 208000,
+			"world_size": [
+				128.960006713867,
+				155.0
+			]
+		},
+		{
+			"display_size": [
+				74,
+				89
+			],
+			"display_texels": 6586,
+			"label": "tree_1:(146.8669, 178.0)",
+			"retained_texel_fraction": 0.028850028911356,
+			"source_size": [
+				434,
+				526
+			],
+			"source_texels": 228284,
+			"world_size": [
+				146.866912841797,
+				178.0
+			]
+		},
+		{
+			"display_size": [
+				65,
+				77
+			],
+			"display_texels": 5005,
+			"label": "tree_5:(128.128, 154.0)",
+			"retained_texel_fraction": 0.0240625,
+			"source_size": [
+				416,
+				500
+			],
+			"source_texels": 208000,
+			"world_size": [
+				128.128005981445,
+				154.0
+			]
+		},
+		{
+			"display_size": [
+				55,
+				87
+			],
+			"display_texels": 4785,
+			"label": "tree_4:(109.3518, 174.0)",
+			"retained_texel_fraction": 0.0297374897456932,
+			"source_size": [
+				318,
+				506
+			],
+			"source_texels": 160908,
+			"world_size": [
+				109.351776123047,
+				174.0
+			]
+		},
+		{
+			"display_size": [
+				72,
+				75
+			],
+			"display_texels": 5400,
+			"label": "tree_0:(142.1348, 150.0)",
+			"retained_texel_fraction": 0.019984900297553,
+			"source_size": [
+				506,
+				534
+			],
+			"source_texels": 270204,
+			"world_size": [
+				142.134826660156,
+				150.0
+			]
+		},
+		{
+			"display_size": [
+				75,
+				90
+			],
+			"display_texels": 6750,
+			"label": "tree_2:(148.8315, 179.0)",
+			"retained_texel_fraction": 0.0284694807166717,
+			"source_size": [
+				444,
+				534
+			],
+			"source_texels": 237096,
+			"world_size": [
+				148.831466674805,
+				179.0
+			]
+		},
+		{
+			"display_size": [
+				63,
+				75
+			],
+			"display_texels": 4725,
+			"label": "tree_2:(124.7191, 150.0)",
+			"retained_texel_fraction": 0.0199286365016702,
+			"source_size": [
+				444,
+				534
+			],
+			"source_texels": 237096,
+			"world_size": [
+				124.719100952148,
+				150.0
+			]
+		},
+		{
+			"display_size": [
+				83,
+				88
+			],
+			"display_texels": 7304,
+			"label": "tree_0:(165.824, 175.0)",
+			"retained_texel_fraction": 0.0270314281061716,
+			"source_size": [
+				506,
+				534
+			],
+			"source_texels": 270204,
+			"world_size": [
+				165.823974609375,
+				175.0
+			]
+		},
+		{
+			"display_size": [
+				82,
+				78
+			],
+			"display_texels": 6396,
+			"label": "tree_3:(162.5916, 156.0)",
+			"retained_texel_fraction": 0.0338155056464916,
+			"source_size": [
+				444,
+				426
+			],
+			"source_texels": 189144,
+			"world_size": [
+				162.591552734375,
+				156.0
+			]
+		},
+		{
+			"display_size": [
+				88,
+				84
+			],
+			"display_texels": 7392,
+			"label": "tree_3:(174.0563, 167.0)",
+			"retained_texel_fraction": 0.0390813348559827,
+			"source_size": [
+				444,
+				426
+			],
+			"source_texels": 189144,
+			"world_size": [
+				174.056335449219,
+				167.0
+			]
+		},
+		{
+			"display_size": [
+				94,
+				90
+			],
+			"display_texels": 8460,
+			"label": "tree_3:(187.6056, 180.0)",
+			"retained_texel_fraction": 0.0447278264179673,
+			"source_size": [
+				444,
+				426
+			],
+			"source_texels": 189144,
+			"world_size": [
+				187.60563659668,
+				180.0
+			]
+		},
+		{
+			"display_size": [
+				54,
+				85
+			],
+			"display_texels": 4590,
+			"label": "tree_4:(106.8379, 170.0)",
+			"retained_texel_fraction": 0.028525617122828,
+			"source_size": [
+				318,
+				506
+			],
+			"source_texels": 160908,
+			"world_size": [
+				106.837944030762,
+				170.0
+			]
+		},
+		{
+			"display_size": [
+				84,
+				80
+			],
+			"display_texels": 6720,
+			"label": "tree_3:(166.7606, 160.0)",
+			"retained_texel_fraction": 0.0355284862327116,
+			"source_size": [
+				444,
+				426
+			],
+			"source_texels": 189144,
+			"world_size": [
+				166.760559082031,
+				160.0
+			]
+		},
+		{
+			"display_size": [
+				50,
+				79
+			],
+			"display_texels": 3950,
+			"label": "tree_4:(99.29644, 158.0)",
+			"retained_texel_fraction": 0.0245481890272702,
+			"source_size": [
+				318,
+				506
+			],
+			"source_texels": 160908,
+			"world_size": [
+				99.2964401245117,
+				158.0
+			]
+		},
+		{
+			"display_size": [
+				72,
+				86
+			],
+			"display_texels": 6192,
+			"label": "tree_5:(143.104, 172.0)",
+			"retained_texel_fraction": 0.0297692307692308,
+			"source_size": [
+				416,
+				500
+			],
+			"source_texels": 208000,
+			"world_size": [
+				143.10400390625,
+				172.0
+			]
+		},
+		{
+			"display_size": [
+				76,
+				80
+			],
+			"display_texels": 6080,
+			"label": "tree_0:(151.6105, 160.0)",
+			"retained_texel_fraction": 0.0225015173720596,
+			"source_size": [
+				506,
+				534
+			],
+			"source_texels": 270204,
+			"world_size": [
+				151.610488891602,
+				160.0
+			]
+		},
+		{
+			"display_size": [
+				69,
+				83
+			],
+			"display_texels": 5727,
+			"label": "tree_1:(136.1407, 165.0)",
+			"retained_texel_fraction": 0.0250871721189396,
+			"source_size": [
+				434,
+				526
+			],
+			"source_texels": 228284,
+			"world_size": [
+				136.140686035156,
+				165.0
+			]
+		},
+		{
+			"display_size": [
+				71,
+				85
+			],
+			"display_texels": 6035,
+			"label": "tree_1:(140.2662, 170.0)",
+			"retained_texel_fraction": 0.0264363687336826,
+			"source_size": [
+				434,
+				526
+			],
+			"source_texels": 228284,
+			"world_size": [
+				140.266159057617,
+				170.0
+			]
+		},
+		{
+			"display_size": [
+				91,
+				87
+			],
+			"display_texels": 7917,
+			"label": "tree_3:(180.3099, 173.0)",
+			"retained_texel_fraction": 0.0418569978429133,
+			"source_size": [
+				444,
+				426
+			],
+			"source_texels": 189144,
+			"world_size": [
+				180.309860229492,
+				173.0
+			]
+		},
+		{
+			"display_size": [
+				52,
+				83
+			],
+			"display_texels": 4316,
+			"label": "tree_4:(103.6957, 165.0)",
+			"retained_texel_fraction": 0.0268227807194173,
+			"source_size": [
+				318,
+				506
+			],
+			"source_texels": 160908,
+			"world_size": [
+				103.695655822754,
+				165.0
+			]
+		},
+		{
+			"display_size": [
+				69,
+				83
+			],
+			"display_texels": 5727,
+			"label": "tree_2:(137.191, 165.0)",
+			"retained_texel_fraction": 0.0241547727502784,
+			"source_size": [
+				444,
+				534
+			],
+			"source_texels": 237096,
+			"world_size": [
+				137.191009521484,
+				165.0
+			]
+		},
+		{
+			"display_size": [
+				68,
+				82
+			],
+			"display_texels": 5576,
+			"label": "tree_1:(134.4905, 163.0)",
+			"retained_texel_fraction": 0.0244257153370363,
+			"source_size": [
+				434,
+				526
+			],
+			"source_texels": 228284,
+			"world_size": [
+				134.490493774414,
+				163.0
+			]
+		},
+		{
+			"display_size": [
+				80,
+				84
+			],
+			"display_texels": 6720,
+			"label": "tree_0:(159.191, 168.0)",
+			"retained_texel_fraction": 0.0248700981480659,
+			"source_size": [
+				506,
+				534
+			],
+			"source_texels": 270204,
+			"world_size": [
+				159.191009521484,
+				168.0
+			]
+		},
+		{
+			"display_size": [
+				76,
+				92
+			],
+			"display_texels": 6992,
+			"label": "tree_1:(151.8175, 184.0)",
+			"retained_texel_fraction": 0.0306285153580628,
+			"source_size": [
+				434,
+				526
+			],
+			"source_texels": 228284,
+			"world_size": [
+				151.817489624023,
+				184.0
+			]
+		},
+		{
+			"display_size": [
+				58,
+				92
+			],
+			"display_texels": 5336,
+			"label": "tree_4:(115.0079, 183.0)",
+			"retained_texel_fraction": 0.0331618067467124,
+			"source_size": [
+				318,
+				506
+			],
+			"source_texels": 160908,
+			"world_size": [
+				115.007904052734,
+				183.0
+			]
+		},
+		{
+			"display_size": [
+				50,
+				78
+			],
+			"display_texels": 3900,
+			"label": "tree_4:(98.03953, 156.0)",
+			"retained_texel_fraction": 0.0242374524573048,
+			"source_size": [
+				318,
+				506
+			],
+			"source_texels": 160908,
+			"world_size": [
+				98.0395278930664,
+				156.0
+			]
+		},
+		{
+			"display_size": [
+				64,
+				77
+			],
+			"display_texels": 4928,
+			"label": "tree_5:(127.296, 153.0)",
+			"retained_texel_fraction": 0.0236923076923077,
+			"source_size": [
+				416,
+				500
+			],
+			"source_texels": 208000,
+			"world_size": [
+				127.295997619629,
+				153.0
+			]
+		},
+		{
+			"display_size": [
+				68,
+				82
+			],
+			"display_texels": 5576,
+			"label": "tree_2:(135.5281, 163.0)",
+			"retained_texel_fraction": 0.0235178999223943,
+			"source_size": [
+				444,
+				534
+			],
+			"source_texels": 237096,
+			"world_size": [
+				135.528091430664,
+				163.0
+			]
+		},
+		{
+			"display_size": [
+				68,
+				82
+			],
+			"display_texels": 5576,
+			"label": "tree_5:(135.616, 163.0)",
+			"retained_texel_fraction": 0.0268076923076923,
+			"source_size": [
+				416,
+				500
+			],
+			"source_texels": 208000,
+			"world_size": [
+				135.615997314453,
+				163.0
+			]
+		},
+		{
+			"display_size": [
+				75,
+				90
+			],
+			"display_texels": 6750,
+			"label": "tree_1:(148.5171, 180.0)",
+			"retained_texel_fraction": 0.0295684323036218,
+			"source_size": [
+				434,
+				526
+			],
+			"source_texels": 228284,
+			"world_size": [
+				148.517105102539,
+				180.0
+			]
+		},
+		{
+			"display_size": [
+				63,
+				76
+			],
+			"display_texels": 4788,
+			"label": "tree_5:(125.632, 151.0)",
+			"retained_texel_fraction": 0.0230192307692308,
+			"source_size": [
+				416,
+				500
+			],
+			"source_texels": 208000,
+			"world_size": [
+				125.63200378418,
+				151.0
+			]
+		},
+		{
+			"display_size": [
+				70,
+				84
+			],
+			"display_texels": 5880,
+			"label": "tree_2:(139.6854, 168.0)",
+			"retained_texel_fraction": 0.0248000809798563,
+			"source_size": [
+				444,
+				534
+			],
+			"source_texels": 237096,
+			"world_size": [
+				139.685394287109,
+				168.0
+			]
+		},
+		{
+			"display_size": [
+				76,
+				80
+			],
+			"display_texels": 6080,
+			"label": "tree_0:(150.6629, 159.0)",
+			"retained_texel_fraction": 0.0225015173720596,
+			"source_size": [
+				506,
+				534
+			],
+			"source_texels": 270204,
+			"world_size": [
+				150.66291809082,
+				159.0
+			]
+		},
+		{
+			"display_size": [
+				85,
+				81
+			],
+			"display_texels": 6885,
+			"label": "tree_3:(168.8451, 162.0)",
+			"retained_texel_fraction": 0.0364008374571755,
+			"source_size": [
+				444,
+				426
+			],
+			"source_texels": 189144,
+			"world_size": [
+				168.845077514648,
+				162.0
+			]
+		},
+		{
+			"display_size": [
+				83,
+				79
+			],
+			"display_texels": 6557,
+			"label": "tree_3:(164.6761, 158.0)",
+			"retained_texel_fraction": 0.0346667089624836,
+			"source_size": [
+				444,
+				426
+			],
+			"source_texels": 189144,
+			"world_size": [
+				164.676055908203,
+				158.0
+			]
+		},
+		{
+			"display_size": [
+				63,
+				75
+			],
+			"display_texels": 4725,
+			"label": "tree_5:(124.8, 150.0)",
+			"retained_texel_fraction": 0.0227163461538462,
+			"source_size": [
+				416,
+				500
+			],
+			"source_texels": 208000,
+			"world_size": [
+				124.800003051758,
+				150.0
+			]
+		},
+		{
+			"display_size": [
+				79,
+				83
+			],
+			"display_texels": 6557,
+			"label": "tree_0:(157.2959, 166.0)",
+			"retained_texel_fraction": 0.0242668502316768,
+			"source_size": [
+				506,
+				534
+			],
+			"source_texels": 270204,
+			"world_size": [
+				157.295883178711,
+				166.0
+			]
+		},
+		{
+			"display_size": [
+				90,
+				86
+			],
+			"display_texels": 7740,
+			"label": "tree_3:(179.2676, 172.0)",
+			"retained_texel_fraction": 0.0409212028930339,
+			"source_size": [
+				444,
+				426
+			],
+			"source_texels": 189144,
+			"world_size": [
+				179.267608642578,
+				172.0
+			]
+		},
+		{
+			"display_size": [
+				52,
+				82
+			],
+			"display_texels": 4264,
+			"label": "tree_4:(103.0672, 164.0)",
+			"retained_texel_fraction": 0.0264996146866532,
+			"source_size": [
+				318,
+				506
+			],
+			"source_texels": 160908,
+			"world_size": [
+				103.067192077637,
+				164.0
+			]
+		},
+		{
+			"display_size": [
+				73,
+				87
+			],
+			"display_texels": 6351,
+			"label": "tree_2:(144.6742, 174.0)",
+			"retained_texel_fraction": 0.0267866180787529,
+			"source_size": [
+				444,
+				534
+			],
+			"source_texels": 237096,
+			"world_size": [
+				144.674163818359,
+				174.0
+			]
+		},
+		{
+			"display_size": [
+				65,
+				78
+			],
+			"display_texels": 5070,
+			"label": "tree_1:(128.7148, 156.0)",
+			"retained_texel_fraction": 0.022209178041387,
+			"source_size": [
+				434,
+				526
+			],
+			"source_texels": 228284,
+			"world_size": [
+				128.714828491211,
+				156.0
+			]
+		},
+		{
+			"display_size": [
+				52,
+				82
+			],
+			"display_texels": 4264,
+			"label": "tree_4:(102.4387, 163.0)",
+			"retained_texel_fraction": 0.0264996146866532,
+			"source_size": [
+				318,
+				506
+			],
+			"source_texels": 160908,
+			"world_size": [
+				102.438735961914,
+				163.0
+			]
+		},
+		{
+			"display_size": [
+				74,
+				88
+			],
+			"display_texels": 6512,
+			"label": "tree_5:(146.432, 176.0)",
+			"retained_texel_fraction": 0.0313076923076923,
+			"source_size": [
+				416,
+				500
+			],
+			"source_texels": 208000,
+			"world_size": [
+				146.432006835938,
+				176.0
+			]
+		},
+		{
+			"display_size": [
+				96,
+				92
+			],
+			"display_texels": 8832,
+			"label": "tree_3:(190.7324, 183.0)",
+			"retained_texel_fraction": 0.0466945819058495,
+			"source_size": [
+				444,
+				426
+			],
+			"source_texels": 189144,
+			"world_size": [
+				190.732391357422,
+				183.0
+			]
+		},
+		{
+			"display_size": [
+				50,
+				31
+			],
+			"display_texels": 1550,
+			"label": "shrub_3:(98.66087, 62.0)",
+			"retained_texel_fraction": 0.0184129246851984,
+			"source_size": [
+				366,
+				230
+			],
+			"source_texels": 84180,
+			"world_size": [
+				98.6608657836914,
+				62.0
+			]
+		},
+		{
+			"display_size": [
+				47,
+				30
+			],
+			"display_texels": 1410,
+			"label": "shrub_3:(93.88696, 59.0)",
+			"retained_texel_fraction": 0.0167498218104063,
+			"source_size": [
+				366,
+				230
+			],
+			"source_texels": 84180,
+			"world_size": [
+				93.8869552612305,
+				59.0
+			]
+		},
+		{
+			"display_size": [
+				47,
+				29
+			],
+			"display_texels": 1363,
+			"label": "shrub_3:(92.29565, 58.0)",
+			"retained_texel_fraction": 0.0161914944167261,
+			"source_size": [
+				366,
+				230
+			],
+			"source_texels": 84180,
+			"world_size": [
+				92.295654296875,
+				58.0
+			]
+		},
+		{
+			"display_size": [
+				43,
+				27
+			],
+			"display_texels": 1161,
+			"label": "shrub_3:(85.93044, 54.0)",
+			"retained_texel_fraction": 0.013791874554526,
+			"source_size": [
+				366,
+				230
+			],
+			"source_texels": 84180,
+			"world_size": [
+				85.9304351806641,
+				54.0
+			]
+		},
+		{
+			"display_size": [
+				40,
+				32
+			],
+			"display_texels": 1280,
+			"label": "shrub_0:(79.60976, 64.0)",
+			"retained_texel_fraction": 0.00956480153036825,
+			"source_size": [
+				408,
+				328
+			],
+			"source_texels": 133824,
+			"world_size": [
+				79.6097564697266,
+				64.0
+			]
+		},
+		{
+			"display_size": [
+				38,
+				31
+			],
+			"display_texels": 1178,
+			"label": "shrub_0:(75.87805, 61.0)",
+			"retained_texel_fraction": 0.00880260640841703,
+			"source_size": [
+				408,
+				328
+			],
+			"source_texels": 133824,
+			"world_size": [
+				75.8780517578125,
+				61.0
+			]
+		},
+		{
+			"display_size": [
+				42,
+				27
+			],
+			"display_texels": 1134,
+			"label": "shrub_1:(82.61765, 53.0)",
+			"retained_texel_fraction": 0.00983282463928968,
+			"source_size": [
+				424,
+				272
+			],
+			"source_texels": 115328,
+			"world_size": [
+				82.6176452636719,
+				53.0
+			]
+		},
+		{
+			"display_size": [
+				50,
+				32
+			],
+			"display_texels": 1600,
+			"label": "shrub_1:(98.20588, 63.0)",
+			"retained_texel_fraction": 0.013873473917869,
+			"source_size": [
+				424,
+				272
+			],
+			"source_texels": 115328,
+			"world_size": [
+				98.2058792114258,
+				63.0
+			]
+		},
+		{
+			"display_size": [
+				43,
+				27
+			],
+			"display_texels": 1161,
+			"label": "shrub_3:(84.33913, 53.0)",
+			"retained_texel_fraction": 0.013791874554526,
+			"source_size": [
+				366,
+				230
+			],
+			"source_texels": 84180,
+			"world_size": [
+				84.3391342163086,
+				53.0
+			]
+		},
+		{
+			"display_size": [
+				37,
+				29
+			],
+			"display_texels": 1073,
+			"label": "shrub_0:(72.14634, 58.0)",
+			"retained_texel_fraction": 0.00801799378287901,
+			"source_size": [
+				408,
+				328
+			],
+			"source_texels": 133824,
+			"world_size": [
+				72.1463394165039,
+				58.0
+			]
+		},
+		{
+			"display_size": [
+				49,
+				31
+			],
+			"display_texels": 1519,
+			"label": "shrub_3:(97.06956, 61.0)",
+			"retained_texel_fraction": 0.0180446661914944,
+			"source_size": [
+				366,
+				230
+			],
+			"source_texels": 84180,
+			"world_size": [
+				97.0695648193359,
+				61.0
+			]
+		},
+		{
+			"display_size": [
+				46,
+				29
+			],
+			"display_texels": 1334,
+			"label": "shrub_3:(90.70435, 57.0)",
+			"retained_texel_fraction": 0.0158469945355191,
+			"source_size": [
+				366,
+				230
+			],
+			"source_texels": 84180,
+			"world_size": [
+				90.704345703125,
+				57.0
+			]
+		},
+		{
+			"display_size": [
+				55,
+				28
+			],
+			"display_texels": 1540,
+			"label": "shrub_2:(109.4545, 56.0)",
+			"retained_texel_fraction": 0.0162790697674419,
+			"source_size": [
+				430,
+				220
+			],
+			"source_texels": 94600,
+			"world_size": [
+				109.454544067383,
+				56.0
+			]
+		},
+		{
+			"display_size": [
+				51,
+				41
+			],
+			"display_texels": 2091,
+			"label": "bench:(100.6561, 82.0)",
+			"retained_texel_fraction": 0.0119218664477285,
+			"source_size": [
+				464,
+				378
+			],
+			"source_texels": 175392,
+			"world_size": [
+				100.65608215332,
+				82.0
+			]
+		},
+		{
+			"display_size": [
+				47,
+				31
+			],
+			"display_texels": 1457,
+			"label": "ore_0:(92.58667, 62.0)",
+			"retained_texel_fraction": 0.0108407738095238,
+			"source_size": [
+				448,
+				300
+			],
+			"source_texels": 134400,
+			"world_size": [
+				92.586669921875,
+				62.0
+			]
+		},
+		{
+			"display_size": [
+				37,
+				31
+			],
+			"display_texels": 1147,
+			"label": "ore_1:(73.77654, 62.0)",
+			"retained_texel_fraction": 0.00752091693550502,
+			"source_size": [
+				426,
+				358
+			],
+			"source_texels": 152508,
+			"world_size": [
+				73.7765350341797,
+				62.0
+			]
+		},
+		{
+			"display_size": [
+				44,
+				31
+			],
+			"display_texels": 1364,
+			"label": "ore_2:(87.38255, 62.0)",
+			"retained_texel_fraction": 0.0108980504953659,
+			"source_size": [
+				420,
+				298
+			],
+			"source_texels": 125160,
+			"world_size": [
+				87.3825531005859,
+				62.0
+			]
+		},
+		{
+			"display_size": [
+				21,
+				19
+			],
+			"display_texels": 399,
+			"label": "resource_branch_1:(41.11475, 38.0)",
+			"retained_texel_fraction": 0.00619411326378539,
+			"source_size": [
+				264,
+				244
+			],
+			"source_texels": 64416,
+			"world_size": [
+				41.1147537231445,
+				38.0
+			]
+		},
+		{
+			"display_size": [
+				20,
+				19
+			],
+			"display_texels": 380,
+			"label": "resource_branch_2:(38.71161, 38.0)",
+			"retained_texel_fraction": 0.00523243005067195,
+			"source_size": [
+				272,
+				267
+			],
+			"source_texels": 72624,
+			"world_size": [
+				38.7116088867188,
+				38.0
+			]
+		},
+		{
+			"display_size": [
+				21,
+				19
+			],
+			"display_texels": 399,
+			"label": "resource_branch_0:(40.66148, 38.0)",
+			"retained_texel_fraction": 0.00564556066501592,
+			"source_size": [
+				275,
+				257
+			],
+			"source_texels": 70675,
+			"world_size": [
+				40.6614799499512,
+				38.0
+			]
+		},
+		{
+			"display_size": [
+				19,
+				15
+			],
+			"display_texels": 285,
+			"label": "resource_rock_2:(38.0, 30.0)",
+			"retained_texel_fraction": 0.00510204081632653,
+			"source_size": [
+				266,
+				210
+			],
+			"source_texels": 55860,
+			"world_size": [
+				38.0,
+				30.0
+			]
+		},
+		{
+			"display_size": [
+				16,
+				15
+			],
+			"display_texels": 240,
+			"label": "resource_rock_1:(31.38889, 30.0)",
+			"retained_texel_fraction": 0.00491642084562439,
+			"source_size": [
+				226,
+				216
+			],
+			"source_texels": 48816,
+			"world_size": [
+				31.3888893127441,
+				30.0
+			]
+		},
+		{
+			"display_size": [
+				19,
+				15
+			],
+			"display_texels": 285,
+			"label": "resource_rock_0:(37.85047, 30.0)",
+			"retained_texel_fraction": 0.004932502596054,
+			"source_size": [
+				270,
+				214
+			],
+			"source_texels": 57780,
+			"world_size": [
+				37.8504676818848,
+				30.0
+			]
+		},
+		{
+			"display_size": [
+				165,
+				115
+			],
+			"display_texels": 18975,
+			"label": "pond:0",
+			"retained_texel_fraction": 0.082255379653552,
+			"source_size": [
+				571,
+				404
+			],
+			"source_texels": 230684,
+			"world_size": [
+				330.0,
+				230.0
+			]
+		},
+		{
+			"display_size": [
+				110,
+				75
+			],
+			"display_texels": 8250,
+			"label": "pond:1",
+			"retained_texel_fraction": 0.0322232898221274,
+			"source_size": [
+				601,
+				426
+			],
+			"source_texels": 256026,
+			"world_size": [
+				220.0,
+				150.0
+			]
+		},
+		{
+			"display_size": [
+				105,
+				68
+			],
+			"display_texels": 7140,
+			"label": "pond:2",
+			"retained_texel_fraction": 0.0387874837027379,
+			"source_size": [
+				472,
+				390
+			],
+			"source_texels": 184080,
+			"world_size": [
+				210.0,
+				135.0
+			]
+		},
+		{
+			"display_size": [
+				1100,
+				750
+			],
+			"display_texels": 825000,
+			"label": "meadow",
+			"retained_texel_fraction": 0.524592915897264,
+			"source_size": [
+				1518,
+				1036
+			],
+			"source_texels": 1572648,
+			"world_size": [
+				2200.0,
+				1500.0
+			]
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+  "pixel_identity_cases": [
+    {
+      "transform": [
+        8.37,
+        7.19,
+        0,
+        1,
+        1
+      ],
+      "differing_bytes": 0,
+      "max_delta": 0
+    },
+    {
+      "transform": [
+        56.37,
+        7.19,
+        0,
+        -1,
+        1
+      ],
+      "differing_bytes": 0,
+      "max_delta": 0
+    },
+    {
+      "transform": [
+        40.37,
+        7.19,
+        0.31,
+        1,
+        1
+      ],
+      "differing_bytes": 0,
+      "max_delta": 0
+    }
+  ],
+  "paint_order_preserved": true,
+  "only_consecutive_runs_coalesced": true,
+  "translucent_overlap_multiplicity_preserved": true,
+  "renderer": "software Canvas replay with bilinear full-texture sampling and pixel-center region coverage; not native GPU frames"
+}

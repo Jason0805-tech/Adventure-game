@@ -1,0 +1,80 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+CRAFT: Large stone sword power=4
+CRAFT: Short stone knife power=2
+CRAFT: Stone axe power=3
+CRAFT: Wooden knife power=3
+CRAFT: Wooden sword power=4
+CRAFT: Amazing stone sword power=5
+NIGHT_START 1
+NIGHT_ACTION 0 power=12 fullness=50
+NIGHT_SURVIVED 1
+NIGHT_START 1
+NIGHT_ACTION 1 power=11 fullness=65
+NIGHT_SURVIVED 1
+NIGHT_START 1
+NIGHT_ACTION 2 power=11 fullness=100
+NIGHT_SURVIVED 1
+NIGHT_START 1
+NIGHT_ACTION 1 power=1 fullness=65
+NIGHT_SURVIVED 1
+NIGHT_START 2
+NIGHT_ACTION 1 power=2 fullness=30
+NIGHT_START 1
+NIGHT_ACTION 1 power=1 fullness=65
+NIGHT_SURVIVED 1
+NIGHT_START 2
+NIGHT_ACTION 1 power=2 fullness=30
+NIGHT_SURVIVED 2
+CRAFT: Large stone sword power=4
+NIGHT_START 1
+NIGHT_ACTION 1 power=5 fullness=65
+NIGHT_SURVIVED 1
+CRAFT: Large stone sword power=9
+NIGHT_START 2
+NIGHT_ACTION 1 power=10 fullness=30
+NIGHT_SURVIVED 2
+CRAFT: Large stone sword power=14
+NIGHT_START 3
+NIGHT_ACTION 1 power=15 fullness=0
+NIGHT_SURVIVED 3
+NIGHT_START 1
+NIGHT_ACTION 0 power=2 fullness=50
+NIGHT_SURVIVED 1
+NIGHT_START 2
+NIGHT_ACTION 2 power=3 fullness=50
+NIGHT_SURVIVED 2
+NIGHT_START 3
+NIGHT_ACTION 0 power=5 fullness=0
+NIGHT_SURVIVED 3
+PICKUP_BLOCKED: bag full; items=10
+PICKUP_BLOCKED: bag full; items=10
+PICKUP_BLOCKED: bag full; items=10
+PICKUP_BLOCKED: bag full; items=10
+PICKUP_BLOCKED: bag full; items=10
+PICKUP_BLOCKED: bag full; items=10
+PICKUP_BLOCKED: bag full; items=10
+PICKUP_BLOCKED: bag full; items=10
+PICKUP_BLOCKED: bag full; items=10
+PICKUP_BLOCKED: bag full; items=10
+PICKUP_BLOCKED: bag full; items=10
+PICKUP_BLOCKED: bag full; items=10
+PICKUP_BLOCKED: bag full; items=10
+PICKUP_BLOCKED: bag full; items=10
+PICKUP_BLOCKED: bag full; items=10
+PICKUP_BLOCKED: bag full; items=10
+PICKUP_BLOCKED: bag full; items=10
+PICKUP_BLOCKED: bag full; items=10
+PICKUP_BLOCKED: bag full; items=10
+PICKUP_BLOCKED: bag full; items=10
+PICKUP: branch at index 67
+CRAFT: Large stone sword power=4
+PICKUP: branch at index 0
+NIGHT_START 1
+NIGHT_ACTION 1 power=5 fullness=65
+NIGHT_SURVIVED 1
+PICKUP: berry at index 58
+NIGHT_START 1
+FEEDBACK_RESULT: 1017 checks, 0 failures

@@ -1,0 +1,46 @@
+{
+	"display_server": "headless",
+	"engine_version": {
+		"build": "official",
+		"hash": "ed1daf0bf001b61586d9930840f2f1394092c079",
+		"hex": 263938,
+		"major": 4,
+		"minor": 7,
+		"patch": 2,
+		"status": "stable",
+		"string": "4.7.2-stable (official)",
+		"timestamp": 0
+	},
+	"msaa_2d_values": {
+		"2x": 1,
+		"4x": 2,
+		"8x": 3,
+		"disabled": 0
+	},
+	"note": "Headless settings inspection; does not measure a physical display backing scale or validate native GPU output.",
+	"settings": {
+		"display/window/dpi/allow_hidpi": true,
+		"display/window/size/viewport_height": 720,
+		"display/window/size/viewport_width": 1100,
+		"display/window/size/window_height_override": 720,
+		"display/window/size/window_width_override": 1100,
+		"display/window/stretch/aspect": "keep",
+		"display/window/stretch/mode": "canvas_items",
+		"display/window/stretch/scale": 1.0,
+		"display/window/stretch/scale_mode": "fractional",
+		"rendering/anti_aliasing/quality/msaa_2d": 0,
+		"rendering/anti_aliasing/quality/msaa_3d": 0,
+		"rendering/anti_aliasing/quality/screen_space_aa": 0,
+		"rendering/anti_aliasing/quality/smaa_edge_detection_threshold": 0.05,
+		"rendering/anti_aliasing/quality/use_debanding": false,
+		"rendering/anti_aliasing/quality/use_taa": false,
+		"rendering/anti_aliasing/screen_space_roughness_limiter/amount": 0.25,
+		"rendering/anti_aliasing/screen_space_roughness_limiter/enabled": true,
+		"rendering/anti_aliasing/screen_space_roughness_limiter/limit": 0.18,
+		"rendering/textures/canvas_textures/default_texture_filter": 1,
+		"rendering/textures/default_filters/use_nearest_mipmap_filter": {
+			"exists": true,
+			"value": false
+		}
+	}
+}

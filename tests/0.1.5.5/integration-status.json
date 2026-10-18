@@ -1,0 +1,21 @@
+{
+  "version": "0.1.5.5",
+  "features": {
+    "tree_chopping": true,
+    "workbenches": true,
+    "craftable_pickaxe": true,
+    "craftable_fishing_rod": true,
+    "inventory_slots": 24,
+    "hotbar_slots": 6,
+    "tool_durability_and_repair": true,
+    "npc_pathfinding": true,
+    "npc_walk_cycle_frames": 8
+  },
+  "checks": {
+    "godot_project_ready": true,
+    "feature_smokes_passed": 27,
+    "app_launcher_from_tmp": true,
+    "bundle_files_sha256_matched": 48,
+    "manual_gui_playtest": false
+  }
+}

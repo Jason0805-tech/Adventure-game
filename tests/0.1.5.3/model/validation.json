@@ -1,0 +1,10 @@
+{
+  "checks": 3465,
+  "failures": 0,
+  "headings": 16,
+  "walk_frames": 8,
+  "visible_grip_checks": 108,
+  "same_anatomical_right_hand": true,
+  "fixed_leg_lengths": true,
+  "native_gui_manually_played": false
+}

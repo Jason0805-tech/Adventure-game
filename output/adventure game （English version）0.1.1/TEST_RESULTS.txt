@@ -1,0 +1,22 @@
+PASS: Spawn is walkable
+PASS: Lake collision
+PASS: Cabin collision
+PASS: World boundary
+PASS: Diagonal speed normalized
+PASS: NPC quest dialogue
+PASS: Cannot craft without materials
+PASS: Capacity rejects excess materials
+PASS: 1000 full-bag E interactions leave state intact
+PASS: Drop from full bag preserves material in world
+PASS: Dropped material can be picked back up
+PASS: Invalid item indices safely ignored
+PASS: Craft consumes exact recipe
+PASS: Repeat craft cannot consume more materials
+PASS: Exit locked without crystals
+PASS: Crystals picked once each
+PASS: Exit completes quest
+PASS: All resources, NPCs and exit reachable from spawn
+TEST RESULT: 0 failures
+
+Desktop verification: English map displayed, player movement and NPC dialogue confirmed.
+Reported full-bag crash was not reproduced; root cause remains unconfirmed.

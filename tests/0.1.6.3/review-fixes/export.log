@@ -1,0 +1,155 @@
+ERROR: Could not create directory: '/Users/jasonsmacair/Library/Application Support/Godot/app_userdata/Forest Wanderer 0.1.6.3'.
+   at: make_dir_recursive (core/io/dir_access.cpp:179)
+ERROR: Error attempting to create data dir: /Users/jasonsmacair/Library/Application Support/Godot/app_userdata/Forest Wanderer 0.1.6.3.
+   at: ensure_user_data_dir (core/os/os.cpp:442)
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Could not open 'user://' directory: 'user://'.
+   at: _get_and_create_snapshot_storage_dir (modules/objectdb_profiler/editor/objectdb_profiler_panel.cpp:157)
+[   0% ] [90m[1mfirst_scan_filesystem[22m | Started 项目初始化 (5 steps)[39m[0m
+[   0% ] [90m[1mfirst_scan_filesystem[22m | 正在扫描文件结构……[39m[0m
+[  16% ] [90m[1mfirst_scan_filesystem[22m | 正在加载全局类名……[39m[0m
+[  33% ] [90m[1mfirst_scan_filesystem[22m | 正在校验 GDExtension……[39m[0m
+[  50% ] [90m[1mfirst_scan_filesystem[22m | 正在创建自动加载脚本……[39m[0m
+[  66% ] [90m[1mfirst_scan_filesystem[22m | 正在初始化插件……[39m[0m
+[  83% ] [90m[1mfirst_scan_filesystem[22m | 正在启动文件扫描……[39m[0m
+[92m[ DONE ][39m [1mfirst_scan_filesystem[22m
+[0m
+[   0% ] [90m[1m_update_scan_actions[22m | Started 正在扫描动作…… (45 steps)[39m[0m
+[   0% ] [90m[1m_update_scan_actions[22m | cabin-props.png[39m[0m
+[   2% ] [90m[1m_update_scan_actions[22m | environment.png[39m[0m
+[   4% ] [90m[1m_update_scan_actions[22m | equipment.png[39m[0m
+[   6% ] [90m[1m_update_scan_actions[22m | ground-blends.png[39m[0m
+[   8% ] [90m[1m_update_scan_actions[22m | harvest-nodes.png[39m[0m
+[  10% ] [90m[1m_update_scan_actions[22m | held-use-weapon-0.png[39m[0m
+[  13% ] [90m[1m_update_scan_actions[22m | held-use-weapon-1.png[39m[0m
+[  15% ] [90m[1m_update_scan_actions[22m | held-use-weapon-2.png[39m[0m
+[  17% ] [90m[1m_update_scan_actions[22m | held-use-weapon-3.png[39m[0m
+[  19% ] [90m[1m_update_scan_actions[22m | held-use-weapon-4.png[39m[0m
+[  21% ] [90m[1m_update_scan_actions[22m | held-use-weapon-5.png[39m[0m
+[  23% ] [90m[1m_update_scan_actions[22m | held-use-weapon-6.png[39m[0m
+[  26% ] [90m[1m_update_scan_actions[22m | held-use-weapon-7.png[39m[0m
+[  28% ] [90m[1m_update_scan_actions[22m | held-use-weapon-8.png[39m[0m
+[  30% ] [90m[1m_update_scan_actions[22m | held-weapon-0.png[39m[0m
+[  32% ] [90m[1m_update_scan_actions[22m | held-weapon-1.png[39m[0m
+[  34% ] [90m[1m_update_scan_actions[22m | held-weapon-2.png[39m[0m
+[  36% ] [90m[1m_update_scan_actions[22m | held-weapon-3.png[39m[0m
+[  39% ] [90m[1m_update_scan_actions[22m | held-weapon-4.png[39m[0m
+[  41% ] [90m[1m_update_scan_actions[22m | held-weapon-5.png[39m[0m
+[  43% ] [90m[1m_update_scan_actions[22m | held-weapon-6.png[39m[0m
+[  45% ] [90m[1m_update_scan_actions[22m | held-weapon-7.png[39m[0m
+[  47% ] [90m[1m_update_scan_actions[22m | held-weapon-8.png[39m[0m
+[  50% ] [90m[1m_update_scan_actions[22m | materials.png[39m[0m
+[  52% ] [90m[1m_update_scan_actions[22m | meadow.png[39m[0m
+[  54% ] [90m[1m_update_scan_actions[22m | npc-ash-directions.png[39m[0m
+[  56% ] [90m[1m_update_scan_actions[22m | npc-rowan-directions.png[39m[0m
+[  58% ] [90m[1m_update_scan_actions[22m | npc-rowan-lantern.png[39m[0m
+[  60% ] [90m[1m_update_scan_actions[22m | npc-torso-source.png[39m[0m
+[  63% ] [90m[1m_update_scan_actions[22m | npcs.png[39m[0m
+[  65% ] [90m[1m_update_scan_actions[22m | paint-materials.png[39m[0m
+[  67% ] [90m[1m_update_scan_actions[22m | painted-torso-source.png[39m[0m
+[  69% ] [90m[1m_update_scan_actions[22m | ponds.png[39m[0m
+[  71% ] [90m[1m_update_scan_actions[22m | status-icons.png[39m[0m
+[  73% ] [90m[1m_update_scan_actions[22m | traveler-armed-directions.png[39m[0m
+[  76% ] [90m[1m_update_scan_actions[22m | traveler-unarmed-directions.png[39m[0m
+[  78% ] [90m[1m_update_scan_actions[22m | traveler-use-directions.png[39m[0m
+[  80% ] [90m[1m_update_scan_actions[22m | tree-variants.png[39m[0m
+[  82% ] [90m[1m_update_scan_actions[22m | utility-icons.png[39m[0m
+[  84% ] [90m[1m_update_scan_actions[22m | utility-props.png[39m[0m
+[  86% ] [90m[1m_update_scan_actions[22m | wildlife-bear.png[39m[0m
+[  89% ] [90m[1m_update_scan_actions[22m | wildlife-deer.png[39m[0m
+[  91% ] [90m[1m_update_scan_actions[22m | wildlife-fox.png[39m[0m
+[  93% ] [90m[1m_update_scan_actions[22m | wildlife-rabbit.png[39m[0m
+[  95% ] [90m[1m_update_scan_actions[22m | wildlife-wolf.png[39m[0m
+[92m[ DONE ][39m [1m_update_scan_actions[22m
+[0m
+[   0% ] [90m[1msavepack[22m | Started 打包中 (102 steps)[39m[0m
+[   1% ] [90m[1msavepack[22m | 正在保存文件：res://assets/animal_atlas.json[39m[0m
+[   2% ] [90m[1msavepack[22m | 正在保存文件：res://assets/cabin-props.png[39m[0m
+[   4% ] [90m[1msavepack[22m | 正在保存文件：res://assets/environment.png[39m[0m
+[   5% ] [90m[1msavepack[22m | 正在保存文件：res://assets/equipment.png[39m[0m
+[   7% ] [90m[1msavepack[22m | 正在保存文件：res://assets/ground-blends.png[39m[0m
+[   8% ] [90m[1msavepack[22m | 正在保存文件：res://assets/harvest-nodes.png[39m[0m
+[  10% ] [90m[1msavepack[22m | 正在保存文件：res://assets/held-use-weapon-0.png[39m[0m
+[  11% ] [90m[1msavepack[22m | 正在保存文件：res://assets/held-use-weapon-1.png[39m[0m
+[  13% ] [90m[1msavepack[22m | 正在保存文件：res://assets/held-use-weapon-2.png[39m[0m
+[  14% ] [90m[1msavepack[22m | 正在保存文件：res://assets/held-use-weapon-3.png[39m[0m
+[  16% ] [90m[1msavepack[22m | 正在保存文件：res://assets/held-use-weapon-4.png[39m[0m
+[  17% ] [90m[1msavepack[22m | 正在保存文件：res://assets/held-use-weapon-5.png[39m[0m
+[  19% ] [90m[1msavepack[22m | 正在保存文件：res://assets/held-use-weapon-6.png[39m[0m
+[  21% ] [90m[1msavepack[22m | 正在保存文件：res://assets/held-use-weapon-7.png[39m[0m
+[  22% ] [90m[1msavepack[22m | 正在保存文件：res://assets/held-use-weapon-8.png[39m[0m
+[  24% ] [90m[1msavepack[22m | 正在保存文件：res://assets/held-weapon-0.png[39m[0m
+[  25% ] [90m[1msavepack[22m | 正在保存文件：res://assets/held-weapon-1.png[39m[0m
+[  27% ] [90m[1msavepack[22m | 正在保存文件：res://assets/held-weapon-2.png[39m[0m
+[  28% ] [90m[1msavepack[22m | 正在保存文件：res://assets/held-weapon-3.png[39m[0m
+[  30% ] [90m[1msavepack[22m | 正在保存文件：res://assets/held-weapon-4.png[39m[0m
+[  31% ] [90m[1msavepack[22m | 正在保存文件：res://assets/held-weapon-5.png[39m[0m
+[  33% ] [90m[1msavepack[22m | 正在保存文件：res://assets/held-weapon-6.png[39m[0m
+[  33% ] [90m[1msavepack[22m | 正在保存文件：res://assets/held-weapon-7.png[39m[0m
+[  35% ] [90m[1msavepack[22m | 正在保存文件：res://assets/held-weapon-8.png[39m[0m
+[  36% ] [90m[1msavepack[22m | 正在保存文件：res://assets/materials.png[39m[0m
+[  38% ] [90m[1msavepack[22m | 正在保存文件：res://assets/meadow.png[39m[0m
+[  40% ] [90m[1msavepack[22m | 正在保存文件：res://assets/npc-ash-directions.png[39m[0m
+[  41% ] [90m[1msavepack[22m | 正在保存文件：res://assets/npc-rowan-directions.png[39m[0m
+[  43% ] [90m[1msavepack[22m | 正在保存文件：res://assets/npc-rowan-lantern.png[39m[0m
+[  44% ] [90m[1msavepack[22m | 正在保存文件：res://assets/npc-torso-source.png[39m[0m
+[  46% ] [90m[1msavepack[22m | 正在保存文件：res://assets/npcs.png[39m[0m
+[  47% ] [90m[1msavepack[22m | 正在保存文件：res://assets/paint-materials.png[39m[0m
+[  49% ] [90m[1msavepack[22m | 正在保存文件：res://assets/painted-torso-source.png[39m[0m
+[  50% ] [90m[1msavepack[22m | 正在保存文件：res://assets/ponds.png[39m[0m
+[  52% ] [90m[1msavepack[22m | 正在保存文件：res://assets/status-icons.png[39m[0m
+[  53% ] [90m[1msavepack[22m | 正在保存文件：res://assets/tool-use-meta.json[39m[0m
+[  55% ] [90m[1msavepack[22m | 正在保存文件：res://assets/traveler-armed-directions.png[39m[0m
+[  56% ] [90m[1msavepack[22m | 正在保存文件：res://assets/traveler-directions.json[39m[0m
+[  58% ] [90m[1msavepack[22m | 正在保存文件：res://assets/traveler-unarmed-directions.png[39m[0m
+[  60% ] [90m[1msavepack[22m | 正在保存文件：res://assets/traveler-use-directions.png[39m[0m
+[  61% ] [90m[1msavepack[22m | 正在保存文件：res://assets/tree-variants.png[39m[0m
+[  63% ] [90m[1msavepack[22m | 正在保存文件：res://assets/utility-icons.png[39m[0m
+[  64% ] [90m[1msavepack[22m | 正在保存文件：res://assets/utility-props.png[39m[0m
+[  66% ] [90m[1msavepack[22m | 正在保存文件：res://assets/wildlife-bear.png[39m[0m
+[  66% ] [90m[1msavepack[22m | 正在保存文件：res://assets/wildlife-deer.png[39m[0m
+[  68% ] [90m[1msavepack[22m | 正在保存文件：res://assets/wildlife-fox.png[39m[0m
+[  69% ] [90m[1msavepack[22m | 正在保存文件：res://assets/wildlife-rabbit.png[39m[0m
+[  71% ] [90m[1msavepack[22m | 正在保存文件：res://assets/wildlife-wolf.png[39m[0m
+[  72% ] [90m[1msavepack[22m | 正在保存文件：res://assets/animal-skin-topology.bin[39m[0m
+[  74% ] [90m[1msavepack[22m | 正在保存文件：res://animal_gait.gdc[39m[0m
+[  75% ] [90m[1msavepack[22m | 正在保存文件：res://collision_profiles.json[39m[0m
+[  77% ] [90m[1msavepack[22m | 正在保存文件：res://depth_layers.gdc[39m[0m
+[  79% ] [90m[1msavepack[22m | 正在保存文件：res://ground_painter.gdc[39m[0m
+[  80% ] [90m[1msavepack[22m | 正在保存文件：res://inventory.gdc[39m[0m
+[  82% ] [90m[1msavepack[22m | 正在保存文件：res://item_data.gdc[39m[0m
+[  83% ] [90m[1msavepack[22m | 正在保存文件：res://main.gdc[39m[0m
+[  85% ] [90m[1msavepack[22m | 正在保存文件：res://.godot/exported/133200997/export-3070c538c03ee49b7677ff960a3f5195-main.scn[39m[0m
+[  86% ] [90m[1msavepack[22m | 正在保存文件：res://mobile_controls.gdc[39m[0m
+[  88% ] [90m[1msavepack[22m | 正在保存文件：res://mobile_ui.gdc[39m[0m
+[  89% ] [90m[1msavepack[22m | 正在保存文件：res://npc_roaming.gdc[39m[0m
+[  91% ] [90m[1msavepack[22m | 正在保存文件：res://paint_density.gdc[39m[0m
+[  92% ] [90m[1msavepack[22m | 正在保存文件：res://wildlife.gdc[39m[0m
+[  94% ] [90m[1msavepack[22m | 正在保存文件：res://wildlife_data.gdc[39m[0m
+[  95% ] [90m[1msavepack[22m | 正在保存文件：res://world_geometry.gdc[39m[0m
+[  97% ] [90m[1msavepack[22m | 正在保存文件：res://world_lighting.gdc[39m[0m
+[  97% ] [90m[1msavepack[22m | 正在保存文件：res://animal_gait.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 正在保存文件：res://depth_layers.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 正在保存文件：res://ground_painter.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 正在保存文件：res://inventory.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 正在保存文件：res://item_data.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 正在保存文件：res://main.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 正在保存文件：res://main.tscn.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 正在保存文件：res://mobile_controls.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 正在保存文件：res://mobile_ui.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 正在保存文件：res://npc_roaming.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 正在保存文件：res://paint_density.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 正在保存文件：res://wildlife.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 正在保存文件：res://wildlife_data.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 正在保存文件：res://world_geometry.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 正在保存文件：res://world_lighting.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 正在保存文件：res://.godot/global_script_class_cache.cfg[39m[0m
+[  97% ] [90m[1msavepack[22m | 正在保存文件：res://.godot/uid_cache.bin[39m[0m
+[  97% ] [90m[1msavepack[22m | 正在保存文件：res://project.binary[39m[0m
+[92m[ DONE ][39m [1msavepack[22m
+[0m
+ERROR: Cannot save file '/Users/jasonsmacair/Library/Application Support/Godot/editor_settings-4.7.tres'.
+   at: save (scene/resources/resource_format_text.cpp:1768)
+ERROR: Error saving editor settings to /Users/jasonsmacair/Library/Application Support/Godot/editor_settings-4.7.tres
+   at: save (editor/settings/editor_settings.cpp:1525)

@@ -1,0 +1,16 @@
+{
+  "name": "Forest Wanderer",
+  "short_name": "Forest",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#203d36",
+  "theme_color": "#294e45",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

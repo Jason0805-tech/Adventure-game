@@ -1,0 +1,29 @@
+0.1.5.7 meadow refinement
+
+The original meadow bitmap, its roads and its ecological colour zones are unchanged.
+ground_painter.gd adds permanent fine oil/gouache marks sampled from that bitmap.
+Each mark has an irregular tapered silhouette, 2.1–5.8 world-pixel length, gentle
+warm/cool and value variation, and low opacity. Earth-path marks are smaller and
+softer than grass marks. These remain painted strokes rather than a pixel grid.
+
+Runtime integration:
+  var ground = preload("res://ground_painter.gd").new()
+  add_child(ground)
+  ground.setup(meadow, WORLD)
+  ground.position = -camera
+Remove the root's direct meadow draw. Keep its ground patches, world objects and
+lighting. Update ground.position when camera changes. The module itself sets
+show_behind_parent=true and z_index=-10. Include the script in app packaging.
+
+Runtime cost:
+  Single static ArrayMesh surface, built only at setup.
+  55,423 strokes / 332,538 vertices for the 2,200 x 1,500 world.
+  Measured first build: 43.084 ms with Godot 4.7.2 on this Mac.
+  No per-frame randomisation, mesh rebuild, or per-stroke drawing calls.
+
+Validation:
+  ground_painter_check.gd passed: complete world bounds, expected brush density,
+  colour opacity, one mesh surface, deterministic vertices/colours after rebuild,
+  unchanged geometry after camera movement, correct draw ordering, no _process,
+  and safe fallback when the base texture is unavailable.
+  Sandbox user-data/log/certificate warnings did not affect these tests.

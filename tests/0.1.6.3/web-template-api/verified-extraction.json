@@ -1,0 +1,8 @@
+{
+  "official_api": "https://api.github.com/repos/godotengine/godot-builds/releases/assets/519674520",
+  "member": "templates/web_nothreads_release.zip",
+  "crc32": "795d38e9",
+  "sha256": "d3ee2f08cef0cf3cf6678a6355a92a8db48ccdd35cbd2e8bfd5f0e8a0b4032a0",
+  "bytes": 10245903,
+  "full_tpz_sha256_verified": false
+}

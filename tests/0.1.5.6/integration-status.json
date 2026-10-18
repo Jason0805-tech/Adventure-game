@@ -1,0 +1,16 @@
+{
+  "version": "0.1.5.6",
+  "changes": {
+    "player_speed": 108.0,
+    "previous_player_speed": 72.0,
+    "day_duration_seconds": 180.0,
+    "previous_day_duration_seconds": 90.0
+  },
+  "checks": {
+    "pacing_checks_passed": 10,
+    "feature_checks_passed": 27,
+    "app_launcher_from_tmp": true,
+    "bundle_files_sha256_matched": 48,
+    "manual_gui_playtest": false
+  }
+}

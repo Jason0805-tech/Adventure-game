@@ -1,0 +1,31 @@
+bear {'headings': 8, 'visible_flips': 0, 'source_holes': 0, 'source_overlaps': 0, 'max_additional_ground_excess': 1.0697691853333406, 'max_stretch': 1.3381627088512784}
+deer {'headings': 8, 'visible_flips': 0, 'source_holes': 0, 'source_overlaps': 0, 'max_additional_ground_excess': 2.159151562018799, 'max_stretch': 1.699847994214298}
+fox {'headings': 8, 'visible_flips': 0, 'source_holes': 0, 'source_overlaps': 0, 'max_additional_ground_excess': 1.8031034692165813, 'max_stretch': 2.1138261172754103}
+rabbit {'headings': 8, 'visible_flips': 0, 'source_holes': 0, 'source_overlaps': 0, 'max_additional_ground_excess': 0.7450867713184364, 'max_stretch': 1.9915846536736608}
+wolf {'headings': 8, 'visible_flips': 0, 'source_holes': 0, 'source_overlaps': 0, 'max_additional_ground_excess': 1.8908485682632215, 'max_stretch': 1.5495873780539966}
+COMPILED_SKIN_AUDIT headings= 40 failures= 25
+FAIL bear:1/front_left additional ground excess 1.07
+FAIL bear:2/front_left additional ground excess 0.528
+FAIL bear:6/front_right additional ground excess 0.487
+FAIL bear:7/front_right additional ground excess 0.546
+FAIL deer:2/hind_right additional ground excess 2.021
+FAIL deer:2/front_right additional ground excess 2.159
+FAIL deer:3/hind_right additional ground excess 0.655
+FAIL deer:3/front_left additional ground excess 0.388
+FAIL deer:5/hind_right additional ground excess 1.094
+FAIL deer:6/front_left additional ground excess 1.836
+FAIL deer:6/hind_right additional ground excess 0.613
+FAIL fox:2/front_left additional ground excess 0.995
+FAIL fox:6/front_left additional ground excess 1.803
+FAIL fox:6/hind_left additional ground excess 0.797
+FAIL fox:7/front_right additional ground excess 0.953
+FAIL rabbit:2/hind_near additional ground excess 0.745
+FAIL rabbit:3/hind_near additional ground excess 0.642
+FAIL rabbit:5/hind_near additional ground excess 0.624
+FAIL rabbit:6/hind_near additional ground excess 0.698
+FAIL wolf:0/front_left additional ground excess 0.666
+FAIL wolf:0/hind_left additional ground excess 0.715
+FAIL wolf:2/hind_right additional ground excess 0.785
+FAIL wolf:2/front_left additional ground excess 1.891
+FAIL wolf:6/front_left additional ground excess 0.414
+FAIL wolf:6/hind_right additional ground excess 0.739

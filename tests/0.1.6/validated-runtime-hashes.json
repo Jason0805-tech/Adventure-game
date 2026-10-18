@@ -1,0 +1,14 @@
+{
+  "collision_profiles.json": "378504470b20f7704b64e3cbe4046fb2adf6464a9a183ada6e6fac6222e70c93",
+  "depth_layers.gd": "7430ef7d3fffaaf386d49599c1ea97d8e34771a6bc9fa98144060d867c00fc84",
+  "ground_painter.gd": "6b4a6129bd8f7a49829fdc3b56c2d8a47ae5590b7aa5324e279cae7eb2b6a621",
+  "inventory.gd": "677fab8048d07d38f0c5c426803b457432ead761cffa669dd3cef0129be90feb",
+  "item_data.gd": "c4e2670c584d4f62df99da7833812ee75bf808aa1b75bf3d08b152528d8d4e7d",
+  "main.gd": "b34d8af5c468ea40cc26f68561c3acfed4afebeccbf07c630ba1a8eba525ea5f",
+  "main.tscn": "daf260bc4bb27fdcec5706611c763751ef7df01be8c53f84e8aa4678aedf4799",
+  "paint_density.gd": "e81304dd64ce1731c1b3baa94461d79f17df04aa334c5178d52312be338b6bd2",
+  "project.godot": "1c12396248dcfa97c20d744005730e2846861248ebba69e519cc6c96e1a7de83",
+  "wildlife.gd": "c223740bb0fe93874eb92c2f3069189f3b1788365ba738edf9f871700a45a4a0",
+  "wildlife_data.gd": "a6184682f6523f09eb634d15cfdcdf9987151ef2cc0675af378b06f2b3535227",
+  "world_geometry.gd": "90bd1d12624f2ef9260fbc5cbf5b0755158da6116d2685cfa8878b9720d58fca"
+}

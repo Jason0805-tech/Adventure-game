@@ -1,0 +1,30 @@
+Independent final regression batch for Forest Wanderer 0.1.6.1
+
+Original .6 regression scripts copied unchanged except any test-folder URI:
+ smoke_features.gd: 27 PASS, ALL_FEATURE_SMOKES_PASSED, exit0.
+ test_night_cycle.gd: 39 PASS, ALL_NIGHT_CYCLE_PASSED, exit0.
+ wildlife_combat_integration.gd: 30 checks, failures0, exit0.
+ test_morning_contacts.gd: 6 checks, failures0, exit0.
+Current .6.1 feature checks:
+ test_lighting.gd: 2,794 checks, failures0, exit0.
+ torch_integration.gd: 260 checks, TORCH_INTEGRATION_PASS, exit0.
+
+Initial night/torch runs exposed native Canvas triangulation errors in tiny
+animal pigment strokes at large world coordinates. The gait agent fixed the
+renderer by triangulating local native input first and applying world-space
+translation in the mesh transform. The affected original tests were rerun with
+all assertions unchanged, exit0, and no Invalid polygon or GDScript errors.
+
+Independent native_gait_draw_stress.gd exercises actual release main._draw via
+queue_redraw/SceneTree frames, not a software surrogate: all5species,8headings,
+32phases,3worldpositions (80,80)/(1100,700)/(2050,1400), idle/wander/chase.
+288drawframes /11,520poses /564,480native-inputpolygon checks pass,0invalid,
+zero native Invalid polygon or GDScript errors. Runtime9,407ms. Limbs now pass
+local points into native mesh triangulation before translation, and this harness
+checks those exact inputs; body polygons retain their actual world points.
+Animals overlap intentionally in this isolated render fixture. This test is not
+proof of natural spawning or a manual GPU playthrough.
+
+Logs are named after the test scripts, plus native-gait-stress.log and
+native-gait-stress-result.json. Platform user://log write and macOS certificate
+warnings are environmental warnings, distinct from GDScript/rendering failures.

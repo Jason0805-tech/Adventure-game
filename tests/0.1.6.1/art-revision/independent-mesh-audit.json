@@ -1,0 +1,516 @@
+{
+  "deer": {
+    "idle_exact": true,
+    "idle_max_position_delta": 0.0,
+    "visible_source_triangles": 2331,
+    "total_triangles": 19384,
+    "degenerate_source_triangles": 1,
+    "total_flipped_visible": 4,
+    "max_linear_stretch": 1.8521184111658024,
+    "frames": [
+      {
+        "phase": 0.0,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.31281818277779044,
+        "visible_max_area_ratio": 1.4227552713710718,
+        "visible_max_linear_stretch": 1.597981211891804,
+        "visible_p95_linear_stretch": 1.103471929331317,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.041666666666666664,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.34788121096788077,
+        "visible_max_area_ratio": 1.4262991725120284,
+        "visible_max_linear_stretch": 1.614648722064439,
+        "visible_p95_linear_stretch": 1.13754392898534,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.08333333333333333,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.4547184827099477,
+        "visible_max_area_ratio": 1.437085375277129,
+        "visible_max_linear_stretch": 1.6131390816555835,
+        "visible_p95_linear_stretch": 1.120461781857181,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.125,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.37530697055620915,
+        "visible_max_area_ratio": 1.4712975757429196,
+        "visible_max_linear_stretch": 1.609535501626762,
+        "visible_p95_linear_stretch": 1.1151329096258689,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.16666666666666666,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.06013839616204286,
+        "visible_max_area_ratio": 1.480956735549519,
+        "visible_max_linear_stretch": 1.6064558738268162,
+        "visible_p95_linear_stretch": 1.1188092362917685,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.20833333333333334,
+        "flipped_visible": 1,
+        "visible_min_area_ratio": -0.02654171735032398,
+        "visible_max_area_ratio": 1.552180449761012,
+        "visible_max_linear_stretch": 1.6314374593388186,
+        "visible_p95_linear_stretch": 1.140695705325192,
+        "example_source_triangles": [
+          [
+            [
+              196.0,
+              292.0
+            ],
+            [
+              196.0,
+              296.0
+            ],
+            [
+              192.0,
+              296.0
+            ]
+          ]
+        ]
+      },
+      {
+        "phase": 0.25,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.03993708538488821,
+        "visible_max_area_ratio": 1.5872694921228683,
+        "visible_max_linear_stretch": 1.703918908298584,
+        "visible_p95_linear_stretch": 1.1674717967409716,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.2916666666666667,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.22255633413452433,
+        "visible_max_area_ratio": 1.4895721023308723,
+        "visible_max_linear_stretch": 1.5778359639402215,
+        "visible_p95_linear_stretch": 1.1791398005227904,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.3333333333333333,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.21778907795660993,
+        "visible_max_area_ratio": 1.4821677951116872,
+        "visible_max_linear_stretch": 1.5084546776982313,
+        "visible_p95_linear_stretch": 1.1932893011778885,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.375,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.2726025986775606,
+        "visible_max_area_ratio": 1.4687170498945357,
+        "visible_max_linear_stretch": 1.4944049413645228,
+        "visible_p95_linear_stretch": 1.1638787438655358,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.4166666666666667,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.32966623216659835,
+        "visible_max_area_ratio": 1.2331098757367385,
+        "visible_max_linear_stretch": 1.4446221919446027,
+        "visible_p95_linear_stretch": 1.1237153280226209,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.4583333333333333,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.3802896793931149,
+        "visible_max_area_ratio": 1.3075099966081534,
+        "visible_max_linear_stretch": 1.4831037957262923,
+        "visible_p95_linear_stretch": 1.1494184130502427,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.5,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.45061951410524925,
+        "visible_max_area_ratio": 1.5144101066399278,
+        "visible_max_linear_stretch": 1.570336828301809,
+        "visible_p95_linear_stretch": 1.182688649479211,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.5416666666666666,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.38368775476180905,
+        "visible_max_area_ratio": 1.377010801108795,
+        "visible_max_linear_stretch": 1.5940628968492925,
+        "visible_p95_linear_stretch": 1.1838294667304452,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.5833333333333334,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.32607662902055184,
+        "visible_max_area_ratio": 1.3478871170662132,
+        "visible_max_linear_stretch": 1.6154505146424731,
+        "visible_p95_linear_stretch": 1.1875102618021096,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.625,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.2628094657847091,
+        "visible_max_area_ratio": 1.374790786230188,
+        "visible_max_linear_stretch": 1.677749196139176,
+        "visible_p95_linear_stretch": 1.178423081125874,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.6666666666666666,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.09547643701063975,
+        "visible_max_area_ratio": 1.5015249626589733,
+        "visible_max_linear_stretch": 1.7364184407191274,
+        "visible_p95_linear_stretch": 1.166021690829989,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.7083333333333334,
+        "flipped_visible": 1,
+        "visible_min_area_ratio": -0.029601316840989236,
+        "visible_max_area_ratio": 1.6489819178822311,
+        "visible_max_linear_stretch": 1.747723934355817,
+        "visible_p95_linear_stretch": 1.162060448106693,
+        "example_source_triangles": [
+          [
+            [
+              232.0,
+              304.0
+            ],
+            [
+              228.0,
+              308.0
+            ],
+            [
+              228.0,
+              304.0
+            ]
+          ]
+        ]
+      },
+      {
+        "phase": 0.75,
+        "flipped_visible": 1,
+        "visible_min_area_ratio": -0.08598685445029586,
+        "visible_max_area_ratio": 1.8047816760372117,
+        "visible_max_linear_stretch": 1.8521184111658024,
+        "visible_p95_linear_stretch": 1.1657396384226577,
+        "example_source_triangles": [
+          [
+            [
+              232.0,
+              304.0
+            ],
+            [
+              228.0,
+              308.0
+            ],
+            [
+              228.0,
+              304.0
+            ]
+          ]
+        ]
+      },
+      {
+        "phase": 0.7916666666666666,
+        "flipped_visible": 1,
+        "visible_min_area_ratio": -0.047683721699388296,
+        "visible_max_area_ratio": 1.6867840892956205,
+        "visible_max_linear_stretch": 1.7311608875958984,
+        "visible_p95_linear_stretch": 1.1527882473639748,
+        "example_source_triangles": [
+          [
+            [
+              232.0,
+              304.0
+            ],
+            [
+              228.0,
+              308.0
+            ],
+            [
+              228.0,
+              304.0
+            ]
+          ]
+        ]
+      },
+      {
+        "phase": 0.8333333333333334,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.12437395838786636,
+        "visible_max_area_ratio": 1.5244834105539862,
+        "visible_max_linear_stretch": 1.5627250680623743,
+        "visible_p95_linear_stretch": 1.1386081938007264,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.875,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.3819706084232156,
+        "visible_max_area_ratio": 1.3975428260743583,
+        "visible_max_linear_stretch": 1.4568608297200623,
+        "visible_p95_linear_stretch": 1.1352359535607006,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.9166666666666666,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.4143473307001547,
+        "visible_max_area_ratio": 1.4056078058493746,
+        "visible_max_linear_stretch": 1.5073546766677934,
+        "visible_p95_linear_stretch": 1.1218020884123294,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.9583333333333334,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.3628101436771346,
+        "visible_max_area_ratio": 1.4140669067858669,
+        "visible_max_linear_stretch": 1.554354326469349,
+        "visible_p95_linear_stretch": 1.1103044605256234,
+        "example_source_triangles": []
+      }
+    ]
+  },
+  "wolf": {
+    "idle_exact": true,
+    "idle_max_position_delta": 0.0,
+    "visible_source_triangles": 3451,
+    "total_triangles": 19557,
+    "degenerate_source_triangles": 7,
+    "total_flipped_visible": 0,
+    "max_linear_stretch": 2.18721663998016,
+    "frames": [
+      {
+        "phase": 0.0,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.3288415249261586,
+        "visible_max_area_ratio": 1.4514832040587162,
+        "visible_max_linear_stretch": 1.5201610315367702,
+        "visible_p95_linear_stretch": 1.0877314237552378,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.041666666666666664,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.40437451258172924,
+        "visible_max_area_ratio": 1.306126592273348,
+        "visible_max_linear_stretch": 1.4788065127261723,
+        "visible_p95_linear_stretch": 1.0827489539825121,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.08333333333333333,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.3227278717824967,
+        "visible_max_area_ratio": 1.4995156908991705,
+        "visible_max_linear_stretch": 1.5085004157510016,
+        "visible_p95_linear_stretch": 1.0952218789607082,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.125,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.30790744286755733,
+        "visible_max_area_ratio": 1.574203113311897,
+        "visible_max_linear_stretch": 1.5805466901747878,
+        "visible_p95_linear_stretch": 1.1023559015708182,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.16666666666666666,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.29355143978476145,
+        "visible_max_area_ratio": 1.6476872572092705,
+        "visible_max_linear_stretch": 1.6514358349127711,
+        "visible_p95_linear_stretch": 1.1190869918959998,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.20833333333333334,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.22212063008912564,
+        "visible_max_area_ratio": 1.7196505430183482,
+        "visible_max_linear_stretch": 1.7772605137233513,
+        "visible_p95_linear_stretch": 1.13399296563556,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.25,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.19635425886361152,
+        "visible_max_area_ratio": 1.7899387897634682,
+        "visible_max_linear_stretch": 1.9356567827401936,
+        "visible_p95_linear_stretch": 1.1433003504894732,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.2916666666666667,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.2291072173103747,
+        "visible_max_area_ratio": 1.8059262552120938,
+        "visible_max_linear_stretch": 2.038959190522551,
+        "visible_p95_linear_stretch": 1.1339278423855883,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.3333333333333333,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.31709466100441613,
+        "visible_max_area_ratio": 1.7409410848050995,
+        "visible_max_linear_stretch": 2.074097520729742,
+        "visible_p95_linear_stretch": 1.137093395427412,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.375,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.3949153157300848,
+        "visible_max_area_ratio": 1.653102580166778,
+        "visible_max_linear_stretch": 2.0288115524288157,
+        "visible_p95_linear_stretch": 1.1330039222754618,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.4166666666666667,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.3574689205362114,
+        "visible_max_area_ratio": 2.1019575355184,
+        "visible_max_linear_stretch": 1.8821661947893362,
+        "visible_p95_linear_stretch": 1.1184469291799457,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.4583333333333333,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.32452897420660015,
+        "visible_max_area_ratio": 2.517068877972261,
+        "visible_max_linear_stretch": 1.9299396663626687,
+        "visible_p95_linear_stretch": 1.1167670754591206,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.5,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.31622920821241846,
+        "visible_max_area_ratio": 2.775555139977166,
+        "visible_max_linear_stretch": 2.087916889347655,
+        "visible_p95_linear_stretch": 1.1311161865070758,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.5416666666666666,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.21959877840713787,
+        "visible_max_area_ratio": 2.901996884606047,
+        "visible_max_linear_stretch": 2.172157572345883,
+        "visible_p95_linear_stretch": 1.1325892217125704,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.5833333333333334,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.14109452362740155,
+        "visible_max_area_ratio": 2.910636210261513,
+        "visible_max_linear_stretch": 2.18721663998016,
+        "visible_p95_linear_stretch": 1.1237050397495958,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.625,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.10543803445774044,
+        "visible_max_area_ratio": 2.8046476669223463,
+        "visible_max_linear_stretch": 2.135468527754493,
+        "visible_p95_linear_stretch": 1.1125841266794163,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.6666666666666666,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.11630096938454397,
+        "visible_max_area_ratio": 2.580801729435383,
+        "visible_max_linear_stretch": 2.0181388758756613,
+        "visible_p95_linear_stretch": 1.1013631355944233,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.7083333333333334,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.17798685940231884,
+        "visible_max_area_ratio": 2.2344233804920792,
+        "visible_max_linear_stretch": 1.8338180472041854,
+        "visible_p95_linear_stretch": 1.1046541163199923,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.75,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.29574582842167824,
+        "visible_max_area_ratio": 1.7567755537825855,
+        "visible_max_linear_stretch": 1.7604836928900751,
+        "visible_p95_linear_stretch": 1.1155350970916253,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.7916666666666666,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.47398180095492914,
+        "visible_max_area_ratio": 1.711529565002046,
+        "visible_max_linear_stretch": 1.680401997248568,
+        "visible_p95_linear_stretch": 1.0910009551512254,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.8333333333333334,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.4964042134125651,
+        "visible_max_area_ratio": 1.6397694365405828,
+        "visible_max_linear_stretch": 1.4983374369184443,
+        "visible_p95_linear_stretch": 1.060086255781268,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.875,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.46518457401543056,
+        "visible_max_area_ratio": 1.5394220889950792,
+        "visible_max_linear_stretch": 1.396744727204741,
+        "visible_p95_linear_stretch": 1.0876721866921386,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.9166666666666666,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.3533008406229253,
+        "visible_max_area_ratio": 1.4060982735078034,
+        "visible_max_linear_stretch": 1.3784241955876033,
+        "visible_p95_linear_stretch": 1.089480397974251,
+        "example_source_triangles": []
+      },
+      {
+        "phase": 0.9583333333333334,
+        "flipped_visible": 0,
+        "visible_min_area_ratio": 0.3047971974882451,
+        "visible_max_area_ratio": 1.3891484228659676,
+        "visible_max_linear_stretch": 1.4494840527048536,
+        "visible_p95_linear_stretch": 1.0938737163843775,
+        "example_source_triangles": []
+      }
+    ]
+  }
+}

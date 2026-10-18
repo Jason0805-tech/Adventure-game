@@ -1,0 +1,41 @@
+FOREST WANDERER 0.1.5.8 — FINAL VALIDATION
+Date: 2026-10-15
+
+Release: ../../output/adventure game 0.1.5.8/
+
+CORRECTED USER FEEDBACK
+- Non-enterable cabin: complete chimney, roof, wall, closed doorway and stair silhouette.
+- Shore rocks: 17 separately traced solid stones, 7/5/5 around the three ponds; water remains distinct for fishing.
+- Full visible solid wood and stone: tree trunks and exposed forks, logs, containers, stumps, workbenches and active/depleted ores.
+- Overhead foliage and open gate passage remain passable. Contact depth stays separate from blocking coverage.
+- All static scenery and ground use 2 world units per texel. The 2200 x 1500 world meadow uses an 1100 x 750 display raster. Plants, materials, ponds, props, ground patches and dropped items use the same preparation. Character and UI remain unchanged.
+- 48 profiles; 81 polygons; 1863 authored vertices. Rounded player boot capsule and 1.5-unit movement substeps remain active.
+
+INDEPENDENT VISUAL-SOLID REGRESSION
+5269 assertions, zero failures.
+98 source-art landmarks chosen independently of collision definitions.
+274 visible-solid instance samples and 124 canopy samples.
+1096 four-direction, long-frame movement cases with only the target object's own collision present; adjacent water/rocks cannot mask absent collision.
+A real missed tree_5 upper-left bare fork was found and fixed while preserving its original visual landmark.
+One near-branch leaf landmark checks a free center rather than a complete actor capsule; a new distant leaf point checks the full capsule. All other distant original canopy points retain the capsule-clear assertions. See INDEPENDENT_REGRESSION_NOTES.txt.
+
+DISPLAY AND GAMEPLAY
+Actual-game display sampling: 416 assertions, zero failures; 83 texture-size combinations, 139 prepared cache entries before test probes.
+Paint-density module: 273 assertions across 45 scenery slices plus ground; source images unchanged; alpha-safe resampling and stable cache.
+Feature smoke: 27 checks, all passed after final tree collision changes. Includes axe/chopping/yields, crafting/placing a workbench, pickaxe/mining, rod/fishing, food, toolbar, repairing tools, inventory invariants and Ash walking.
+Pacing smoke: 10 checks, all passed. Movement 108 units/sec; equal diagonal speed; daylight 180 sec; pause; automatic night; morning reset.
+Navigation refresh: 30 nearby cells correct, 5696 distant cells unchanged; gathering invalidates NPC paths and next-day resource indices remain aligned.
+
+PACKAGED APPLICATION
+Forest Wanderer.app was freshly built with the bundled Godot runtime.
+Strict ad-hoc signature verified in clean staging; installed signature verified.
+All 52 bundled runtime/art resources match the release source SHA-256 hashes.
+Launcher started from /tmp, reached GAME_READY 0.1.5.8 and exited 0.
+The headless sandbox reports inability to create Godot user log/data directories and macOS certificate discovery warnings. These checks had no GDScript/runtime failure.
+
+VISUAL CHECKS AND LIMITS
+Six final software Canvas command replays: day camp, full cabin contour, log contact, pond shore stones, gate and world paint density. Previews reflect actual drawing commands and prepared textures, not native GPU screenshots.
+Before/after material sampling preview: density-renders/paint-density-before-after.png.
+No native manual playthrough of 0.1.5.8 is claimed.
+Shore stones are still painted inside each pond image, so they do not have independent draw-depth sorting; their movement blocking is independent and tested.
+No indoor scene or persistent save system yet.

@@ -1,0 +1,90 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "Forest Wanderer shared anatomical rig"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "Right-handed traveler reference"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "COLOR_0": 1
+          },
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "traveler-reference.bin",
+      "byteLength": 240912
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 103248
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 103248,
+      "byteLength": 137664
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 8604,
+      "type": "VEC3",
+      "min": [
+        -0.4779999852180481,
+        0.004999999888241291,
+        -0.44611382484436035
+      ],
+      "max": [
+        0.47999998927116394,
+        2.5290000438690186,
+        0.3941499888896942
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 8604,
+      "type": "VEC4"
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "res://assets/animal-skin-topology.bin": {
+    "sha256": "6559021db0830595ca751d316875e84e92b9b968e2f7023eee8debbca920ca98",
+    "bytes": 3670480
+  },
+  "res://assets/animal_atlas.json": {
+    "sha256": "c1710d7b98fd88a5d7987679d8dbebc9287df5a54bd9b8046bca0362cde37a38",
+    "bytes": 882473
+  },
+  "res://assets/cabin-props.png": {
+    "sha256": "3077f0ac969f22d679af1584c76e2a1933f2b376c4f54c0869d7b2e250b94ec6",
+    "bytes": 2000135,
+    "width": 1536,
+    "height": 1024,
+    "rgba8_bytes": 6291456,
+    "rgba8_mip_bytes_estimate": 8388608
+  },
+  "res://assets/environment.png": {
+    "sha256": "60a342530309f4367e2c5ed58f78b93ec9bba61e20aa4ab19146df6fa5ad85bb",
+    "bytes": 2301910,
+    "width": 1536,
+    "height": 1024,
+    "rgba8_bytes": 6291456,
+    "rgba8_mip_bytes_estimate": 8388608
+  },
+  "res://assets/equipment.png": {
+    "sha256": "4cce0e33959c4db274f440ed53a1333bd6c79d565b38f854be0edef168cae467",
+    "bytes": 1840600,
+    "width": 1536,
+    "height": 1024,
+    "rgba8_bytes": 6291456,
+    "rgba8_mip_bytes_estimate": 8388608
+  },
+  "res://assets/ground-blends.png": {
+    "sha256": "c41491d96e08bed6162d63068265546a30e2fbccb2faa82bed18b82589f12787",
+    "bytes": 2250756,
+    "width": 1536,
+    "height": 1024,
+    "rgba8_bytes": 6291456,
+    "rgba8_mip_bytes_estimate": 8388608
+  },
+  "res://assets/harvest-nodes.png": {
+    "sha256": "0f507e38444816727bc0664fccf64a500a29dba5126f62b1bda7009bf3822da6",
+    "bytes": 1535691,
+    "width": 887,
+    "height": 1774,
+    "rgba8_bytes": 6294152,
+    "rgba8_mip_bytes_estimate": 8392203
+  },
+  "res://assets/held-use-weapon-0.png": {
+    "sha256": "bd9563430c44db0397c68e313ff993a069219fd095f4abbfaf9c126f67b8a21a",
+    "bytes": 202072,
+    "width": 6144,
+    "height": 2304,
+    "rgba8_bytes": 56623104,
+    "rgba8_mip_bytes_estimate": 75497472
+  },
+  "res://assets/held-use-weapon-1.png": {
+    "sha256": "a03283d2eb1a992696add138931ca3aae2f639cd994c83bf2a28983a89335a3c",
+    "bytes": 136254,
+    "width": 6144,
+    "height": 2304,
+    "rgba8_bytes": 56623104,
+    "rgba8_mip_bytes_estimate": 75497472
+  },
+  "res://assets/held-use-weapon-2.png": {
+    "sha256": "a993769055e07d67b9dfb2547f0716c3b47b13ea10cc9a857b1c47a63dcb1463",
+    "bytes": 184118,
+    "width": 6144,
+    "height": 2304,
+    "rgba8_bytes": 56623104,
+    "rgba8_mip_bytes_estimate": 75497472
+  },
+  "res://assets/held-use-weapon-3.png": {
+    "sha256": "94ebc2f55664d0247a20cc74760849c19c5a40384a37f7533f20dfe9ebb91d28",
+    "bytes": 130840,
+    "width": 6144,
+    "height": 2304,
+    "rgba8_bytes": 56623104,
+    "rgba8_mip_bytes_estimate": 75497472
+  },
+  "res://assets/held-use-weapon-4.png": {
+    "sha256": "eeb0adcdf26c6e6ccbaded2820f850a37d1ce6ed516c179021deecbd1f3b39c0",
+    "bytes": 172064,
+    "width": 6144,
+    "height": 2304,
+    "rgba8_bytes": 56623104,
+    "rgba8_mip_bytes_estimate": 75497472
+  },
+  "res://assets/held-use-weapon-5.png": {
+    "sha256": "550f4fc2bd068e25763e70a68536b51868c095ff19509b7970053556e128db09",
+    "bytes": 212729,
+    "width": 6144,
+    "height": 2304,
+    "rgba8_bytes": 56623104,
+    "rgba8_mip_bytes_estimate": 75497472
+  },
+  "res://assets/held-use-weapon-6.png": {
+    "sha256": "2d20f497ef749afbd7b9b7c43c23e730295aea2469e7618b48799fccf7b920e1",
+    "bytes": 247245,
+    "width": 6144,
+    "height": 2304,
+    "rgba8_bytes": 56623104,
+    "rgba8_mip_bytes_estimate": 75497472
+  },
+  "res://assets/held-use-weapon-7.png": {
+    "sha256": "26ba104180063773b9fb644eb6601a6870cb5a332fbb597da09eaecb9d59e886",
+    "bytes": 240854,
+    "width": 6144,
+    "height": 2304,
+    "rgba8_bytes": 56623104,
+    "rgba8_mip_bytes_estimate": 75497472
+  },
+  "res://assets/held-use-weapon-8.png": {
+    "sha256": "5240a0a29d60afae359f14e446aaeabf8b1ba9348bcb70ef8f4c3a20bbf7b942",
+    "bytes": 162643,
+    "width": 6144,
+    "height": 2304,
+    "rgba8_bytes": 56623104,
+    "rgba8_mip_bytes_estimate": 75497472
+  },
+  "res://assets/held-weapon-0.png": {
+    "sha256": "144eeea4bc841f2713b04243f62e832ff428ab441d9cbe01ea994500dcddd2e7",
+    "bytes": 247767,
+    "width": 3072,
+    "height": 2880,
+    "rgba8_bytes": 35389440,
+    "rgba8_mip_bytes_estimate": 47185920
+  },
+  "res://assets/held-weapon-1.png": {
+    "sha256": "196608e5be2bf7ce2321f0dcf83989fd4a52dd266fd3f82e473d5171b6b2c3d9",
+    "bytes": 155454,
+    "width": 3072,
+    "height": 2880,
+    "rgba8_bytes": 35389440,
+    "rgba8_mip_bytes_estimate": 47185920
+  },
+  "res://assets/held-weapon-2.png": {
+    "sha256": "84c6f3957a7ffea34d1fd0a769638034b7c244b5274a640d0f56359daab8256b",
+    "bytes": 232077,
+    "width": 3072,
+    "height": 2880,
+    "rgba8_bytes": 35389440,
+    "rgba8_mip_bytes_estimate": 47185920
+  },
+  "res://assets/held-weapon-3.png": {
+    "sha256": "154be1d4828b8a808f7527b82c277be2d9f2c3947e9b10479a9466ea8191f6a8",
+    "bytes": 146661,
+    "width": 3072,
+    "height": 2880,
+    "rgba8_bytes": 35389440,
+    "rgba8_mip_bytes_estimate": 47185920
+  },
+  "res://assets/held-weapon-4.png": {
+    "sha256": "0cc1f4479e30b0e03145074ce8bc463ddb17f41f5a3865299aea3c75d0a7a8df",
+    "bytes": 204483,
+    "width": 3072,
+    "height": 2880,
+    "rgba8_bytes": 35389440,
+    "rgba8_mip_bytes_estimate": 47185920
+  },
+  "res://assets/held-weapon-5.png": {
+    "sha256": "850117d2beba17fa65fc58a05e23da0743e46a6c84f8e1c017da0088925d76ec",
+    "bytes": 263638,
+    "width": 3072,
+    "height": 2880,
+    "rgba8_bytes": 35389440,
+    "rgba8_mip_bytes_estimate": 47185920
+  },
+  "res://assets/held-weapon-6.png": {
+    "sha256": "8e0c3deac8ec52b52ede4e4f1775b780f422973a0d772ef9fa62b7ba63a4d10f",
+    "bytes": 333436,
+    "width": 3072,
+    "height": 2880,
+    "rgba8_bytes": 35389440,
+    "rgba8_mip_bytes_estimate": 47185920
+  },
+  "res://assets/held-weapon-7.png": {
+    "sha256": "f57571df71d6c44fb0cb411ccbbed9ffbe04dff71e3ac423a287b314f006de56",
+    "bytes": 324358,
+    "width": 3072,
+    "height": 2880,
+    "rgba8_bytes": 35389440,
+    "rgba8_mip_bytes_estimate": 47185920
+  },
+  "res://assets/held-weapon-8.png": {
+    "sha256": "cc0512dc93d4ee257acb7b0053115076381a1a45f70723eba50841aebfdfef1d",
+    "bytes": 198897,
+    "width": 3072,
+    "height": 2880,
+    "rgba8_bytes": 35389440,
+    "rgba8_mip_bytes_estimate": 47185920
+  },
+  "res://assets/materials.png": {
+    "sha256": "ce019823fe28c7cb5fb1f4869c56edbebeb1a7050bf58c3c407014b89e8b7298",
+    "bytes": 882819,
+    "width": 1254,
+    "height": 1254,
+    "rgba8_bytes": 6290064,
+    "rgba8_mip_bytes_estimate": 8386752
+  },
+  "res://assets/meadow.png": {
+    "sha256": "314984f67c8474779ae107cc3932bc3f3006307e0cc3e3cf7d614c9bc381d321",
+    "bytes": 11039379,
+    "width": 2816,
+    "height": 1920,
+    "rgba8_bytes": 21626880,
+    "rgba8_mip_bytes_estimate": 28835840
+  },
+  "res://assets/npc-ash-directions.png": {
+    "sha256": "aae3ca38489f1c3016eab9506dca3d6267a32be383bafe5cf516a011ef8f74c9",
+    "bytes": 2857767,
+    "width": 1536,
+    "height": 2880,
+    "rgba8_bytes": 17694720,
+    "rgba8_mip_bytes_estimate": 23592960
+  },
+  "res://assets/npc-rowan-directions.png": {
+    "sha256": "004f9abb363e1da76b944dfa856417aa3cf01540502371102f5a26f2c2024e89",
+    "bytes": 2929596,
+    "width": 1536,
+    "height": 2880,
+    "rgba8_bytes": 17694720,
+    "rgba8_mip_bytes_estimate": 23592960
+  },
+  "res://assets/npc-rowan-lantern.png": {
+    "sha256": "d2ee913e5d34835a71abae94fd180e50601fa46ee9df9ce20de2fc3b7dc31407",
+    "bytes": 89824,
+    "width": 1536,
+    "height": 2880,
+    "rgba8_bytes": 17694720,
+    "rgba8_mip_bytes_estimate": 23592960
+  },
+  "res://assets/npc-torso-source.png": {
+    "sha256": "b0ab881faf822708aa86495089f9aeaa3ac76f3b6b5bf79100635cea91d9e5ba",
+    "bytes": 1571916,
+    "width": 1254,
+    "height": 1254,
+    "rgba8_bytes": 6290064,
+    "rgba8_mip_bytes_estimate": 8386752
+  },
+  "res://assets/npcs.png": {
+    "sha256": "cf60eee56af31ab12102b8017ba5d5cc5418901bc330aeac1116a4fe57ba66f6",
+    "bytes": 977962,
+    "width": 1254,
+    "height": 1254,
+    "rgba8_bytes": 6290064,
+    "rgba8_mip_bytes_estimate": 8386752
+  },
+  "res://assets/paint-materials.png": {
+    "sha256": "7b35678e58e33e0bfa4844f30554026342a59d96148b073cee6c2e9acd33414b",
+    "bytes": 2941177,
+    "width": 1536,
+    "height": 1024,
+    "rgba8_bytes": 6291456,
+    "rgba8_mip_bytes_estimate": 8388608
+  },
+  "res://assets/painted-torso-source.png": {
+    "sha256": "9c7c456234a1c70ae5cb048de47affa4c8e1074fd9a6275d4e8969b594616bd6",
+    "bytes": 1082441,
+    "width": 1448,
+    "height": 1086,
+    "rgba8_bytes": 6290112,
+    "rgba8_mip_bytes_estimate": 8386816
+  },
+  "res://assets/ponds.png": {
+    "sha256": "50834aaf572e5acef19d917d550113b1b1167737ec499acb8302db5571ea99ff",
+    "bytes": 1073401,
+    "width": 1774,
+    "height": 887,
+    "rgba8_bytes": 6294152,
+    "rgba8_mip_bytes_estimate": 8392203
+  },
+  "res://assets/status-icons.png": {
+    "sha256": "5854448e8b07b48fe8736bab3a4dd05437c8119a0e6281683e3449e3da3c0553",
+    "bytes": 709402,
+    "width": 1983,
+    "height": 793,
+    "rgba8_bytes": 6290076,
+    "rgba8_mip_bytes_estimate": 8386768
+  },
+  "res://assets/tool-use-meta.json": {
+    "sha256": "d6f271b89967458e8570c0cd3280462f81b3a1a285fc1202fb2210738767652b",
+    "bytes": 26516
+  },
+  "res://assets/traveler-armed-directions.png": {
+    "sha256": "315000c8f871df170ed6dba6fbea06fd6ed0cf6618db521106555206b51ed84e",
+    "bytes": 5658114,
+    "width": 3072,
+    "height": 2880,
+    "rgba8_bytes": 35389440,
+    "rgba8_mip_bytes_estimate": 47185920
+  },
+  "res://assets/traveler-directions.json": {
+    "sha256": "65dc6e13c2546e12bbfab957ad6875de719ace927574601a7462fc19ce5eef6b",
+    "bytes": 164909
+  },
+  "res://assets/traveler-unarmed-directions.png": {
+    "sha256": "ae5a1d31c3e8601aa303a4f98c2687c518a6014665083e81ac26d97e1f084bc0",
+    "bytes": 5615775,
+    "width": 3072,
+    "height": 2880,
+    "rgba8_bytes": 35389440,
+    "rgba8_mip_bytes_estimate": 47185920
+  },
+  "res://assets/traveler-use-directions.png": {
+    "sha256": "05009044b3db5d738299bf395842dfa1dda99a39a58e6330d40de65200171706",
+    "bytes": 3975496,
+    "width": 6144,
+    "height": 2304,
+    "rgba8_bytes": 56623104,
+    "rgba8_mip_bytes_estimate": 75497472
+  },
+  "res://assets/tree-variants.png": {
+    "sha256": "cf27e3b6bd70273ad19199b22e3b6915fe1317b8b374c36d7b4c2fa5daec7de4",
+    "bytes": 2009299,
+    "width": 1536,
+    "height": 1024,
+    "rgba8_bytes": 6291456,
+    "rgba8_mip_bytes_estimate": 8388608
+  },
+  "res://assets/utility-icons.png": {
+    "sha256": "b39531a7cb9965bba9a3312cf1689b36c68a70f50028de332e5b0a421664e2a8",
+    "bytes": 1213491,
+    "width": 1254,
+    "height": 1254,
+    "rgba8_bytes": 6290064,
+    "rgba8_mip_bytes_estimate": 8386752
+  },
+  "res://assets/utility-props.png": {
+    "sha256": "cd74e26ae7619c84c3d2250caf567c3c219c747267ad77193cfc2fc2507bd3f3",
+    "bytes": 2055935,
+    "width": 1536,
+    "height": 1024,
+    "rgba8_bytes": 6291456,
+    "rgba8_mip_bytes_estimate": 8388608
+  },
+  "res://assets/wildlife-bear.png": {
+    "sha256": "224baa111faf6d99649dc04cd3be5f12c262780018903f1db36eb4658cb5e952",
+    "bytes": 1628166,
+    "width": 3072,
+    "height": 1536,
+    "rgba8_bytes": 18874368,
+    "rgba8_mip_bytes_estimate": 25165824
+  },
+  "res://assets/wildlife-deer.png": {
+    "sha256": "c3648d4a81e160118366f8f011b6539d27959f159910f1fa651a10de3baac638",
+    "bytes": 1254016,
+    "width": 3072,
+    "height": 1536,
+    "rgba8_bytes": 18874368,
+    "rgba8_mip_bytes_estimate": 25165824
+  },
+  "res://assets/wildlife-fox.png": {
+    "sha256": "8454647a49e8d85e088c2062398919fc7dea452e3782bed698959a3398e4ac97",
+    "bytes": 1325514,
+    "width": 3072,
+    "height": 1536,
+    "rgba8_bytes": 18874368,
+    "rgba8_mip_bytes_estimate": 25165824
+  },
+  "res://assets/wildlife-rabbit.png": {
+    "sha256": "5a3df266c08c2ca1340afb95b52c51c7b8c533190b18ab7d4213be0e6aa33fa5",
+    "bytes": 1157093,
+    "width": 3072,
+    "height": 1536,
+    "rgba8_bytes": 18874368,
+    "rgba8_mip_bytes_estimate": 25165824
+  },
+  "res://assets/wildlife-wolf.png": {
+    "sha256": "86e4fe6489b65678872644d1b9734e43820ffe7ec469eb8e6df32a961d9f50dd",
+    "bytes": 1547226,
+    "width": 3072,
+    "height": 1536,
+    "rgba8_bytes": 18874368,
+    "rgba8_mip_bytes_estimate": 25165824
+  },
+  "res://collision_profiles.json": {
+    "sha256": "378504470b20f7704b64e3cbe4046fb2adf6464a9a183ada6e6fac6222e70c93",
+    "bytes": 194589
+  }
+}

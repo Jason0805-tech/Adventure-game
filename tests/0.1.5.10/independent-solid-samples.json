@@ -1,0 +1,1711 @@
+{
+  "version": "0.1.5.10",
+  "method": "Manual visible-object landmark annotation from tests/0.1.5.7/profile-sprites PNGs before opening collision_profiles.json. Labels are not generated from final polygons; gray pond rocks include isolated small stones in water. Pixel coordinates are original cropped sprite space. Test converts UV through the runtime paint rectangle. Added six tree PNGs: bare wood/white bark points are solid; deliberately distant leaf canopy points are free, isolated from all other world nodes. Leaf free points test both center and actor footprint when distant from wood; tree_5 right-canopy center is intentionally distinguished from a capsule that can contact the neighboring real wood branch. A new distant upper-right leaf point tests the full actor footprint.",
+  "annotator": "independent_solid_tests_01510",
+  "samples": [
+    {
+      "profile": "cabin",
+      "kind": "cabin",
+      "part": "chimney_cap",
+      "uv": [
+        0.276224,
+        0.080321
+      ],
+      "source_px": [
+        158,
+        40
+      ],
+      "source_size": [
+        572,
+        498
+      ]
+    },
+    {
+      "profile": "cabin",
+      "kind": "cabin",
+      "part": "chimney_front",
+      "uv": [
+        0.309441,
+        0.158635
+      ],
+      "source_px": [
+        177,
+        79
+      ],
+      "source_size": [
+        572,
+        498
+      ]
+    },
+    {
+      "profile": "cabin",
+      "kind": "cabin",
+      "part": "roof_rear_left",
+      "uv": [
+        0.216783,
+        0.277108
+      ],
+      "source_px": [
+        124,
+        138
+      ],
+      "source_size": [
+        572,
+        498
+      ]
+    },
+    {
+      "profile": "cabin",
+      "kind": "cabin",
+      "part": "roof_rear_right",
+      "uv": [
+        0.725524,
+        0.124498
+      ],
+      "source_px": [
+        415,
+        62
+      ],
+      "source_size": [
+        572,
+        498
+      ]
+    },
+    {
+      "profile": "cabin",
+      "kind": "cabin",
+      "part": "roof_front_center",
+      "uv": [
+        0.519231,
+        0.349398
+      ],
+      "source_px": [
+        297,
+        174
+      ],
+      "source_size": [
+        572,
+        498
+      ]
+    },
+    {
+      "profile": "cabin",
+      "kind": "cabin",
+      "part": "roof_front_right",
+      "uv": [
+        0.762238,
+        0.409639
+      ],
+      "source_px": [
+        436,
+        204
+      ],
+      "source_size": [
+        572,
+        498
+      ]
+    },
+    {
+      "profile": "cabin",
+      "kind": "cabin",
+      "part": "wall_left_upper",
+      "uv": [
+        0.243007,
+        0.5
+      ],
+      "source_px": [
+        139,
+        249
+      ],
+      "source_size": [
+        572,
+        498
+      ]
+    },
+    {
+      "profile": "cabin",
+      "kind": "cabin",
+      "part": "wall_left_lower",
+      "uv": [
+        0.295455,
+        0.668675
+      ],
+      "source_px": [
+        169,
+        333
+      ],
+      "source_size": [
+        572,
+        498
+      ]
+    },
+    {
+      "profile": "cabin",
+      "kind": "cabin",
+      "part": "wall_right_upper",
+      "uv": [
+        0.847902,
+        0.588353
+      ],
+      "source_px": [
+        485,
+        293
+      ],
+      "source_size": [
+        572,
+        498
+      ]
+    },
+    {
+      "profile": "cabin",
+      "kind": "cabin",
+      "part": "wall_front_lower",
+      "uv": [
+        0.473776,
+        0.714859
+      ],
+      "source_px": [
+        271,
+        356
+      ],
+      "source_size": [
+        572,
+        498
+      ]
+    },
+    {
+      "profile": "cabin",
+      "kind": "cabin",
+      "part": "doorway",
+      "uv": [
+        0.643357,
+        0.676707
+      ],
+      "source_px": [
+        368,
+        337
+      ],
+      "source_size": [
+        572,
+        498
+      ]
+    },
+    {
+      "profile": "cabin",
+      "kind": "cabin",
+      "part": "step_upper",
+      "uv": [
+        0.734266,
+        0.795181
+      ],
+      "source_px": [
+        420,
+        396
+      ],
+      "source_size": [
+        572,
+        498
+      ]
+    },
+    {
+      "profile": "cabin",
+      "kind": "cabin",
+      "part": "step_lower",
+      "uv": [
+        0.746503,
+        0.895582
+      ],
+      "source_px": [
+        427,
+        446
+      ],
+      "source_size": [
+        572,
+        498
+      ]
+    },
+    {
+      "profile": "pond_0",
+      "kind": "bank_rock",
+      "part": "north_large_rock",
+      "uv": [
+        0.359019,
+        0.148515
+      ],
+      "source_px": [
+        205,
+        60
+      ],
+      "source_size": [
+        571,
+        404
+      ]
+    },
+    {
+      "profile": "pond_0",
+      "kind": "bank_rock",
+      "part": "east_large_rock",
+      "uv": [
+        0.795096,
+        0.287129
+      ],
+      "source_px": [
+        454,
+        116
+      ],
+      "source_size": [
+        571,
+        404
+      ]
+    },
+    {
+      "profile": "pond_0",
+      "kind": "bank_rock",
+      "part": "east_small_rock",
+      "uv": [
+        0.705779,
+        0.237624
+      ],
+      "source_px": [
+        403,
+        96
+      ],
+      "source_size": [
+        571,
+        404
+      ]
+    },
+    {
+      "profile": "pond_0",
+      "kind": "bank_rock",
+      "part": "west_mid_rock",
+      "uv": [
+        0.154116,
+        0.34901
+      ],
+      "source_px": [
+        88,
+        141
+      ],
+      "source_size": [
+        571,
+        404
+      ]
+    },
+    {
+      "profile": "pond_0",
+      "kind": "bank_rock",
+      "part": "southwest_large_rock",
+      "uv": [
+        0.171629,
+        0.740099
+      ],
+      "source_px": [
+        98,
+        299
+      ],
+      "source_size": [
+        571,
+        404
+      ]
+    },
+    {
+      "profile": "pond_0",
+      "kind": "bank_rock",
+      "part": "south_small_rock",
+      "uv": [
+        0.38704,
+        0.866337
+      ],
+      "source_px": [
+        221,
+        350
+      ],
+      "source_size": [
+        571,
+        404
+      ]
+    },
+    {
+      "profile": "pond_0",
+      "kind": "bank_rock",
+      "part": "southeast_large_rock",
+      "uv": [
+        0.695271,
+        0.868812
+      ],
+      "source_px": [
+        397,
+        351
+      ],
+      "source_size": [
+        571,
+        404
+      ]
+    },
+    {
+      "profile": "pond_1",
+      "kind": "bank_rock",
+      "part": "northwest_small_rock",
+      "uv": [
+        0.347754,
+        0.183099
+      ],
+      "source_px": [
+        209,
+        78
+      ],
+      "source_size": [
+        601,
+        426
+      ]
+    },
+    {
+      "profile": "pond_1",
+      "kind": "bank_rock",
+      "part": "northeast_large_rock",
+      "uv": [
+        0.753744,
+        0.239437
+      ],
+      "source_px": [
+        453,
+        102
+      ],
+      "source_size": [
+        601,
+        426
+      ]
+    },
+    {
+      "profile": "pond_1",
+      "kind": "bank_rock",
+      "part": "west_small_rock",
+      "uv": [
+        0.106489,
+        0.57277
+      ],
+      "source_px": [
+        64,
+        244
+      ],
+      "source_size": [
+        601,
+        426
+      ]
+    },
+    {
+      "profile": "pond_1",
+      "kind": "bank_rock",
+      "part": "southwest_large_rock",
+      "uv": [
+        0.209651,
+        0.734742
+      ],
+      "source_px": [
+        126,
+        313
+      ],
+      "source_size": [
+        601,
+        426
+      ]
+    },
+    {
+      "profile": "pond_1",
+      "kind": "bank_rock",
+      "part": "south_small_rock",
+      "uv": [
+        0.356073,
+        0.814554
+      ],
+      "source_px": [
+        214,
+        347
+      ],
+      "source_size": [
+        601,
+        426
+      ]
+    },
+    {
+      "profile": "pond_2",
+      "kind": "bank_rock",
+      "part": "east_large_rock",
+      "uv": [
+        0.851695,
+        0.517949
+      ],
+      "source_px": [
+        402,
+        202
+      ],
+      "source_size": [
+        472,
+        390
+      ]
+    },
+    {
+      "profile": "pond_2",
+      "kind": "bank_rock",
+      "part": "south_large_rock",
+      "uv": [
+        0.665254,
+        0.894872
+      ],
+      "source_px": [
+        314,
+        349
+      ],
+      "source_size": [
+        472,
+        390
+      ]
+    },
+    {
+      "profile": "pond_2",
+      "kind": "bank_rock",
+      "part": "southwest_large_rock",
+      "uv": [
+        0.199153,
+        0.751282
+      ],
+      "source_px": [
+        94,
+        293
+      ],
+      "source_size": [
+        472,
+        390
+      ]
+    },
+    {
+      "profile": "pond_2",
+      "kind": "bank_rock",
+      "part": "water_north_small_rock",
+      "uv": [
+        0.680085,
+        0.441026
+      ],
+      "source_px": [
+        321,
+        172
+      ],
+      "source_size": [
+        472,
+        390
+      ]
+    },
+    {
+      "profile": "pond_2",
+      "kind": "bank_rock",
+      "part": "water_east_small_rock",
+      "uv": [
+        0.78178,
+        0.6
+      ],
+      "source_px": [
+        369,
+        234
+      ],
+      "source_size": [
+        472,
+        390
+      ]
+    },
+    {
+      "profile": "prop_1",
+      "kind": "prop",
+      "part": "rear_log_wood",
+      "uv": [
+        0.339888,
+        0.20155
+      ],
+      "source_px": [
+        121,
+        52
+      ],
+      "source_size": [
+        356,
+        258
+      ]
+    },
+    {
+      "profile": "prop_1",
+      "kind": "prop",
+      "part": "upper_log_cut",
+      "uv": [
+        0.609551,
+        0.399225
+      ],
+      "source_px": [
+        217,
+        103
+      ],
+      "source_size": [
+        356,
+        258
+      ]
+    },
+    {
+      "profile": "prop_1",
+      "kind": "prop",
+      "part": "lower_log_cut",
+      "uv": [
+        0.550562,
+        0.744186
+      ],
+      "source_px": [
+        196,
+        192
+      ],
+      "source_size": [
+        356,
+        258
+      ]
+    },
+    {
+      "profile": "prop_1",
+      "kind": "prop",
+      "part": "middle_log_wood",
+      "uv": [
+        0.370787,
+        0.55814
+      ],
+      "source_px": [
+        132,
+        144
+      ],
+      "source_size": [
+        356,
+        258
+      ]
+    },
+    {
+      "profile": "prop_2",
+      "kind": "prop",
+      "part": "rear_log_wood",
+      "uv": [
+        0.355721,
+        0.222603
+      ],
+      "source_px": [
+        143,
+        65
+      ],
+      "source_size": [
+        402,
+        292
+      ]
+    },
+    {
+      "profile": "prop_2",
+      "kind": "prop",
+      "part": "upper_log_cut",
+      "uv": [
+        0.659204,
+        0.424658
+      ],
+      "source_px": [
+        265,
+        124
+      ],
+      "source_size": [
+        402,
+        292
+      ]
+    },
+    {
+      "profile": "prop_2",
+      "kind": "prop",
+      "part": "lower_log_cut",
+      "uv": [
+        0.552239,
+        0.715753
+      ],
+      "source_px": [
+        222,
+        209
+      ],
+      "source_size": [
+        402,
+        292
+      ]
+    },
+    {
+      "profile": "prop_2",
+      "kind": "prop",
+      "part": "middle_log_wood",
+      "uv": [
+        0.363184,
+        0.520548
+      ],
+      "source_px": [
+        146,
+        152
+      ],
+      "source_size": [
+        402,
+        292
+      ]
+    },
+    {
+      "profile": "prop_3",
+      "kind": "prop",
+      "part": "barrel_top",
+      "uv": [
+        0.497253,
+        0.193038
+      ],
+      "source_px": [
+        181,
+        61
+      ],
+      "source_size": [
+        364,
+        316
+      ]
+    },
+    {
+      "profile": "prop_3",
+      "kind": "prop",
+      "part": "barrel_middle",
+      "uv": [
+        0.478022,
+        0.5
+      ],
+      "source_px": [
+        174,
+        158
+      ],
+      "source_size": [
+        364,
+        316
+      ]
+    },
+    {
+      "profile": "prop_3",
+      "kind": "prop",
+      "part": "barrel_lower",
+      "uv": [
+        0.494505,
+        0.78481
+      ],
+      "source_px": [
+        180,
+        248
+      ],
+      "source_size": [
+        364,
+        316
+      ]
+    },
+    {
+      "profile": "prop_4",
+      "kind": "prop",
+      "part": "crate_top",
+      "uv": [
+        0.484127,
+        0.240385
+      ],
+      "source_px": [
+        183,
+        75
+      ],
+      "source_size": [
+        378,
+        312
+      ]
+    },
+    {
+      "profile": "prop_4",
+      "kind": "prop",
+      "part": "crate_left_face",
+      "uv": [
+        0.34127,
+        0.544872
+      ],
+      "source_px": [
+        129,
+        170
+      ],
+      "source_size": [
+        378,
+        312
+      ]
+    },
+    {
+      "profile": "prop_4",
+      "kind": "prop",
+      "part": "crate_right_face",
+      "uv": [
+        0.661376,
+        0.570513
+      ],
+      "source_px": [
+        250,
+        178
+      ],
+      "source_size": [
+        378,
+        312
+      ]
+    },
+    {
+      "profile": "prop_5",
+      "kind": "prop",
+      "part": "crate_top",
+      "uv": [
+        0.478395,
+        0.225
+      ],
+      "source_px": [
+        155,
+        54
+      ],
+      "source_size": [
+        324,
+        240
+      ]
+    },
+    {
+      "profile": "prop_5",
+      "kind": "prop",
+      "part": "crate_front_face",
+      "uv": [
+        0.376543,
+        0.604167
+      ],
+      "source_px": [
+        122,
+        145
+      ],
+      "source_size": [
+        324,
+        240
+      ]
+    },
+    {
+      "profile": "prop_5",
+      "kind": "prop",
+      "part": "crate_right_face",
+      "uv": [
+        0.66358,
+        0.516667
+      ],
+      "source_px": [
+        215,
+        124
+      ],
+      "source_size": [
+        324,
+        240
+      ]
+    },
+    {
+      "profile": "bench",
+      "kind": "bench",
+      "part": "bench_top",
+      "uv": [
+        0.515086,
+        0.439153
+      ],
+      "source_px": [
+        239,
+        166
+      ],
+      "source_size": [
+        464,
+        378
+      ]
+    },
+    {
+      "profile": "bench",
+      "kind": "bench",
+      "part": "rear_left_support",
+      "uv": [
+        0.232759,
+        0.203704
+      ],
+      "source_px": [
+        108,
+        77
+      ],
+      "source_size": [
+        464,
+        378
+      ]
+    },
+    {
+      "profile": "bench",
+      "kind": "bench",
+      "part": "front_wood",
+      "uv": [
+        0.519397,
+        0.685185
+      ],
+      "source_px": [
+        241,
+        259
+      ],
+      "source_size": [
+        464,
+        378
+      ]
+    },
+    {
+      "profile": "bench",
+      "kind": "bench",
+      "part": "left_leg",
+      "uv": [
+        0.256466,
+        0.78836
+      ],
+      "source_px": [
+        119,
+        298
+      ],
+      "source_size": [
+        464,
+        378
+      ]
+    },
+    {
+      "profile": "bench",
+      "kind": "bench",
+      "part": "right_leg",
+      "uv": [
+        0.709052,
+        0.719577
+      ],
+      "source_px": [
+        329,
+        272
+      ],
+      "source_size": [
+        464,
+        378
+      ]
+    },
+    {
+      "profile": "ore_0",
+      "kind": "ore",
+      "part": "upper_stone",
+      "uv": [
+        0.662946,
+        0.24
+      ],
+      "source_px": [
+        297,
+        72
+      ],
+      "source_size": [
+        448,
+        300
+      ]
+    },
+    {
+      "profile": "ore_0",
+      "kind": "ore",
+      "part": "large_stone_center",
+      "uv": [
+        0.642857,
+        0.493333
+      ],
+      "source_px": [
+        288,
+        148
+      ],
+      "source_size": [
+        448,
+        300
+      ]
+    },
+    {
+      "profile": "ore_0",
+      "kind": "ore",
+      "part": "front_small_stone",
+      "uv": [
+        0.28125,
+        0.763333
+      ],
+      "source_px": [
+        126,
+        229
+      ],
+      "source_size": [
+        448,
+        300
+      ]
+    },
+    {
+      "profile": "ore_1",
+      "kind": "ore",
+      "part": "upper_stone",
+      "uv": [
+        0.460094,
+        0.167598
+      ],
+      "source_px": [
+        196,
+        60
+      ],
+      "source_size": [
+        426,
+        358
+      ]
+    },
+    {
+      "profile": "ore_1",
+      "kind": "ore",
+      "part": "large_stone_center",
+      "uv": [
+        0.542254,
+        0.53352
+      ],
+      "source_px": [
+        231,
+        191
+      ],
+      "source_size": [
+        426,
+        358
+      ]
+    },
+    {
+      "profile": "ore_1",
+      "kind": "ore",
+      "part": "front_small_stone",
+      "uv": [
+        0.237089,
+        0.787709
+      ],
+      "source_px": [
+        101,
+        282
+      ],
+      "source_size": [
+        426,
+        358
+      ]
+    },
+    {
+      "profile": "ore_2",
+      "kind": "ore",
+      "part": "upper_stone",
+      "uv": [
+        0.564286,
+        0.352349
+      ],
+      "source_px": [
+        237,
+        105
+      ],
+      "source_size": [
+        420,
+        298
+      ]
+    },
+    {
+      "profile": "ore_2",
+      "kind": "ore",
+      "part": "large_stone_center",
+      "uv": [
+        0.604762,
+        0.560403
+      ],
+      "source_px": [
+        254,
+        167
+      ],
+      "source_size": [
+        420,
+        298
+      ]
+    },
+    {
+      "profile": "ore_2",
+      "kind": "ore",
+      "part": "front_small_stone",
+      "uv": [
+        0.261905,
+        0.711409
+      ],
+      "source_px": [
+        110,
+        212
+      ],
+      "source_size": [
+        420,
+        298
+      ]
+    },
+    {
+      "profile": "prop_1",
+      "kind": "prop",
+      "part": "right_log_cut",
+      "uv": [
+        0.764045,
+        0.569767
+      ],
+      "source_px": [
+        272,
+        147
+      ],
+      "source_size": [
+        356,
+        258
+      ]
+    },
+    {
+      "profile": "prop_2",
+      "kind": "prop",
+      "part": "right_log_cut",
+      "uv": [
+        0.828358,
+        0.568493
+      ],
+      "source_px": [
+        333,
+        166
+      ],
+      "source_size": [
+        402,
+        292
+      ]
+    },
+    {
+      "profile": "tree_0",
+      "kind": "tree",
+      "part": "upper_wood_branch",
+      "expect": "solid",
+      "uv": [
+        0.559289,
+        0.468165
+      ],
+      "source_px": [
+        283,
+        250
+      ],
+      "source_size": [
+        506,
+        534
+      ]
+    },
+    {
+      "profile": "tree_0",
+      "kind": "tree",
+      "part": "left_wood_fork",
+      "expect": "solid",
+      "uv": [
+        0.375494,
+        0.636704
+      ],
+      "source_px": [
+        190,
+        340
+      ],
+      "source_size": [
+        506,
+        534
+      ]
+    },
+    {
+      "profile": "tree_0",
+      "kind": "tree",
+      "part": "right_wood_fork",
+      "expect": "solid",
+      "uv": [
+        0.656126,
+        0.694757
+      ],
+      "source_px": [
+        332,
+        371
+      ],
+      "source_size": [
+        506,
+        534
+      ]
+    },
+    {
+      "profile": "tree_0",
+      "kind": "tree",
+      "part": "central_bark",
+      "expect": "solid",
+      "uv": [
+        0.531621,
+        0.78839
+      ],
+      "source_px": [
+        269,
+        421
+      ],
+      "source_size": [
+        506,
+        534
+      ]
+    },
+    {
+      "profile": "tree_0",
+      "kind": "tree",
+      "part": "canopy_upper_right",
+      "expect": "free",
+      "uv": [
+        0.72332,
+        0.14794
+      ],
+      "source_px": [
+        366,
+        79
+      ],
+      "source_size": [
+        506,
+        534
+      ]
+    },
+    {
+      "profile": "tree_0",
+      "kind": "tree",
+      "part": "canopy_left",
+      "expect": "free",
+      "uv": [
+        0.102767,
+        0.479401
+      ],
+      "source_px": [
+        52,
+        256
+      ],
+      "source_size": [
+        506,
+        534
+      ]
+    },
+    {
+      "profile": "tree_1",
+      "kind": "tree",
+      "part": "upper_exposed_bark",
+      "expect": "solid",
+      "uv": [
+        0.470046,
+        0.758555
+      ],
+      "source_px": [
+        204,
+        399
+      ],
+      "source_size": [
+        434,
+        526
+      ]
+    },
+    {
+      "profile": "tree_1",
+      "kind": "tree",
+      "part": "central_bark",
+      "expect": "solid",
+      "uv": [
+        0.483871,
+        0.81749
+      ],
+      "source_px": [
+        210,
+        430
+      ],
+      "source_size": [
+        434,
+        526
+      ]
+    },
+    {
+      "profile": "tree_1",
+      "kind": "tree",
+      "part": "left_trunk_flare",
+      "expect": "solid",
+      "uv": [
+        0.421659,
+        0.807985
+      ],
+      "source_px": [
+        183,
+        425
+      ],
+      "source_size": [
+        434,
+        526
+      ]
+    },
+    {
+      "profile": "tree_1",
+      "kind": "tree",
+      "part": "canopy_left",
+      "expect": "free",
+      "uv": [
+        0.264977,
+        0.412548
+      ],
+      "source_px": [
+        115,
+        217
+      ],
+      "source_size": [
+        434,
+        526
+      ]
+    },
+    {
+      "profile": "tree_1",
+      "kind": "tree",
+      "part": "canopy_right",
+      "expect": "free",
+      "uv": [
+        0.753456,
+        0.585551
+      ],
+      "source_px": [
+        327,
+        308
+      ],
+      "source_size": [
+        434,
+        526
+      ]
+    },
+    {
+      "profile": "tree_2",
+      "kind": "tree",
+      "part": "upper_white_bark",
+      "expect": "solid",
+      "uv": [
+        0.572072,
+        0.318352
+      ],
+      "source_px": [
+        254,
+        170
+      ],
+      "source_size": [
+        444,
+        534
+      ]
+    },
+    {
+      "profile": "tree_2",
+      "kind": "tree",
+      "part": "central_white_bark",
+      "expect": "solid",
+      "uv": [
+        0.490991,
+        0.509363
+      ],
+      "source_px": [
+        218,
+        272
+      ],
+      "source_size": [
+        444,
+        534
+      ]
+    },
+    {
+      "profile": "tree_2",
+      "kind": "tree",
+      "part": "right_white_branch",
+      "expect": "solid",
+      "uv": [
+        0.612613,
+        0.520599
+      ],
+      "source_px": [
+        272,
+        278
+      ],
+      "source_size": [
+        444,
+        534
+      ]
+    },
+    {
+      "profile": "tree_2",
+      "kind": "tree",
+      "part": "lower_white_bark",
+      "expect": "solid",
+      "uv": [
+        0.405405,
+        0.78839
+      ],
+      "source_px": [
+        180,
+        421
+      ],
+      "source_size": [
+        444,
+        534
+      ]
+    },
+    {
+      "profile": "tree_2",
+      "kind": "tree",
+      "part": "canopy_left",
+      "expect": "free",
+      "uv": [
+        0.18018,
+        0.243446
+      ],
+      "source_px": [
+        80,
+        130
+      ],
+      "source_size": [
+        444,
+        534
+      ]
+    },
+    {
+      "profile": "tree_2",
+      "kind": "tree",
+      "part": "canopy_upper_right",
+      "expect": "free",
+      "uv": [
+        0.835586,
+        0.262172
+      ],
+      "source_px": [
+        371,
+        140
+      ],
+      "source_size": [
+        444,
+        534
+      ]
+    },
+    {
+      "profile": "tree_3",
+      "kind": "tree",
+      "part": "upper_wood_branch",
+      "expect": "solid",
+      "uv": [
+        0.529279,
+        0.523474
+      ],
+      "source_px": [
+        235,
+        223
+      ],
+      "source_size": [
+        444,
+        426
+      ]
+    },
+    {
+      "profile": "tree_3",
+      "kind": "tree",
+      "part": "left_wood_fork",
+      "expect": "solid",
+      "uv": [
+        0.34009,
+        0.593897
+      ],
+      "source_px": [
+        151,
+        253
+      ],
+      "source_size": [
+        444,
+        426
+      ]
+    },
+    {
+      "profile": "tree_3",
+      "kind": "tree",
+      "part": "right_wood_fork",
+      "expect": "solid",
+      "uv": [
+        0.621622,
+        0.647887
+      ],
+      "source_px": [
+        276,
+        276
+      ],
+      "source_size": [
+        444,
+        426
+      ]
+    },
+    {
+      "profile": "tree_3",
+      "kind": "tree",
+      "part": "central_bark",
+      "expect": "solid",
+      "uv": [
+        0.504505,
+        0.786385
+      ],
+      "source_px": [
+        224,
+        335
+      ],
+      "source_size": [
+        444,
+        426
+      ]
+    },
+    {
+      "profile": "tree_3",
+      "kind": "tree",
+      "part": "canopy_left",
+      "expect": "free",
+      "uv": [
+        0.182432,
+        0.34507
+      ],
+      "source_px": [
+        81,
+        147
+      ],
+      "source_size": [
+        444,
+        426
+      ]
+    },
+    {
+      "profile": "tree_3",
+      "kind": "tree",
+      "part": "canopy_right",
+      "expect": "free",
+      "uv": [
+        0.788288,
+        0.42723
+      ],
+      "source_px": [
+        350,
+        182
+      ],
+      "source_size": [
+        444,
+        426
+      ]
+    },
+    {
+      "profile": "tree_4",
+      "kind": "tree",
+      "part": "upper_exposed_bark",
+      "expect": "solid",
+      "uv": [
+        0.515723,
+        0.719368
+      ],
+      "source_px": [
+        164,
+        364
+      ],
+      "source_size": [
+        318,
+        506
+      ]
+    },
+    {
+      "profile": "tree_4",
+      "kind": "tree",
+      "part": "central_bark",
+      "expect": "solid",
+      "uv": [
+        0.484277,
+        0.804348
+      ],
+      "source_px": [
+        154,
+        407
+      ],
+      "source_size": [
+        318,
+        506
+      ]
+    },
+    {
+      "profile": "tree_4",
+      "kind": "tree",
+      "part": "lower_bark",
+      "expect": "solid",
+      "uv": [
+        0.449686,
+        0.889328
+      ],
+      "source_px": [
+        143,
+        450
+      ],
+      "source_size": [
+        318,
+        506
+      ]
+    },
+    {
+      "profile": "tree_4",
+      "kind": "tree",
+      "part": "canopy_right",
+      "expect": "free",
+      "uv": [
+        0.820755,
+        0.650198
+      ],
+      "source_px": [
+        261,
+        329
+      ],
+      "source_size": [
+        318,
+        506
+      ]
+    },
+    {
+      "profile": "tree_4",
+      "kind": "tree",
+      "part": "canopy_upper",
+      "expect": "free",
+      "uv": [
+        0.449686,
+        0.34585
+      ],
+      "source_px": [
+        143,
+        175
+      ],
+      "source_size": [
+        318,
+        506
+      ]
+    },
+    {
+      "profile": "tree_5",
+      "kind": "tree",
+      "part": "upper_left_bark",
+      "expect": "solid",
+      "uv": [
+        0.487981,
+        0.348
+      ],
+      "source_px": [
+        203,
+        174
+      ],
+      "source_size": [
+        416,
+        500
+      ]
+    },
+    {
+      "profile": "tree_5",
+      "kind": "tree",
+      "part": "central_white_bark",
+      "expect": "solid",
+      "uv": [
+        0.502404,
+        0.506
+      ],
+      "source_px": [
+        209,
+        253
+      ],
+      "source_size": [
+        416,
+        500
+      ]
+    },
+    {
+      "profile": "tree_5",
+      "kind": "tree",
+      "part": "right_white_fork",
+      "expect": "solid",
+      "uv": [
+        0.65625,
+        0.588
+      ],
+      "source_px": [
+        273,
+        294
+      ],
+      "source_size": [
+        416,
+        500
+      ]
+    },
+    {
+      "profile": "tree_5",
+      "kind": "tree",
+      "part": "lower_white_bark",
+      "expect": "solid",
+      "uv": [
+        0.533654,
+        0.85
+      ],
+      "source_px": [
+        222,
+        425
+      ],
+      "source_size": [
+        416,
+        500
+      ]
+    },
+    {
+      "profile": "tree_5",
+      "kind": "tree",
+      "part": "canopy_upper_left",
+      "expect": "free",
+      "uv": [
+        0.252404,
+        0.198
+      ],
+      "source_px": [
+        105,
+        99
+      ],
+      "source_size": [
+        416,
+        500
+      ]
+    },
+    {
+      "profile": "tree_5",
+      "kind": "tree",
+      "part": "canopy_right",
+      "expect": "free",
+      "uv": [
+        0.887019,
+        0.464
+      ],
+      "source_px": [
+        369,
+        232
+      ],
+      "source_size": [
+        416,
+        500
+      ],
+      "actor_footprint_clear": false,
+      "semantic_note": "Visible leaf center is free; an actor capsule centered here can legitimately touch the nearby exposed right wood branch. Preserve center-free assertion, do not delete real branch collision to satisfy a point landmark."
+    },
+    {
+      "profile": "tree_5",
+      "kind": "tree",
+      "part": "canopy_upper_right_far_from_wood",
+      "expect": "free",
+      "actor_footprint_clear": true,
+      "uv": [
+        0.745192,
+        0.22
+      ],
+      "source_px": [
+        310,
+        110
+      ],
+      "source_size": [
+        416,
+        500
+      ]
+    }
+  ]
+}

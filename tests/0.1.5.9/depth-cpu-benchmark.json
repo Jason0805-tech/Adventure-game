@@ -1,0 +1,220 @@
+{
+  "godot": {
+    "build": "official",
+    "hash": "ed1daf0bf001b61586d9930840f2f1394092c079",
+    "hex": 263938,
+    "major": 4,
+    "minor": 7,
+    "patch": 2,
+    "status": "stable",
+    "string": "4.7.2-stable (official)",
+    "timestamp": 0
+  },
+  "iterations_per_case": 100,
+  "scenes": [
+    {
+      "band_cache_after": 109,
+      "band_cache_before": 109,
+      "camera": [
+        0.0,
+        250.0
+      ],
+      "canvas_commands": {
+        "command_kinds": {
+          "circle": 1,
+          "line": 23,
+          "panel": 10,
+          "polygon": 130,
+          "rect": 4,
+          "text": 25,
+          "texture": 738
+        },
+        "instrumented_command_assembly_cpu": {
+          "iterations": 100,
+          "maximum_ms": 6.063,
+          "mean_ms": 5.54779,
+          "median_ms": 5.507,
+          "minimum_ms": 5.279,
+          "p95_ms": 5.872
+        },
+        "recorded_canvas_command_count": 931,
+        "timing_scope": "Whole _draw plus recording dictionaries, metadata lookups and ground command assembly; cached texture files. No GPU rendering or display. This is not a runtime frame time or FPS measurement."
+      },
+      "full_world_entries": {
+        "entry_count": 790,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 730,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 100,
+        "maximum_ms": 4.185,
+        "mean_ms": 4.04064,
+        "median_ms": 4.055,
+        "minimum_ms": 3.868,
+        "p95_ms": 4.14
+      },
+      "player": [
+        360.0,
+        760.0
+      ],
+      "scene": "camp",
+      "visible_entries": {
+        "entry_count": 489,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 429,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 100,
+        "maximum_ms": 2.861,
+        "mean_ms": 2.7622,
+        "median_ms": 2.757,
+        "minimum_ms": 2.656,
+        "p95_ms": 2.827
+      }
+    },
+    {
+      "band_cache_after": 109,
+      "band_cache_before": 109,
+      "camera": [
+        1050.0,
+        650.0
+      ],
+      "canvas_commands": {
+        "command_kinds": {
+          "circle": 1,
+          "line": 23,
+          "panel": 10,
+          "polygon": 130,
+          "rect": 4,
+          "text": 26,
+          "texture": 492
+        },
+        "instrumented_command_assembly_cpu": {
+          "iterations": 100,
+          "maximum_ms": 7.609,
+          "mean_ms": 6.33189,
+          "median_ms": 6.31,
+          "minimum_ms": 5.871,
+          "p95_ms": 7.008
+        },
+        "recorded_canvas_command_count": 686,
+        "timing_scope": "Whole _draw plus recording dictionaries, metadata lookups and ground command assembly; cached texture files. No GPU rendering or display. This is not a runtime frame time or FPS measurement."
+      },
+      "full_world_entries": {
+        "entry_count": 790,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 730,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 100,
+        "maximum_ms": 4.583,
+        "mean_ms": 4.2492,
+        "median_ms": 4.249,
+        "minimum_ms": 4.022,
+        "p95_ms": 4.49
+      },
+      "player": [
+        1550.0,
+        1100.0
+      ],
+      "scene": "forest",
+      "visible_entries": {
+        "entry_count": 243,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 183,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 100,
+        "maximum_ms": 2.395,
+        "mean_ms": 2.02782,
+        "median_ms": 2.008,
+        "minimum_ms": 1.865,
+        "p95_ms": 2.173
+      }
+    },
+    {
+      "band_cache_after": 109,
+      "band_cache_before": 109,
+      "camera": [
+        650.0,
+        200.0
+      ],
+      "canvas_commands": {
+        "command_kinds": {
+          "circle": 1,
+          "line": 23,
+          "panel": 10,
+          "polygon": 130,
+          "rect": 4,
+          "text": 26,
+          "texture": 702
+        },
+        "instrumented_command_assembly_cpu": {
+          "iterations": 100,
+          "maximum_ms": 7.783,
+          "mean_ms": 7.33506,
+          "median_ms": 7.342,
+          "minimum_ms": 6.945,
+          "p95_ms": 7.696
+        },
+        "recorded_canvas_command_count": 896,
+        "timing_scope": "Whole _draw plus recording dictionaries, metadata lookups and ground command assembly; cached texture files. No GPU rendering or display. This is not a runtime frame time or FPS measurement."
+      },
+      "full_world_entries": {
+        "entry_count": 790,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 730,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 100,
+        "maximum_ms": 4.659,
+        "mean_ms": 4.4389,
+        "median_ms": 4.376,
+        "minimum_ms": 4.262,
+        "p95_ms": 4.626
+      },
+      "player": [
+        1000.0,
+        625.0
+      ],
+      "scene": "pond",
+      "visible_entries": {
+        "entry_count": 453,
+        "entry_kinds": {
+          "Ash": 1,
+          "Rowan": 1,
+          "paint_band": 393,
+          "player": 1,
+          "tree": 57
+        },
+        "iterations": 100,
+        "maximum_ms": 3.825,
+        "mean_ms": 3.01062,
+        "median_ms": 2.971,
+        "minimum_ms": 2.872,
+        "p95_ms": 3.175
+      }
+    }
+  ],
+  "scope": "Cached CPU paint-entry construction/sort in unmodified runtime and separate recorded Canvas command counts. No renderer/GPU FPS claim. Single local run under headless Godot; timing can vary with concurrent jobs.",
+  "version": "0.1.5.9",
+  "viewport": [
+    1100.0,
+    720.0
+  ]
+}

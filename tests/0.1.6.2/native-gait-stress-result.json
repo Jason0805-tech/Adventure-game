@@ -1,0 +1,25 @@
+{
+	"actual_native_draw_calls": 288,
+	"elapsed_ms": 25398,
+	"frames": 288,
+	"indexed_triangle_checks": 8668075,
+	"input_sha256": {
+		"res://animal_gait.gd": "f677cf03232c3aacde6dfe1cc002dd6fbacfa4b301857e1c8cc3396a8796d97b",
+		"res://assets/animal-skin-topology.bin": "2579cbabd67101105ac8b1e92666ccd2fc890bf1c3e455a3e855e1fc2bdf8fbb",
+		"res://assets/animal_atlas.json": "142a7a0c2e168a7993c4fe71d7bd9249c28c1be3d9f5bb31f65c4c9aff1d65c4",
+		"res://main.gd": "ddb83b743e0ad5cf842a32cebb6a2956339ef4d300de90f09588cd410462ff80",
+		"res://world_lighting.gd": "808435832cfd275ee1fe93b8151d8021628af71ea15a3a18c3568cbcdd1cb7df"
+	},
+	"invalid": 0,
+	"method": "Actual release main.gd native Canvas queued redraws with original native UV texture; staged independent rendering coverage, not a manual GPU playthrough.",
+	"mode": "full-native-canvas",
+	"native_draw_command_max_ms": 37.533,
+	"native_draw_command_mean_ms": 23.12221875,
+	"native_edge_bridge_quads": 120474,
+	"native_edge_bridge_triangles": 240948,
+	"native_uv_mesh_checks": 2600,
+	"native_vertex_checks": 5498805,
+	"painted_triangle_checks": 3653260,
+	"pose_draws": 11520,
+	"queued_redraw_cycle_mean_ms": 24.9001284722222
+}

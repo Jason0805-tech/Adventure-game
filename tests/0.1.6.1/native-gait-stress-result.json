@@ -1,0 +1,8 @@
+{
+	"elapsed_ms": 9407,
+	"frames": 288,
+	"invalid": 0,
+	"method": "Actual main.gd native Canvas queued redraws, staged independent rendering coverage; no manual GPU playthrough claim.",
+	"native_polygon_checks": 564480,
+	"pose_draws": 11520
+}

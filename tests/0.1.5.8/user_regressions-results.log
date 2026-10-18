@@ -1,0 +1,7 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+GAME_READY 0.1.5.8
+PASS independent visible-solid coverage samples=274 free_canopy_samples=124 failures=0
+USER_REGRESSION_RESULTS checks=5269 failures=0 visible_samples=274 free_canopy_samples=124 center_only_near_branch_samples=10 same_object_motion_cases=1096

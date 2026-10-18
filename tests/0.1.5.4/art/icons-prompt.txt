@@ -1,0 +1,5 @@
+Use case: stylized-concept. UI inventory item icons for the same flat 2D hand-painted oil/gouache forest game in the reference. Nine isolated icons in 3 columns x 3 rows, real transparent alpha and generous gaps, consistent simple broad brush patches, matte pigments, no text, no background, no shadows or borders.
+Row1: 1 short bundle of warm brown logs with loose cut rings; 2 rough dark gray iron ore chunk with muted teal mineral; 3 one small silver-blue freshwater fish with a simple dot eye.
+Row2: 4 a stone pickaxe with a brown wooden shaft and curved gray pick head; 5 a wooden fishing rod with a tiny reel and a loosely bent line; 6 a miniature wooden crafting workbench with vise.
+Row3: 7 iron axe with wooden handle and a muted blue-gray metal head; 8 stone axe with a gray wedge head lashed to a short wood handle; 9 a coil of rough plant fiber.
+Same flat oil/gouache cartoon as supplied reference, broad uneven human brushwork, few readable masses, designed to remain readable at 40px, no photorealism or smooth 3D shading. Every icon fully separated and complete, no hands or character.

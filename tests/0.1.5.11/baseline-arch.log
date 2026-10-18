@@ -1,0 +1,11 @@
+ERROR: Failed to open 'user://logs/godot2026-10-16T20.31.52.log'.
+   at: copy (core/io/dir_access.cpp:429)
+ERROR: Failed to open log file for writing: user://logs/godot.log
+   at: rotate_file (core/io/logger.cpp:169)
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+GAME_READY 0.1.5.10
+GATE_RECT [P: (1915.774, 180.3333), S: (156.0, 132.0)] foot (2030.0, 310.0) feet [(7.0, -8.0), (9.678784, -7.467157), (11.94975, -5.949748), (13.46716, -3.678784), (14.0, -1.0), (13.46716, 1.678784), (11.94975, 3.949748), (9.678784, 5.467157), (7.0, 6.0), (-7.0, 6.0), (-9.678784, 5.467157), (-11.94975, 3.949748), (-13.46716, 1.678784), (-14.0, -1.0), (-13.46716, -3.678784), (-11.94975, -5.949748), (-9.678784, -7.467157), (-7.0, -8.0)]
+ARCH_REPRO {"rows":[{"blocked":true,"end":[1989.0,265.730712890625],"expected_y":155.0,"start":[1989.0,360.0]},{"blocked":true,"end":[1989.0,183.430709838867],"expected_y":360.0,"start":[1989.0,155.0]},{"blocked":true,"end":[1991.0,253.759979248047],"expected_y":155.0,"start":[1991.0,360.0]},{"blocked":true,"end":[1991.0,183.430709838867],"expected_y":360.0,"start":[1991.0,155.0]},{"blocked":true,"end":[1994.0,244.781860351562],"expected_y":155.0,"start":[1994.0,360.0]},{"blocked":true,"end":[1994.0,181.934356689453],"expected_y":360.0,"start":[1994.0,155.0]}],"version":"Forest Wanderer 0.1.5.10"}

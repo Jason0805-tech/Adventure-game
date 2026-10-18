@@ -1,0 +1,85 @@
+FOREST WANDERER 0.1.6.2 — ORIGINAL PAINTED ANIMAL LEGS
+Final validation: 2026-10-17 (Asia/Shanghai)
+
+Release: ../../output/adventure game 0.1.6.2/Forest Wanderer.app
+
+User correction
+Keep the attractive original 0.1.6 painted animal art, including legs, fur and
+paws, while retaining a complete forward walking cycle. The flat procedural
+leg shapes from 0.1.6.1 were rejected. No new bitmap artwork was generated.
+
+Implementation
+All five original PNG atlases remain unchanged. Moving animals use their own
+original painted leg pixels in a continuous UV skin mesh; resting animals show
+the complete original painting. Original paw size, silhouette, texture and
+native resolution are retained. Four-pixel mesh spacing controls deformation,
+not texture resolution. Phase still advances in order from actual travel.
+
+The first two-bone prototype folded painted triangles and opened cut seams.
+Those defects were actually reproduced in Canvas replays and independent
+mesh checks. The final field is piecewise affine on the source grid, with a
+positive-Jacobian bound. Original-paint edge underlaps close opaque attachment
+cuts. Two-native-pixel geometric mask guards collect painted fur/toe edges
+instead of leaving fixed old-paw fragments behind. Thirty-one moving-only
+registration biases retain existing physical ground envelopes. No inverted
+painted triangles are discarded and no flat-colour patches hide the defects.
+
+Final source-bound evidence
+- gait-uv/INDEPENDENT_QA.txt: 40 headings; 35,342 idle/wrap/signature checks.
+  All 634,398 native alpha-painted source pixels covered, with zero source
+  holes or interior overlaps. 827,000 painted triangle/phase checks show zero
+  inversions/collapses. 45,804 stance sole samples and continuous stance
+  extrema for 121 contact paws pass; maximum additional ground excess0.199
+  world units. Existing physical profiles are unchanged.
+- native-bias-regression-result.json: all40headings x32moving phases plus
+  40idle poses =1,320 UV mesh checks. 4,400,715 indexed triangles and1,854,732
+  actual painted triangles retain strictly positive orientation. 60,377 source
+  edge underlap quads have valid endpoints/UVs/indices; their intentional zero
+  source-UV area is kept separate from original-paint triangle metrics.
+  Actual native Canvas also draws1,080 poses over27 calls at three world
+  positions, three phases and idle/wander/chase. Zero script/draw failures.
+  Exact main/gait/metadata/BIN/lighting hashes stay unchanged during the run.
+- An earlier pre-bias stress drew11,520 native poses and all32phases at three
+  locations with zero runtime errors. It is retained as broader renderer
+  diagnostics, not mislabelled as final metadata validation. Final full-phase
+  geometry checks plus native position sampling avoid repeating unchanged APIs.
+- Gameplay regressions:27 original-feature,39 night-cycle,30 combat,
+  260 torch and2,794 lighting checks pass. Assertions were not weakened.
+  INDEPENDENT_REGRESSION.txt distinguishes original runs from later render-only
+  changes. final-night-cycle.log and final-torch.log recheck the final skin.
+- preserved-art-and-collisions.json:56 checks pass. All45 image files and five
+  ground/depth/profile files match0.1.6; six ecology/NPC/lighting/inventory
+  modules match0.1.6.1. Previous release source hashes remain untouched.
+- package-validation.json:65 bundled resources match final sources; signed
+  standalone App launches from /private/tmp, GAME_READY0.1.6.2, exit0 with no
+  GDScript, parse, invalid-polygon or triangulation errors.
+
+Visual acceptance
+Root inspected actual final draw_animal command replays: original-paint/walk
+comparison phases4/12/20, all40headings, five-species game-scale frames and the
+actual forest composition. A complete24phase review GIF is also saved. The flat limb
+style is replaced by original brush texture; former cut gaps and old-toe paper
+spurs were fixed. Final preview sources are bound by preview-source-hashes.json.
+65 final captures include eight time/light scenes,32 gait phases,24 original/
+moving comparisons and a40heading sheet. Previews are software Canvas replays,
+not manual native-GPU playthrough claims.
+
+Review files
+previews/original-paint-and-walk.gif — original left, continuous walking right.
+previews/five-animal-cycle.gif — actual game drawing at2x inspection size.
+captures/all-painted-headings.png — all5species x8headings.
+captures/noon.png — staged animals in the actual forest.
+
+Performance and limits
+Warmed native CPU submission measured roughly0.65ms per animal in a40animal
+stacked fixture; this is not a GPU frame-rate guarantee. All40compiled entries
+load from BIN with zero runtime topology builds. Idle is exactly original art.
+The gait remains stylized: native pose/ground-depth constraints do not provide
+literal world-coordinate stationary support feet at every heading. Animal/NPC
+AI, torches, day/night balance, tools and collision rules remain unchanged.
+
+Backup: release-source.zip contains runtime/config/rig metadata/compiled BIN.
+validated-runtime-hashes.json covers all packaged sources/assets. Reusable
+rig/compiler/source definitions and provenance: ../../素材整理/动物/0.1.6.2/.
+Earlier failed prototypes/logs are retained as diagnostics. Their App is kept
+under earlier-uv-prototype/, not in the final output release.

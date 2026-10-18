@@ -1,0 +1,14 @@
+Use case: identity-preserve / production 2D game puppet torso atlas, true transparent alpha.
+Reference 1 shows the identities of Rowan and Ash. Reference 2 is the approved painted game style. Repaint them as compact loose oil/gouache cartoon TORSO cutouts, preserving their identities and clothing. Broad flat irregular brush masses, few details, rough dark dot eyes, matte pigments, no 3D rendering or detailed realism.
+
+ONE 4-columns x 4-rows sheet. Sixteen fully isolated body cutouts at equal scale, generous transparency between all cells. The first TWO ROWS are ROWAN; last TWO ROWS are ASH. These are deliberately ARMLESS and LEGLESS puppet torsos: ONLY head/hair/hat, coat body down to rounded hem, scarf, backpack/bedroll. NO sleeves hanging outside the body, arms, hands, legs, boots, lanterns, tools, floor shadows, labels, grid lines or background. The game attaches animated limbs separately.
+
+Rowan: friendly middle-aged guide, brown wide-brim hat, simple broad brown beard, ochre-orange jacket, cream scarf, olive backpack with bedroll. No detailed beard hairs.
+Ash: orange short hair, green knitted beanie, purple scarf, muted olive-green coat, brown backpack with rolled blanket; keep her original appearance, not a different girl.
+
+Yaw orders:
+Row1 Rowan: 0 front, 45 front-right diagonal, 90 RIGHT profile, 135 rear-right diagonal.
+Row2 Rowan: 180 back, 225 rear-left diagonal, 270 LEFT profile, 315 front-left diagonal.
+Row3 Ash: 0 front, 45 front-right diagonal, 90 RIGHT profile, 135 rear-right diagonal.
+Row4 Ash: 180 back, 225 rear-left diagonal, 270 LEFT profile, 315 front-left diagonal.
+Rear-right 135 has the small cheek on RIGHT, rear-left225 cheek on LEFT. Head, torso and backpack turn together. Same compact proportions and clothes in every cell. No missing cells or duplicate views. Transparent margins around every torso, none touching neighboring cells.

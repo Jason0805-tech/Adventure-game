@@ -1,0 +1,20 @@
+0.1.6 independent animal/scenery Canvas visibility acceptance
+
+PASS: 120 checks; 36,576 native opaque source samples; zero failures.
+Five species x three actual object classes (tree, ore, shore stone) x front/back x four native animation frames.
+
+All 15 front contacts are legal in the full world and were reached again with actual wildlife._move_toward. All 60 front-frame checks preserve 100% of the sampled animal paint against the named object. Species-specific heading-dependent ground capsules, not full sprite silhouettes, determine movement.
+
+Of 30 isolated own-body contact approaches, 29 final positions are also full-world legal and 25 complete the same direct approach in the full world. Five shore-stone back approaches are unavailable from their water-side starting points and are explicitly NOT counted as full-world visits. The bear's isolated shore-back position itself is water-blocked. The other four species' isolated shore-back positions are legal, but their direct starts/approaches remain water-blocked.
+
+Of 60 back-frame checks, 58 have actual overlapping source paint and verify scenery occlusion. Two bear/shore-back animation frames have no sampled painted overlap; these are recorded as non-overlap and do not prove occlusion. Tree/ore backs all visibly occlude. The test rejects the always-on-top shortcut while allowing legitimate paint gaps.
+
+Each test filters only the named object's actual paint texture and transformed origin. Shared textures at neighboring objects cannot create false visibility failures. Sampling uses native384x384 species source cells across head, torso, legs, tail and antlers. Expected ordering is not inferred from runtime depth metadata. Scene selection prefers geometrically legal land-side contacts without consulting alpha results.
+
+Visual checks inspected:
+- captures/animal-depth-bear-ore-front-frame0.png
+- captures/animal-depth-bear-ore-back-frame0.png
+- captures/animal-depth-bear-bank_rock-front-frame0.png
+- captures/animal-depth-bear-bank_rock-back-frame0.png (isolated water-side diagnostic only)
+
+Images are software replays of the actual release Canvas command order, not native GPU screenshots or a manual playthrough. Detailed evidence: test_animal_scenery_visibility.gd, animal-scenery-visibility.json, animal-scenery-visibility.log.

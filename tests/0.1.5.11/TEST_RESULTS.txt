@@ -1,0 +1,55 @@
+FOREST WANDERER 0.1.5.11 — FINAL VERIFICATION
+Generated 2026-10-16T20:38:16+08:00
+
+RESULT: all final checks below passed against the runtime hashes in
+validated-runtime-hashes.json. Older initial failure reports are retained for
+diagnosis; use the final filenames listed here.
+
+WHAT CHANGED
+Physical ground occupation is separate from the complete painted silhouette.
+All 48 profiles retain native .10 visual masks. Roots, foundations/steps, prop
+bases, pillar feet, ore and 17 separate shoreline bases block; elevated roofs,
+lintels, branches and canopies do not become invisible ground walls. Water and
+the closed cabin ground volume remain solid. Upper paint fades when it covers
+the player behind; grounded bases stay opaque. Local front depth preserves
+coherent characters and held tools. Navigation uses 12 world-unit cells.
+
+PHYSICAL AND PLAYABILITY EVIDENCE
+- 153 author art-landmark checks and 206 geometry/metadata checks: pass.
+- independent-ground-results.json: 3320 checks, 118 independently chosen source-art landmarks across 48 profiles, 940 real movement cases; 17 shore stones tested without water/neighbors masking their own bodies.
+- baseline-arch.log versus final-arch.log: all 6 identical .10 routes were blocked; .11 reaches the opposite endpoint at x = 1989/1991/1994 in BOTH directions. The outer x = 1997 lane correctly clips the real right pillar with its 28-unit-wide boots.
+- passage-navigation-results.json: 1714 checks, continuous 17-destination full-world circuit, 8174 actual 60 Hz movement frames and 14015.20 world units. No route-leg teleports. Arch AStar path crosses the actual opening, not a detour around the pillars. Collection, felling, mining and workbench placement refresh collision/navigation.
+- all-model-walkthrough-results.json: 49265 checks; 169 actual instances plus 152 alternate/depleted states. 4677 full-world and 5127 own-body isolated approaches, 16 directions, tangent/diagonal/long-frame movement; 49020 actual move_player calls. 84 unavailable crowded/world-edge starts were recorded, not claimed visited.
+- test_navigation_refresh.log: 132 nearby cells match exact collision ; 22600 distant cells unchanged; morning resource indices match.
+- npc-normal-world-results.json: 244 checks in 60 seconds with live trees/resources/ore. npc-walkthrough-results.json separately records 60 seconds after depleted/alternate states. Both NPCs travel and advance walking frames while remaining outside solids.
+
+VISUAL AND NATIVE ART EVIDENCE
+- all-model-front-visibility.json: 410 own-model front contacts pass.
+- front-visibility-results.json: all 21 original house-front approach routes pass with the complete head/torso visible.
+- back-front-visibility-final.json: 66 front/back and arch poses pass; 45 are also legal in the full world. Others isolate the object's own drawing because neighbors or water restrict that position. All 10 key roof/header/canopy back poses are full-world legal. The actor is not forced permanently in front.
+- 44 software Canvas replays rendered; 38 scenes appear in visual-acceptance/model-front-back-1.png through -3.png. Before/after comparisons use the exact same actor/camera pose. These replay actual ordered draw commands; they are NOT native GPU screenshots or a manual complete playthrough.
+- native-quality-results.json: 765 native pixel/mipmap checks across 96 preparations.
+- native-depth-strip-results.json: 32562 checks; 109 native model strip sets reconstruct exact original RGBA with no gaps, overlapping columns or source resizing.
+- depth-layers-results.json: 70132 checks including exclusive, alpha-conserving pond/stone extraction.
+- source-art-preservation.json: all 42 source assets have byte-identical SHA256 hashes to .10. No art downsampling, pose or anatomical grip changes.
+
+GAME AND APP
+- 27 gameplay checks: axe/felling, yields, crafting, placement, pickaxe/mining, rod/fishing/food, backpack/toolbars, repairs and NPC movement.
+- 10 pacing checks:108 units/second, normalized diagonal motion,180-second daylight, pause and automatic night/morning.
+- packaging.log: fresh Swift launcher plus bundled Godot runtime; strict ad-hoc signature verified in clean staging, installed bundle signature verified.
+- package-validation.json: all 53 bundled resources match final source hashes. Bundled launcher started from /private/tmp without relying on a project working directory; headless GAME_READY 0.1.5.11 and exit 0.
+- bundled-launch.log may contain sandbox-denied user log-directory and system-certificate discovery warnings. There are no GDScript parse/runtime errors; these warnings did not prevent GAME_READY.
+- release-source.zip preserves final source/config/contours separately from the output folder. Original native assets remain in .10 and .11.
+
+RESEARCH
+topdown-collision-research.md links Godot's official Isometric Game character
+and vase scenes, CanvasItem Y-sort and TileMapLayer documentation. Ground
+physics versus overhead painting follows that architecture; our partial fade
+is game-specific rendering behavior. A global bottom-half crop was not used.
+
+SCOPE
+Automated seeded-world simulations, independent art landmarks, actual drawing
+alpha checks and a bundled headless launch. No manual native GPU playthrough
+is claimed. This validates the stated models, routes, states and runtime; it
+does not assert that every possible random layout or GPU configuration was
+manually visited.

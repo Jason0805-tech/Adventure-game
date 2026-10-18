@@ -1,0 +1,1643 @@
+{
+  "checks": 32562,
+  "failures": [],
+  "models": 109,
+  "records": [
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1667.235, 158.0332):48",
+      "legacy_band_count": 43,
+      "native_pixel_count": 77280,
+      "production_band_count": 7,
+      "source_size": [
+        230,
+        336
+      ],
+      "world_size": [
+        26.011905670166,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1495.983, 158.2601):17",
+      "legacy_band_count": 58,
+      "native_pixel_count": 70675,
+      "production_band_count": 7,
+      "source_size": [
+        275,
+        257
+      ],
+      "world_size": [
+        40.6614799499512,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1409.909, 162.2267):20",
+      "legacy_band_count": 58,
+      "native_pixel_count": 70675,
+      "production_band_count": 7,
+      "source_size": [
+        275,
+        257
+      ],
+      "world_size": [
+        40.6614799499512,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1029.269, 165.4214):55",
+      "legacy_band_count": 42,
+      "native_pixel_count": 68672,
+      "production_band_count": 6,
+      "source_size": [
+        232,
+        296
+      ],
+      "world_size": [
+        29.7837829589844,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "shrub:(560.6917, 198.8628):-1",
+      "legacy_band_count": 52,
+      "native_pixel_count": 84180,
+      "production_band_count": 5,
+      "source_size": [
+        366,
+        230
+      ],
+      "world_size": [
+        85.9304351806641,
+        54.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "shrub:(374.3222, 210.976):-1",
+      "legacy_band_count": 65,
+      "native_pixel_count": 115328,
+      "production_band_count": 11,
+      "source_size": [
+        424,
+        272
+      ],
+      "world_size": [
+        98.2058792114258,
+        63.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "shrub:(1201.958, 213.4801):-1",
+      "legacy_band_count": 52,
+      "native_pixel_count": 84180,
+      "production_band_count": 8,
+      "source_size": [
+        366,
+        230
+      ],
+      "world_size": [
+        92.295654296875,
+        58.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1955.489, 226.0748):54",
+      "legacy_band_count": 42,
+      "native_pixel_count": 68672,
+      "production_band_count": 6,
+      "source_size": [
+        232,
+        296
+      ],
+      "world_size": [
+        29.7837829589844,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "shrub:(435.5866, 227.6259):-1",
+      "legacy_band_count": 52,
+      "native_pixel_count": 84180,
+      "production_band_count": 7,
+      "source_size": [
+        366,
+        230
+      ],
+      "world_size": [
+        93.8869552612305,
+        59.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "shrub:(1421.831, 229.3113):-1",
+      "legacy_band_count": 52,
+      "native_pixel_count": 84180,
+      "production_band_count": 6,
+      "source_size": [
+        366,
+        230
+      ],
+      "world_size": [
+        90.704345703125,
+        57.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "shrub:(721.0355, 242.0483):-1",
+      "legacy_band_count": 52,
+      "native_pixel_count": 84180,
+      "production_band_count": 7,
+      "source_size": [
+        366,
+        230
+      ],
+      "world_size": [
+        93.8869552612305,
+        59.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "shrub:(1283.397, 260.2422):-1",
+      "legacy_band_count": 52,
+      "native_pixel_count": 84180,
+      "production_band_count": 8,
+      "source_size": [
+        366,
+        230
+      ],
+      "world_size": [
+        98.6608657836914,
+        62.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(555.4917, 266.4514):3",
+      "legacy_band_count": 78,
+      "native_pixel_count": 64416,
+      "production_band_count": 9,
+      "source_size": [
+        264,
+        244
+      ],
+      "world_size": [
+        41.1147537231445,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "gate:(2030.0, 310.0):-1",
+      "legacy_band_count": 96,
+      "native_pixel_count": 185328,
+      "production_band_count": 20,
+      "source_size": [
+        468,
+        396
+      ],
+      "world_size": [
+        156.0,
+        132.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1205.17, 304.2045):66",
+      "legacy_band_count": 58,
+      "native_pixel_count": 70675,
+      "production_band_count": 7,
+      "source_size": [
+        275,
+        257
+      ],
+      "world_size": [
+        40.6614799499512,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(326.7747, 325.5504):61",
+      "legacy_band_count": 58,
+      "native_pixel_count": 70675,
+      "production_band_count": 7,
+      "source_size": [
+        275,
+        257
+      ],
+      "world_size": [
+        40.6614799499512,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(461.8238, 327.7211):0",
+      "legacy_band_count": 78,
+      "native_pixel_count": 64416,
+      "production_band_count": 9,
+      "source_size": [
+        264,
+        244
+      ],
+      "world_size": [
+        41.1147537231445,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(604.8656, 330.9101):58",
+      "legacy_band_count": 48,
+      "native_pixel_count": 72624,
+      "production_band_count": 6,
+      "source_size": [
+        272,
+        267
+      ],
+      "world_size": [
+        38.7116088867188,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1844.292, 340.2788):64",
+      "legacy_band_count": 48,
+      "native_pixel_count": 72624,
+      "production_band_count": 6,
+      "source_size": [
+        272,
+        267
+      ],
+      "world_size": [
+        38.7116088867188,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(541.0432, 356.9213):1",
+      "legacy_band_count": 78,
+      "native_pixel_count": 64416,
+      "production_band_count": 9,
+      "source_size": [
+        264,
+        244
+      ],
+      "world_size": [
+        41.1147537231445,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(847.3957, 366.1126):40",
+      "legacy_band_count": 43,
+      "native_pixel_count": 77280,
+      "production_band_count": 7,
+      "source_size": [
+        230,
+        336
+      ],
+      "world_size": [
+        26.011905670166,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(488.1761, 413.3579):5",
+      "legacy_band_count": 48,
+      "native_pixel_count": 72624,
+      "production_band_count": 6,
+      "source_size": [
+        272,
+        267
+      ],
+      "world_size": [
+        38.7116088867188,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(627.5305, 416.6857):9",
+      "legacy_band_count": 58,
+      "native_pixel_count": 70675,
+      "production_band_count": 7,
+      "source_size": [
+        275,
+        257
+      ],
+      "world_size": [
+        40.6614799499512,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(330.5115, 428.0679):60",
+      "legacy_band_count": 48,
+      "native_pixel_count": 72624,
+      "production_band_count": 6,
+      "source_size": [
+        272,
+        267
+      ],
+      "world_size": [
+        38.7116088867188,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1256.273, 458.9482):53",
+      "legacy_band_count": 43,
+      "native_pixel_count": 77280,
+      "production_band_count": 7,
+      "source_size": [
+        230,
+        336
+      ],
+      "world_size": [
+        26.011905670166,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(652.3525, 489.2327):18",
+      "legacy_band_count": 48,
+      "native_pixel_count": 72624,
+      "production_band_count": 6,
+      "source_size": [
+        272,
+        267
+      ],
+      "world_size": [
+        38.7116088867188,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(843.5226, 498.7945):27",
+      "legacy_band_count": 55,
+      "native_pixel_count": 55860,
+      "production_band_count": 4,
+      "source_size": [
+        266,
+        210
+      ],
+      "world_size": [
+        38.0,
+        30.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(555.0329, 519.7914):62",
+      "legacy_band_count": 58,
+      "native_pixel_count": 70675,
+      "production_band_count": 7,
+      "source_size": [
+        275,
+        257
+      ],
+      "world_size": [
+        40.6614799499512,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1387.023, 521.7523):29",
+      "legacy_band_count": 55,
+      "native_pixel_count": 55860,
+      "production_band_count": 4,
+      "source_size": [
+        266,
+        210
+      ],
+      "world_size": [
+        38.0,
+        30.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1537.431, 532.3229):13",
+      "legacy_band_count": 78,
+      "native_pixel_count": 64416,
+      "production_band_count": 9,
+      "source_size": [
+        264,
+        244
+      ],
+      "world_size": [
+        41.1147537231445,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "ore:(1540.383, 542.662):1",
+      "legacy_band_count": 100,
+      "native_pixel_count": 152508,
+      "production_band_count": 10,
+      "source_size": [
+        426,
+        358
+      ],
+      "world_size": [
+        73.7765350341797,
+        62.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(134.9832, 548.9872):6",
+      "legacy_band_count": 58,
+      "native_pixel_count": 70675,
+      "production_band_count": 7,
+      "source_size": [
+        275,
+        257
+      ],
+      "world_size": [
+        40.6614799499512,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "ore:(819.2068, 557.5621):0",
+      "legacy_band_count": 95,
+      "native_pixel_count": 134400,
+      "production_band_count": 11,
+      "source_size": [
+        448,
+        300
+      ],
+      "world_size": [
+        92.586669921875,
+        62.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(707.2879, 555.3522):7",
+      "legacy_band_count": 48,
+      "native_pixel_count": 72624,
+      "production_band_count": 6,
+      "source_size": [
+        272,
+        267
+      ],
+      "world_size": [
+        38.7116088867188,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1629.102, 575.7059):37",
+      "legacy_band_count": 61,
+      "native_pixel_count": 48816,
+      "production_band_count": 7,
+      "source_size": [
+        226,
+        216
+      ],
+      "world_size": [
+        31.3888893127441,
+        30.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1882.245, 591.9958):8",
+      "legacy_band_count": 58,
+      "native_pixel_count": 70675,
+      "production_band_count": 7,
+      "source_size": [
+        275,
+        257
+      ],
+      "world_size": [
+        40.6614799499512,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1069.941, 612.0483):49",
+      "legacy_band_count": 43,
+      "native_pixel_count": 77280,
+      "production_band_count": 7,
+      "source_size": [
+        230,
+        336
+      ],
+      "world_size": [
+        26.011905670166,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "cabin:(350.0, 635.0):-1",
+      "legacy_band_count": 211,
+      "native_pixel_count": 284856,
+      "production_band_count": 53,
+      "source_size": [
+        572,
+        498
+      ],
+      "world_size": [
+        254.987945556641,
+        222.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "prop:(229.0, 630.0):1",
+      "legacy_band_count": 52,
+      "native_pixel_count": 115024,
+      "production_band_count": 6,
+      "source_size": [
+        364,
+        316
+      ],
+      "world_size": [
+        52.9873428344727,
+        46.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "prop:(512.0, 649.0):0",
+      "legacy_band_count": 102,
+      "native_pixel_count": 91848,
+      "production_band_count": 13,
+      "source_size": [
+        356,
+        258
+      ],
+      "world_size": [
+        67.6124038696289,
+        49.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(976.71, 656.7721):36",
+      "legacy_band_count": 55,
+      "native_pixel_count": 55860,
+      "production_band_count": 4,
+      "source_size": [
+        266,
+        210
+      ],
+      "world_size": [
+        38.0,
+        30.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "prop:(265.0, 666.0):2",
+      "legacy_band_count": 99,
+      "native_pixel_count": 117936,
+      "production_band_count": 6,
+      "source_size": [
+        378,
+        312
+      ],
+      "world_size": [
+        41.1923065185547,
+        34.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "shrub:(1987.207, 661.5696):-1",
+      "legacy_band_count": 55,
+      "native_pixel_count": 133824,
+      "production_band_count": 6,
+      "source_size": [
+        408,
+        328
+      ],
+      "world_size": [
+        79.6097564697266,
+        64.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(749.7707, 663.0514):28",
+      "legacy_band_count": 68,
+      "native_pixel_count": 57780,
+      "production_band_count": 5,
+      "source_size": [
+        270,
+        214
+      ],
+      "world_size": [
+        37.8504676818848,
+        30.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(632.7155, 668.4764):33",
+      "legacy_band_count": 55,
+      "native_pixel_count": 55860,
+      "production_band_count": 4,
+      "source_size": [
+        266,
+        210
+      ],
+      "world_size": [
+        38.0,
+        30.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1549.712, 676.7222):35",
+      "legacy_band_count": 68,
+      "native_pixel_count": 57780,
+      "production_band_count": 5,
+      "source_size": [
+        270,
+        214
+      ],
+      "world_size": [
+        37.8504676818848,
+        30.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "bench:(620.0, 704.0):0",
+      "legacy_band_count": 50,
+      "native_pixel_count": 175392,
+      "production_band_count": 20,
+      "source_size": [
+        464,
+        378
+      ],
+      "world_size": [
+        100.65608215332,
+        82.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(662.8362, 765.3102):41",
+      "legacy_band_count": 46,
+      "native_pixel_count": 63840,
+      "production_band_count": 4,
+      "source_size": [
+        228,
+        280
+      ],
+      "world_size": [
+        30.9428577423096,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1974.888, 850.7177):56",
+      "legacy_band_count": 43,
+      "native_pixel_count": 77280,
+      "production_band_count": 7,
+      "source_size": [
+        230,
+        336
+      ],
+      "world_size": [
+        26.011905670166,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(642.061, 853.4523):23",
+      "legacy_band_count": 68,
+      "native_pixel_count": 57780,
+      "production_band_count": 5,
+      "source_size": [
+        270,
+        214
+      ],
+      "world_size": [
+        37.8504676818848,
+        30.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(755.8304, 861.5463):24",
+      "legacy_band_count": 61,
+      "native_pixel_count": 48816,
+      "production_band_count": 7,
+      "source_size": [
+        226,
+        216
+      ],
+      "world_size": [
+        31.3888893127441,
+        30.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1843.067, 889.6702):51",
+      "legacy_band_count": 42,
+      "native_pixel_count": 68672,
+      "production_band_count": 6,
+      "source_size": [
+        232,
+        296
+      ],
+      "world_size": [
+        29.7837829589844,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1498.192, 904.6406):46",
+      "legacy_band_count": 42,
+      "native_pixel_count": 68672,
+      "production_band_count": 6,
+      "source_size": [
+        232,
+        296
+      ],
+      "world_size": [
+        29.7837829589844,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1038.089, 922.4161):45",
+      "legacy_band_count": 46,
+      "native_pixel_count": 63840,
+      "production_band_count": 4,
+      "source_size": [
+        228,
+        280
+      ],
+      "world_size": [
+        30.9428577423096,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(710.057, 933.5012):22",
+      "legacy_band_count": 68,
+      "native_pixel_count": 57780,
+      "production_band_count": 5,
+      "source_size": [
+        270,
+        214
+      ],
+      "world_size": [
+        37.8504676818848,
+        30.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(917.6465, 935.2426):21",
+      "legacy_band_count": 58,
+      "native_pixel_count": 70675,
+      "production_band_count": 7,
+      "source_size": [
+        275,
+        257
+      ],
+      "world_size": [
+        40.6614799499512,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(464.9866, 970.8763):34",
+      "legacy_band_count": 68,
+      "native_pixel_count": 57780,
+      "production_band_count": 5,
+      "source_size": [
+        270,
+        214
+      ],
+      "world_size": [
+        37.8504676818848,
+        30.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(156.8815, 983.5966):19",
+      "legacy_band_count": 58,
+      "native_pixel_count": 70675,
+      "production_band_count": 7,
+      "source_size": [
+        275,
+        257
+      ],
+      "world_size": [
+        40.6614799499512,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1612.184, 987.3794):57",
+      "legacy_band_count": 42,
+      "native_pixel_count": 68672,
+      "production_band_count": 6,
+      "source_size": [
+        232,
+        296
+      ],
+      "world_size": [
+        29.7837829589844,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "shrub:(871.8834, 987.4397):-1",
+      "legacy_band_count": 52,
+      "native_pixel_count": 84180,
+      "production_band_count": 8,
+      "source_size": [
+        366,
+        230
+      ],
+      "world_size": [
+        84.3391342163086,
+        53.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1855.753, 989.6475):11",
+      "legacy_band_count": 58,
+      "native_pixel_count": 70675,
+      "production_band_count": 7,
+      "source_size": [
+        275,
+        257
+      ],
+      "world_size": [
+        40.6614799499512,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(826.2216, 1013.363):4",
+      "legacy_band_count": 48,
+      "native_pixel_count": 72624,
+      "production_band_count": 6,
+      "source_size": [
+        272,
+        267
+      ],
+      "world_size": [
+        38.7116088867188,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(599.5256, 1015.333):25",
+      "legacy_band_count": 61,
+      "native_pixel_count": 48816,
+      "production_band_count": 7,
+      "source_size": [
+        226,
+        216
+      ],
+      "world_size": [
+        31.3888893127441,
+        30.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "shrub:(276.5773, 1022.214):-1",
+      "legacy_band_count": 45,
+      "native_pixel_count": 94600,
+      "production_band_count": 10,
+      "source_size": [
+        430,
+        220
+      ],
+      "world_size": [
+        109.454544067383,
+        56.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(94.61462, 1038.487):10",
+      "legacy_band_count": 58,
+      "native_pixel_count": 70675,
+      "production_band_count": 7,
+      "source_size": [
+        275,
+        257
+      ],
+      "world_size": [
+        40.6614799499512,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(257.9934, 1038.368):59",
+      "legacy_band_count": 78,
+      "native_pixel_count": 64416,
+      "production_band_count": 9,
+      "source_size": [
+        264,
+        244
+      ],
+      "world_size": [
+        41.1147537231445,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "ore:(699.5208, 1044.288):2",
+      "legacy_band_count": 85,
+      "native_pixel_count": 125160,
+      "production_band_count": 12,
+      "source_size": [
+        420,
+        298
+      ],
+      "world_size": [
+        87.3825531005859,
+        62.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "shrub:(2137.126, 1043.785):-1",
+      "legacy_band_count": 55,
+      "native_pixel_count": 133824,
+      "production_band_count": 5,
+      "source_size": [
+        408,
+        328
+      ],
+      "world_size": [
+        72.1463394165039,
+        58.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1993.538, 1045.877):14",
+      "legacy_band_count": 48,
+      "native_pixel_count": 72624,
+      "production_band_count": 6,
+      "source_size": [
+        272,
+        267
+      ],
+      "world_size": [
+        38.7116088867188,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(168.7889, 1053.005):63",
+      "legacy_band_count": 48,
+      "native_pixel_count": 72624,
+      "production_band_count": 6,
+      "source_size": [
+        272,
+        267
+      ],
+      "world_size": [
+        38.7116088867188,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1482.689, 1058.843):47",
+      "legacy_band_count": 43,
+      "native_pixel_count": 77280,
+      "production_band_count": 7,
+      "source_size": [
+        230,
+        336
+      ],
+      "world_size": [
+        26.011905670166,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(706.6147, 1064.355):26",
+      "legacy_band_count": 55,
+      "native_pixel_count": 55860,
+      "production_band_count": 4,
+      "source_size": [
+        266,
+        210
+      ],
+      "world_size": [
+        38.0,
+        30.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(543.9967, 1073.753):39",
+      "legacy_band_count": 61,
+      "native_pixel_count": 48816,
+      "production_band_count": 7,
+      "source_size": [
+        226,
+        216
+      ],
+      "world_size": [
+        31.3888893127441,
+        30.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "shrub:(1911.311, 1082.633):-1",
+      "legacy_band_count": 65,
+      "native_pixel_count": 115328,
+      "production_band_count": 7,
+      "source_size": [
+        424,
+        272
+      ],
+      "world_size": [
+        82.6176452636719,
+        53.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(841.0894, 1096.072):2",
+      "legacy_band_count": 58,
+      "native_pixel_count": 70675,
+      "production_band_count": 7,
+      "source_size": [
+        275,
+        257
+      ],
+      "world_size": [
+        40.6614799499512,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1903.153, 1102.027):12",
+      "legacy_band_count": 48,
+      "native_pixel_count": 72624,
+      "production_band_count": 6,
+      "source_size": [
+        272,
+        267
+      ],
+      "world_size": [
+        38.7116088867188,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "shrub:(957.3467, 1109.838):-1",
+      "legacy_band_count": 52,
+      "native_pixel_count": 84180,
+      "production_band_count": 8,
+      "source_size": [
+        366,
+        230
+      ],
+      "world_size": [
+        97.0695648193359,
+        61.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1833.142, 1114.666):30",
+      "legacy_band_count": 61,
+      "native_pixel_count": 48816,
+      "production_band_count": 7,
+      "source_size": [
+        226,
+        216
+      ],
+      "world_size": [
+        31.3888893127441,
+        30.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(528.3776, 1142.076):52",
+      "legacy_band_count": 42,
+      "native_pixel_count": 68672,
+      "production_band_count": 6,
+      "source_size": [
+        232,
+        296
+      ],
+      "world_size": [
+        29.7837829589844,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(358.2708, 1147.885):15",
+      "legacy_band_count": 48,
+      "native_pixel_count": 72624,
+      "production_band_count": 6,
+      "source_size": [
+        272,
+        267
+      ],
+      "world_size": [
+        38.7116088867188,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "ore:(1859.813, 1167.107):3",
+      "legacy_band_count": 95,
+      "native_pixel_count": 134400,
+      "production_band_count": 11,
+      "source_size": [
+        448,
+        300
+      ],
+      "world_size": [
+        92.586669921875,
+        62.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1963.978, 1164.628):31",
+      "legacy_band_count": 61,
+      "native_pixel_count": 48816,
+      "production_band_count": 7,
+      "source_size": [
+        226,
+        216
+      ],
+      "world_size": [
+        31.3888893127441,
+        30.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(902.9286, 1183.019):43",
+      "legacy_band_count": 46,
+      "native_pixel_count": 63840,
+      "production_band_count": 4,
+      "source_size": [
+        228,
+        280
+      ],
+      "world_size": [
+        30.9428577423096,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1465.839, 1198.64):65",
+      "legacy_band_count": 58,
+      "native_pixel_count": 70675,
+      "production_band_count": 7,
+      "source_size": [
+        275,
+        257
+      ],
+      "world_size": [
+        40.6614799499512,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(724.8762, 1215.695):44",
+      "legacy_band_count": 43,
+      "native_pixel_count": 77280,
+      "production_band_count": 7,
+      "source_size": [
+        230,
+        336
+      ],
+      "world_size": [
+        26.011905670166,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1785.725, 1219.048):38",
+      "legacy_band_count": 68,
+      "native_pixel_count": 57780,
+      "production_band_count": 5,
+      "source_size": [
+        270,
+        214
+      ],
+      "world_size": [
+        37.8504676818848,
+        30.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(318.6169, 1237.723):42",
+      "legacy_band_count": 46,
+      "native_pixel_count": 63840,
+      "production_band_count": 4,
+      "source_size": [
+        228,
+        280
+      ],
+      "world_size": [
+        30.9428577423096,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(1914.531, 1236.35):32",
+      "legacy_band_count": 68,
+      "native_pixel_count": 57780,
+      "production_band_count": 5,
+      "source_size": [
+        270,
+        214
+      ],
+      "world_size": [
+        37.8504676818848,
+        30.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(889.0979, 1317.633):16",
+      "legacy_band_count": 78,
+      "native_pixel_count": 64416,
+      "production_band_count": 9,
+      "source_size": [
+        264,
+        244
+      ],
+      "world_size": [
+        41.1147537231445,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "shrub:(1022.27, 1330.156):-1",
+      "legacy_band_count": 55,
+      "native_pixel_count": 133824,
+      "production_band_count": 7,
+      "source_size": [
+        408,
+        328
+      ],
+      "world_size": [
+        75.8780517578125,
+        61.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "shrub:(1898.989, 1352.428):-1",
+      "legacy_band_count": 52,
+      "native_pixel_count": 84180,
+      "production_band_count": 8,
+      "source_size": [
+        366,
+        230
+      ],
+      "world_size": [
+        84.3391342163086,
+        53.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "resource:(495.1175, 1367.79):50",
+      "legacy_band_count": 42,
+      "native_pixel_count": 68672,
+      "production_band_count": 6,
+      "source_size": [
+        232,
+        296
+      ],
+      "world_size": [
+        29.7837829589844,
+        38.0
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "bank_rock:0:0",
+      "legacy_band_count": 19,
+      "native_pixel_count": 2296,
+      "production_band_count": 7,
+      "source_size": [
+        56,
+        41
+      ],
+      "world_size": [
+        32.3642730712891,
+        23.3415832519531
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "bank_rock:0:1",
+      "legacy_band_count": 38,
+      "native_pixel_count": 6596,
+      "production_band_count": 14,
+      "source_size": [
+        97,
+        68
+      ],
+      "world_size": [
+        56.0595436096191,
+        38.7128715515137
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "bank_rock:0:2",
+      "legacy_band_count": 15,
+      "native_pixel_count": 900,
+      "production_band_count": 5,
+      "source_size": [
+        30,
+        30
+      ],
+      "world_size": [
+        17.3380031585693,
+        17.0792083740234
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "bank_rock:0:3",
+      "legacy_band_count": 40,
+      "native_pixel_count": 6790,
+      "production_band_count": 14,
+      "source_size": [
+        97,
+        70
+      ],
+      "world_size": [
+        56.0595436096191,
+        39.8514823913574
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "bank_rock:0:4",
+      "legacy_band_count": 43,
+      "native_pixel_count": 6984,
+      "production_band_count": 13,
+      "source_size": [
+        97,
+        72
+      ],
+      "world_size": [
+        56.0595436096191,
+        40.9901008605957
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "bank_rock:0:5",
+      "legacy_band_count": 20,
+      "native_pixel_count": 1820,
+      "production_band_count": 8,
+      "source_size": [
+        52,
+        35
+      ],
+      "world_size": [
+        30.0525379180908,
+        19.9257411956787
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "bank_rock:0:6",
+      "legacy_band_count": 28,
+      "native_pixel_count": 5481,
+      "production_band_count": 13,
+      "source_size": [
+        87,
+        63
+      ],
+      "world_size": [
+        50.2802085876465,
+        35.8663368225098
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "bank_rock:1:0",
+      "legacy_band_count": 16,
+      "native_pixel_count": 2142,
+      "production_band_count": 3,
+      "source_size": [
+        51,
+        42
+      ],
+      "world_size": [
+        18.6688842773438,
+        14.7887325286865
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "bank_rock:1:1",
+      "legacy_band_count": 44,
+      "native_pixel_count": 11439,
+      "production_band_count": 9,
+      "source_size": [
+        123,
+        93
+      ],
+      "world_size": [
+        45.0249557495117,
+        32.7464790344238
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "bank_rock:1:2",
+      "legacy_band_count": 18,
+      "native_pixel_count": 2508,
+      "production_band_count": 4,
+      "source_size": [
+        57,
+        44
+      ],
+      "world_size": [
+        20.8652248382568,
+        15.4929580688477
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "bank_rock:1:3",
+      "legacy_band_count": 38,
+      "native_pixel_count": 8732,
+      "production_band_count": 7,
+      "source_size": [
+        118,
+        74
+      ],
+      "world_size": [
+        43.1946754455566,
+        26.0563373565674
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "bank_rock:1:4",
+      "legacy_band_count": 23,
+      "native_pixel_count": 2028,
+      "production_band_count": 6,
+      "source_size": [
+        52,
+        39
+      ],
+      "world_size": [
+        19.0349407196045,
+        13.7323942184448
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "bank_rock:2:0",
+      "legacy_band_count": 44,
+      "native_pixel_count": 11250,
+      "production_band_count": 12,
+      "source_size": [
+        125,
+        90
+      ],
+      "world_size": [
+        55.6144065856934,
+        31.1538467407227
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "bank_rock:2:1",
+      "legacy_band_count": 31,
+      "native_pixel_count": 5874,
+      "production_band_count": 8,
+      "source_size": [
+        89,
+        66
+      ],
+      "world_size": [
+        39.5974578857422,
+        22.846155166626
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "bank_rock:2:2",
+      "legacy_band_count": 32,
+      "native_pixel_count": 5100,
+      "production_band_count": 8,
+      "source_size": [
+        85,
+        60
+      ],
+      "world_size": [
+        37.817798614502,
+        20.7692317962646
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "bank_rock:2:3",
+      "legacy_band_count": 12,
+      "native_pixel_count": 1026,
+      "production_band_count": 4,
+      "source_size": [
+        38,
+        27
+      ],
+      "world_size": [
+        16.9067802429199,
+        9.34615421295166
+      ]
+    },
+    {
+      "exact_rgba_reconstruction": true,
+      "key": "bank_rock:2:4",
+      "legacy_band_count": 10,
+      "native_pixel_count": 680,
+      "production_band_count": 3,
+      "source_size": [
+        34,
+        20
+      ],
+      "world_size": [
+        15.1271181106567,
+        6.92307710647583
+      ]
+    }
+  ],
+  "scope": "Independent native source column continuity, exact RGBA reconstruction, bounded depth change and cache-identity checks. No source pixel resizing, collider mutation or manual GPU playthrough."
+}

@@ -1,0 +1,17 @@
+Independent visible-solid user regression, version 0.1.5.8
+
+Landmarks were manually authored from the visible PNG sprites before reading any new collision profile definitions. They were not generated from collision polygon interiors. The JSON and annotated sheet retain the original 63 camp/pond landmarks and add exposed bark/wood and leaf landmarks for all six tree variants.
+
+Final result: 5269 checks, 0 failures.
+Source landmarks: 98 (85 solid, 13 leaf/free).
+Mapped actual solid-instance samples: 274.
+Mapped actual canopy-instance samples: 124.
+Long-frame cardinal motion cases: 1096. Each target is tested with only the same object's containing collision polygon(s), excluding water, adjacent rocks and other scenery. The player must stop before that visible target and remain outside its collision.
+
+Leaf point versus actor footprint:
+A leaf pixel must not belong to a tree's wood collision. A complete actor capsule also must remain clear for the distant leaf landmarks. tree_5 canopy_right pixel (369,232) is beside a real exposed right branch: its leaf center stays free, while an actor capsule centered there can legitimately touch the branch. This one landmark retains the original coordinate and center-free assertion. A new independent distant upper-right leaf pixel (310,110) tests the complete actor footprint. The other original distant leaf landmarks retain their complete-footprint assertions. Final mapped free samples comprise 10 center-only nearby-branch samples plus 114 complete-footprint samples.
+
+Detected and fixed before final pass:
+The tree_5 upper-left exposed bark pixel (203,174), UV (0.487981,0.348), was originally outside that variant's own solid collision for all 10 map instances. The profile author extended the continuous upper-left wood contour. The ground-truth bark point was preserved and all final instances pass.
+
+Related display sampling result: test_actual_paint_density.gd previously passed 416 checks with 83 actual texture-size combinations and 139 game-prepared display-cache entries. Its JSON records source versus display texture sizes. These tests do not claim native manual visual gameplay.

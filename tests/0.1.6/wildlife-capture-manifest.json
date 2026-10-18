@@ -1,0 +1,564 @@
+{
+	"method": "Software replay of actual release Canvas drawing. Natural population is identified separately from staged demonstrations. Not native GPU screenshots.",
+	"scenes": [
+		{
+			"animals": [
+				{
+					"frame": 8,
+					"moving": false,
+					"p": [
+						1509.22924804688,
+						789.036376953125
+					],
+					"species": "rabbit"
+				},
+				{
+					"frame": 8,
+					"moving": false,
+					"p": [
+						1724.39404296875,
+						1073.99499511719
+					],
+					"species": "rabbit"
+				},
+				{
+					"frame": 8,
+					"moving": false,
+					"p": [
+						1533.84375,
+						1178.47595214844
+					],
+					"species": "rabbit"
+				},
+				{
+					"frame": 8,
+					"moving": false,
+					"p": [
+						1517.642578125,
+						873.990661621094
+					],
+					"species": "rabbit"
+				},
+				{
+					"frame": 8,
+					"moving": false,
+					"p": [
+						785.215209960938,
+						1229.34069824219
+					],
+					"species": "deer"
+				},
+				{
+					"frame": 8,
+					"moving": false,
+					"p": [
+						1536.07385253906,
+						1128.89367675781
+					],
+					"species": "deer"
+				},
+				{
+					"frame": 8,
+					"moving": false,
+					"p": [
+						1660.78454589844,
+						1024.53796386719
+					],
+					"species": "deer"
+				},
+				{
+					"frame": 8,
+					"moving": false,
+					"p": [
+						794.088989257812,
+						447.259979248047
+					],
+					"species": "fox"
+				},
+				{
+					"frame": 8,
+					"moving": false,
+					"p": [
+						1805.22802734375,
+						460.720092773438
+					],
+					"species": "fox"
+				}
+			],
+			"description": "Actual seeded wildlife population; camera on the eastern trail",
+			"name": "wildlife-day-natural",
+			"phase": "day",
+			"player": [
+				1700.0,
+				880.0
+			]
+		},
+		{
+			"animals": [
+				{
+					"frame": 4,
+					"moving": true,
+					"p": [
+						1570.0,
+						790.0
+					],
+					"species": "rabbit"
+				},
+				{
+					"frame": 2,
+					"moving": true,
+					"p": [
+						1810.0,
+						740.0
+					],
+					"species": "deer"
+				},
+				{
+					"frame": 4,
+					"moving": true,
+					"p": [
+						1720.0,
+						810.0
+					],
+					"species": "fox"
+				}
+			],
+			"description": "Staged daytime composition: rabbit, deer, fox; actual game Canvas",
+			"name": "wildlife-day-demo",
+			"phase": "day",
+			"player": [
+				1700.0,
+				880.0
+			]
+		},
+		{
+			"animals": [
+				{
+					"frame": 8,
+					"moving": false,
+					"p": [
+						1657.0,
+						850.0
+					],
+					"species": "wolf"
+				},
+				{
+					"frame": 2,
+					"moving": true,
+					"p": [
+						1840.0,
+						790.0
+					],
+					"species": "bear"
+				}
+			],
+			"description": "Staged nighttime combat composition: telegraphing wolf and approaching bear",
+			"name": "wildlife-night-demo",
+			"phase": "night",
+			"player": [
+				1700.0,
+				850.0
+			]
+		},
+		{
+			"animals": [
+				{
+					"frame": 0,
+					"moving": true,
+					"p": [
+						1700.0,
+						790.0
+					],
+					"species": "rabbit"
+				}
+			],
+			"description": "Staged registration inspection, actual renderer at world size",
+			"name": "wildlife-walk-rabbit-0",
+			"phase": "day",
+			"player": [
+				1750.0,
+				920.0
+			]
+		},
+		{
+			"animals": [
+				{
+					"frame": 2,
+					"moving": true,
+					"p": [
+						1700.0,
+						790.0
+					],
+					"species": "rabbit"
+				}
+			],
+			"description": "Staged registration inspection, actual renderer at world size",
+			"name": "wildlife-walk-rabbit-1",
+			"phase": "day",
+			"player": [
+				1750.0,
+				920.0
+			]
+		},
+		{
+			"animals": [
+				{
+					"frame": 4,
+					"moving": true,
+					"p": [
+						1700.0,
+						790.0
+					],
+					"species": "rabbit"
+				}
+			],
+			"description": "Staged registration inspection, actual renderer at world size",
+			"name": "wildlife-walk-rabbit-2",
+			"phase": "day",
+			"player": [
+				1750.0,
+				920.0
+			]
+		},
+		{
+			"animals": [
+				{
+					"frame": 6,
+					"moving": true,
+					"p": [
+						1700.0,
+						790.0
+					],
+					"species": "rabbit"
+				}
+			],
+			"description": "Staged registration inspection, actual renderer at world size",
+			"name": "wildlife-walk-rabbit-3",
+			"phase": "day",
+			"player": [
+				1750.0,
+				920.0
+			]
+		},
+		{
+			"animals": [
+				{
+					"frame": 0,
+					"moving": true,
+					"p": [
+						1700.0,
+						790.0
+					],
+					"species": "deer"
+				}
+			],
+			"description": "Staged registration inspection, actual renderer at world size",
+			"name": "wildlife-walk-deer-0",
+			"phase": "day",
+			"player": [
+				1750.0,
+				920.0
+			]
+		},
+		{
+			"animals": [
+				{
+					"frame": 2,
+					"moving": true,
+					"p": [
+						1700.0,
+						790.0
+					],
+					"species": "deer"
+				}
+			],
+			"description": "Staged registration inspection, actual renderer at world size",
+			"name": "wildlife-walk-deer-1",
+			"phase": "day",
+			"player": [
+				1750.0,
+				920.0
+			]
+		},
+		{
+			"animals": [
+				{
+					"frame": 4,
+					"moving": true,
+					"p": [
+						1700.0,
+						790.0
+					],
+					"species": "deer"
+				}
+			],
+			"description": "Staged registration inspection, actual renderer at world size",
+			"name": "wildlife-walk-deer-2",
+			"phase": "day",
+			"player": [
+				1750.0,
+				920.0
+			]
+		},
+		{
+			"animals": [
+				{
+					"frame": 6,
+					"moving": true,
+					"p": [
+						1700.0,
+						790.0
+					],
+					"species": "deer"
+				}
+			],
+			"description": "Staged registration inspection, actual renderer at world size",
+			"name": "wildlife-walk-deer-3",
+			"phase": "day",
+			"player": [
+				1750.0,
+				920.0
+			]
+		},
+		{
+			"animals": [
+				{
+					"frame": 0,
+					"moving": true,
+					"p": [
+						1700.0,
+						790.0
+					],
+					"species": "fox"
+				}
+			],
+			"description": "Staged registration inspection, actual renderer at world size",
+			"name": "wildlife-walk-fox-0",
+			"phase": "day",
+			"player": [
+				1750.0,
+				920.0
+			]
+		},
+		{
+			"animals": [
+				{
+					"frame": 2,
+					"moving": true,
+					"p": [
+						1700.0,
+						790.0
+					],
+					"species": "fox"
+				}
+			],
+			"description": "Staged registration inspection, actual renderer at world size",
+			"name": "wildlife-walk-fox-1",
+			"phase": "day",
+			"player": [
+				1750.0,
+				920.0
+			]
+		},
+		{
+			"animals": [
+				{
+					"frame": 4,
+					"moving": true,
+					"p": [
+						1700.0,
+						790.0
+					],
+					"species": "fox"
+				}
+			],
+			"description": "Staged registration inspection, actual renderer at world size",
+			"name": "wildlife-walk-fox-2",
+			"phase": "day",
+			"player": [
+				1750.0,
+				920.0
+			]
+		},
+		{
+			"animals": [
+				{
+					"frame": 6,
+					"moving": true,
+					"p": [
+						1700.0,
+						790.0
+					],
+					"species": "fox"
+				}
+			],
+			"description": "Staged registration inspection, actual renderer at world size",
+			"name": "wildlife-walk-fox-3",
+			"phase": "day",
+			"player": [
+				1750.0,
+				920.0
+			]
+		},
+		{
+			"animals": [
+				{
+					"frame": 0,
+					"moving": true,
+					"p": [
+						1700.0,
+						790.0
+					],
+					"species": "wolf"
+				}
+			],
+			"description": "Staged registration inspection, actual renderer at world size",
+			"name": "wildlife-walk-wolf-0",
+			"phase": "day",
+			"player": [
+				1750.0,
+				920.0
+			]
+		},
+		{
+			"animals": [
+				{
+					"frame": 2,
+					"moving": true,
+					"p": [
+						1700.0,
+						790.0
+					],
+					"species": "wolf"
+				}
+			],
+			"description": "Staged registration inspection, actual renderer at world size",
+			"name": "wildlife-walk-wolf-1",
+			"phase": "day",
+			"player": [
+				1750.0,
+				920.0
+			]
+		},
+		{
+			"animals": [
+				{
+					"frame": 4,
+					"moving": true,
+					"p": [
+						1700.0,
+						790.0
+					],
+					"species": "wolf"
+				}
+			],
+			"description": "Staged registration inspection, actual renderer at world size",
+			"name": "wildlife-walk-wolf-2",
+			"phase": "day",
+			"player": [
+				1750.0,
+				920.0
+			]
+		},
+		{
+			"animals": [
+				{
+					"frame": 6,
+					"moving": true,
+					"p": [
+						1700.0,
+						790.0
+					],
+					"species": "wolf"
+				}
+			],
+			"description": "Staged registration inspection, actual renderer at world size",
+			"name": "wildlife-walk-wolf-3",
+			"phase": "day",
+			"player": [
+				1750.0,
+				920.0
+			]
+		},
+		{
+			"animals": [
+				{
+					"frame": 0,
+					"moving": true,
+					"p": [
+						1700.0,
+						790.0
+					],
+					"species": "bear"
+				}
+			],
+			"description": "Staged registration inspection, actual renderer at world size",
+			"name": "wildlife-walk-bear-0",
+			"phase": "day",
+			"player": [
+				1750.0,
+				920.0
+			]
+		},
+		{
+			"animals": [
+				{
+					"frame": 2,
+					"moving": true,
+					"p": [
+						1700.0,
+						790.0
+					],
+					"species": "bear"
+				}
+			],
+			"description": "Staged registration inspection, actual renderer at world size",
+			"name": "wildlife-walk-bear-1",
+			"phase": "day",
+			"player": [
+				1750.0,
+				920.0
+			]
+		},
+		{
+			"animals": [
+				{
+					"frame": 4,
+					"moving": true,
+					"p": [
+						1700.0,
+						790.0
+					],
+					"species": "bear"
+				}
+			],
+			"description": "Staged registration inspection, actual renderer at world size",
+			"name": "wildlife-walk-bear-2",
+			"phase": "day",
+			"player": [
+				1750.0,
+				920.0
+			]
+		},
+		{
+			"animals": [
+				{
+					"frame": 6,
+					"moving": true,
+					"p": [
+						1700.0,
+						790.0
+					],
+					"species": "bear"
+				}
+			],
+			"description": "Staged registration inspection, actual renderer at world size",
+			"name": "wildlife-walk-bear-3",
+			"phase": "day",
+			"player": [
+				1750.0,
+				920.0
+			]
+		}
+	]
+}

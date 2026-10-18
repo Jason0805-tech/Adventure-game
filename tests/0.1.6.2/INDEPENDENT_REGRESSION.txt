@@ -1,0 +1,62 @@
+Independent final validation — Forest Wanderer 0.1.6.2
+
+FINAL SOURCE: +2-native-pixel source-leg guards and31motion-only stance biases.
+
+Final exact-source validation:
+ All40species/headings x32moving phases, plus40idle configurations:
+ 1,320UV meshes /2,791,701native vertices /4,400,715indexed triangles.
+ All1,854,732painted source triangles keep strictly positive orientation.
+ 60,377explicit native-edge bridge quads /120,754bridge triangles validate
+ finite native coordinates/UVs, indices, tags and original UV-edge identity.
+ Bridge UV source area is intentionally zero; no actual original-painted
+ surface triangle is exempted from the strict fold/collapse assertion.
+ All5original source PNG SHA256 hashes match version0.1.6. Idle reconstructs
+ the entire original native painting; source UVs and topology stay fixed.
+
+Final actual native Canvas coverage:
+ 1,080pose draws /27confirmed actual main._draw calls:5species x8headings x
+ 3phases (0,10/32,21/32) x3world positions xidle/wander/chase.
+ Positions:(80,80),(1100,700),(2050,1400). TimedCanvas only wraps super._draw;
+ release main.gd is unchanged. Exit0,0assertion failures,0GDScript/Canvas errors.
+ Final validation wall time11.379s. With40deliberately overlapping animals,
+ native Canvas CPU command generation mean25.153ms,max38.441ms. This is not
+ GPU frame time, measured normal-population FPS, or a manual GPU playthrough.
+
+Why final native coverage is reduced while geometry checks stay complete:
+ An earlier guarded-source run already covered11,520native poses /288actual
+ Canvas calls, all40headings x32phases x3positions xidle/wander/chase.
+ That broader run passed8,668,075indexed triangle checks, but occurred BEFORE
+ the final31stance biases and is retained as a pre-bias renderer diagnostic.
+ The final bias patch changes only per-leg translation targets and its compiled
+ definition hashes; rendering APIs, affine deformation and mesh structure are
+ unchanged. Final geometry is therefore rechecked across the full40x32phase
+ set; unchanged native submission is sampled at3phases and all3translations.
+ Both runs preserve all substantive paint/UV/fold assertions.
+
+Other regressions on this release (gameplay unchanged by render-only fixes):
+ smoke_features.gd:27PASS /ALL_FEATURE_SMOKES_PASSED,exit0.
+ test_night_cycle.gd:39PASS /ALL_NIGHT_CYCLE_PASSED,exit0.
+ wildlife_combat_integration.gd:30checks,failures0,exit0.
+ torch_integration.gd:260checks /TORCH_INTEGRATION_PASS,exit0.
+ test_lighting.gd:2,794checks,failures0,exit0.
+ test_native_lighting_draw.gd:torch/dark-eyes/dusk/dawn draw ready,exit0.
+
+Authored source registration:
+ Fox:8headings,23genuinelyvisible original-painted limb masks/bones.
+ Deer front:directions0/1/3,10original-painted limb masks/bones.
+ All99authored root/knee/ankle landmarks probe opaque native source paint.
+ Production source guards were subsequently expanded2native pixels to absorb
+ original antialiased edge hairs/toes into the moving original-painted pieces.
+
+Genuine earlier UV-fold failures were fixed in production, not hidden:
+ The original IK/LBS field inverted visible paint triangles. The replacement
+ is a monotonic translation field with piecewise affine weights on the4px
+ source mesh grid, preserving positive Jacobian even on clipped slivers.
+ Root independently reviews actual Canvas software replay for silhouette/gaps.
+
+Final tested release input SHA256 (unchanged from test start to finish):
+ res://animal_gait.gd f677cf03232c3aacde6dfe1cc002dd6fbacfa4b301857e1c8cc3396a8796d97b
+ res://assets/animal-skin-topology.bin 6559021db0830595ca751d316875e84e92b9b968e2f7023eee8debbca920ca98
+ res://assets/animal_atlas.json c1710d7b98fd88a5d7987679d8dbebc9287df5a54bd9b8046bca0362cde37a38
+ res://main.gd ddb83b743e0ad5cf842a32cebb6a2956339ef4d300de90f09588cd410462ff80
+ res://world_lighting.gd 808435832cfd275ee1fe93b8151d8021628af71ea15a3a18c3568cbcdd1cb7df

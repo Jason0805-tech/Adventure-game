@@ -1,0 +1,61 @@
+PASS Recipe Large stone sword
+PASS Recipe Short stone knife
+PASS Recipe Stone axe
+PASS Recipe Wooden knife
+PASS Recipe Wooden sword
+PASS Upgrade requires base sword
+PASS Upgrade costs only one rock and replaces base
+PASS Insufficient materials have no side effects
+PASS Weapon power adds up
+PASS Night starts without charging an action
+PASS Pause freezes transition
+PASS Invalid action cannot charge fullness
+PASS Action power and fullness 0
+PASS Action item reward 0
+PASS Repeated action input ignored
+PASS One survival credit per night
+PASS Night starts without charging an action
+PASS Pause freezes transition
+PASS Invalid action cannot charge fullness
+PASS Action power and fullness 1
+PASS Action item reward 1
+PASS Repeated action input ignored
+PASS One survival credit per night
+PASS Night starts without charging an action
+PASS Pause freezes transition
+PASS Invalid action cannot charge fullness
+PASS Action power and fullness 2
+PASS Action item reward 2
+PASS Repeated action input ignored
+PASS One survival credit per night
+PASS Low power with no item loses
+PASS Exact threshold survives
+PASS Magic stone is consumed before medicine
+PASS Medicine rescue consumed once
+PASS Third-night defeat is not a win
+PASS Three-night weapons victory; fullness warns only
+PASS No fourth night after winning
+PASS Full three-night item-assisted victory
+PASS Full bag rejects 1000 repeated pickups
+PASS Drop preserves resource
+PASS Re-pickup dropped resource
+PASS Dawn restocks originals and preserves carried gear
+PASS Night blocks collecting and crafting
+PASS Fullness warning 0
+PASS Fullness warning 20
+PASS Fullness warning 40
+PASS Fullness warning 60
+PASS Fullness warning 100
+PASS Lake and cabin collision
+PASS Diagonal movement speed
+PASS Countdown stays in daylight until deadline
+PASS Esc pause freezes daylight clock
+PASS Automatic night closes daytime panels at deadline
+PASS Clock cannot trigger duplicate night or action cost
+PASS Morning resets countdown to 90 seconds
+PASS Backpack does not pause daylight
+PASS Crafting does not pause daylight
+RESULT: 57 checks, 0 failures
+
+11 UI states executed without script errors in the headless smoke test.
+Desktop window verified: daylight timer, English HUD and dynamic shadows visible.

@@ -1,0 +1,7 @@
+{"mode":"ok","networkRequests":6,"engineStarted":true,"error":""}
+{"mode":"forcedtouch","networkRequests":6,"engineStarted":true,"error":""}
+{"mode":"badchunk","networkRequests":2,"engineStarted":false,"error":"Incomplete game download. Please reload."}
+{"mode":"nogl","networkRequests":0,"engineStarted":false,"error":"This game needs WebGL 2. Try opening the link in Safari."}
+{"mode":"smallgpu","networkRequests":0,"engineStarted":false,"error":"This device cannot load the full-quality character artwork. Try a newer device."}
+{"mode":"engineerror","networkRequests":5,"engineStarted":true,"error":"Engine fixture startup failed"}
+WEB_LOADER_CONTRACT_PASS 63

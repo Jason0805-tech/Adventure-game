@@ -1,0 +1,5219 @@
+{
+  "version": "0.1.6",
+  "format": "native-rgba-registered-grid-v1",
+  "direction_convention": "0=S,45=SE,90=E,135=NE,180=N,225=NW,270=W,315=SW",
+  "frame_sequence": "contact-A,passing-A,contact-B,passing-B; rabbit crouch,push,hop,land",
+  "registration": "Native source pixels cropped and integer-translated onto transparent padding; no resampling. Fixed anchor for all poses. Independent painted leg keys, no limb rotation.",
+  "species": {
+    "rabbit": {
+      "path": "res://assets/wildlife-rabbit.png",
+      "cell": [
+        384,
+        384
+      ],
+      "anchor": [
+        192,
+        320
+      ],
+      "angles": [
+        0,
+        45,
+        90,
+        135,
+        180,
+        225,
+        270,
+        315
+      ],
+      "frames": 4,
+      "idle_frame": 0,
+      "world_height": 32,
+      "reference_height_px": 150,
+      "stride_world": 40,
+      "poses": [
+        [
+          {
+            "source_rect": [
+              0,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              68,
+              56,
+              174,
+              213
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 0,
+            "native_source_row": 0,
+            "native_paste": [
+              135,
+              166
+            ],
+            "paint_bounds": [
+              138,
+              169,
+              238,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              0,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              67,
+              268,
+              171,
+              424
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 0,
+            "native_source_row": 1,
+            "native_paste": [
+              139,
+              164
+            ],
+            "paint_bounds": [
+              142,
+              167,
+              240,
+              317
+            ]
+          },
+          {
+            "source_rect": [
+              0,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              66,
+              482,
+              173,
+              640
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 0,
+            "native_source_row": 2,
+            "native_paste": [
+              138,
+              161
+            ],
+            "paint_bounds": [
+              141,
+              164,
+              242,
+              316
+            ]
+          },
+          {
+            "source_rect": [
+              0,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              65,
+              687,
+              168,
+              833
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 0,
+            "native_source_row": 3,
+            "native_paste": [
+              139,
+              165
+            ],
+            "paint_bounds": [
+              142,
+              168,
+              239,
+              308
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              384,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              278,
+              53,
+              404,
+              213
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 1,
+            "native_source_row": 0,
+            "native_paste": [
+              129,
+              163
+            ],
+            "paint_bounds": [
+              132,
+              166,
+              252,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              384,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              272,
+              267,
+              406,
+              424
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 1,
+            "native_source_row": 1,
+            "native_paste": [
+              128,
+              161
+            ],
+            "paint_bounds": [
+              131,
+              164,
+              259,
+              315
+            ]
+          },
+          {
+            "source_rect": [
+              384,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              261,
+              473,
+              412,
+              627
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 1,
+            "native_source_row": 2,
+            "native_paste": [
+              117,
+              158
+            ],
+            "paint_bounds": [
+              120,
+              161,
+              265,
+              309
+            ]
+          },
+          {
+            "source_rect": [
+              384,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              267,
+              681,
+              400,
+              833
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 1,
+            "native_source_row": 3,
+            "native_paste": [
+              126,
+              162
+            ],
+            "paint_bounds": [
+              129,
+              165,
+              256,
+              311
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              768,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              484,
+              63,
+              645,
+              214
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 2,
+            "native_source_row": 0,
+            "native_paste": [
+              102,
+              172
+            ],
+            "paint_bounds": [
+              105,
+              175,
+              260,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              768,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              485,
+              280,
+              646,
+              424
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 2,
+            "native_source_row": 1,
+            "native_paste": [
+              109,
+              170
+            ],
+            "paint_bounds": [
+              112,
+              173,
+              267,
+              311
+            ]
+          },
+          {
+            "source_rect": [
+              768,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              479,
+              487,
+              645,
+              630
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 2,
+            "native_source_row": 2,
+            "native_paste": [
+              104,
+              167
+            ],
+            "paint_bounds": [
+              107,
+              170,
+              267,
+              307
+            ]
+          },
+          {
+            "source_rect": [
+              768,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              486,
+              691,
+              648,
+              833
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 2,
+            "native_source_row": 3,
+            "native_paste": [
+              106,
+              171
+            ],
+            "paint_bounds": [
+              109,
+              174,
+              265,
+              310
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              1152,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              707,
+              56,
+              855,
+              214
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 3,
+            "native_source_row": 0,
+            "native_paste": [
+              107,
+              165
+            ],
+            "paint_bounds": [
+              110,
+              168,
+              252,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              1152,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              709,
+              270,
+              855,
+              434
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 3,
+            "native_source_row": 1,
+            "native_paste": [
+              114,
+              163
+            ],
+            "paint_bounds": [
+              117,
+              166,
+              257,
+              324
+            ]
+          },
+          {
+            "source_rect": [
+              1152,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              709,
+              481,
+              864,
+              640
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 3,
+            "native_source_row": 2,
+            "native_paste": [
+              109,
+              160
+            ],
+            "paint_bounds": [
+              112,
+              163,
+              261,
+              316
+            ]
+          },
+          {
+            "source_rect": [
+              1152,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              708,
+              684,
+              860,
+              832
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 3,
+            "native_source_row": 3,
+            "native_paste": [
+              109,
+              164
+            ],
+            "paint_bounds": [
+              112,
+              167,
+              258,
+              309
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              1536,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              952,
+              53,
+              1044,
+              213
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 4,
+            "native_source_row": 0,
+            "native_paste": [
+              146,
+              163
+            ],
+            "paint_bounds": [
+              149,
+              166,
+              235,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              1536,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              951,
+              265,
+              1043,
+              430
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 4,
+            "native_source_row": 1,
+            "native_paste": [
+              145,
+              161
+            ],
+            "paint_bounds": [
+              148,
+              164,
+              234,
+              323
+            ]
+          },
+          {
+            "source_rect": [
+              1536,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              953,
+              467,
+              1043,
+              644
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 4,
+            "native_source_row": 2,
+            "native_paste": [
+              147,
+              158
+            ],
+            "paint_bounds": [
+              150,
+              161,
+              234,
+              332
+            ]
+          },
+          {
+            "source_rect": [
+              1536,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              952,
+              686,
+              1042,
+              832
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 4,
+            "native_source_row": 3,
+            "native_paste": [
+              147,
+              162
+            ],
+            "paint_bounds": [
+              150,
+              165,
+              234,
+              305
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              1920,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1145,
+              58,
+              1290,
+              214
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 5,
+            "native_source_row": 0,
+            "native_paste": [
+              131,
+              167
+            ],
+            "paint_bounds": [
+              134,
+              170,
+              273,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              1920,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1143,
+              269,
+              1286,
+              437
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 5,
+            "native_source_row": 1,
+            "native_paste": [
+              127,
+              165
+            ],
+            "paint_bounds": [
+              130,
+              168,
+              267,
+              330
+            ]
+          },
+          {
+            "source_rect": [
+              1920,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1136,
+              484,
+              1290,
+              638
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 5,
+            "native_source_row": 2,
+            "native_paste": [
+              121,
+              162
+            ],
+            "paint_bounds": [
+              124,
+              165,
+              272,
+              313
+            ]
+          },
+          {
+            "source_rect": [
+              1920,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1133,
+              683,
+              1286,
+              833
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 5,
+            "native_source_row": 3,
+            "native_paste": [
+              124,
+              166
+            ],
+            "paint_bounds": [
+              127,
+              169,
+              274,
+              313
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              2304,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1355,
+              64,
+              1517,
+              214
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 6,
+            "native_source_row": 0,
+            "native_paste": [
+              117,
+              173
+            ],
+            "paint_bounds": [
+              120,
+              176,
+              276,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              2304,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1353,
+              278,
+              1518,
+              425
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 6,
+            "native_source_row": 1,
+            "native_paste": [
+              114,
+              171
+            ],
+            "paint_bounds": [
+              117,
+              174,
+              276,
+              315
+            ]
+          },
+          {
+            "source_rect": [
+              2304,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1354,
+              484,
+              1525,
+              629
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 6,
+            "native_source_row": 2,
+            "native_paste": [
+              113,
+              168
+            ],
+            "paint_bounds": [
+              116,
+              171,
+              281,
+              310
+            ]
+          },
+          {
+            "source_rect": [
+              2304,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1351,
+              688,
+              1512,
+              833
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 6,
+            "native_source_row": 3,
+            "native_paste": [
+              116,
+              172
+            ],
+            "paint_bounds": [
+              119,
+              175,
+              274,
+              314
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              2688,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1600,
+              61,
+              1727,
+              214
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 7,
+            "native_source_row": 0,
+            "native_paste": [
+              131,
+              170
+            ],
+            "paint_bounds": [
+              134,
+              173,
+              255,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              2688,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1593,
+              273,
+              1719,
+              426
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 7,
+            "native_source_row": 1,
+            "native_paste": [
+              129,
+              168
+            ],
+            "paint_bounds": [
+              132,
+              171,
+              252,
+              318
+            ]
+          },
+          {
+            "source_rect": [
+              2688,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1592,
+              481,
+              1727,
+              638
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 7,
+            "native_source_row": 2,
+            "native_paste": [
+              126,
+              165
+            ],
+            "paint_bounds": [
+              129,
+              168,
+              258,
+              319
+            ]
+          },
+          {
+            "source_rect": [
+              2688,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1601,
+              684,
+              1734,
+              833
+            ],
+            "native_source_file": "exec-7299126d-a7d1-47a6-944e-89f5c73dc7ca.png",
+            "native_source_column": 7,
+            "native_source_row": 3,
+            "native_paste": [
+              127,
+              169
+            ],
+            "paint_bounds": [
+              130,
+              172,
+              257,
+              315
+            ]
+          }
+        ]
+      ],
+      "native_source_dimensions": [
+        1774,
+        887
+      ],
+      "source_sha256": "4f156d4199f57d91968af66020887899d6184f44aead11698915bb58fab0def3",
+      "production_sha256": "5a3df266c08c2ca1340afb95b52c51c7b8c533190b18ab7d4213be0e6aa33fa5"
+    },
+    "deer": {
+      "path": "res://assets/wildlife-deer.png",
+      "cell": [
+        384,
+        384
+      ],
+      "anchor": [
+        192,
+        320
+      ],
+      "angles": [
+        0,
+        45,
+        90,
+        135,
+        180,
+        225,
+        270,
+        315
+      ],
+      "frames": 4,
+      "idle_frame": 0,
+      "world_height": 70,
+      "reference_height_px": 192,
+      "stride_world": 70,
+      "poses": [
+        [
+          {
+            "source_rect": [
+              0,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              76,
+              26,
+              163,
+              219
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 0,
+            "native_source_row": 0,
+            "native_paste": [
+              149,
+              130
+            ],
+            "paint_bounds": [
+              152,
+              133,
+              233,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              0,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              73,
+              248,
+              161,
+              442
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 0,
+            "native_source_row": 1,
+            "native_paste": [
+              148,
+              129
+            ],
+            "paint_bounds": [
+              151,
+              132,
+              233,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              0,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              72,
+              461,
+              161,
+              658
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 0,
+            "native_source_row": 2,
+            "native_paste": [
+              147,
+              130
+            ],
+            "paint_bounds": [
+              150,
+              133,
+              233,
+              324
+            ]
+          },
+          {
+            "source_rect": [
+              0,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              75,
+              681,
+              162,
+              872
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 0,
+            "native_source_row": 3,
+            "native_paste": [
+              149,
+              129
+            ],
+            "paint_bounds": [
+              152,
+              132,
+              233,
+              317
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              384,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              255,
+              22,
+              429,
+              219
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 1,
+            "native_source_row": 0,
+            "native_paste": [
+              106,
+              126
+            ],
+            "paint_bounds": [
+              109,
+              129,
+              277,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              384,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              257,
+              248,
+              423,
+              442
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 1,
+            "native_source_row": 1,
+            "native_paste": [
+              112,
+              125
+            ],
+            "paint_bounds": [
+              115,
+              128,
+              275,
+              316
+            ]
+          },
+          {
+            "source_rect": [
+              384,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              259,
+              462,
+              424,
+              660
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 1,
+            "native_source_row": 2,
+            "native_paste": [
+              112,
+              126
+            ],
+            "paint_bounds": [
+              115,
+              129,
+              274,
+              321
+            ]
+          },
+          {
+            "source_rect": [
+              384,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              255,
+              677,
+              424,
+              871
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 1,
+            "native_source_row": 3,
+            "native_paste": [
+              109,
+              125
+            ],
+            "paint_bounds": [
+              112,
+              128,
+              275,
+              316
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              768,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              461,
+              16,
+              682,
+              212
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 2,
+            "native_source_row": 0,
+            "native_paste": [
+              74,
+              127
+            ],
+            "paint_bounds": [
+              77,
+              130,
+              292,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              768,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              467,
+              242,
+              678,
+              437
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 2,
+            "native_source_row": 1,
+            "native_paste": [
+              83,
+              126
+            ],
+            "paint_bounds": [
+              86,
+              129,
+              291,
+              318
+            ]
+          },
+          {
+            "source_rect": [
+              768,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              464,
+              456,
+              676,
+              656
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 2,
+            "native_source_row": 2,
+            "native_paste": [
+              82,
+              127
+            ],
+            "paint_bounds": [
+              85,
+              130,
+              291,
+              324
+            ]
+          },
+          {
+            "source_rect": [
+              768,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              455,
+              673,
+              675,
+              870
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 2,
+            "native_source_row": 3,
+            "native_paste": [
+              75,
+              126
+            ],
+            "paint_bounds": [
+              78,
+              129,
+              292,
+              320
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              1152,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              710,
+              15,
+              873,
+              221
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 3,
+            "native_source_row": 0,
+            "native_paste": [
+              103,
+              117
+            ],
+            "paint_bounds": [
+              106,
+              120,
+              263,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              1152,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              726,
+              241,
+              875,
+              444
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 3,
+            "native_source_row": 1,
+            "native_paste": [
+              115,
+              116
+            ],
+            "paint_bounds": [
+              118,
+              119,
+              261,
+              316
+            ]
+          },
+          {
+            "source_rect": [
+              1152,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              709,
+              459,
+              875,
+              666
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 3,
+            "native_source_row": 2,
+            "native_paste": [
+              102,
+              117
+            ],
+            "paint_bounds": [
+              105,
+              120,
+              265,
+              321
+            ]
+          },
+          {
+            "source_rect": [
+              1152,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              727,
+              673,
+              872,
+              876
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 3,
+            "native_source_row": 3,
+            "native_paste": [
+              118,
+              116
+            ],
+            "paint_bounds": [
+              121,
+              119,
+              260,
+              316
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              1536,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              953,
+              16,
+              1033,
+              223
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 4,
+            "native_source_row": 0,
+            "native_paste": [
+              152,
+              116
+            ],
+            "paint_bounds": [
+              155,
+              119,
+              229,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              1536,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              953,
+              244,
+              1032,
+              444
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 4,
+            "native_source_row": 1,
+            "native_paste": [
+              153,
+              115
+            ],
+            "paint_bounds": [
+              156,
+              118,
+              229,
+              312
+            ]
+          },
+          {
+            "source_rect": [
+              1536,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              953,
+              468,
+              1032,
+              665
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 4,
+            "native_source_row": 2,
+            "native_paste": [
+              152,
+              116
+            ],
+            "paint_bounds": [
+              155,
+              119,
+              228,
+              310
+            ]
+          },
+          {
+            "source_rect": [
+              1536,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              954,
+              681,
+              1032,
+              876
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 4,
+            "native_source_row": 3,
+            "native_paste": [
+              153,
+              115
+            ],
+            "paint_bounds": [
+              156,
+              118,
+              228,
+              307
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              1920,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1125,
+              17,
+              1287,
+              222
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 5,
+            "native_source_row": 0,
+            "native_paste": [
+              119,
+              118
+            ],
+            "paint_bounds": [
+              122,
+              121,
+              278,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              1920,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1123,
+              242,
+              1267,
+              443
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 5,
+            "native_source_row": 1,
+            "native_paste": [
+              124,
+              117
+            ],
+            "paint_bounds": [
+              127,
+              120,
+              265,
+              315
+            ]
+          },
+          {
+            "source_rect": [
+              1920,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1122,
+              459,
+              1282,
+              667
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 5,
+            "native_source_row": 2,
+            "native_paste": [
+              121,
+              118
+            ],
+            "paint_bounds": [
+              124,
+              121,
+              278,
+              323
+            ]
+          },
+          {
+            "source_rect": [
+              1920,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1123,
+              674,
+              1265,
+              876
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 5,
+            "native_source_row": 3,
+            "native_paste": [
+              124,
+              117
+            ],
+            "paint_bounds": [
+              127,
+              120,
+              263,
+              316
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              2304,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1325,
+              17,
+              1543,
+              215
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 6,
+            "native_source_row": 0,
+            "native_paste": [
+              89,
+              125
+            ],
+            "paint_bounds": [
+              92,
+              128,
+              304,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              2304,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1332,
+              243,
+              1545,
+              437
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 6,
+            "native_source_row": 1,
+            "native_paste": [
+              92,
+              124
+            ],
+            "paint_bounds": [
+              95,
+              127,
+              302,
+              315
+            ]
+          },
+          {
+            "source_rect": [
+              2304,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1331,
+              456,
+              1545,
+              655
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 6,
+            "native_source_row": 2,
+            "native_paste": [
+              90,
+              125
+            ],
+            "paint_bounds": [
+              93,
+              128,
+              301,
+              321
+            ]
+          },
+          {
+            "source_rect": [
+              2304,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1331,
+              674,
+              1552,
+              869
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 6,
+            "native_source_row": 3,
+            "native_paste": [
+              92,
+              124
+            ],
+            "paint_bounds": [
+              95,
+              127,
+              310,
+              316
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              2688,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1607,
+              24,
+              1745,
+              221
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 7,
+            "native_source_row": 0,
+            "native_paste": [
+              122,
+              126
+            ],
+            "paint_bounds": [
+              125,
+              129,
+              257,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              2688,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1604,
+              250,
+              1745,
+              444
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 7,
+            "native_source_row": 1,
+            "native_paste": [
+              119,
+              125
+            ],
+            "paint_bounds": [
+              122,
+              128,
+              257,
+              316
+            ]
+          },
+          {
+            "source_rect": [
+              2688,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1599,
+              465,
+              1740,
+              657
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 7,
+            "native_source_row": 2,
+            "native_paste": [
+              119,
+              126
+            ],
+            "paint_bounds": [
+              122,
+              129,
+              257,
+              315
+            ]
+          },
+          {
+            "source_rect": [
+              2688,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1602,
+              681,
+              1744,
+              876
+            ],
+            "native_source_file": "exec-e88c9123-9ac0-43de-b52a-e57e355e5f5d.png",
+            "native_source_column": 7,
+            "native_source_row": 3,
+            "native_paste": [
+              118,
+              125
+            ],
+            "paint_bounds": [
+              121,
+              128,
+              257,
+              317
+            ]
+          }
+        ]
+      ],
+      "native_source_dimensions": [
+        1774,
+        887
+      ],
+      "source_sha256": "89abb7b60c74032f90718bbdc6458136fabfa248bd0d31834ceea4152f2959cd",
+      "production_sha256": "c3648d4a81e160118366f8f011b6539d27959f159910f1fa651a10de3baac638"
+    },
+    "fox": {
+      "path": "res://assets/wildlife-fox.png",
+      "cell": [
+        384,
+        384
+      ],
+      "anchor": [
+        192,
+        320
+      ],
+      "angles": [
+        0,
+        45,
+        90,
+        135,
+        180,
+        225,
+        270,
+        315
+      ],
+      "frames": 4,
+      "idle_frame": 0,
+      "world_height": 42,
+      "reference_height_px": 167,
+      "stride_world": 55,
+      "poses": [
+        [
+          {
+            "source_rect": [
+              0,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              61,
+              54,
+              172,
+              228
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 0,
+            "native_source_row": 0,
+            "native_paste": [
+              130,
+              149
+            ],
+            "paint_bounds": [
+              133,
+              152,
+              238,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              0,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              66,
+              267,
+              172,
+              442
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 0,
+            "native_source_row": 1,
+            "native_paste": [
+              135,
+              148
+            ],
+            "paint_bounds": [
+              138,
+              151,
+              238,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              0,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              65,
+              484,
+              171,
+              659
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 0,
+            "native_source_row": 2,
+            "native_paste": [
+              133,
+              149
+            ],
+            "paint_bounds": [
+              136,
+              152,
+              236,
+              321
+            ]
+          },
+          {
+            "source_rect": [
+              0,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              61,
+              691,
+              171,
+              864
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 0,
+            "native_source_row": 3,
+            "native_paste": [
+              131,
+              148
+            ],
+            "paint_bounds": [
+              134,
+              151,
+              238,
+              318
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              384,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              243,
+              67,
+              409,
+              242
+            ],
+            "native_source_file": "exec-6af033d1-aae0-4b23-8135-820adc01a68f.png",
+            "native_source_column": 1,
+            "native_source_row": 0,
+            "native_paste": [
+              107,
+              148
+            ],
+            "paint_bounds": [
+              110,
+              151,
+              270,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              384,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              242,
+              267,
+              410,
+              444
+            ],
+            "native_source_file": "exec-6af033d1-aae0-4b23-8135-820adc01a68f.png",
+            "native_source_column": 1,
+            "native_source_row": 1,
+            "native_paste": [
+              104,
+              147
+            ],
+            "paint_bounds": [
+              107,
+              150,
+              269,
+              321
+            ]
+          },
+          {
+            "source_rect": [
+              384,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              244,
+              499,
+              408,
+              666
+            ],
+            "native_source_file": "exec-6af033d1-aae0-4b23-8135-820adc01a68f.png",
+            "native_source_column": 1,
+            "native_source_row": 2,
+            "native_paste": [
+              106,
+              148
+            ],
+            "paint_bounds": [
+              109,
+              151,
+              267,
+              312
+            ]
+          },
+          {
+            "source_rect": [
+              384,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              244,
+              694,
+              410,
+              868
+            ],
+            "native_source_file": "exec-6af033d1-aae0-4b23-8135-820adc01a68f.png",
+            "native_source_column": 1,
+            "native_source_row": 3,
+            "native_paste": [
+              107,
+              147
+            ],
+            "paint_bounds": [
+              110,
+              150,
+              270,
+              318
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              768,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              449,
+              52,
+              656,
+              223
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 2,
+            "native_source_row": 0,
+            "native_paste": [
+              77,
+              152
+            ],
+            "paint_bounds": [
+              80,
+              155,
+              281,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              768,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              463,
+              265,
+              656,
+              437
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 2,
+            "native_source_row": 1,
+            "native_paste": [
+              88,
+              151
+            ],
+            "paint_bounds": [
+              91,
+              154,
+              278,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              768,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              444,
+              483,
+              656,
+              656
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 2,
+            "native_source_row": 2,
+            "native_paste": [
+              77,
+              152
+            ],
+            "paint_bounds": [
+              80,
+              155,
+              286,
+              322
+            ]
+          },
+          {
+            "source_rect": [
+              768,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              445,
+              687,
+              659,
+              862
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 2,
+            "native_source_row": 3,
+            "native_paste": [
+              73,
+              151
+            ],
+            "paint_bounds": [
+              76,
+              154,
+              284,
+              323
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              1152,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              682,
+              51,
+              855,
+              223
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 3,
+            "native_source_row": 0,
+            "native_paste": [
+              84,
+              151
+            ],
+            "paint_bounds": [
+              87,
+              154,
+              254,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              1152,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              689,
+              262,
+              853,
+              437
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 3,
+            "native_source_row": 1,
+            "native_paste": [
+              90,
+              150
+            ],
+            "paint_bounds": [
+              93,
+              153,
+              251,
+              322
+            ]
+          },
+          {
+            "source_rect": [
+              1152,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              679,
+              481,
+              854,
+              656
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 3,
+            "native_source_row": 2,
+            "native_paste": [
+              81,
+              151
+            ],
+            "paint_bounds": [
+              84,
+              154,
+              253,
+              323
+            ]
+          },
+          {
+            "source_rect": [
+              1152,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              689,
+              688,
+              854,
+              862
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 3,
+            "native_source_row": 3,
+            "native_paste": [
+              90,
+              150
+            ],
+            "paint_bounds": [
+              93,
+              153,
+              252,
+              321
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              1536,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              929,
+              52,
+              1020,
+              232
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 4,
+            "native_source_row": 0,
+            "native_paste": [
+              148,
+              143
+            ],
+            "paint_bounds": [
+              151,
+              146,
+              236,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              1536,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              931,
+              262,
+              1020,
+              441
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 4,
+            "native_source_row": 1,
+            "native_paste": [
+              149,
+              142
+            ],
+            "paint_bounds": [
+              152,
+              145,
+              235,
+              318
+            ]
+          },
+          {
+            "source_rect": [
+              1536,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              930,
+              483,
+              1020,
+              663
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 4,
+            "native_source_row": 2,
+            "native_paste": [
+              149,
+              143
+            ],
+            "paint_bounds": [
+              152,
+              146,
+              236,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              1536,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              929,
+              687,
+              1020,
+              869
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 4,
+            "native_source_row": 3,
+            "native_paste": [
+              148,
+              142
+            ],
+            "paint_bounds": [
+              151,
+              145,
+              236,
+              321
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              1920,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1112,
+              52,
+              1274,
+              226
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 5,
+            "native_source_row": 0,
+            "native_paste": [
+              127,
+              149
+            ],
+            "paint_bounds": [
+              130,
+              152,
+              286,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              1920,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1110,
+              262,
+              1259,
+              439
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 5,
+            "native_source_row": 1,
+            "native_paste": [
+              132,
+              148
+            ],
+            "paint_bounds": [
+              135,
+              151,
+              278,
+              322
+            ]
+          },
+          {
+            "source_rect": [
+              1920,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1106,
+              482,
+              1284,
+              659
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 5,
+            "native_source_row": 2,
+            "native_paste": [
+              125,
+              149
+            ],
+            "paint_bounds": [
+              128,
+              152,
+              300,
+              323
+            ]
+          },
+          {
+            "source_rect": [
+              1920,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1107,
+              688,
+              1272,
+              862
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 5,
+            "native_source_row": 3,
+            "native_paste": [
+              128,
+              148
+            ],
+            "paint_bounds": [
+              131,
+              151,
+              290,
+              319
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              2304,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1306,
+              49,
+              1543,
+              218
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 6,
+            "native_source_row": 0,
+            "native_paste": [
+              92,
+              154
+            ],
+            "paint_bounds": [
+              95,
+              157,
+              326,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              2304,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1304,
+              261,
+              1545,
+              433
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 6,
+            "native_source_row": 1,
+            "native_paste": [
+              89,
+              153
+            ],
+            "paint_bounds": [
+              92,
+              156,
+              327,
+              322
+            ]
+          },
+          {
+            "source_rect": [
+              2304,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1308,
+              481,
+              1543,
+              651
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 6,
+            "native_source_row": 2,
+            "native_paste": [
+              89,
+              154
+            ],
+            "paint_bounds": [
+              92,
+              157,
+              321,
+              321
+            ]
+          },
+          {
+            "source_rect": [
+              2304,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1306,
+              688,
+              1536,
+              857
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 6,
+            "native_source_row": 3,
+            "native_paste": [
+              93,
+              153
+            ],
+            "paint_bounds": [
+              96,
+              156,
+              320,
+              319
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              2688,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1564,
+              53,
+              1736,
+              224
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 7,
+            "native_source_row": 0,
+            "native_paste": [
+              115,
+              152
+            ],
+            "paint_bounds": [
+              118,
+              155,
+              284,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              2688,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1564,
+              265,
+              1734,
+              442
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 7,
+            "native_source_row": 1,
+            "native_paste": [
+              117,
+              151
+            ],
+            "paint_bounds": [
+              120,
+              154,
+              284,
+              325
+            ]
+          },
+          {
+            "source_rect": [
+              2688,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1566,
+              484,
+              1737,
+              657
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 7,
+            "native_source_row": 2,
+            "native_paste": [
+              115,
+              152
+            ],
+            "paint_bounds": [
+              118,
+              155,
+              283,
+              322
+            ]
+          },
+          {
+            "source_rect": [
+              2688,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1566,
+              689,
+              1742,
+              859
+            ],
+            "native_source_file": "exec-cb036d13-54d4-4caf-9f45-0ce74cfe72ef.png",
+            "native_source_column": 7,
+            "native_source_row": 3,
+            "native_paste": [
+              115,
+              151
+            ],
+            "paint_bounds": [
+              118,
+              154,
+              288,
+              318
+            ]
+          }
+        ]
+      ],
+      "native_source_dimensions": [
+        1774,
+        887
+      ],
+      "source_sha256": "b73fc8dd292cca5a0ef89fb1ea6b8e0d1d45c8b052f359105075d725e26af0ea",
+      "production_sha256": "8454647a49e8d85e088c2062398919fc7dea452e3782bed698959a3398e4ac97"
+    },
+    "wolf": {
+      "path": "res://assets/wildlife-wolf.png",
+      "cell": [
+        384,
+        384
+      ],
+      "anchor": [
+        192,
+        320
+      ],
+      "angles": [
+        0,
+        45,
+        90,
+        135,
+        180,
+        225,
+        270,
+        315
+      ],
+      "frames": 4,
+      "idle_frame": 0,
+      "world_height": 48,
+      "reference_height_px": 182,
+      "stride_world": 60,
+      "poses": [
+        [
+          {
+            "source_rect": [
+              0,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              53,
+              33,
+              159,
+              228
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 0,
+            "native_source_row": 0,
+            "native_paste": [
+              139,
+              128
+            ],
+            "paint_bounds": [
+              142,
+              131,
+              242,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              0,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              53,
+              251,
+              157,
+              446
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 0,
+            "native_source_row": 1,
+            "native_paste": [
+              140,
+              127
+            ],
+            "paint_bounds": [
+              143,
+              130,
+              241,
+              319
+            ]
+          },
+          {
+            "source_rect": [
+              0,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              50,
+              467,
+              155,
+              661
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 0,
+            "native_source_row": 2,
+            "native_paste": [
+              139,
+              128
+            ],
+            "paint_bounds": [
+              142,
+              131,
+              241,
+              319
+            ]
+          },
+          {
+            "source_rect": [
+              0,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              52,
+              682,
+              157,
+              875
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 0,
+            "native_source_row": 3,
+            "native_paste": [
+              139,
+              127
+            ],
+            "paint_bounds": [
+              142,
+              130,
+              241,
+              317
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              384,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              205,
+              44,
+              405,
+              227
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 1,
+            "native_source_row": 0,
+            "native_paste": [
+              83,
+              140
+            ],
+            "paint_bounds": [
+              86,
+              143,
+              280,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              384,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              201,
+              261,
+              406,
+              445
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 1,
+            "native_source_row": 1,
+            "native_paste": [
+              83,
+              139
+            ],
+            "paint_bounds": [
+              86,
+              142,
+              285,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              384,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              201,
+              479,
+              403,
+              663
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 1,
+            "native_source_row": 2,
+            "native_paste": [
+              85,
+              140
+            ],
+            "paint_bounds": [
+              88,
+              143,
+              284,
+              321
+            ]
+          },
+          {
+            "source_rect": [
+              384,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              195,
+              693,
+              397,
+              876
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 1,
+            "native_source_row": 3,
+            "native_paste": [
+              82,
+              139
+            ],
+            "paint_bounds": [
+              85,
+              142,
+              281,
+              319
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              768,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              412,
+              45,
+              692,
+              219
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 2,
+            "native_source_row": 0,
+            "native_paste": [
+              42,
+              149
+            ],
+            "paint_bounds": [
+              45,
+              152,
+              319,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              768,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              415,
+              261,
+              693,
+              434
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 2,
+            "native_source_row": 1,
+            "native_paste": [
+              45,
+              148
+            ],
+            "paint_bounds": [
+              48,
+              151,
+              320,
+              318
+            ]
+          },
+          {
+            "source_rect": [
+              768,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              412,
+              478,
+              692,
+              654
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 2,
+            "native_source_row": 2,
+            "native_paste": [
+              45,
+              149
+            ],
+            "paint_bounds": [
+              48,
+              152,
+              322,
+              322
+            ]
+          },
+          {
+            "source_rect": [
+              768,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              408,
+              693,
+              693,
+              864
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 2,
+            "native_source_row": 3,
+            "native_paste": [
+              45,
+              148
+            ],
+            "paint_bounds": [
+              48,
+              151,
+              327,
+              316
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              1152,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              695,
+              34,
+              874,
+              227
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 3,
+            "native_source_row": 0,
+            "native_paste": [
+              85,
+              130
+            ],
+            "paint_bounds": [
+              88,
+              133,
+              261,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              1152,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              697,
+              252,
+              872,
+              448
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 3,
+            "native_source_row": 1,
+            "native_paste": [
+              89,
+              129
+            ],
+            "paint_bounds": [
+              92,
+              132,
+              261,
+              322
+            ]
+          },
+          {
+            "source_rect": [
+              1152,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              696,
+              468,
+              876,
+              666
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 3,
+            "native_source_row": 2,
+            "native_paste": [
+              85,
+              130
+            ],
+            "paint_bounds": [
+              88,
+              133,
+              262,
+              325
+            ]
+          },
+          {
+            "source_rect": [
+              1152,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              697,
+              683,
+              877,
+              872
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 3,
+            "native_source_row": 3,
+            "native_paste": [
+              84,
+              129
+            ],
+            "paint_bounds": [
+              87,
+              132,
+              261,
+              315
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              1536,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              936,
+              29,
+              1032,
+              221
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 4,
+            "native_source_row": 0,
+            "native_paste": [
+              143,
+              131
+            ],
+            "paint_bounds": [
+              146,
+              134,
+              236,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              1536,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              935,
+              246,
+              1031,
+              440
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 4,
+            "native_source_row": 1,
+            "native_paste": [
+              143,
+              130
+            ],
+            "paint_bounds": [
+              146,
+              133,
+              236,
+              321
+            ]
+          },
+          {
+            "source_rect": [
+              1536,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              936,
+              465,
+              1031,
+              658
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 4,
+            "native_source_row": 2,
+            "native_paste": [
+              144,
+              131
+            ],
+            "paint_bounds": [
+              147,
+              134,
+              236,
+              321
+            ]
+          },
+          {
+            "source_rect": [
+              1536,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              937,
+              680,
+              1031,
+              872
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 4,
+            "native_source_row": 3,
+            "native_paste": [
+              144,
+              130
+            ],
+            "paint_bounds": [
+              147,
+              133,
+              235,
+              319
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              1920,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1094,
+              33,
+              1290,
+              227
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 5,
+            "native_source_row": 0,
+            "native_paste": [
+              113,
+              129
+            ],
+            "paint_bounds": [
+              116,
+              132,
+              306,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              1920,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1094,
+              249,
+              1290,
+              448
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 5,
+            "native_source_row": 1,
+            "native_paste": [
+              112,
+              128
+            ],
+            "paint_bounds": [
+              115,
+              131,
+              305,
+              324
+            ]
+          },
+          {
+            "source_rect": [
+              1920,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1090,
+              469,
+              1292,
+              660
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 5,
+            "native_source_row": 2,
+            "native_paste": [
+              110,
+              129
+            ],
+            "paint_bounds": [
+              113,
+              132,
+              309,
+              317
+            ]
+          },
+          {
+            "source_rect": [
+              1920,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1093,
+              684,
+              1279,
+              869
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 5,
+            "native_source_row": 3,
+            "native_paste": [
+              117,
+              128
+            ],
+            "paint_bounds": [
+              120,
+              131,
+              300,
+              310
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              2304,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1294,
+              45,
+              1573,
+              221
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 6,
+            "native_source_row": 0,
+            "native_paste": [
+              60,
+              147
+            ],
+            "paint_bounds": [
+              63,
+              150,
+              336,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              2304,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1294,
+              261,
+              1572,
+              439
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 6,
+            "native_source_row": 1,
+            "native_paste": [
+              61,
+              146
+            ],
+            "paint_bounds": [
+              64,
+              149,
+              336,
+              321
+            ]
+          },
+          {
+            "source_rect": [
+              2304,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1292,
+              480,
+              1572,
+              659
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 6,
+            "native_source_row": 2,
+            "native_paste": [
+              57,
+              147
+            ],
+            "paint_bounds": [
+              60,
+              150,
+              334,
+              323
+            ]
+          },
+          {
+            "source_rect": [
+              2304,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1290,
+              694,
+              1576,
+              869
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 6,
+            "native_source_row": 3,
+            "native_paste": [
+              56,
+              146
+            ],
+            "paint_bounds": [
+              59,
+              149,
+              339,
+              318
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              2688,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1600,
+              43,
+              1748,
+              227
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 7,
+            "native_source_row": 0,
+            "native_paste": [
+              120,
+              139
+            ],
+            "paint_bounds": [
+              123,
+              142,
+              265,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              2688,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1600,
+              261,
+              1756,
+              447
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 7,
+            "native_source_row": 1,
+            "native_paste": [
+              116,
+              138
+            ],
+            "paint_bounds": [
+              119,
+              141,
+              269,
+              321
+            ]
+          },
+          {
+            "source_rect": [
+              2688,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1600,
+              479,
+              1753,
+              665
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 7,
+            "native_source_row": 2,
+            "native_paste": [
+              118,
+              139
+            ],
+            "paint_bounds": [
+              121,
+              142,
+              268,
+              322
+            ]
+          },
+          {
+            "source_rect": [
+              2688,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1599,
+              697,
+              1760,
+              879
+            ],
+            "native_source_file": "exec-8bc062ff-a4f0-442e-8c3e-38b27369648a.png",
+            "native_source_column": 7,
+            "native_source_row": 3,
+            "native_paste": [
+              115,
+              138
+            ],
+            "paint_bounds": [
+              118,
+              141,
+              273,
+              317
+            ]
+          }
+        ]
+      ],
+      "native_source_dimensions": [
+        1774,
+        887
+      ],
+      "source_sha256": "13cb835191a8245ab90156c4d8ac598cea16ccf74470449c196b634bd901c317",
+      "production_sha256": "86e4fe6489b65678872644d1b9734e43820ffe7ec469eb8e6df32a961d9f50dd"
+    },
+    "bear": {
+      "path": "res://assets/wildlife-bear.png",
+      "cell": [
+        384,
+        384
+      ],
+      "anchor": [
+        192,
+        320
+      ],
+      "angles": [
+        0,
+        45,
+        90,
+        135,
+        180,
+        225,
+        270,
+        315
+      ],
+      "frames": 4,
+      "idle_frame": 0,
+      "world_height": 76,
+      "reference_height_px": 178,
+      "stride_world": 75,
+      "poses": [
+        [
+          {
+            "source_rect": [
+              0,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              44,
+              38,
+              179,
+              221
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 0,
+            "native_source_row": 0,
+            "native_paste": [
+              126,
+              140
+            ],
+            "paint_bounds": [
+              129,
+              143,
+              258,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              0,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              44,
+              253,
+              174,
+              439
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 0,
+            "native_source_row": 1,
+            "native_paste": [
+              127,
+              139
+            ],
+            "paint_bounds": [
+              130,
+              142,
+              254,
+              322
+            ]
+          },
+          {
+            "source_rect": [
+              0,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              38,
+              463,
+              179,
+              647
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 0,
+            "native_source_row": 2,
+            "native_paste": [
+              121,
+              140
+            ],
+            "paint_bounds": [
+              124,
+              143,
+              259,
+              321
+            ]
+          },
+          {
+            "source_rect": [
+              0,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              39,
+              671,
+              177,
+              852
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 0,
+            "native_source_row": 3,
+            "native_paste": [
+              122,
+              139
+            ],
+            "paint_bounds": [
+              125,
+              142,
+              257,
+              317
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              384,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              214,
+              38,
+              396,
+              225
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 1,
+            "native_source_row": 0,
+            "native_paste": [
+              101,
+              136
+            ],
+            "paint_bounds": [
+              104,
+              139,
+              280,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              384,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              212,
+              253,
+              397,
+              435
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 1,
+            "native_source_row": 1,
+            "native_paste": [
+              99,
+              135
+            ],
+            "paint_bounds": [
+              102,
+              138,
+              281,
+              314
+            ]
+          },
+          {
+            "source_rect": [
+              384,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              212,
+              467,
+              397,
+              648
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 1,
+            "native_source_row": 2,
+            "native_paste": [
+              99,
+              136
+            ],
+            "paint_bounds": [
+              102,
+              139,
+              281,
+              314
+            ]
+          },
+          {
+            "source_rect": [
+              384,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              215,
+              666,
+              399,
+              850
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 1,
+            "native_source_row": 3,
+            "native_paste": [
+              100,
+              135
+            ],
+            "paint_bounds": [
+              103,
+              138,
+              281,
+              316
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              768,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              413,
+              52,
+              679,
+              221
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 2,
+            "native_source_row": 0,
+            "native_paste": [
+              62,
+              154
+            ],
+            "paint_bounds": [
+              65,
+              157,
+              325,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              768,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              411,
+              263,
+              679,
+              437
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 2,
+            "native_source_row": 1,
+            "native_paste": [
+              61,
+              153
+            ],
+            "paint_bounds": [
+              64,
+              156,
+              326,
+              324
+            ]
+          },
+          {
+            "source_rect": [
+              768,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              416,
+              480,
+              679,
+              645
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 2,
+            "native_source_row": 2,
+            "native_paste": [
+              64,
+              154
+            ],
+            "paint_bounds": [
+              67,
+              157,
+              324,
+              316
+            ]
+          },
+          {
+            "source_rect": [
+              768,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              420,
+              679,
+              684,
+              848
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 2,
+            "native_source_row": 3,
+            "native_paste": [
+              63,
+              153
+            ],
+            "paint_bounds": [
+              66,
+              156,
+              324,
+              319
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              1152,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              687,
+              42,
+              891,
+              226
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 3,
+            "native_source_row": 0,
+            "native_paste": [
+              91,
+              139
+            ],
+            "paint_bounds": [
+              94,
+              142,
+              292,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              1152,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              695,
+              254,
+              893,
+              433
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 3,
+            "native_source_row": 1,
+            "native_paste": [
+              97,
+              138
+            ],
+            "paint_bounds": [
+              100,
+              141,
+              292,
+              314
+            ]
+          },
+          {
+            "source_rect": [
+              1152,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              685,
+              470,
+              892,
+              647
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 3,
+            "native_source_row": 2,
+            "native_paste": [
+              87,
+              139
+            ],
+            "paint_bounds": [
+              90,
+              142,
+              291,
+              313
+            ]
+          },
+          {
+            "source_rect": [
+              1152,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              695,
+              675,
+              890,
+              850
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 3,
+            "native_source_row": 3,
+            "native_paste": [
+              96,
+              138
+            ],
+            "paint_bounds": [
+              99,
+              141,
+              288,
+              310
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              1536,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              912,
+              40,
+              1047,
+              225
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 4,
+            "native_source_row": 0,
+            "native_paste": [
+              123,
+              138
+            ],
+            "paint_bounds": [
+              126,
+              141,
+              255,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              1536,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              911,
+              255,
+              1046,
+              439
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 4,
+            "native_source_row": 1,
+            "native_paste": [
+              122,
+              137
+            ],
+            "paint_bounds": [
+              125,
+              140,
+              254,
+              318
+            ]
+          },
+          {
+            "source_rect": [
+              1536,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              912,
+              473,
+              1046,
+              649
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 4,
+            "native_source_row": 2,
+            "native_paste": [
+              124,
+              138
+            ],
+            "paint_bounds": [
+              127,
+              141,
+              255,
+              311
+            ]
+          },
+          {
+            "source_rect": [
+              1536,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              915,
+              671,
+              1047,
+              853
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 4,
+            "native_source_row": 3,
+            "native_paste": [
+              126,
+              137
+            ],
+            "paint_bounds": [
+              129,
+              140,
+              255,
+              316
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              1920,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1081,
+              43,
+              1280,
+              225
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 5,
+            "native_source_row": 0,
+            "native_paste": [
+              93,
+              141
+            ],
+            "paint_bounds": [
+              96,
+              144,
+              289,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              1920,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1082,
+              254,
+              1275,
+              436
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 5,
+            "native_source_row": 1,
+            "native_paste": [
+              91,
+              140
+            ],
+            "paint_bounds": [
+              94,
+              143,
+              281,
+              319
+            ]
+          },
+          {
+            "source_rect": [
+              1920,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1075,
+              471,
+              1266,
+              648
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 5,
+            "native_source_row": 2,
+            "native_paste": [
+              93,
+              141
+            ],
+            "paint_bounds": [
+              96,
+              144,
+              281,
+              315
+            ]
+          },
+          {
+            "source_rect": [
+              1920,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1084,
+              671,
+              1278,
+              850
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 5,
+            "native_source_row": 3,
+            "native_paste": [
+              97,
+              140
+            ],
+            "paint_bounds": [
+              100,
+              143,
+              288,
+              316
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              2304,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1287,
+              55,
+              1559,
+              224
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 6,
+            "native_source_row": 0,
+            "native_paste": [
+              52,
+              154
+            ],
+            "paint_bounds": [
+              55,
+              157,
+              321,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              2304,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1291,
+              264,
+              1556,
+              438
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 6,
+            "native_source_row": 1,
+            "native_paste": [
+              56,
+              153
+            ],
+            "paint_bounds": [
+              59,
+              156,
+              318,
+              324
+            ]
+          },
+          {
+            "source_rect": [
+              2304,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1284,
+              483,
+              1550,
+              646
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 6,
+            "native_source_row": 2,
+            "native_paste": [
+              54,
+              154
+            ],
+            "paint_bounds": [
+              57,
+              157,
+              317,
+              314
+            ]
+          },
+          {
+            "source_rect": [
+              2304,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1290,
+              682,
+              1559,
+              849
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 6,
+            "native_source_row": 3,
+            "native_paste": [
+              52,
+              153
+            ],
+            "paint_bounds": [
+              55,
+              156,
+              318,
+              317
+            ]
+          }
+        ],
+        [
+          {
+            "source_rect": [
+              2688,
+              0,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1579,
+              37,
+              1752,
+              226
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 7,
+            "native_source_row": 0,
+            "native_paste": [
+              104,
+              134
+            ],
+            "paint_bounds": [
+              107,
+              137,
+              274,
+              320
+            ]
+          },
+          {
+            "source_rect": [
+              2688,
+              384,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1579,
+              252,
+              1749,
+              438
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 7,
+            "native_source_row": 1,
+            "native_paste": [
+              106,
+              133
+            ],
+            "paint_bounds": [
+              109,
+              136,
+              273,
+              316
+            ]
+          },
+          {
+            "source_rect": [
+              2688,
+              768,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1577,
+              464,
+              1744,
+              649
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 7,
+            "native_source_row": 2,
+            "native_paste": [
+              107,
+              134
+            ],
+            "paint_bounds": [
+              110,
+              137,
+              271,
+              316
+            ]
+          },
+          {
+            "source_rect": [
+              2688,
+              1152,
+              384,
+              384
+            ],
+            "anchor": [
+              192,
+              320
+            ],
+            "native_source_crop": [
+              1578,
+              666,
+              1750,
+              850
+            ],
+            "native_source_file": "exec-19b55d29-da9b-4133-b43c-25d33f654154.png",
+            "native_source_column": 7,
+            "native_source_row": 3,
+            "native_paste": [
+              105,
+              133
+            ],
+            "paint_bounds": [
+              108,
+              136,
+              274,
+              314
+            ]
+          }
+        ]
+      ],
+      "native_source_dimensions": [
+        1774,
+        887
+      ],
+      "source_sha256": "45d8c5bdd940f4c79f990fc239a16773ce070b0473d97a2bd51b3be41ed24dc4",
+      "production_sha256": "224baa111faf6d99649dc04cd3be5f12c262780018903f1db36eb4658cb5e952"
+    }
+  }
+}

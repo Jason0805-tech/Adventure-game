@@ -1,0 +1,230 @@
+{
+	"checks": 17,
+	"failures": 0,
+	"method": "One fresh actual Canvas alpha-tested local-front contact and capture for each of all17distinct bankstoneIDs; supplements443broadfront checks which alreadycover3columnsperstone.",
+	"results": [
+		{
+			"hidden_samples": [],
+			"label": "pond_0_rocks-stone0-(970.6478,432.239)-col50",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				970.85791015625,
+				450.229339599609
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"hidden_samples": [],
+			"label": "pond_0_rocks-stone1-(1039.786,386.6256)-col50",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				1038.76538085938,
+				410.107421875
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"hidden_samples": [],
+			"label": "pond_0_rocks-stone2-(1155.219,406.1479)-col50",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				1154.6416015625,
+				421.283142089844
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"hidden_samples": [],
+			"label": "pond_0_rocks-stone3-(1182.382,418.0322)-col50",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				1182.38305664062,
+				444.354827880859
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"hidden_samples": [],
+			"label": "pond_0_rocks-stone4-(976.6787,522.9883)-col50",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				976.637939453125,
+				548.811645507812
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"hidden_samples": [],
+			"label": "pond_0_rocks-stone5-(1047.955,550.4528)-col50",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				1047.72314453125,
+				566.503540039062
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"hidden_samples": [],
+			"label": "pond_0_rocks-stone6-(1148.986,552.9985)-col50",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				1150.01831054688,
+				575.742248535156
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"hidden_samples": [],
+			"label": "pond_1_rocks-stone7-(628.2027,1108.393)-col50",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				628.15283203125,
+				1122.65600585938
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"hidden_samples": [],
+			"label": "pond_1_rocks-stone8-(717.5892,1117.842)-col50",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				716.372802734375,
+				1140.21630859375
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"hidden_samples": [],
+			"label": "pond_1_rocks-stone9-(572.6954,1166.908)-col50",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				572.695190429688,
+				1181.57202148438
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"hidden_samples": [],
+			"label": "pond_1_rocks-stone10-(597.2899,1190.717)-col50",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				596.855590820312,
+				1209.68994140625
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"hidden_samples": [],
+			"label": "pond_1_rocks-stone11-(627.5671,1203.099)-col50",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				627.420166015625,
+				1217.10766601562
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"hidden_samples": [],
+			"label": "pond_2_rocks-stone12-(1421.456,482.6245)-col50",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				1420.04284667969,
+				503.390625
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"hidden_samples": [],
+			"label": "pond_2_rocks-stone13-(1519.449,502.1181)-col50",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				1518.59155273438,
+				520.051208496094
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"hidden_samples": [],
+			"label": "pond_2_rocks-stone14-(1558.506,448.4642)-col50",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				1557.96557617188,
+				465.544311523438
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"hidden_samples": [],
+			"label": "pond_2_rocks-stone15-(1522.151,439.8844)-col50",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				1522.81787109375,
+				452.016845703125
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"hidden_samples": [],
+			"label": "pond_2_rocks-stone16-(1544.218,461.7617)-col50",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				1544.84155273438,
+				473.009613037109
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		}
+	],
+	"stones": 17,
+	"version": "0.1.5.9"
+}

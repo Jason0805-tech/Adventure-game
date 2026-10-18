@@ -1,0 +1,854 @@
+ERROR: Could not create directory: '/Users/jasonsmacair/Library/Application Support/Godot/app_userdata/Forest Wanderer 0.1.5.11'.
+   at: make_dir_recursive (core/io/dir_access.cpp:179)
+ERROR: Error attempting to create data dir: /Users/jasonsmacair/Library/Application Support/Godot/app_userdata/Forest Wanderer 0.1.5.11.
+   at: ensure_user_data_dir (core/os/os.cpp:442)
+ERROR: Could not create directory: 'user://logs'.
+   at: make_dir_recursive (core/io/dir_access.cpp:179)
+ERROR: Failed to open log file for writing: user://logs/godot.log
+   at: rotate_file (core/io/logger.cpp:169)
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+GAME_READY 0.1.5.11
+ERROR: GROUND_SEMANTIC_FAIL tree_0:grounded_trunk_root:tree:(495.6916, 174.8628):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_0:grounded_trunk_root:tree:(328.098, 206.8897):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_0:grounded_trunk_root:tree:(1218.397, 236.2422):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_0:grounded_trunk_root:tree:(1354.818, 607.1749):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_0:grounded_trunk_root:tree:(1983.578, 611.0342):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_0:grounded_trunk_root:tree:(806.8834, 963.4397):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_0:grounded_trunk_root:tree:(414.9344, 1052.265):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_0:grounded_trunk_root:tree:(1100.0, 1100.0):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_0:grounded_trunk_root:tree:(1101.0, 1100.0):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_0:grounded_trunk_root:tree:(2056.746, 1184.058):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_0:grounded_trunk_root:tree:(1241.076, 1262.984):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_1:grounded_trunk_root:tree:(734.3506, 102.9583):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_1:grounded_trunk_root:tree:(1321.404, 175.8686):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_1:grounded_trunk_root:tree:(558.1079, 338.3137):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_1:grounded_trunk_root:tree:(1836.887, 612.366):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_1:grounded_trunk_root:tree:(1381.214, 627.1713):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_1:grounded_trunk_root:tree:(826.8093, 882.9344):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_1:grounded_trunk_root:tree:(2072.126, 1019.785):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_1:grounded_trunk_root:tree:(217.5917, 1039.239):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_1:grounded_trunk_root:tree:(1089.875, 1054.062):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_1:grounded_trunk_root:tree:(1104.0, 1100.0):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_1:grounded_trunk_root:tree:(1105.0, 1100.0):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_1:grounded_trunk_root:tree:(1412.726, 1236.151):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_2:grounded_trunk_root:tree:(1566.647, 123.1777):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_2:grounded_trunk_root:tree:(745.4195, 160.4388):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_2:grounded_trunk_root:tree:(1136.958, 189.4801):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_2:grounded_trunk_root:tree:(370.5866, 203.6259):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_2:grounded_trunk_root:tree:(395.2723, 382.7286):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_2:grounded_trunk_root:tree:(930.9777, 876.1229):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_2:grounded_trunk_root:tree:(211.5773, 998.2137):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_2:grounded_trunk_root:tree:(1109.0, 1100.0):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_2:grounded_trunk_root:tree:(1108.0, 1100.0):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_2:grounded_trunk_root:tree:(1194.019, 1253.79):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_2:grounded_trunk_root:tree:(2018.689, 1375.652):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_3:grounded_trunk_root:tree:(171.0826, 146.0322):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_3:grounded_trunk_root:tree:(1356.831, 205.3113):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_3:grounded_trunk_root:tree:(515.4781, 294.5491):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_3:grounded_trunk_root:tree:(1495.837, 299.6656):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_3:grounded_trunk_root:tree:(1795.666, 307.6994):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_3:grounded_trunk_root:tree:(1923.848, 992.1824):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_3:grounded_trunk_root:tree:(1113.0, 1100.0):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_3:grounded_trunk_root:tree:(1112.0, 1100.0):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_3:grounded_trunk_root:tree:(1302.22, 1288.613):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_3:grounded_trunk_root:tree:(957.27, 1306.156):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_3:grounded_trunk_root:tree:(1833.989, 1328.428):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_5:grounded_trunk_root:tree:(1416.55, 253.6424):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_5:grounded_trunk_root:tree:(300.4395, 417.9437):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_5:grounded_trunk_root:tree:(619.1893, 530.2534):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_5:grounded_trunk_root:tree:(1830.261, 566.032):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_5:grounded_trunk_root:tree:(1395.22, 645.3618):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_5:grounded_trunk_root:tree:(892.3467, 1085.838):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_5:grounded_trunk_root:tree:(1120.0, 1100.0):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_5:grounded_trunk_root:tree:(1121.0, 1100.0):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_5:grounded_trunk_root:tree:(2036.426, 1131.452):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_5:grounded_trunk_root:tree:(143.6943, 1139.801):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_5:grounded_trunk_root:tree:(424.3173, 1140.661):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL tree_5:grounded_trunk_root:tree:(1198.611, 1320.613):-1 source-ground center inside own footprint
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:58)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(1495.983, 158.2601):17 source upper/soft center not a physical wall
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:71)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(1495.983, 158.2601):17 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(1495.983, 158.2601):17 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(1409.909, 162.2267):20 source upper/soft center not a physical wall
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:71)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(1409.909, 162.2267):20 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(1409.909, 162.2267):20 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(1205.17, 304.2045):66 source upper/soft center not a physical wall
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:71)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(1205.17, 304.2045):66 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(1205.17, 304.2045):66 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(326.7747, 325.5504):61 source upper/soft center not a physical wall
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:71)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(326.7747, 325.5504):61 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(326.7747, 325.5504):61 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(627.5305, 416.6857):9 source upper/soft center not a physical wall
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:71)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(627.5305, 416.6857):9 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(627.5305, 416.6857):9 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(555.0329, 519.7914):62 source upper/soft center not a physical wall
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:71)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(555.0329, 519.7914):62 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(555.0329, 519.7914):62 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(134.9832, 548.9872):6 source upper/soft center not a physical wall
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:71)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(134.9832, 548.9872):6 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(134.9832, 548.9872):6 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(1882.245, 591.9958):8 source upper/soft center not a physical wall
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:71)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(1882.245, 591.9958):8 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(1882.245, 591.9958):8 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(917.6465, 935.2426):21 source upper/soft center not a physical wall
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:71)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(917.6465, 935.2426):21 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(917.6465, 935.2426):21 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(156.8815, 983.5966):19 source upper/soft center not a physical wall
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:71)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(156.8815, 983.5966):19 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(156.8815, 983.5966):19 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(1855.753, 989.6475):11 source upper/soft center not a physical wall
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:71)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(1855.753, 989.6475):11 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(1855.753, 989.6475):11 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(94.61462, 1038.487):10 source upper/soft center not a physical wall
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:71)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(94.61462, 1038.487):10 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(94.61462, 1038.487):10 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(841.0894, 1096.072):2 source upper/soft center not a physical wall
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:71)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(841.0894, 1096.072):2 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(841.0894, 1096.072):2 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(1450.0, 1100.0):67 source upper/soft center not a physical wall
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:71)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(1450.0, 1100.0):67 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(1450.0, 1100.0):67 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(1465.839, 1198.64):65 source upper/soft center not a physical wall
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:71)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(1465.839, 1198.64):65 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_0:soft_collectible_or_remnant:resource:(1465.839, 1198.64):65 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_1:soft_collectible_or_remnant:resource:(555.4917, 266.4514):3 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_1:soft_collectible_or_remnant:resource:(555.4917, 266.4514):3 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_1:soft_collectible_or_remnant:resource:(461.8238, 327.7211):0 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_1:soft_collectible_or_remnant:resource:(461.8238, 327.7211):0 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_1:soft_collectible_or_remnant:resource:(541.0432, 356.9213):1 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_1:soft_collectible_or_remnant:resource:(541.0432, 356.9213):1 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_1:soft_collectible_or_remnant:resource:(1537.431, 532.3229):13 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_1:soft_collectible_or_remnant:resource:(1537.431, 532.3229):13 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_1:soft_collectible_or_remnant:resource:(257.9934, 1038.368):59 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_1:soft_collectible_or_remnant:resource:(257.9934, 1038.368):59 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_1:soft_collectible_or_remnant:resource:(1451.0, 1100.0):68 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_1:soft_collectible_or_remnant:resource:(1451.0, 1100.0):68 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_1:soft_collectible_or_remnant:resource:(889.0979, 1317.633):16 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_1:soft_collectible_or_remnant:resource:(889.0979, 1317.633):16 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_2:soft_collectible_or_remnant:resource:(604.8656, 330.9101):58 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_2:soft_collectible_or_remnant:resource:(604.8656, 330.9101):58 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_2:soft_collectible_or_remnant:resource:(1844.292, 340.2788):64 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_2:soft_collectible_or_remnant:resource:(1844.292, 340.2788):64 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_2:soft_collectible_or_remnant:resource:(488.1761, 413.3579):5 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_2:soft_collectible_or_remnant:resource:(488.1761, 413.3579):5 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_2:soft_collectible_or_remnant:resource:(330.5115, 428.0679):60 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_2:soft_collectible_or_remnant:resource:(330.5115, 428.0679):60 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_2:soft_collectible_or_remnant:resource:(652.3525, 489.2327):18 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_2:soft_collectible_or_remnant:resource:(652.3525, 489.2327):18 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_2:soft_collectible_or_remnant:resource:(707.2879, 555.3522):7 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_2:soft_collectible_or_remnant:resource:(707.2879, 555.3522):7 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_2:soft_collectible_or_remnant:resource:(826.2216, 1013.363):4 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_2:soft_collectible_or_remnant:resource:(826.2216, 1013.363):4 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_2:soft_collectible_or_remnant:resource:(1993.538, 1045.877):14 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_2:soft_collectible_or_remnant:resource:(1993.538, 1045.877):14 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_2:soft_collectible_or_remnant:resource:(168.7889, 1053.005):63 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_2:soft_collectible_or_remnant:resource:(168.7889, 1053.005):63 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_2:soft_collectible_or_remnant:resource:(1452.0, 1100.0):69 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_2:soft_collectible_or_remnant:resource:(1452.0, 1100.0):69 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_2:soft_collectible_or_remnant:resource:(1903.153, 1102.027):12 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_2:soft_collectible_or_remnant:resource:(1903.153, 1102.027):12 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_2:soft_collectible_or_remnant:resource:(358.2708, 1147.885):15 entire actor boot capsule clear below overhead/soft sprite
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:73)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+ERROR: GROUND_SEMANTIC_FAIL resource_branch_2:soft_collectible_or_remnant:resource:(358.2708, 1147.885):15 real horizontal overhead route unobstructed
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:18)
+       [1] exercise (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:77)
+       [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.11/test_ground_semantics.gd:117)
+INDEPENDENT_GROUND_RESULTS {"checks":3131,"distinct_own_shore_stones":17,"failure_labels":["tree_0:grounded_trunk_root:tree:(495.6916, 174.8628):-1 source-ground center inside own footprint","tree_0:grounded_trunk_root:tree:(328.098, 206.8897):-1 source-ground center inside own footprint","tree_0:grounded_trunk_root:tree:(1218.397, 236.2422):-1 source-ground center inside own footprint","tree_0:grounded_trunk_root:tree:(1354.818, 607.1749):-1 source-ground center inside own footprint","tree_0:grounded_trunk_root:tree:(1983.578, 611.0342):-1 source-ground center inside own footprint","tree_0:grounded_trunk_root:tree:(806.8834, 963.4397):-1 source-ground center inside own footprint","tree_0:grounded_trunk_root:tree:(414.9344, 1052.265):-1 source-ground center inside own footprint","tree_0:grounded_trunk_root:tree:(1100.0, 1100.0):-1 source-ground center inside own footprint","tree_0:grounded_trunk_root:tree:(1101.0, 1100.0):-1 source-ground center inside own footprint","tree_0:grounded_trunk_root:tree:(2056.746, 1184.058):-1 source-ground center inside own footprint","tree_0:grounded_trunk_root:tree:(1241.076, 1262.984):-1 source-ground center inside own footprint","tree_1:grounded_trunk_root:tree:(734.3506, 102.9583):-1 source-ground center inside own footprint","tree_1:grounded_trunk_root:tree:(1321.404, 175.8686):-1 source-ground center inside own footprint","tree_1:grounded_trunk_root:tree:(558.1079, 338.3137):-1 source-ground center inside own footprint","tree_1:grounded_trunk_root:tree:(1836.887, 612.366):-1 source-ground center inside own footprint","tree_1:grounded_trunk_root:tree:(1381.214, 627.1713):-1 source-ground center inside own footprint","tree_1:grounded_trunk_root:tree:(826.8093, 882.9344):-1 source-ground center inside own footprint","tree_1:grounded_trunk_root:tree:(2072.126, 1019.785):-1 source-ground center inside own footprint","tree_1:grounded_trunk_root:tree:(217.5917, 1039.239):-1 source-ground center inside own footprint","tree_1:grounded_trunk_root:tree:(1089.875, 1054.062):-1 source-ground center inside own footprint","tree_1:grounded_trunk_root:tree:(1104.0, 1100.0):-1 source-ground center inside own footprint","tree_1:grounded_trunk_root:tree:(1105.0, 1100.0):-1 source-ground center inside own footprint","tree_1:grounded_trunk_root:tree:(1412.726, 1236.151):-1 source-ground center inside own footprint","tree_2:grounded_trunk_root:tree:(1566.647, 123.1777):-1 source-ground center inside own footprint","tree_2:grounded_trunk_root:tree:(745.4195, 160.4388):-1 source-ground center inside own footprint","tree_2:grounded_trunk_root:tree:(1136.958, 189.4801):-1 source-ground center inside own footprint","tree_2:grounded_trunk_root:tree:(370.5866, 203.6259):-1 source-ground center inside own footprint","tree_2:grounded_trunk_root:tree:(395.2723, 382.7286):-1 source-ground center inside own footprint","tree_2:grounded_trunk_root:tree:(930.9777, 876.1229):-1 source-ground center inside own footprint","tree_2:grounded_trunk_root:tree:(211.5773, 998.2137):-1 source-ground center inside own footprint","tree_2:grounded_trunk_root:tree:(1109.0, 1100.0):-1 source-ground center inside own footprint","tree_2:grounded_trunk_root:tree:(1108.0, 1100.0):-1 source-ground center inside own footprint","tree_2:grounded_trunk_root:tree:(1194.019, 1253.79):-1 source-ground center inside own footprint","tree_2:grounded_trunk_root:tree:(2018.689, 1375.652):-1 source-ground center inside own footprint","tree_3:grounded_trunk_root:tree:(171.0826, 146.0322):-1 source-ground center inside own footprint","tree_3:grounded_trunk_root:tree:(1356.831, 205.3113):-1 source-ground center inside own footprint","tree_3:grounded_trunk_root:tree:(515.4781, 294.5491):-1 source-ground center inside own footprint","tree_3:grounded_trunk_root:tree:(1495.837, 299.6656):-1 source-ground center inside own footprint","tree_3:grounded_trunk_root:tree:(1795.666, 307.6994):-1 source-ground center inside own footprint","tree_3:grounded_trunk_root:tree:(1923.848, 992.1824):-1 source-ground center inside own footprint","tree_3:grounded_trunk_root:tree:(1113.0, 1100.0):-1 source-ground center inside own footprint","tree_3:grounded_trunk_root:tree:(1112.0, 1100.0):-1 source-ground center inside own footprint","tree_3:grounded_trunk_root:tree:(1302.22, 1288.613):-1 source-ground center inside own footprint","tree_3:grounded_trunk_root:tree:(957.27, 1306.156):-1 source-ground center inside own footprint","tree_3:grounded_trunk_root:tree:(1833.989, 1328.428):-1 source-ground center inside own footprint","tree_5:grounded_trunk_root:tree:(1416.55, 253.6424):-1 source-ground center inside own footprint","tree_5:grounded_trunk_root:tree:(300.4395, 417.9437):-1 source-ground center inside own footprint","tree_5:grounded_trunk_root:tree:(619.1893, 530.2534):-1 source-ground center inside own footprint","tree_5:grounded_trunk_root:tree:(1830.261, 566.032):-1 source-ground center inside own footprint","tree_5:grounded_trunk_root:tree:(1395.22, 645.3618):-1 source-ground center inside own footprint","tree_5:grounded_trunk_root:tree:(892.3467, 1085.838):-1 source-ground center inside own footprint","tree_5:grounded_trunk_root:tree:(1120.0, 1100.0):-1 source-ground center inside own footprint","tree_5:grounded_trunk_root:tree:(1121.0, 1100.0):-1 source-ground center inside own footprint","tree_5:grounded_trunk_root:tree:(2036.426, 1131.452):-1 source-ground center inside own footprint","tree_5:grounded_trunk_root:tree:(143.6943, 1139.801):-1 source-ground center inside own footprint","tree_5:grounded_trunk_root:tree:(424.3173, 1140.661):-1 source-ground center inside own footprint","tree_5:grounded_trunk_root:tree:(1198.611, 1320.613):-1 source-ground center inside own footprint","resource_branch_0:soft_collectible_or_remnant:resource:(1495.983, 158.2601):17 source upper/soft center not a physical wall","resource_branch_0:soft_collectible_or_remnant:resource:(1495.983, 158.2601):17 entire actor boot capsule clear below overhead/soft sprite","resource_branch_0:soft_collectible_or_remnant:resource:(1495.983, 158.2601):17 real horizontal overhead route unobstructed","resource_branch_0:soft_collectible_or_remnant:resource:(1409.909, 162.2267):20 source upper/soft center not a physical wall","resource_branch_0:soft_collectible_or_remnant:resource:(1409.909, 162.2267):20 entire actor boot capsule clear below overhead/soft sprite","resource_branch_0:soft_collectible_or_remnant:resource:(1409.909, 162.2267):20 real horizontal overhead route unobstructed","resource_branch_0:soft_collectible_or_remnant:resource:(1205.17, 304.2045):66 source upper/soft center not a physical wall","resource_branch_0:soft_collectible_or_remnant:resource:(1205.17, 304.2045):66 entire actor boot capsule clear below overhead/soft sprite","resource_branch_0:soft_collectible_or_remnant:resource:(1205.17, 304.2045):66 real horizontal overhead route unobstructed","resource_branch_0:soft_collectible_or_remnant:resource:(326.7747, 325.5504):61 source upper/soft center not a physical wall","resource_branch_0:soft_collectible_or_remnant:resource:(326.7747, 325.5504):61 entire actor boot capsule clear below overhead/soft sprite","resource_branch_0:soft_collectible_or_remnant:resource:(326.7747, 325.5504):61 real horizontal overhead route unobstructed","resource_branch_0:soft_collectible_or_remnant:resource:(627.5305, 416.6857):9 source upper/soft center not a physical wall","resource_branch_0:soft_collectible_or_remnant:resource:(627.5305, 416.6857):9 entire actor boot capsule clear below overhead/soft sprite","resource_branch_0:soft_collectible_or_remnant:resource:(627.5305, 416.6857):9 real horizontal overhead route unobstructed","resource_branch_0:soft_collectible_or_remnant:resource:(555.0329, 519.7914):62 source upper/soft center not a physical wall","resource_branch_0:soft_collectible_or_remnant:resource:(555.0329, 519.7914):62 entire actor boot capsule clear below overhead/soft sprite","resource_branch_0:soft_collectible_or_remnant:resource:(555.0329, 519.7914):62 real horizontal overhead route unobstructed","resource_branch_0:soft_collectible_or_remnant:resource:(134.9832, 548.9872):6 source upper/soft center not a physical wall","resource_branch_0:soft_collectible_or_remnant:resource:(134.9832, 548.9872):6 entire actor boot capsule clear below overhead/soft sprite","resource_branch_0:soft_collectible_or_remnant:resource:(134.9832, 548.9872):6 real horizontal overhead route unobstructed","resource_branch_0:soft_collectible_or_remnant:resource:(1882.245, 591.9958):8 source upper/soft center not a physical wall","resource_branch_0:soft_collectible_or_remnant:resource:(1882.245, 591.9958):8 entire actor boot capsule clear below overhead/soft sprite","resource_branch_0:soft_collectible_or_remnant:resource:(1882.245, 591.9958):8 real horizontal overhead route unobstructed","resource_branch_0:soft_collectible_or_remnant:resource:(917.6465, 935.2426):21 source upper/soft center not a physical wall","resource_branch_0:soft_collectible_or_remnant:resource:(917.6465, 935.2426):21 entire actor boot capsule clear below overhead/soft sprite","resource_branch_0:soft_collectible_or_remnant:resource:(917.6465, 935.2426):21 real horizontal overhead route unobstructed","resource_branch_0:soft_collectible_or_remnant:resource:(156.8815, 983.5966):19 source upper/soft center not a physical wall","resource_branch_0:soft_collectible_or_remnant:resource:(156.8815, 983.5966):19 entire actor boot capsule clear below overhead/soft sprite","resource_branch_0:soft_collectible_or_remnant:resource:(156.8815, 983.5966):19 real horizontal overhead route unobstructed","resource_branch_0:soft_collectible_or_remnant:resource:(1855.753, 989.6475):11 source upper/soft center not a physical wall","resource_branch_0:soft_collectible_or_remnant:resource:(1855.753, 989.6475):11 entire actor boot capsule clear below overhead/soft sprite","resource_branch_0:soft_collectible_or_remnant:resource:(1855.753, 989.6475):11 real horizontal overhead route unobstructed","resource_branch_0:soft_collectible_or_remnant:resource:(94.61462, 1038.487):10 source upper/soft center not a physical wall","resource_branch_0:soft_collectible_or_remnant:resource:(94.61462, 1038.487):10 entire actor boot capsule clear below overhead/soft sprite","resource_branch_0:soft_collectible_or_remnant:resource:(94.61462, 1038.487):10 real horizontal overhead route unobstructed","resource_branch_0:soft_collectible_or_remnant:resource:(841.0894, 1096.072):2 source upper/soft center not a physical wall","resource_branch_0:soft_collectible_or_remnant:resource:(841.0894, 1096.072):2 entire actor boot capsule clear below overhead/soft sprite","resource_branch_0:soft_collectible_or_remnant:resource:(841.0894, 1096.072):2 real horizontal overhead route unobstructed","resource_branch_0:soft_collectible_or_remnant:resource:(1450.0, 1100.0):67 source upper/soft center not a physical wall","resource_branch_0:soft_collectible_or_remnant:resource:(1450.0, 1100.0):67 entire actor boot capsule clear below overhead/soft sprite","resource_branch_0:soft_collectible_or_remnant:resource:(1450.0, 1100.0):67 real horizontal overhead route unobstructed","resource_branch_0:soft_collectible_or_remnant:resource:(1465.839, 1198.64):65 source upper/soft center not a physical wall","resource_branch_0:soft_collectible_or_remnant:resource:(1465.839, 1198.64):65 entire actor boot capsule clear below overhead/soft sprite","resource_branch_0:soft_collectible_or_remnant:resource:(1465.839, 1198.64):65 real horizontal overhead route unobstructed","resource_branch_1:soft_collectible_or_remnant:resource:(555.4917, 266.4514):3 entire actor boot capsule clear below overhead/soft sprite","resource_branch_1:soft_collectible_or_remnant:resource:(555.4917, 266.4514):3 real horizontal overhead route unobstructed","resource_branch_1:soft_collectible_or_remnant:resource:(461.8238, 327.7211):0 entire actor boot capsule clear below overhead/soft sprite","resource_branch_1:soft_collectible_or_remnant:resource:(461.8238, 327.7211):0 real horizontal overhead route unobstructed","resource_branch_1:soft_collectible_or_remnant:resource:(541.0432, 356.9213):1 entire actor boot capsule clear below overhead/soft sprite","resource_branch_1:soft_collectible_or_remnant:resource:(541.0432, 356.9213):1 real horizontal overhead route unobstructed","resource_branch_1:soft_collectible_or_remnant:resource:(1537.431, 532.3229):13 entire actor boot capsule clear below overhead/soft sprite","resource_branch_1:soft_collectible_or_remnant:resource:(1537.431, 532.3229):13 real horizontal overhead route unobstructed","resource_branch_1:soft_collectible_or_remnant:resource:(257.9934, 1038.368):59 entire actor boot capsule clear below overhead/soft sprite","resource_branch_1:soft_collectible_or_remnant:resource:(257.9934, 1038.368):59 real horizontal overhead route unobstructed","resource_branch_1:soft_collectible_or_remnant:resource:(1451.0, 1100.0):68 entire actor boot capsule clear below overhead/soft sprite","resource_branch_1:soft_collectible_or_remnant:resource:(1451.0, 1100.0):68 real horizontal overhead route unobstructed","resource_branch_1:soft_collectible_or_remnant:resource:(889.0979, 1317.633):16 entire actor boot capsule clear below overhead/soft sprite","resource_branch_1:soft_collectible_or_remnant:resource:(889.0979, 1317.633):16 real horizontal overhead route unobstructed","resource_branch_2:soft_collectible_or_remnant:resource:(604.8656, 330.9101):58 entire actor boot capsule clear below overhead/soft sprite","resource_branch_2:soft_collectible_or_remnant:resource:(604.8656, 330.9101):58 real horizontal overhead route unobstructed","resource_branch_2:soft_collectible_or_remnant:resource:(1844.292, 340.2788):64 entire actor boot capsule clear below overhead/soft sprite","resource_branch_2:soft_collectible_or_remnant:resource:(1844.292, 340.2788):64 real horizontal overhead route unobstructed","resource_branch_2:soft_collectible_or_remnant:resource:(488.1761, 413.3579):5 entire actor boot capsule clear below overhead/soft sprite","resource_branch_2:soft_collectible_or_remnant:resource:(488.1761, 413.3579):5 real horizontal overhead route unobstructed","resource_branch_2:soft_collectible_or_remnant:resource:(330.5115, 428.0679):60 entire actor boot capsule clear below overhead/soft sprite","resource_branch_2:soft_collectible_or_remnant:resource:(330.5115, 428.0679):60 real horizontal overhead route unobstructed","resource_branch_2:soft_collectible_or_remnant:resource:(652.3525, 489.2327):18 entire actor boot capsule clear below overhead/soft sprite","resource_branch_2:soft_collectible_or_remnant:resource:(652.3525, 489.2327):18 real horizontal overhead route unobstructed","resource_branch_2:soft_collectible_or_remnant:resource:(707.2879, 555.3522):7 entire actor boot capsule clear below overhead/soft sprite","resource_branch_2:soft_collectible_or_remnant:resource:(707.2879, 555.3522):7 real horizontal overhead route unobstructed","resource_branch_2:soft_collectible_or_remnant:resource:(826.2216, 1013.363):4 entire actor boot capsule clear below overhead/soft sprite","resource_branch_2:soft_collectible_or_remnant:resource:(826.2216, 1013.363):4 real horizontal overhead route unobstructed","resource_branch_2:soft_collectible_or_remnant:resource:(1993.538, 1045.877):14 entire actor boot capsule clear below overhead/soft sprite","resource_branch_2:soft_collectible_or_remnant:resource:(1993.538, 1045.877):14 real horizontal overhead route unobstructed","resource_branch_2:soft_collectible_or_remnant:resource:(168.7889, 1053.005):63 entire actor boot capsule clear below overhead/soft sprite","resource_branch_2:soft_collectible_or_remnant:resource:(168.7889, 1053.005):63 real horizontal overhead route unobstructed","resource_branch_2:soft_collectible_or_remnant:resource:(1452.0, 1100.0):69 entire actor boot capsule clear below overhead/soft sprite","resource_branch_2:soft_collectible_or_remnant:resource:(1452.0, 1100.0):69 real horizontal overhead route unobstructed","resource_branch_2:soft_collectible_or_remnant:resource:(1903.153, 1102.027):12 entire actor boot capsule clear below overhead/soft sprite","resource_branch_2:soft_collectible_or_remnant:resource:(1903.153, 1102.027):12 real horizontal overhead route unobstructed","resource_branch_2:soft_collectible_or_remnant:resource:(358.2708, 1147.885):15 entire actor boot capsule clear below overhead/soft sprite","resource_branch_2:soft_collectible_or_remnant:resource:(358.2708, 1147.885):15 real horizontal overhead route unobstructed"],"failures":140,"method":"Native source-art points manually selected before reading or executing new collision contours. Physical expectation is top-down ground volume, not opaque visual silhouette. Tall upper wood/roof/table/arch pixels are explicitly negative tests. All 48 exported profiles, all 17 shoreline stones. Current field branch/fiber and spent nodes intentionally soft. Actor-capsule-free assertions are separate from source center coverage.","negative_instance_samples":249,"positive_instance_samples":164,"profile_count":48,"real_movement_cases":905,"source_landmarks":109,"version":"0.1.5.11"}

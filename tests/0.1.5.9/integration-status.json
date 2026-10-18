@@ -1,0 +1,50 @@
+{
+  "version": "0.1.5.9",
+  "fixes": {
+    "collision_geometry_preserved": true,
+    "local_contour_render_depth": true,
+    "coherent_actor_body_at_front_contacts": true,
+    "separate_pond_water_and_17_shore_rock_paint_layers": true,
+    "original_art_sources_preserved": true,
+    "scenery_world_units_per_texel": 2.0,
+    "movement_speed": 108.0,
+    "daylight_seconds": 180.0
+  },
+  "checks": {
+    "physical_assertions": 48830,
+    "actual_scene_instances_walked": 169,
+    "alternate_state_instances_walked": 152,
+    "feasible_approach_routes": 9717,
+    "full_world_routes": 4614,
+    "isolated_same_object_routes": 5103,
+    "unavailable_start_directions_reported": 171,
+    "real_player_movement_calls": 48585,
+    "legal_contact_poses": 9023,
+    "front_opacity_contacts": 443,
+    "original_house_repro_contacts": 21,
+    "gate_focused_contacts": 3,
+    "shore_rock_focused_contacts": 17,
+    "npc_normal_world_checks": 244,
+    "npc_patrol_seconds": 60,
+    "prior_visible_solid_regression_assertions": 5269,
+    "display_density_assertions": 416,
+    "depth_layer_module_checks": 70132,
+    "core_feature_smokes": 27,
+    "pacing_smokes": 10,
+    "software_contact_replays": 68,
+    "contact_sheet_pages_visually_reviewed": 4,
+    "bundled_source_hash_matches": 53,
+    "staging_strict_signature_verified": true,
+    "installed_signature_verified": true,
+    "app_headless_start_from_tmp": true,
+    "native_gpu_screenshots": false,
+    "full_native_manual_playthrough": false
+  },
+  "limits": [
+    "Finite automated routes and sampled actor pixels do not prove every possible gameplay position.",
+    "171 directions unavailable due world boundary or neighboring scenery are reported separately; they are not counted as tested routes.",
+    "Overhead canopy and real structures can still occlude an actor standing behind them.",
+    "Native headless backend exposes no GPU image readback; previews are software replays of actual Canvas commands.",
+    "No interior scene or persistent save system."
+  ]
+}

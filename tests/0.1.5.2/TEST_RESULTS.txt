@@ -1,0 +1,16 @@
+Forest Wanderer 0.1.5.2 — 2026-10-13
+
+Mechanics / ecology / turning: 1017 checks, 0 failures.
+Model, atlas borders, fixed leg lengths, blade thickness and right-hand grip:
+1795 checks, 0 failures.
+Navigation: all 67 resource nodes have reachable approaches from camp.
+Eleven UI states passed headless script checks.
+Scene paint commands and all eight walking poses were captured for visual
+review; walking-and-grip.gif shows the exported game poses.
+App signature verified and all 24 runtime files match source checksums.
+
+Native GUI launch is unavailable in this sandbox. No native GPU or manual
+gameplay pass is claimed. The scene previews replay the game's drawing
+commands through a software renderer; font rendering can differ slightly.
+Godot's user-data directory and system certificate warnings occurred only
+in the restricted headless session.

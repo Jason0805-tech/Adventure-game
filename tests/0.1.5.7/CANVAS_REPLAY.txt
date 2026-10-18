@@ -1,0 +1,26 @@
+Reproducible software Canvas validation (0.1.5.7)
+
+These PNGs are SOFTWARE REPLAYS of the game's drawing commands and runtime
+artwork. They are not screenshots of native Godot GPU frames. Font glyphs,
+antialiasing and per-vertex mesh alpha may differ slightly from native output.
+Mesh triangles use the average of their three vertex colours for SVG replay.
+
+make_capture_script.py creates snapshot_game.gd from the current release main.gd,
+replacing only the Canvas API calls with recording calls. It adds a ground-layer
+record at the start of _draw, using the game's camera. Call reset_capture(),
+_draw() and save_capture() as with earlier versions. Re-run the generator after
+the release main.gd changes.
+
+capture_canvas.gd records each static mesh as one command; the vertex/colour
+arrays are saved once to an external mesh JSON file and reused across scenes.
+render_captures.cjs replays the triangles into a cached transparent PNG, then
+composites it with original textures and the remaining Canvas commands.
+
+ground_replay_capture.gd records a same-camera before/after crop at 1:1 world
+scale using the unchanged meadow bitmap and ground_painter.gd's actual mesh.
+Rendered files: captures/ground-before.png and captures/ground-after.png.
+
+Commands:
+  python3 tests/0.1.5.7/make_capture_script.py
+  Godot --headless --path "output/adventure game 0.1.5.7" --script absolute-path-to-ground_replay_capture.gd
+  Node tests/0.1.5.7/render_captures.cjs

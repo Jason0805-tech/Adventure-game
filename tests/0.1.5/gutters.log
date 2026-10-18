@@ -1,0 +1,25 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+environment size=(1536, 1024)
+ row 1 best=552 alpha=0
+ cellrow 0 column 1 best=520 alpha=0
+ cellrow 0 column 2 best=1024 alpha=0
+ cellrow 1 column 1 best=499 alpha=0
+ cellrow 1 column 2 best=1024 alpha=0
+tree-variants size=(1536, 1024)
+ row 1 best=624 alpha=0
+ cellrow 0 column 1 best=512 alpha=0
+ cellrow 0 column 2 best=1024 alpha=0
+ cellrow 1 column 1 best=516 alpha=0
+ cellrow 1 column 2 best=1024 alpha=0
+ponds size=(1024, 1536)
+ row 1 best=590 alpha=24
+ row 2 best=1089 alpha=0
+ground-blends size=(1536, 1024)
+ row 1 best=512 alpha=0
+ cellrow 0 column 1 best=512 alpha=0
+ cellrow 0 column 2 best=1024 alpha=0
+ cellrow 1 column 1 best=522 alpha=0
+ cellrow 1 column 2 best=1024 alpha=0

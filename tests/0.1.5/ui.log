@@ -1,0 +1,16 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+GAME_READY 0.1.5
+UI_STATE_OK day
+UI_STATE_OK crafting
+UI_STATE_OK inventory
+UI_STATE_OK dialog
+UI_STATE_OK paused
+UI_STATE_OK dusk
+UI_STATE_OK choice
+UI_STATE_OK encounter
+UI_STATE_OK result
+UI_STATE_OK lost
+UI_STATE_OK won

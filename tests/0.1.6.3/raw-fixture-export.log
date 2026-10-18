@@ -1,0 +1,28 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+ERROR: Could not open 'user://' directory: 'user://'.
+   at: _get_and_create_snapshot_storage_dir (modules/objectdb_profiler/editor/objectdb_profiler_panel.cpp:157)
+[   0% ] first_scan_filesystem | Started 项目初始化 (5 steps)
+[   0% ] first_scan_filesystem | 正在扫描文件结构……
+[  16% ] first_scan_filesystem | 正在加载全局类名……
+[  33% ] first_scan_filesystem | 正在校验 GDExtension……
+[  50% ] first_scan_filesystem | 正在创建自动加载脚本……
+[  66% ] first_scan_filesystem | 正在初始化插件……
+[  83% ] first_scan_filesystem | 正在启动文件扫描……
+[ DONE ] first_scan_filesystem
+
+[   0% ] savepack | Started 打包中 (102 steps)
+[   1% ] savepack | 正在保存文件：res://.godot/imported/imported.png-e966fc95fee42bb1af3522087dc91767.ctex
+[   1% ] savepack | 正在保存文件：res://imported.png.import
+[  50% ] savepack | 正在保存文件：res://kept.png
+[  50% ] savepack | 正在保存文件：res://.godot/global_script_class_cache.cfg
+[  50% ] savepack | 正在保存文件：res://.godot/uid_cache.bin
+[  50% ] savepack | 正在保存文件：res://project.binary
+[ DONE ] savepack
+
+ERROR: Cannot save file '/Users/jasonsmacair/Library/Application Support/Godot/editor_settings-4.7.tres'.
+   at: save (scene/resources/resource_format_text.cpp:1768)
+ERROR: Error saving editor settings to /Users/jasonsmacair/Library/Application Support/Godot/editor_settings-4.7.tres
+   at: save (editor/settings/editor_settings.cpp:1525)

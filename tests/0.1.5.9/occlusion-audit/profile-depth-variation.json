@@ -1,0 +1,629 @@
+{
+  "note": "These measure local lower collider boundaries against scalar object depth. Some points are intentionally passable foliage/arch, not all are observed failures. No runtime changes.",
+  "profiles": [
+    {
+      "profile": "tree_0",
+      "world_height": 168.0,
+      "global_depth_v": 0.891,
+      "max_false_behind_band_world": 53.696,
+      "median_false_behind_band_world": 26.789,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.8723829787234042,
+        "global_minus_local_world": 3.1276595744680966
+      },
+      "columns_sampled": 482
+    },
+    {
+      "profile": "tree_1",
+      "world_height": 168.0,
+      "global_depth_v": 0.888,
+      "max_false_behind_band_world": 10.532,
+      "median_false_behind_band_world": 2.851,
+      "near_u_040": {
+        "u": 0.404,
+        "local_bottom_v": 0.825309450072359,
+        "global_minus_local_world": 10.53201238784369
+      },
+      "columns_sampled": 179
+    },
+    {
+      "profile": "tree_2",
+      "world_height": 168.0,
+      "global_depth_v": 0.897,
+      "max_false_behind_band_world": 71.641,
+      "median_false_behind_band_world": 33.897,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.8898296994535518,
+        "global_minus_local_world": 1.2046104918032947
+      },
+      "columns_sampled": 362
+    },
+    {
+      "profile": "tree_3",
+      "world_height": 168.0,
+      "global_depth_v": 0.9,
+      "max_false_behind_band_world": 58.417,
+      "median_false_behind_band_world": 4.545,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.8726707104795737,
+        "global_minus_local_world": 4.591320639431626
+      },
+      "columns_sampled": 435
+    },
+    {
+      "profile": "tree_4",
+      "world_height": 168.0,
+      "global_depth_v": 0.916,
+      "max_false_behind_band_world": 7.422,
+      "median_false_behind_band_world": 2.701,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.8861818181818183,
+        "global_minus_local_world": 5.009454545454533
+      },
+      "columns_sampled": 206
+    },
+    {
+      "profile": "tree_5",
+      "world_height": 168.0,
+      "global_depth_v": 0.917,
+      "max_false_behind_band_world": 69.303,
+      "median_false_behind_band_world": 41.307,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.7300411899313501,
+        "global_minus_local_world": 31.409080091533184
+      },
+      "columns_sampled": 618
+    },
+    {
+      "profile": "shrub_0",
+      "world_height": 60.0,
+      "global_depth_v": 0.887,
+      "max_false_behind_band_world": 5.34,
+      "median_false_behind_band_world": 1.348,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.8676756756756757,
+        "global_minus_local_world": 1.1594594594594576
+      },
+      "columns_sampled": 465
+    },
+    {
+      "profile": "shrub_1",
+      "world_height": 60.0,
+      "global_depth_v": 0.883,
+      "max_false_behind_band_world": 6.0,
+      "median_false_behind_band_world": 1.599,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.8549775280898876,
+        "global_minus_local_world": 1.6813483146067454
+      },
+      "columns_sampled": 612
+    },
+    {
+      "profile": "shrub_2",
+      "world_height": 60.0,
+      "global_depth_v": 0.875,
+      "max_false_behind_band_world": 5.88,
+      "median_false_behind_band_world": 1.135,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.8564022988505747,
+        "global_minus_local_world": 1.1158620689655163
+      },
+      "columns_sampled": 531
+    },
+    {
+      "profile": "shrub_3",
+      "world_height": 60.0,
+      "global_depth_v": 0.884,
+      "max_false_behind_band_world": 6.06,
+      "median_false_behind_band_world": 1.374,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.8656129032258064,
+        "global_minus_local_world": 1.1032258064516154
+      },
+      "columns_sampled": 484
+    },
+    {
+      "profile": "cabin",
+      "world_height": 222.0,
+      "global_depth_v": 0.96386,
+      "max_false_behind_band_world": 142.044,
+      "median_false_behind_band_world": 27.355,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.8398792715231788,
+        "global_minus_local_world": 27.523721721854326
+      },
+      "columns_sampled": 874
+    },
+    {
+      "profile": "prop_0",
+      "world_height": 222.0,
+      "global_depth_v": 0.96386,
+      "max_false_behind_band_world": 142.044,
+      "median_false_behind_band_world": 27.355,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.8398792715231788,
+        "global_minus_local_world": 27.523721721854326
+      },
+      "columns_sampled": 874
+    },
+    {
+      "profile": "prop_1",
+      "world_height": 49.0,
+      "global_depth_v": 0.86434,
+      "max_false_behind_band_world": 18.278,
+      "median_false_behind_band_world": 6.052,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.7673133298724415,
+        "global_minus_local_world": 4.754306836250366
+      },
+      "columns_sampled": 727
+    },
+    {
+      "profile": "prop_2",
+      "world_height": 49.0,
+      "global_depth_v": 0.84247,
+      "max_false_behind_band_world": 17.421,
+      "median_false_behind_band_world": 6.683,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.7209561101433739,
+        "global_minus_local_world": 5.954180602974681
+      },
+      "columns_sampled": 813
+    },
+    {
+      "profile": "prop_3",
+      "world_height": 46.0,
+      "global_depth_v": 0.9019,
+      "max_false_behind_band_world": 17.936,
+      "median_false_behind_band_world": 1.904,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.8789874629944189,
+        "global_minus_local_world": 1.0539767022567332
+      },
+      "columns_sampled": 662
+    },
+    {
+      "profile": "prop_4",
+      "world_height": 34.0,
+      "global_depth_v": 0.89744,
+      "max_false_behind_band_world": 21.849,
+      "median_false_behind_band_world": 3.548,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.832851370510397,
+        "global_minus_local_world": 2.1960134026465012
+      },
+      "columns_sampled": 709
+    },
+    {
+      "profile": "prop_5",
+      "world_height": 46.0,
+      "global_depth_v": 0.96667,
+      "max_false_behind_band_world": 29.497,
+      "median_false_behind_band_world": 5.756,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.8825431621577838,
+        "global_minus_local_world": 3.869834540741945
+      },
+      "columns_sampled": 686
+    },
+    {
+      "profile": "bench",
+      "world_height": 82.0,
+      "global_depth_v": 0.94444,
+      "max_false_behind_band_world": 44.66,
+      "median_false_behind_band_world": 9.501,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.8309573052212931,
+        "global_minus_local_world": 9.305580971853963
+      },
+      "columns_sampled": 823
+    },
+    {
+      "profile": "stump_0",
+      "world_height": 46.0,
+      "global_depth_v": 0.95029,
+      "max_false_behind_band_world": 13.837,
+      "median_false_behind_band_world": 7.544,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.7809076082740789,
+        "global_minus_local_world": 7.791590019392369
+      },
+      "columns_sampled": 965
+    },
+    {
+      "profile": "stump_1",
+      "world_height": 46.0,
+      "global_depth_v": 0.97059,
+      "max_false_behind_band_world": 12.157,
+      "median_false_behind_band_world": 5.904,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.801763,
+        "global_minus_local_world": 7.766041999999998
+      },
+      "columns_sampled": 833
+    },
+    {
+      "profile": "ore_0",
+      "world_height": 62.0,
+      "global_depth_v": 0.95667,
+      "max_false_behind_band_world": 22.926,
+      "median_false_behind_band_world": 7.112,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.9283792553872413,
+        "global_minus_local_world": 1.75402616599104
+      },
+      "columns_sampled": 750
+    },
+    {
+      "profile": "ore_1",
+      "world_height": 62.0,
+      "global_depth_v": 0.91899,
+      "max_false_behind_band_world": 19.326,
+      "median_false_behind_band_world": 6.562,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.8824975958353052,
+        "global_minus_local_world": 2.262529058211077
+      },
+      "columns_sampled": 756
+    },
+    {
+      "profile": "ore_2",
+      "world_height": 62.0,
+      "global_depth_v": 0.9396,
+      "max_false_behind_band_world": 16.762,
+      "median_false_behind_band_world": 5.597,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.9286148949980909,
+        "global_minus_local_world": 0.6810765101183629
+      },
+      "columns_sampled": 726
+    },
+    {
+      "profile": "resource_branch_0",
+      "world_height": 38.0,
+      "global_depth_v": 0.972,
+      "max_false_behind_band_world": 7.562,
+      "median_false_behind_band_world": 4.231,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.8068928571428572,
+        "global_minus_local_world": 6.274071428571426
+      },
+      "columns_sampled": 433
+    },
+    {
+      "profile": "resource_branch_1",
+      "world_height": 38.0,
+      "global_depth_v": 0.959,
+      "max_false_behind_band_world": 12.274,
+      "median_false_behind_band_world": 3.908,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.9352,
+        "global_minus_local_world": 0.9043999999999974
+      },
+      "columns_sampled": 358
+    },
+    {
+      "profile": "resource_branch_2",
+      "world_height": 38.0,
+      "global_depth_v": 0.969,
+      "max_false_behind_band_world": 7.334,
+      "median_false_behind_band_world": 1.084,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.7983859649122808,
+        "global_minus_local_world": 6.483333333333331
+      },
+      "columns_sampled": 360
+    },
+    {
+      "profile": "resource_rock_0",
+      "world_height": 30.0,
+      "global_depth_v": 0.89252,
+      "max_false_behind_band_world": 7.097,
+      "median_false_behind_band_world": 3.084,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.7843274683281413,
+        "global_minus_local_world": 3.2457759501557613
+      },
+      "columns_sampled": 763
+    },
+    {
+      "profile": "resource_rock_1",
+      "world_height": 30.0,
+      "global_depth_v": 0.97685,
+      "max_false_behind_band_world": 6.659,
+      "median_false_behind_band_world": 1.252,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.8237290971809206,
+        "global_minus_local_world": 4.593627084572383
+      },
+      "columns_sampled": 690
+    },
+    {
+      "profile": "resource_rock_2",
+      "world_height": 30.0,
+      "global_depth_v": 0.94762,
+      "max_false_behind_band_world": 11.375,
+      "median_false_behind_band_world": 1.628,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.9422076211145338,
+        "global_minus_local_world": 0.16237136656398587
+      },
+      "columns_sampled": 748
+    },
+    {
+      "profile": "resource_rope_0",
+      "world_height": 38.0,
+      "global_depth_v": 0.906,
+      "max_false_behind_band_world": 3.686,
+      "median_false_behind_band_world": 0.574,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.900537037037037,
+        "global_minus_local_world": 0.2075925925925941
+      },
+      "columns_sampled": 392
+    },
+    {
+      "profile": "resource_rope_1",
+      "world_height": 38.0,
+      "global_depth_v": 0.903,
+      "max_false_behind_band_world": 2.508,
+      "median_false_behind_band_world": 0.411,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.8987454545454545,
+        "global_minus_local_world": 0.1616727272727294
+      },
+      "columns_sampled": 376
+    },
+    {
+      "profile": "resource_rope_2",
+      "world_height": 38.0,
+      "global_depth_v": 0.925,
+      "max_false_behind_band_world": 3.648,
+      "median_false_behind_band_world": 0.69,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.9115833333333334,
+        "global_minus_local_world": 0.509833333333332
+      },
+      "columns_sampled": 360
+    },
+    {
+      "profile": "resource_branch_spent_0",
+      "world_height": 18.2399997711182,
+      "global_depth_v": 0.842,
+      "max_false_behind_band_world": 1.496,
+      "median_false_behind_band_world": 0.449,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.8167619047619047,
+        "global_minus_local_world": 0.46034285136631725
+      },
+      "columns_sampled": 228
+    },
+    {
+      "profile": "resource_branch_spent_1",
+      "world_height": 18.2399997711182,
+      "global_depth_v": 0.835,
+      "max_false_behind_band_world": 2.079,
+      "median_false_behind_band_world": 0.428,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.7871935483870968,
+        "global_minus_local_world": 0.8719896664773277
+      },
+      "columns_sampled": 182
+    },
+    {
+      "profile": "resource_branch_spent_2",
+      "world_height": 18.2399997711182,
+      "global_depth_v": 0.818,
+      "max_false_behind_band_world": 2.098,
+      "median_false_behind_band_world": 0.352,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.7318,
+        "global_minus_local_world": 1.5722879802703877
+      },
+      "columns_sampled": 210
+    },
+    {
+      "profile": "resource_rock_spent_0",
+      "world_height": 14.3999996185303,
+      "global_depth_v": 0.84375,
+      "max_false_behind_band_world": 2.109,
+      "median_false_behind_band_world": 0.801,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.7609858616736721,
+        "global_minus_local_world": 1.1918035603271107
+      },
+      "columns_sampled": 843
+    },
+    {
+      "profile": "resource_rock_spent_1",
+      "world_height": 14.3999996185303,
+      "global_depth_v": 0.91429,
+      "max_false_behind_band_world": 8.419,
+      "median_false_behind_band_world": 0.612,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.9020409813800657,
+        "global_minus_local_world": 0.17638586345442483
+      },
+      "columns_sampled": 470
+    },
+    {
+      "profile": "resource_rock_spent_2",
+      "world_height": 14.3999996185303,
+      "global_depth_v": 1.02941,
+      "max_false_behind_band_world": 4.906,
+      "median_false_behind_band_world": 2.785,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 1.0076909607218685,
+        "global_minus_local_world": 0.3127541573199376
+      },
+      "columns_sampled": 604
+    },
+    {
+      "profile": "resource_rope_spent_0",
+      "world_height": 18.2399997711182,
+      "global_depth_v": 0.855,
+      "max_false_behind_band_world": 2.134,
+      "median_false_behind_band_world": 0.35,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.8390655737704917,
+        "global_minus_local_world": 0.29064393077913026
+      },
+      "columns_sampled": 355
+    },
+    {
+      "profile": "resource_rope_spent_1",
+      "world_height": 18.2399997711182,
+      "global_depth_v": 0.861,
+      "max_false_behind_band_world": 1.441,
+      "median_false_behind_band_world": 0.285,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.8469599999999999,
+        "global_minus_local_world": 0.2560895967865005
+      },
+      "columns_sampled": 320
+    },
+    {
+      "profile": "resource_rope_spent_2",
+      "world_height": 18.2399997711182,
+      "global_depth_v": 0.856,
+      "max_false_behind_band_world": 1.496,
+      "median_false_behind_band_world": 0.332,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.838566037735849,
+        "global_minus_local_world": 0.31799546770779663
+      },
+      "columns_sampled": 325
+    },
+    {
+      "profile": "gate",
+      "world_height": 132.0,
+      "global_depth_v": 0.92172,
+      "max_false_behind_band_world": 96.801,
+      "median_false_behind_band_world": 26.387,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.5195247971918877,
+        "global_minus_local_world": 53.08976677067082
+      },
+      "columns_sampled": 712
+    },
+    {
+      "profile": "pond_0",
+      "world_height": 230.0,
+      "global_depth_v": 0.8416,
+      "max_false_behind_band_world": 72.682,
+      "median_false_behind_band_world": 16.514,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.8265628571428573,
+        "global_minus_local_world": 3.4585428571428323
+      },
+      "columns_sampled": 765
+    },
+    {
+      "profile": "pond_1",
+      "world_height": 150.0,
+      "global_depth_v": 0.8709,
+      "max_false_behind_band_world": 61.968,
+      "median_false_behind_band_world": 16.039,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.7785022151898734,
+        "global_minus_local_world": 13.859667721518992
+      },
+      "columns_sampled": 753
+    },
+    {
+      "profile": "pond_2",
+      "world_height": 135.0,
+      "global_depth_v": 0.8513,
+      "max_false_behind_band_world": 52.054,
+      "median_false_behind_band_world": 9.324,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.7871526315789474,
+        "global_minus_local_world": 8.659894736842089
+      },
+      "columns_sampled": 737
+    },
+    {
+      "profile": "pond_0_rocks",
+      "world_height": 230.0,
+      "global_depth_v": 0.94554,
+      "max_false_behind_band_world": 177.066,
+      "median_false_behind_band_world": 29.434,
+      "near_u_040": {
+        "u": 0.4,
+        "local_bottom_v": 0.903997623022847,
+        "global_minus_local_world": 9.554746704745193
+      },
+      "columns_sampled": 570
+    },
+    {
+      "profile": "pond_1_rocks",
+      "world_height": 150.0,
+      "global_depth_v": 0.85915,
+      "max_false_behind_band_world": 99.0,
+      "median_false_behind_band_world": 14.179,
+      "near_u_040": {
+        "u": 0.392,
+        "local_bottom_v": 0.19915279279279255,
+        "global_minus_local_world": 98.99958108108112
+      },
+      "columns_sampled": 525
+    },
+    {
+      "profile": "pond_2_rocks",
+      "world_height": 135.0,
+      "global_depth_v": 0.97692,
+      "max_false_behind_band_world": 59.164,
+      "median_false_behind_band_world": 18.5,
+      "near_u_040": {
+        "u": 0.317,
+        "local_bottom_v": 0.7950626415094341,
+        "global_minus_local_world": 24.5507433962264
+      },
+      "columns_sampled": 613
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+	"duration_seconds": 60,
+	"moving_frames": {
+		"Ash": 1327,
+		"Rowan": 1460
+	},
+	"traveled": {
+		"Ash": 1902.03889393806,
+		"Rowan": 1459.99957871437
+	}
+}

@@ -1,0 +1,4297 @@
+{
+  "headings": {
+    "bear:0": {
+      "source_area": 147455.999729543,
+      "painted_source_pixels": 17319,
+      "uv_max_error": 4.967054462179377e-09,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 28350,
+      "max_visible_linear_stretch": 1.0873336791992472,
+      "parts": [
+        {
+          "owner": 1,
+          "triangles": 795,
+          "visible_triangles": 532,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7762603759765055,
+          "max_visible_linear_stretch": 1.0873336791992472,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 853,
+          "visible_triangles": 602,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7983270009053177,
+          "max_visible_linear_stretch": 1.0787129823799781,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 2212,
+          "visible_triangles": 340,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "front_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 54,
+          "contact_sole_points": 54,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 756,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 1,
+          "name": "front_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 45,
+          "contact_sole_points": 45,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 630,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.0002704570069909096
+    },
+    "bear:1": {
+      "source_area": 147455.9940763897,
+      "painted_source_pixels": 23551,
+      "uv_max_error": 1.4901161693448017e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 37800,
+      "max_visible_linear_stretch": 1.2877435016068712,
+      "parts": [
+        {
+          "owner": 2,
+          "triangles": 885,
+          "visible_triangles": 608,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.8109939155694436,
+          "max_visible_linear_stretch": 1.2877435016068712,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 830,
+          "visible_triangles": 560,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7562866210937499,
+          "max_visible_linear_stretch": 1.1913527980826137,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 502,
+          "visible_triangles": 344,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.6635500649428698,
+          "max_visible_linear_stretch": 1.2267442357066278,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 2229,
+          "visible_triangles": 438,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 39,
+          "contact_sole_points": 39,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 507,
+          "max_contact_excess_world": 0.03460663087179938,
+          "max_additional_contact_excess_world": 0.03460663087179938
+        },
+        {
+          "owner": 1,
+          "name": "hind_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 51,
+          "contact_sole_points": 51,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 714,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 2,
+          "name": "front_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 48,
+          "contact_sole_points": 43,
+          "excluded_preexisting_raised_or_fur": 5,
+          "original_max_excess_world": 1.7876723956306293,
+          "source_contact_uncovered": 0,
+          "support_samples": 602,
+          "max_contact_excess_world": 0.28806966006767887,
+          "max_additional_contact_excess_world": 0.17341121995838726
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.005923610297031701
+    },
+    "bear:2": {
+      "source_area": 147455.99675842392,
+      "painted_source_pixels": 28162,
+      "uv_max_error": 2.980232266525107e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 47000,
+      "max_visible_linear_stretch": 1.271517805568511,
+      "parts": [
+        {
+          "owner": 3,
+          "triangles": 657,
+          "visible_triangles": 457,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7992664495030285,
+          "max_visible_linear_stretch": 1.206856905212568,
+          "examples": []
+        },
+        {
+          "owner": 2,
+          "triangles": 534,
+          "visible_triangles": 411,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7903994393831837,
+          "max_visible_linear_stretch": 1.169623568644991,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 633,
+          "visible_triangles": 435,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7232383139922292,
+          "max_visible_linear_stretch": 1.228887229099529,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 819,
+          "visible_triangles": 577,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7886886596679776,
+          "max_visible_linear_stretch": 1.271517805568511,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 2716,
+          "visible_triangles": 629,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "hind_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 51,
+          "contact_sole_points": 51,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 714,
+          "max_contact_excess_world": 0.18646034252099852,
+          "max_additional_contact_excess_world": 0.18646034252099852
+        },
+        {
+          "owner": 1,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 50,
+          "contact_sole_points": 50,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 650,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 2,
+          "name": "front_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 37,
+          "contact_sole_points": 37,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 518,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 3,
+          "name": "front_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 50,
+          "contact_sole_points": 50,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 700,
+          "max_contact_excess_world": 0.1609753354097716,
+          "max_additional_contact_excess_world": 0.1609753354097716
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.0032415760797448456
+    },
+    "bear:3": {
+      "source_area": 147455.99877526984,
+      "painted_source_pixels": 23280,
+      "uv_max_error": 2.980232272076222e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 37600,
+      "max_visible_linear_stretch": 1.199616766691692,
+      "parts": [
+        {
+          "owner": 2,
+          "triangles": 653,
+          "visible_triangles": 455,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7898029825226162,
+          "max_visible_linear_stretch": 1.199616766691692,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 816,
+          "visible_triangles": 577,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7659101937423025,
+          "max_visible_linear_stretch": 1.165922249698775,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 717,
+          "visible_triangles": 472,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7241134643554574,
+          "max_visible_linear_stretch": 1.1968982983845025,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 2272,
+          "visible_triangles": 422,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "hind_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 46,
+          "contact_sole_points": 46,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 644,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 1,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 53,
+          "contact_sole_points": 53,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 689,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 2,
+          "name": "front_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 44,
+          "contact_sole_points": 44,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 616,
+          "max_contact_excess_world": 0.17620092266606413,
+          "max_additional_contact_excess_world": 0.17620092266606413
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.0012247301638126373
+    },
+    "bear:4": {
+      "source_area": 147455.99699526257,
+      "painted_source_pixels": 16990,
+      "uv_max_error": 3.973643025734219e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 28050,
+      "max_visible_linear_stretch": 1.0873336791992472,
+      "parts": [
+        {
+          "owner": 1,
+          "triangles": 826,
+          "visible_triangles": 600,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.78179930030028,
+          "max_visible_linear_stretch": 1.0851745605469887,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 772,
+          "visible_triangles": 522,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7762603759765054,
+          "max_visible_linear_stretch": 1.0873336791992472,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 2304,
+          "visible_triangles": 351,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 42,
+          "contact_sole_points": 42,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 546,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 1,
+          "name": "hind_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 45,
+          "contact_sole_points": 45,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 630,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.0030047374311834574
+    },
+    "bear:5": {
+      "source_area": 147455.99889810357,
+      "painted_source_pixels": 23053,
+      "uv_max_error": 5.960464488641293e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 38825,
+      "max_visible_linear_stretch": 1.2863011184101114,
+      "parts": [
+        {
+          "owner": 2,
+          "triangles": 881,
+          "visible_triangles": 672,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7637252807608724,
+          "max_visible_linear_stretch": 1.1675558004077793,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 741,
+          "visible_triangles": 487,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7655949530331432,
+          "max_visible_linear_stretch": 1.1661232354885716,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 599,
+          "visible_triangles": 394,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7580704535067576,
+          "max_visible_linear_stretch": 1.2863011184101114,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 2178,
+          "visible_triangles": 421,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "front_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 38,
+          "contact_sole_points": 37,
+          "excluded_preexisting_raised_or_fur": 1,
+          "original_max_excess_world": 0.6013370245927607,
+          "source_contact_uncovered": 0,
+          "support_samples": 518,
+          "max_contact_excess_world": 0.3012825903068528,
+          "max_additional_contact_excess_world": 0.18820462400721638
+        },
+        {
+          "owner": 1,
+          "name": "hind_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 42,
+          "contact_sole_points": 42,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 588,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 2,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 55,
+          "contact_sole_points": 55,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 715,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.0011018964287359267
+    },
+    "bear:6": {
+      "source_area": 147455.99481340067,
+      "painted_source_pixels": 28616,
+      "uv_max_error": 5.960464510845753e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 46675,
+      "max_visible_linear_stretch": 1.347875398430942,
+      "parts": [
+        {
+          "owner": 3,
+          "triangles": 534,
+          "visible_triangles": 333,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.8254407753724778,
+          "max_visible_linear_stretch": 1.2860202080925827,
+          "examples": []
+        },
+        {
+          "owner": 2,
+          "triangles": 544,
+          "visible_triangles": 397,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.8002237388833828,
+          "max_visible_linear_stretch": 1.160992154612073,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 709,
+          "visible_triangles": 543,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7510087618167631,
+          "max_visible_linear_stretch": 1.2040154952629107,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 845,
+          "visible_triangles": 594,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.9150160405672816,
+          "max_visible_linear_stretch": 1.347875398430942,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 2960,
+          "visible_triangles": 760,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 50,
+          "contact_sole_points": 49,
+          "excluded_preexisting_raised_or_fur": 1,
+          "original_max_excess_world": 0.5425673390704944,
+          "source_contact_uncovered": 0,
+          "support_samples": 637,
+          "max_contact_excess_world": 0.17527729885445353,
+          "max_additional_contact_excess_world": 0.17527729885445353
+        },
+        {
+          "owner": 1,
+          "name": "hind_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 50,
+          "contact_sole_points": 50,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 700,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 2,
+          "name": "front_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 34,
+          "contact_sole_points": 34,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 476,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 3,
+          "name": "front_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 43,
+          "contact_sole_points": 43,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 602,
+          "max_contact_excess_world": 0.1743128532084306,
+          "max_additional_contact_excess_world": 0.1743128532084306
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.005186599330045283
+    },
+    "bear:7": {
+      "source_area": 147455.99985680403,
+      "painted_source_pixels": 21991,
+      "uv_max_error": 5.960464499743523e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 35350,
+      "max_visible_linear_stretch": 1.2363391684623593,
+      "parts": [
+        {
+          "owner": 2,
+          "triangles": 842,
+          "visible_triangles": 570,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7691254250967362,
+          "max_visible_linear_stretch": 1.2363391684623593,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 613,
+          "visible_triangles": 409,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.752634684244659,
+          "max_visible_linear_stretch": 1.1757109271693564,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 587,
+          "visible_triangles": 435,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7300666187266154,
+          "max_visible_linear_stretch": 1.1800766572799621,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 1968,
+          "visible_triangles": 462,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "hind_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 45,
+          "contact_sole_points": 45,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 630,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 1,
+          "name": "front_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 46,
+          "contact_sole_points": 46,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 644,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 2,
+          "name": "front_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 50,
+          "contact_sole_points": 49,
+          "excluded_preexisting_raised_or_fur": 1,
+          "original_max_excess_world": 0.5445261005631359,
+          "source_contact_uncovered": 0,
+          "support_samples": 686,
+          "max_contact_excess_world": 0.5233096429525457,
+          "max_additional_contact_excess_world": 0.17852346209517478
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.0001431959681212902
+    },
+    "deer:0": {
+      "source_area": 147455.99916301062,
+      "painted_source_pixels": 9503,
+      "uv_max_error": 4.967054517690528e-09,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 9850,
+      "max_visible_linear_stretch": 1.2980225505160732,
+      "parts": [
+        {
+          "owner": 1,
+          "triangles": 325,
+          "visible_triangles": 242,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7204291255012427,
+          "max_visible_linear_stretch": 1.128024309259912,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 266,
+          "visible_triangles": 152,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.6369246577769399,
+          "max_visible_linear_stretch": 1.2980225505160732,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 1480,
+          "visible_triangles": 327,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "front_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 18,
+          "contact_sole_points": 12,
+          "excluded_preexisting_raised_or_fur": 6,
+          "original_max_excess_world": 3.8835101001788086,
+          "source_contact_uncovered": 0,
+          "support_samples": 168,
+          "max_contact_excess_world": 0.17275244766518227,
+          "max_additional_contact_excess_world": 0.17275244766518227
+        },
+        {
+          "owner": 1,
+          "name": "front_left",
+          "potential_static_paw_pixels": 50,
+          "potential_static_paw_examples": [
+            [
+              204.5,
+              304.5
+            ],
+            [
+              204.5,
+              305.5
+            ],
+            [
+              204.5,
+              306.5
+            ],
+            [
+              204.5,
+              307.5
+            ]
+          ],
+          "source_sole_points": 18,
+          "contact_sole_points": 18,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 252,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.000836989376693964
+    },
+    "deer:1": {
+      "source_area": 147455.9931752067,
+      "painted_source_pixels": 14444,
+      "uv_max_error": 1.4901161776714744e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 16775,
+      "max_visible_linear_stretch": 1.4860820488820772,
+      "parts": [
+        {
+          "owner": 3,
+          "triangles": 209,
+          "visible_triangles": 117,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.5674862986697176,
+          "max_visible_linear_stretch": 1.3607233865814499,
+          "examples": []
+        },
+        {
+          "owner": 2,
+          "triangles": 358,
+          "visible_triangles": 231,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7580511200827696,
+          "max_visible_linear_stretch": 1.195121903589768,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 298,
+          "visible_triangles": 171,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.6525230407714987,
+          "max_visible_linear_stretch": 1.4860820488820772,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 296,
+          "visible_triangles": 152,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.6966914035798509,
+          "max_visible_linear_stretch": 1.461831912839508,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 2328,
+          "visible_triangles": 426,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 7,
+          "potential_static_paw_examples": [
+            [
+              123.5,
+              284.5
+            ],
+            [
+              123.5,
+              285.5
+            ],
+            [
+              126.5,
+              294.5
+            ],
+            [
+              126.5,
+              295.5
+            ]
+          ],
+          "source_sole_points": 18,
+          "contact_sole_points": 16,
+          "excluded_preexisting_raised_or_fur": 2,
+          "original_max_excess_world": 1.35872688394908,
+          "source_contact_uncovered": 0,
+          "support_samples": 224,
+          "max_contact_excess_world": 0.18559497160366512,
+          "max_additional_contact_excess_world": 0.18559497160366512
+        },
+        {
+          "owner": 1,
+          "name": "hind_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 22,
+          "contact_sole_points": 16,
+          "excluded_preexisting_raised_or_fur": 6,
+          "original_max_excess_world": 4.77604166666665,
+          "source_contact_uncovered": 0,
+          "support_samples": 208,
+          "max_contact_excess_world": 0.23537254333503022,
+          "max_additional_contact_excess_world": 0.1989142100017105
+        },
+        {
+          "owner": 2,
+          "name": "front_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 17,
+          "contact_sole_points": 17,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 238,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 3,
+          "name": "front_left",
+          "potential_static_paw_pixels": 14,
+          "potential_static_paw_examples": [
+            [
+              202.5,
+              291.5
+            ],
+            [
+              201.5,
+              292.5
+            ],
+            [
+              200.5,
+              293.5
+            ],
+            [
+              199.5,
+              294.5
+            ]
+          ],
+          "source_sole_points": 14,
+          "contact_sole_points": 14,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 196,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.006824793294072151
+    },
+    "deer:2": {
+      "source_area": 147455.99911285448,
+      "painted_source_pixels": 15558,
+      "uv_max_error": 2.980232272076222e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 24250,
+      "max_visible_linear_stretch": 1.7324049561429764,
+      "parts": [
+        {
+          "owner": 3,
+          "triangles": 304,
+          "visible_triangles": 166,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.5842132568359943,
+          "max_visible_linear_stretch": 1.4987845885913964,
+          "examples": []
+        },
+        {
+          "owner": 2,
+          "triangles": 563,
+          "visible_triangles": 249,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7188968877522444,
+          "max_visible_linear_stretch": 1.5896157628793495,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 627,
+          "visible_triangles": 266,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.6698608398437501,
+          "max_visible_linear_stretch": 1.383224734445944,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 477,
+          "visible_triangles": 289,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.8166046142577356,
+          "max_visible_linear_stretch": 1.7324049561429764,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 2889,
+          "visible_triangles": 398,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 18,
+          "contact_sole_points": 18,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 252,
+          "max_contact_excess_world": 0.17751606243701445,
+          "max_additional_contact_excess_world": 0.17751606243701445
+        },
+        {
+          "owner": 1,
+          "name": "hind_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 24,
+          "contact_sole_points": 24,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 312,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 2,
+          "name": "front_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 21,
+          "contact_sole_points": 21,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 294,
+          "max_contact_excess_world": 0.17328134579325827,
+          "max_additional_contact_excess_world": 0.17328134579325827
+        },
+        {
+          "owner": 3,
+          "name": "front_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 18,
+          "contact_sole_points": 18,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 252,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.000887145521119237
+    },
+    "deer:3": {
+      "source_area": 147455.99961502617,
+      "painted_source_pixels": 12865,
+      "uv_max_error": 2.980232266525107e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 19050,
+      "max_visible_linear_stretch": 1.3616992355449846,
+      "parts": [
+        {
+          "owner": 3,
+          "triangles": 322,
+          "visible_triangles": 163,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.6240234375000002,
+          "max_visible_linear_stretch": 1.3616992355449846,
+          "examples": []
+        },
+        {
+          "owner": 2,
+          "triangles": 298,
+          "visible_triangles": 132,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.6003265380860087,
+          "max_visible_linear_stretch": 1.3313017458884646,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 414,
+          "visible_triangles": 232,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7153167724609947,
+          "max_visible_linear_stretch": 1.2313276888361597,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 411,
+          "visible_triangles": 235,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7473831176757387,
+          "max_visible_linear_stretch": 1.2047716378226816,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 1918,
+          "visible_triangles": 272,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 18,
+          "contact_sole_points": 18,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 252,
+          "max_contact_excess_world": 0.17410559818735827,
+          "max_additional_contact_excess_world": 0.17410559818735827
+        },
+        {
+          "owner": 1,
+          "name": "hind_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 22,
+          "contact_sole_points": 22,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 286,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 2,
+          "name": "front_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 18,
+          "contact_sole_points": 18,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 252,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 3,
+          "name": "front_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 18,
+          "contact_sole_points": 18,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 252,
+          "max_contact_excess_world": 0.17340802927882493,
+          "max_additional_contact_excess_world": 0.17340802927882493
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.00038497382774949074
+    },
+    "deer:4": {
+      "source_area": 147455.99826812267,
+      "painted_source_pixels": 9117,
+      "uv_max_error": 3.973643003529759e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 14175,
+      "max_visible_linear_stretch": 1.0917816162110086,
+      "parts": [
+        {
+          "owner": 1,
+          "triangles": 338,
+          "visible_triangles": 219,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7648599470667105,
+          "max_visible_linear_stretch": 1.0917816162110086,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 543,
+          "visible_triangles": 348,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.8242187500000001,
+          "max_visible_linear_stretch": 1.0686187752904202,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 1738,
+          "visible_triangles": 144,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 20,
+          "contact_sole_points": 20,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 260,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 1,
+          "name": "hind_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 15,
+          "contact_sole_points": 9,
+          "excluded_preexisting_raised_or_fur": 6,
+          "original_max_excess_world": 4.113477666810427,
+          "source_contact_uncovered": 0,
+          "support_samples": 126,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.001731877331621945
+    },
+    "deer:5": {
+      "source_area": 147455.99268312322,
+      "painted_source_pixels": 13011,
+      "uv_max_error": 5.960464510845753e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 20975,
+      "max_visible_linear_stretch": 1.370672748836002,
+      "parts": [
+        {
+          "owner": 3,
+          "triangles": 456,
+          "visible_triangles": 226,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7757873535155061,
+          "max_visible_linear_stretch": 1.2198530780400794,
+          "examples": []
+        },
+        {
+          "owner": 2,
+          "triangles": 433,
+          "visible_triangles": 273,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7046661376952416,
+          "max_visible_linear_stretch": 1.2017074289044722,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 346,
+          "visible_triangles": 174,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.664093017578253,
+          "max_visible_linear_stretch": 1.2308451609162683,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 340,
+          "visible_triangles": 166,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.8303565979002413,
+          "max_visible_linear_stretch": 1.370672748836002,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 1814,
+          "visible_triangles": 227,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "front_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 20,
+          "contact_sole_points": 18,
+          "excluded_preexisting_raised_or_fur": 2,
+          "original_max_excess_world": 1.7523661366138246,
+          "source_contact_uncovered": 0,
+          "support_samples": 252,
+          "max_contact_excess_world": 0.16130372128679404,
+          "max_additional_contact_excess_world": 0.16130372128679404
+        },
+        {
+          "owner": 1,
+          "name": "front_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 18,
+          "contact_sole_points": 18,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 252,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 2,
+          "name": "hind_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 23,
+          "contact_sole_points": 23,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 322,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 3,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 19,
+          "contact_sole_points": 19,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 247,
+          "max_contact_excess_world": 0.17911695042002762,
+          "max_additional_contact_excess_world": 0.17911695042002762
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.007316876784898341
+    },
+    "deer:6": {
+      "source_area": 147455.99456872325,
+      "painted_source_pixels": 15614,
+      "uv_max_error": 5.960464510845753e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 25525,
+      "max_visible_linear_stretch": 1.4086889464007883,
+      "parts": [
+        {
+          "owner": 3,
+          "triangles": 442,
+          "visible_triangles": 252,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7719879150389916,
+          "max_visible_linear_stretch": 1.1760400075600588,
+          "examples": []
+        },
+        {
+          "owner": 2,
+          "triangles": 522,
+          "visible_triangles": 283,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7948026681488682,
+          "max_visible_linear_stretch": 1.3346106324965492,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 426,
+          "visible_triangles": 218,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7249603271485087,
+          "max_visible_linear_stretch": 1.2155718767688644,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 497,
+          "visible_triangles": 268,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.892669677734503,
+          "max_visible_linear_stretch": 1.4086889464007883,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 3053,
+          "visible_triangles": 385,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "front_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 25,
+          "contact_sole_points": 25,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 350,
+          "max_contact_excess_world": 0.17541284688507552,
+          "max_additional_contact_excess_world": 0.17541284688507552
+        },
+        {
+          "owner": 1,
+          "name": "front_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 18,
+          "contact_sole_points": 18,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 252,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 2,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 18,
+          "contact_sole_points": 18,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 234,
+          "max_contact_excess_world": 0.16460117507828187,
+          "max_additional_contact_excess_world": 0.16460117507828187
+        },
+        {
+          "owner": 3,
+          "name": "hind_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 25,
+          "contact_sole_points": 25,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 350,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.005431276746094227
+    },
+    "deer:7": {
+      "source_area": 147455.99823618063,
+      "painted_source_pixels": 12412,
+      "uv_max_error": 5.960464499743523e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 18000,
+      "max_visible_linear_stretch": 1.520430394998863,
+      "parts": [
+        {
+          "owner": 3,
+          "triangles": 254,
+          "visible_triangles": 125,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.8070519440247574,
+          "max_visible_linear_stretch": 1.520430394998863,
+          "examples": []
+        },
+        {
+          "owner": 2,
+          "triangles": 378,
+          "visible_triangles": 196,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7094268798830116,
+          "max_visible_linear_stretch": 1.2078755474787481,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 207,
+          "visible_triangles": 102,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7196291825013739,
+          "max_visible_linear_stretch": 1.3427848833775213,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 479,
+          "visible_triangles": 297,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.761148750859188,
+          "max_visible_linear_stretch": 1.161675451668349,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 2003,
+          "visible_triangles": 210,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "front_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 20,
+          "contact_sole_points": 20,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 280,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 1,
+          "name": "front_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 12,
+          "contact_sole_points": 3,
+          "excluded_preexisting_raised_or_fur": 9,
+          "original_max_excess_world": 5.140624999999982,
+          "source_contact_uncovered": 0,
+          "support_samples": 42,
+          "max_contact_excess_world": 0.5640293757120212,
+          "max_additional_contact_excess_world": 0.16295018510790804
+        },
+        {
+          "owner": 2,
+          "name": "hind_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 19,
+          "contact_sole_points": 19,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 266,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 3,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 16,
+          "contact_sole_points": 9,
+          "excluded_preexisting_raised_or_fur": 7,
+          "original_max_excess_world": 3.68229166666665,
+          "source_contact_uncovered": 0,
+          "support_samples": 117,
+          "max_contact_excess_world": 0.21383113256400144,
+          "max_additional_contact_excess_world": 0.0
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.0017638193676248193
+    },
+    "fox:0": {
+      "source_area": 147455.99810226192,
+      "painted_source_pixels": 11091,
+      "uv_max_error": 4.967054517690528e-09,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 10000,
+      "max_visible_linear_stretch": 1.2307892065440436,
+      "parts": [
+        {
+          "owner": 1,
+          "triangles": 331,
+          "visible_triangles": 220,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.6690288751408171,
+          "max_visible_linear_stretch": 1.17031097412125,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 261,
+          "visible_triangles": 180,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.5515002714887594,
+          "max_visible_linear_stretch": 1.2307892065440436,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 834,
+          "visible_triangles": 139,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "front_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 22,
+          "contact_sole_points": 22,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 308,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 1,
+          "name": "front_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 23,
+          "contact_sole_points": 23,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 322,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.0018977380823343992
+    },
+    "fox:1": {
+      "source_area": 147455.99966230406,
+      "painted_source_pixels": 15559,
+      "uv_max_error": 1.4901161721203593e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 12275,
+      "max_visible_linear_stretch": 2.1138261172754103,
+      "parts": [
+        {
+          "owner": 2,
+          "triangles": 175,
+          "visible_triangles": 146,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.8507518062873876,
+          "max_visible_linear_stretch": 1.8873081351204388,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 421,
+          "visible_triangles": 222,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.6513806834445159,
+          "max_visible_linear_stretch": 1.3314949209557252,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 248,
+          "visible_triangles": 123,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.8938064575197364,
+          "max_visible_linear_stretch": 2.1138261172754103,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 1885,
+          "visible_triangles": 581,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 33,
+          "potential_static_paw_examples": [
+            [
+              159.5,
+              272.5
+            ],
+            [
+              158.5,
+              273.5
+            ],
+            [
+              159.5,
+              273.5
+            ],
+            [
+              158.5,
+              274.5
+            ]
+          ],
+          "source_sole_points": 19,
+          "contact_sole_points": 8,
+          "excluded_preexisting_raised_or_fur": 11,
+          "original_max_excess_world": 2.197604790419163,
+          "source_contact_uncovered": 0,
+          "support_samples": 112,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 1,
+          "name": "front_right",
+          "potential_static_paw_pixels": 8,
+          "potential_static_paw_examples": [
+            [
+              221.5,
+              313.5
+            ],
+            [
+              221.5,
+              314.5
+            ],
+            [
+              221.5,
+              315.5
+            ],
+            [
+              222.5,
+              315.5
+            ]
+          ],
+          "source_sole_points": 29,
+          "contact_sole_points": 29,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 406,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 2,
+          "name": "front_left",
+          "potential_static_paw_pixels": 39,
+          "potential_static_paw_examples": [
+            [
+              223.5,
+              287.5
+            ],
+            [
+              223.5,
+              288.5
+            ],
+            [
+              223.5,
+              289.5
+            ],
+            [
+              222.5,
+              290.5
+            ]
+          ],
+          "source_sole_points": 15,
+          "contact_sole_points": 15,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 210,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.00033769593574106693
+    },
+    "fox:2": {
+      "source_area": 147455.9985362203,
+      "painted_source_pixels": 16220,
+      "uv_max_error": 2.980232277627337e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 18150,
+      "max_visible_linear_stretch": 1.824059902588437,
+      "parts": [
+        {
+          "owner": 3,
+          "triangles": 295,
+          "visible_triangles": 169,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7235809124125021,
+          "max_visible_linear_stretch": 1.824059902588437,
+          "examples": []
+        },
+        {
+          "owner": 2,
+          "triangles": 320,
+          "visible_triangles": 185,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.6757269489778365,
+          "max_visible_linear_stretch": 1.3755319418036993,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 329,
+          "visible_triangles": 186,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.5354842943750769,
+          "max_visible_linear_stretch": 1.5671404236508237,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 305,
+          "visible_triangles": 186,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.8178819372545222,
+          "max_visible_linear_stretch": 1.709566144136074,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 1810,
+          "visible_triangles": 400,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 11,
+          "potential_static_paw_examples": [
+            [
+              136.5,
+              300.5
+            ],
+            [
+              137.5,
+              300.5
+            ],
+            [
+              138.5,
+              300.5
+            ],
+            [
+              137.5,
+              301.5
+            ]
+          ],
+          "source_sole_points": 18,
+          "contact_sole_points": 18,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 252,
+          "max_contact_excess_world": 0.1793999163963882,
+          "max_additional_contact_excess_world": 0.1793999163963882
+        },
+        {
+          "owner": 1,
+          "name": "hind_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 30,
+          "contact_sole_points": 30,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 390,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 2,
+          "name": "front_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 24,
+          "contact_sole_points": 24,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 336,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 3,
+          "name": "front_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 22,
+          "contact_sole_points": 22,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 308,
+          "max_contact_excess_world": 0.17831836685032254,
+          "max_additional_contact_excess_world": 0.17831836685032254
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.0014637797139585018
+    },
+    "fox:3": {
+      "source_area": 147455.99967063265,
+      "painted_source_pixels": 14126,
+      "uv_max_error": 2.980232266525107e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 11800,
+      "max_visible_linear_stretch": 1.6388397990214914,
+      "parts": [
+        {
+          "owner": 2,
+          "triangles": 164,
+          "visible_triangles": 101,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.5683316848007699,
+          "max_visible_linear_stretch": 1.6388397990214914,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 298,
+          "visible_triangles": 176,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.6908955198843856,
+          "max_visible_linear_stretch": 1.2916608405370962,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 316,
+          "visible_triangles": 195,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.5909371761141302,
+          "max_visible_linear_stretch": 1.39339259477886,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 1703,
+          "visible_triangles": 484,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 25,
+          "contact_sole_points": 25,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 350,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 1,
+          "name": "front_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 20,
+          "contact_sole_points": 20,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 280,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 2,
+          "name": "front_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 16,
+          "contact_sole_points": 16,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 224,
+          "max_contact_excess_world": 0.1743990531840529,
+          "max_additional_contact_excess_world": 0.1743990531840529
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.00032936735078692436
+    },
+    "fox:4": {
+      "source_area": 147456.0,
+      "painted_source_pixels": 10954,
+      "uv_max_error": 3.973643025734219e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 4825,
+      "max_visible_linear_stretch": 1.1724581256317157,
+      "parts": [
+        {
+          "owner": 0,
+          "triangles": 274,
+          "visible_triangles": 193,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.6219482421875,
+          "max_visible_linear_stretch": 1.1724581256317157,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 990,
+          "visible_triangles": 307,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "hind_left",
+          "potential_static_paw_pixels": 12,
+          "potential_static_paw_examples": [
+            [
+              190.5,
+              305.5
+            ],
+            [
+              191.5,
+              305.5
+            ],
+            [
+              190.5,
+              306.5
+            ],
+            [
+              191.5,
+              306.5
+            ]
+          ],
+          "source_sole_points": 22,
+          "contact_sole_points": 22,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 286,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": 0.0
+    },
+    "fox:5": {
+      "source_area": 147456.0,
+      "painted_source_pixels": 13585,
+      "uv_max_error": 5.960464510845753e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 9675,
+      "max_visible_linear_stretch": 2.0520781762500584,
+      "parts": [
+        {
+          "owner": 1,
+          "triangles": 324,
+          "visible_triangles": 213,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.6596841842717537,
+          "max_visible_linear_stretch": 1.3230764666148973,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 269,
+          "visible_triangles": 174,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.9999628818531106,
+          "max_visible_linear_stretch": 2.0520781762500584,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 1739,
+          "visible_triangles": 462,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "front_left",
+          "potential_static_paw_pixels": 9,
+          "potential_static_paw_examples": [
+            [
+              167.5,
+              298.5
+            ],
+            [
+              166.5,
+              299.5
+            ],
+            [
+              167.5,
+              299.5
+            ],
+            [
+              164.5,
+              300.5
+            ]
+          ],
+          "source_sole_points": 24,
+          "contact_sole_points": 24,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 336,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 1,
+          "name": "hind_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 24,
+          "contact_sole_points": 24,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 312,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": 0.0
+    },
+    "fox:6": {
+      "source_area": 147455.99793354725,
+      "painted_source_pixels": 16937,
+      "uv_max_error": 5.960464488641293e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 16625,
+      "max_visible_linear_stretch": 1.9094328243622958,
+      "parts": [
+        {
+          "owner": 3,
+          "triangles": 192,
+          "visible_triangles": 94,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.5512695312248201,
+          "max_visible_linear_stretch": 1.5447960437680506,
+          "examples": []
+        },
+        {
+          "owner": 2,
+          "triangles": 288,
+          "visible_triangles": 227,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.5977200757311226,
+          "max_visible_linear_stretch": 1.900430459586281,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 284,
+          "visible_triangles": 170,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.6735742751452758,
+          "max_visible_linear_stretch": 1.3783548702114663,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 332,
+          "visible_triangles": 174,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.8005357270835142,
+          "max_visible_linear_stretch": 1.9094328243622958,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 2050,
+          "visible_triangles": 458,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "front_left",
+          "potential_static_paw_pixels": 32,
+          "potential_static_paw_examples": [
+            [
+              145.5,
+              307.5
+            ],
+            [
+              144.5,
+              308.5
+            ],
+            [
+              145.5,
+              308.5
+            ],
+            [
+              144.5,
+              309.5
+            ]
+          ],
+          "source_sole_points": 25,
+          "contact_sole_points": 25,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 350,
+          "max_contact_excess_world": 0.17865541932110407,
+          "max_additional_contact_excess_world": 0.17865541932110407
+        },
+        {
+          "owner": 1,
+          "name": "front_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 24,
+          "contact_sole_points": 24,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 336,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 2,
+          "name": "hind_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 35,
+          "contact_sole_points": 35,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 455,
+          "max_contact_excess_world": 0.1742799242291193,
+          "max_additional_contact_excess_world": 0.1742799242291193
+        },
+        {
+          "owner": 3,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 13,
+          "contact_sole_points": 13,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 182,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.002066452754661441
+    },
+    "fox:7": {
+      "source_area": 147455.99977278407,
+      "painted_source_pixels": 14154,
+      "uv_max_error": 5.960464488641293e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 13775,
+      "max_visible_linear_stretch": 1.5279358191986343,
+      "parts": [
+        {
+          "owner": 3,
+          "triangles": 251,
+          "visible_triangles": 133,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.46411132812499994,
+          "max_visible_linear_stretch": 1.5269061651841274,
+          "examples": []
+        },
+        {
+          "owner": 2,
+          "triangles": 111,
+          "visible_triangles": 56,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.49295275032752744,
+          "max_visible_linear_stretch": 1.520509244756658,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 300,
+          "visible_triangles": 173,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.5988837085568341,
+          "max_visible_linear_stretch": 1.3850997025671692,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 325,
+          "visible_triangles": 189,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.6510391235352558,
+          "max_visible_linear_stretch": 1.5279358191986343,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 1837,
+          "visible_triangles": 353,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "front_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 22,
+          "contact_sole_points": 17,
+          "excluded_preexisting_raised_or_fur": 5,
+          "original_max_excess_world": 1.2907213686449968,
+          "source_contact_uncovered": 0,
+          "support_samples": 238,
+          "max_contact_excess_world": 0.5749569612278371,
+          "max_additional_contact_excess_world": 0.17794111154542946
+        },
+        {
+          "owner": 1,
+          "name": "front_left",
+          "potential_static_paw_pixels": 2,
+          "potential_static_paw_examples": [
+            [
+              201.5,
+              314.5
+            ],
+            [
+              199.5,
+              317.5
+            ]
+          ],
+          "source_sole_points": 24,
+          "contact_sole_points": 24,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 336,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 2,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 4,
+          "contact_sole_points": 4,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 56,
+          "max_contact_excess_world": 0.027514429149544384,
+          "max_additional_contact_excess_world": 0.027514429149544384
+        },
+        {
+          "owner": 3,
+          "name": "hind_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 20,
+          "contact_sole_points": 20,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 260,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.00022721593268215656
+    },
+    "rabbit:0": {
+      "source_area": 147456.0,
+      "painted_source_pixels": 10865,
+      "uv_max_error": 4.967054517690528e-09,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 9425,
+      "max_visible_linear_stretch": 1.2404804170177006,
+      "parts": [
+        {
+          "owner": 1,
+          "triangles": 262,
+          "visible_triangles": 189,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.38063990217996924,
+          "max_visible_linear_stretch": 1.2044071570986006,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 265,
+          "visible_triangles": 188,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.3957264238242219,
+          "max_visible_linear_stretch": 1.2404804170177006,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 1643,
+          "visible_triangles": 500,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "front_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 32,
+          "contact_sole_points": 32,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 416,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 1,
+          "name": "front_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 30,
+          "contact_sole_points": 30,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.09565623557445146,
+          "source_contact_uncovered": 0,
+          "support_samples": 390,
+          "max_contact_excess_world": 0.17981848609086626,
+          "max_additional_contact_excess_world": 0.0841622505164148
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": 0.0
+    },
+    "rabbit:1": {
+      "source_area": 147455.99737379095,
+      "painted_source_pixels": 12286,
+      "uv_max_error": 1.4901161721203593e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 13475,
+      "max_visible_linear_stretch": 1.9429586212129986,
+      "parts": [
+        {
+          "owner": 2,
+          "triangles": 173,
+          "visible_triangles": 103,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.5111230575594442,
+          "max_visible_linear_stretch": 1.3557594840644627,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 279,
+          "visible_triangles": 193,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.5274990755577609,
+          "max_visible_linear_stretch": 1.9429586212129986,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 351,
+          "visible_triangles": 243,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.4178838804249191,
+          "max_visible_linear_stretch": 1.335986364391445,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 1372,
+          "visible_triangles": 417,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "front_near",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 43,
+          "contact_sole_points": 43,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 559,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 1,
+          "name": "hind_near",
+          "potential_static_paw_pixels": 1,
+          "potential_static_paw_examples": [
+            [
+              181.5,
+              307.5
+            ]
+          ],
+          "source_sole_points": 39,
+          "contact_sole_points": 37,
+          "excluded_preexisting_raised_or_fur": 2,
+          "original_max_excess_world": 0.9615359691199448,
+          "source_contact_uncovered": 0,
+          "support_samples": 444,
+          "max_contact_excess_world": 0.058179732420054364,
+          "max_additional_contact_excess_world": 0.058179732420054364
+        },
+        {
+          "owner": 2,
+          "name": "front_far",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 18,
+          "contact_sole_points": 18,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.07830242852425684,
+          "source_contact_uncovered": 0,
+          "support_samples": 234,
+          "max_contact_excess_world": 0.19480745810431177,
+          "max_additional_contact_excess_world": 0.11650502958005493
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.0026262090541422367
+    },
+    "rabbit:2": {
+      "source_area": 147455.99703240802,
+      "painted_source_pixels": 13169,
+      "uv_max_error": 1.9868215461738004e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 12450,
+      "max_visible_linear_stretch": 2.205714928754383,
+      "parts": [
+        {
+          "owner": 3,
+          "triangles": 134,
+          "visible_triangles": 68,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.359810069490754,
+          "max_visible_linear_stretch": 1.9915846536736608,
+          "examples": []
+        },
+        {
+          "owner": 2,
+          "triangles": 96,
+          "visible_triangles": 24,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.8028934309576498,
+          "max_visible_linear_stretch": 1.1263383588373597,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 289,
+          "visible_triangles": 174,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.46061302651167496,
+          "max_visible_linear_stretch": 1.3615855678385818,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 334,
+          "visible_triangles": 232,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.3631873689899348,
+          "max_visible_linear_stretch": 2.205714928754383,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 1781,
+          "visible_triangles": 672,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "hind_near",
+          "potential_static_paw_pixels": 5,
+          "potential_static_paw_examples": [
+            [
+              182.5,
+              308.5
+            ],
+            [
+              182.5,
+              309.5
+            ],
+            [
+              183.5,
+              309.5
+            ],
+            [
+              182.5,
+              310.5
+            ]
+          ],
+          "source_sole_points": 52,
+          "contact_sole_points": 52,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.13670884689579665,
+          "source_contact_uncovered": 0,
+          "support_samples": 624,
+          "max_contact_excess_world": 0.1508515585073491,
+          "max_additional_contact_excess_world": 0.01414271161155245
+        },
+        {
+          "owner": 1,
+          "name": "front_near",
+          "potential_static_paw_pixels": 6,
+          "potential_static_paw_examples": [
+            [
+              206.5,
+              309.5
+            ],
+            [
+              206.5,
+              310.5
+            ],
+            [
+              206.5,
+              311.5
+            ],
+            [
+              207.5,
+              311.5
+            ]
+          ],
+          "source_sole_points": 30,
+          "contact_sole_points": 30,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 390,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 2,
+          "name": "front_far",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 4,
+          "contact_sole_points": 4,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 52,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 3,
+          "name": "hind_far",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 10,
+          "contact_sole_points": 0,
+          "excluded_preexisting_raised_or_fur": 10,
+          "original_max_excess_world": 2.4621414858976767,
+          "note": "Original source paw is raised/outside the ground projection; preserved in baseline, not counted as calf collision."
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.0029675919795408845
+    },
+    "rabbit:3": {
+      "source_area": 147456.00001472165,
+      "painted_source_pixels": 11764,
+      "uv_max_error": 2.9802322554228766e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 13475,
+      "max_visible_linear_stretch": 1.5337314174283112,
+      "parts": [
+        {
+          "owner": 2,
+          "triangles": 122,
+          "visible_triangles": 64,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.45113015062969664,
+          "max_visible_linear_stretch": 1.3348051138522108,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 246,
+          "visible_triangles": 165,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.3981384264121588,
+          "max_visible_linear_stretch": 1.3421366164374675,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 451,
+          "visible_triangles": 310,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.4999708657993252,
+          "max_visible_linear_stretch": 1.5337314174283112,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 1775,
+          "visible_triangles": 500,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "hind_near",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 64,
+          "contact_sole_points": 61,
+          "excluded_preexisting_raised_or_fur": 3,
+          "original_max_excess_world": 0.9718599373319909,
+          "source_contact_uncovered": 0,
+          "support_samples": 732,
+          "max_contact_excess_world": 0.3646172329589197,
+          "max_additional_contact_excess_world": 0.05592415252735261
+        },
+        {
+          "owner": 1,
+          "name": "front_near",
+          "potential_static_paw_pixels": 4,
+          "potential_static_paw_examples": [
+            [
+              203.5,
+              303.5
+            ],
+            [
+              204.5,
+              304.5
+            ],
+            [
+              204.5,
+              305.5
+            ],
+            [
+              205.5,
+              305.5
+            ]
+          ],
+          "source_sole_points": 28,
+          "contact_sole_points": 28,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 364,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 2,
+          "name": "hind_far",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 12,
+          "contact_sole_points": 0,
+          "excluded_preexisting_raised_or_fur": 12,
+          "original_max_excess_world": 4.784568349077912,
+          "note": "Original source paw is raised/outside the ground projection; preserved in baseline, not counted as calf collision."
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": 1.4721648767590523e-05
+    },
+    "rabbit:4": {
+      "source_area": 147455.9995596516,
+      "painted_source_pixels": 9973,
+      "uv_max_error": 3.973643025734219e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 7175,
+      "max_visible_linear_stretch": 1.2678649431544424,
+      "parts": [
+        {
+          "owner": 1,
+          "triangles": 243,
+          "visible_triangles": 146,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.31317138671875006,
+          "max_visible_linear_stretch": 1.2678649431544424,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 239,
+          "visible_triangles": 141,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.31316862989237526,
+          "max_visible_linear_stretch": 1.2678615311520758,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 1668,
+          "visible_triangles": 509,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "hind_left",
+          "potential_static_paw_pixels": 10,
+          "potential_static_paw_examples": [
+            [
+              179.5,
+              315.5
+            ],
+            [
+              179.5,
+              316.5
+            ],
+            [
+              178.5,
+              317.5
+            ],
+            [
+              179.5,
+              317.5
+            ]
+          ],
+          "source_sole_points": 27,
+          "contact_sole_points": 27,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.3397900614865774,
+          "source_contact_uncovered": 0,
+          "support_samples": 324,
+          "max_contact_excess_world": 0.4313379681285969,
+          "max_additional_contact_excess_world": 0.1317014626837416
+        },
+        {
+          "owner": 1,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 24,
+          "contact_sole_points": 24,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.1329892329886242,
+          "source_contact_uncovered": 0,
+          "support_samples": 288,
+          "max_contact_excess_world": 0.22901624612631455,
+          "max_additional_contact_excess_world": 0.1317014626837416
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.00044034840539097786
+    },
+    "rabbit:5": {
+      "source_area": 147455.99952643504,
+      "painted_source_pixels": 11588,
+      "uv_max_error": 5.960464477539063e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 10650,
+      "max_visible_linear_stretch": 1.6605638169570967,
+      "parts": [
+        {
+          "owner": 2,
+          "triangles": 124,
+          "visible_triangles": 89,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.3172877731109679,
+          "max_visible_linear_stretch": 1.5790611745510046,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 216,
+          "visible_triangles": 110,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.4877980755819429,
+          "max_visible_linear_stretch": 1.373456888513191,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 315,
+          "visible_triangles": 227,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.312575143607925,
+          "max_visible_linear_stretch": 1.6605638169570967,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 1591,
+          "visible_triangles": 586,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "hind_near",
+          "potential_static_paw_pixels": 4,
+          "potential_static_paw_examples": [
+            [
+              201.5,
+              314.5
+            ],
+            [
+              201.5,
+              315.5
+            ],
+            [
+              201.5,
+              316.5
+            ],
+            [
+              202.5,
+              317.5
+            ]
+          ],
+          "source_sole_points": 47,
+          "contact_sole_points": 47,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 564,
+          "max_contact_excess_world": 0.0510861473514197,
+          "max_additional_contact_excess_world": 0.0510861473514197
+        },
+        {
+          "owner": 1,
+          "name": "front_near",
+          "potential_static_paw_pixels": 21,
+          "potential_static_paw_examples": [
+            [
+              178.5,
+              299.5
+            ],
+            [
+              178.5,
+              300.5
+            ],
+            [
+              178.5,
+              301.5
+            ],
+            [
+              177.5,
+              302.5
+            ]
+          ],
+          "source_sole_points": 23,
+          "contact_sole_points": 23,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 299,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 2,
+          "name": "hind_far",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 17,
+          "contact_sole_points": 8,
+          "excluded_preexisting_raised_or_fur": 9,
+          "original_max_excess_world": 2.445648990443247,
+          "source_contact_uncovered": 0,
+          "support_samples": 96,
+          "max_contact_excess_world": 0.3531985425716,
+          "max_additional_contact_excess_world": 0.07483995024502743
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.0004735649563372135
+    },
+    "rabbit:6": {
+      "source_area": 147455.9964245474,
+      "painted_source_pixels": 13399,
+      "uv_max_error": 5.960464510845753e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 11925,
+      "max_visible_linear_stretch": 2.27857434176374,
+      "parts": [
+        {
+          "owner": 2,
+          "triangles": 94,
+          "visible_triangles": 56,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.38084720201689554,
+          "max_visible_linear_stretch": 1.4444792484069882,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 299,
+          "visible_triangles": 213,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.39922310632176394,
+          "max_visible_linear_stretch": 1.4090021695376065,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 327,
+          "visible_triangles": 208,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.5357548945771322,
+          "max_visible_linear_stretch": 2.27857434176374,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 1935,
+          "visible_triangles": 647,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "hind_near",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 39,
+          "contact_sole_points": 39,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.44424670842734404,
+          "source_contact_uncovered": 0,
+          "support_samples": 468,
+          "max_contact_excess_world": 0.4171796462223396,
+          "max_additional_contact_excess_world": 0.005022381451865066
+        },
+        {
+          "owner": 1,
+          "name": "front_near",
+          "potential_static_paw_pixels": 4,
+          "potential_static_paw_examples": [
+            [
+              198.5,
+              307.5
+            ],
+            [
+              197.5,
+              308.5
+            ],
+            [
+              198.5,
+              308.5
+            ],
+            [
+              157.5,
+              311.5
+            ]
+          ],
+          "source_sole_points": 41,
+          "contact_sole_points": 41,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 533,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 2,
+          "name": "front_far",
+          "potential_static_paw_pixels": 6,
+          "potential_static_paw_examples": [
+            [
+              154.5,
+              308.5
+            ],
+            [
+              155.5,
+              308.5
+            ],
+            [
+              156.5,
+              308.5
+            ],
+            [
+              154.5,
+              309.5
+            ]
+          ],
+          "source_sole_points": 11,
+          "contact_sole_points": 11,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 143,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.0035754526033997536
+    },
+    "rabbit:7": {
+      "source_area": 147455.9998513118,
+      "painted_source_pixels": 11691,
+      "uv_max_error": 5.960464477539063e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 11850,
+      "max_visible_linear_stretch": 1.6507946055849945,
+      "parts": [
+        {
+          "owner": 2,
+          "triangles": 137,
+          "visible_triangles": 108,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.4025517645299478,
+          "max_visible_linear_stretch": 1.3683482263220719,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 264,
+          "visible_triangles": 176,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.3973388671869884,
+          "max_visible_linear_stretch": 1.6507946055849945,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 273,
+          "visible_triangles": 190,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.31125942067827583,
+          "max_visible_linear_stretch": 1.4704800847980037,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 1437,
+          "visible_triangles": 512,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "front_near",
+          "potential_static_paw_pixels": 17,
+          "potential_static_paw_examples": [
+            [
+              191.5,
+              310.5
+            ],
+            [
+              192.5,
+              310.5
+            ],
+            [
+              193.5,
+              310.5
+            ],
+            [
+              194.5,
+              310.5
+            ]
+          ],
+          "source_sole_points": 36,
+          "contact_sole_points": 36,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 468,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 1,
+          "name": "hind_near",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 32,
+          "contact_sole_points": 32,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.33079939804735314,
+          "source_contact_uncovered": 0,
+          "support_samples": 384,
+          "max_contact_excess_world": 0.37927907033797226,
+          "max_additional_contact_excess_world": 0.048479672290619114
+        },
+        {
+          "owner": 2,
+          "name": "front_far",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 24,
+          "contact_sole_points": 24,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 312,
+          "max_contact_excess_world": 0.05927124875140777,
+          "max_additional_contact_excess_world": 0.05927124875140777
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.00014868821017444134
+    },
+    "wolf:0": {
+      "source_area": 147455.99941351288,
+      "painted_source_pixels": 12700,
+      "uv_max_error": 4.967054489934952e-09,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 19250,
+      "max_visible_linear_stretch": 1.2348945174576789,
+      "parts": [
+        {
+          "owner": 3,
+          "triangles": 32,
+          "visible_triangles": 27,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0000000000000002,
+          "examples": []
+        },
+        {
+          "owner": 2,
+          "triangles": 243,
+          "visible_triangles": 42,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7659339904785014,
+          "max_visible_linear_stretch": 1.221458124291014,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 554,
+          "visible_triangles": 339,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7642935429752029,
+          "max_visible_linear_stretch": 1.1212830468362804,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 477,
+          "visible_triangles": 362,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7811317805221638,
+          "max_visible_linear_stretch": 1.2348945174576789,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 1497,
+          "visible_triangles": 158,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "front_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 36,
+          "contact_sole_points": 35,
+          "excluded_preexisting_raised_or_fur": 1,
+          "original_max_excess_world": 1.11939941016513,
+          "source_contact_uncovered": 0,
+          "support_samples": 490,
+          "max_contact_excess_world": 0.17911597251313705,
+          "max_additional_contact_excess_world": 0.17911597251313705
+        },
+        {
+          "owner": 1,
+          "name": "front_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 27,
+          "contact_sole_points": 27,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 378,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 2,
+          "name": "hind_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 3,
+          "contact_sole_points": 1,
+          "excluded_preexisting_raised_or_fur": 2,
+          "original_max_excess_world": 1.2605938612612988,
+          "source_contact_uncovered": 0,
+          "support_samples": 13,
+          "max_contact_excess_world": 0.5014929582726841,
+          "max_additional_contact_excess_world": 0.17939693278264723
+        },
+        {
+          "owner": 3,
+          "name": "hind_right",
+          "source_sole_points": 0,
+          "note": "No separate visible owned source paw."
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.0005864871200174093
+    },
+    "wolf:1": {
+      "source_area": 147455.9990158507,
+      "painted_source_pixels": 18387,
+      "uv_max_error": 1.4901161637936866e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 22150,
+      "max_visible_linear_stretch": 1.5434400849733385,
+      "parts": [
+        {
+          "owner": 2,
+          "triangles": 675,
+          "visible_triangles": 356,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7954711914062501,
+          "max_visible_linear_stretch": 1.1888983164339522,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 465,
+          "visible_triangles": 249,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.6816482543945028,
+          "max_visible_linear_stretch": 1.5434400849733385,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 505,
+          "visible_triangles": 281,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.6999329117056585,
+          "max_visible_linear_stretch": 1.2826428095454907,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 1919,
+          "visible_triangles": 740,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 22,
+          "contact_sole_points": 22,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 308,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 1,
+          "name": "front_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 27,
+          "contact_sole_points": 27,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.20879120879122048,
+          "source_contact_uncovered": 0,
+          "support_samples": 378,
+          "max_contact_excess_world": 0.3526839371566659,
+          "max_additional_contact_excess_world": 0.14389272836544542
+        },
+        {
+          "owner": 2,
+          "name": "front_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 27,
+          "contact_sole_points": 27,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 378,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.0009841492865234613
+    },
+    "wolf:2": {
+      "source_area": 147455.9990794591,
+      "painted_source_pixels": 23754,
+      "uv_max_error": 2.980232277627337e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 32350,
+      "max_visible_linear_stretch": 1.7061189002202868,
+      "parts": [
+        {
+          "owner": 3,
+          "triangles": 741,
+          "visible_triangles": 337,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.9296646118162434,
+          "max_visible_linear_stretch": 1.7061189002202868,
+          "examples": []
+        },
+        {
+          "owner": 2,
+          "triangles": 569,
+          "visible_triangles": 323,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.737319946289006,
+          "max_visible_linear_stretch": 1.2761329662580623,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 752,
+          "visible_triangles": 331,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.6869354248047445,
+          "max_visible_linear_stretch": 1.3356826399179509,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 511,
+          "visible_triangles": 303,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7054575582830678,
+          "max_visible_linear_stretch": 1.3682682284531198,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 2996,
+          "visible_triangles": 676,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 25,
+          "contact_sole_points": 25,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 350,
+          "max_contact_excess_world": 0.17948082295129275,
+          "max_additional_contact_excess_world": 0.17948082295129275
+        },
+        {
+          "owner": 1,
+          "name": "hind_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 31,
+          "contact_sole_points": 31,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 403,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 2,
+          "name": "front_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 28,
+          "contact_sole_points": 28,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 392,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 3,
+          "name": "front_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 31,
+          "contact_sole_points": 31,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 434,
+          "max_contact_excess_world": 0.17482897464175906,
+          "max_additional_contact_excess_world": 0.17482897464175906
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.0009205408859997988
+    },
+    "wolf:3": {
+      "source_area": 147455.996026597,
+      "painted_source_pixels": 16767,
+      "uv_max_error": 2.980232277627337e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 22725,
+      "max_visible_linear_stretch": 1.4437108308010063,
+      "parts": [
+        {
+          "owner": 2,
+          "triangles": 615,
+          "visible_triangles": 306,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7872238159179972,
+          "max_visible_linear_stretch": 1.1968646226228303,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 361,
+          "visible_triangles": 220,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7372521711630009,
+          "max_visible_linear_stretch": 1.4437108308010063,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 642,
+          "visible_triangles": 383,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.762057599960646,
+          "max_visible_linear_stretch": 1.2213118982604874,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 1875,
+          "visible_triangles": 497,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 26,
+          "contact_sole_points": 26,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 364,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 1,
+          "name": "front_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 25,
+          "contact_sole_points": 21,
+          "excluded_preexisting_raised_or_fur": 4,
+          "original_max_excess_world": 1.5274725274725416,
+          "source_contact_uncovered": 0,
+          "support_samples": 294,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 2,
+          "name": "front_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 26,
+          "contact_sole_points": 26,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 364,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.003973403014242649
+    },
+    "wolf:4": {
+      "source_area": 147455.99952111486,
+      "painted_source_pixels": 12528,
+      "uv_max_error": 3.973643025734219e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 15500,
+      "max_visible_linear_stretch": 1.1263125523748019,
+      "parts": [
+        {
+          "owner": 1,
+          "triangles": 589,
+          "visible_triangles": 297,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7545318603514913,
+          "max_visible_linear_stretch": 1.1263125523748019,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 547,
+          "visible_triangles": 323,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7592822343018736,
+          "max_visible_linear_stretch": 1.1241944993511745,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 1670,
+          "visible_triangles": 427,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 28,
+          "contact_sole_points": 28,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.48765437230072006,
+          "source_contact_uncovered": 0,
+          "support_samples": 392,
+          "max_contact_excess_world": 0.5795536282523068,
+          "max_additional_contact_excess_world": 0.17418690798327585
+        },
+        {
+          "owner": 1,
+          "name": "hind_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 25,
+          "contact_sole_points": 25,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 325,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.00047888513654470444
+    },
+    "wolf:5": {
+      "source_area": 147455.99515704985,
+      "painted_source_pixels": 18443,
+      "uv_max_error": 5.960464510845753e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 21150,
+      "max_visible_linear_stretch": 1.32096544862379,
+      "parts": [
+        {
+          "owner": 2,
+          "triangles": 267,
+          "visible_triangles": 94,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7618428007970901,
+          "max_visible_linear_stretch": 1.2215225984266187,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 573,
+          "visible_triangles": 430,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7233080156284537,
+          "max_visible_linear_stretch": 1.2595378110458473,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 618,
+          "visible_triangles": 322,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.8330841064455113,
+          "max_visible_linear_stretch": 1.32096544862379,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 2463,
+          "visible_triangles": 613,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "front_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 30,
+          "contact_sole_points": 30,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 420,
+          "max_contact_excess_world": 0.16647612490264585,
+          "max_additional_contact_excess_world": 0.16647612490264585
+        },
+        {
+          "owner": 1,
+          "name": "hind_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 34,
+          "contact_sole_points": 34,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 442,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 2,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 28,
+          "contact_sole_points": 28,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 392,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.00484295014757663
+    },
+    "wolf:6": {
+      "source_area": 147455.99728806654,
+      "painted_source_pixels": 23683,
+      "uv_max_error": 5.960464510845753e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 36900,
+      "max_visible_linear_stretch": 1.4199158787823882,
+      "parts": [
+        {
+          "owner": 3,
+          "triangles": 758,
+          "visible_triangles": 431,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.806660464410155,
+          "max_visible_linear_stretch": 1.253134094911279,
+          "examples": []
+        },
+        {
+          "owner": 2,
+          "triangles": 641,
+          "visible_triangles": 369,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.76230418554221,
+          "max_visible_linear_stretch": 1.2655566913486533,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 729,
+          "visible_triangles": 363,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.8063583374025003,
+          "max_visible_linear_stretch": 1.2122131353187828,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 747,
+          "visible_triangles": 313,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7949203588069531,
+          "max_visible_linear_stretch": 1.4199158787823882,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 3100,
+          "visible_triangles": 896,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "front_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 36,
+          "contact_sole_points": 36,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 504,
+          "max_contact_excess_world": 0.16857803965619134,
+          "max_additional_contact_excess_world": 0.16857803965619134
+        },
+        {
+          "owner": 1,
+          "name": "front_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 28,
+          "contact_sole_points": 28,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 392,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 2,
+          "name": "hind_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 30,
+          "contact_sole_points": 30,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 390,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 3,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 24,
+          "contact_sole_points": 24,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 336,
+          "max_contact_excess_world": 0.179796388237639,
+          "max_additional_contact_excess_world": 0.179796388237639
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.0027119334554299712
+    },
+    "wolf:7": {
+      "source_area": 147455.99961793586,
+      "painted_source_pixels": 15289,
+      "uv_max_error": 5.960464499743523e-08,
+      "visible_flips": 0,
+      "visible_collapses": 0,
+      "visible_triangle_phase_checks": 21175,
+      "max_visible_linear_stretch": 1.4310439689085113,
+      "parts": [
+        {
+          "owner": 2,
+          "triangles": 530,
+          "visible_triangles": 264,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7003529533900202,
+          "max_visible_linear_stretch": 1.2822052086922102,
+          "examples": []
+        },
+        {
+          "owner": 1,
+          "triangles": 449,
+          "visible_triangles": 260,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.5547065734865058,
+          "max_visible_linear_stretch": 1.4310439689085113,
+          "examples": []
+        },
+        {
+          "owner": 0,
+          "triangles": 613,
+          "visible_triangles": 323,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 0.7878036499022445,
+          "max_visible_linear_stretch": 1.1962981898835547,
+          "examples": []
+        },
+        {
+          "owner": -1,
+          "triangles": 1558,
+          "visible_triangles": 272,
+          "visible_flips": 0,
+          "min_visible_area_ratio": 1.0,
+          "max_visible_linear_stretch": 1.0,
+          "examples": []
+        }
+      ],
+      "soles": [
+        {
+          "owner": 0,
+          "name": "front_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 28,
+          "contact_sole_points": 28,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 392,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        },
+        {
+          "owner": 1,
+          "name": "front_left",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 24,
+          "contact_sole_points": 24,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 336,
+          "max_contact_excess_world": 0.08894767342040133,
+          "max_additional_contact_excess_world": 0.08894767342040133
+        },
+        {
+          "owner": 2,
+          "name": "hind_right",
+          "potential_static_paw_pixels": 0,
+          "potential_static_paw_examples": [],
+          "source_sole_points": 22,
+          "contact_sole_points": 22,
+          "excluded_preexisting_raised_or_fur": 0,
+          "original_max_excess_world": 0.0,
+          "source_contact_uncovered": 0,
+          "support_samples": 308,
+          "max_contact_excess_world": 0.0,
+          "max_additional_contact_excess_world": 0.0
+        }
+      ],
+      "painted_source_holes": 0,
+      "painted_source_interior_overlaps": 0,
+      "source_coverage_min": 1,
+      "source_area_error": -0.00038206414319574833
+    }
+  },
+  "hashes": {
+    "wildlife.gd": {
+      "unchanged_from_0161": true,
+      "sha256": "6431434db0f7d6e88b57b7fdd1abf92021fda67d74741a6b60cf8d198b42ac92"
+    },
+    "wildlife_data.gd": {
+      "unchanged_from_0161": true,
+      "sha256": "dcfbb73c59d3cb99b358ad926b08681db3fde76a316b41f471050f55cde4eb9a"
+    },
+    "npc_roaming.gd": {
+      "unchanged_from_0161": true,
+      "sha256": "47daab7f50ecfd255f4388350f47a66baac3b81091f605b9883cdcd8f43d199e"
+    },
+    "world_geometry.gd": {
+      "unchanged_from_0161": true,
+      "sha256": "90bd1d12624f2ef9260fbc5cbf5b0755158da6116d2685cfa8878b9720d58fca"
+    },
+    "collision_profiles.json": {
+      "unchanged_from_0161": true,
+      "sha256": "378504470b20f7704b64e3cbe4046fb2adf6464a9a183ada6e6fac6222e70c93"
+    },
+    "inventory.gd": {
+      "unchanged_from_0161": true,
+      "sha256": "f0b840f445e2359555b3c85e527750a42b5acc338860b19dfb83bc8b2fef0678"
+    },
+    "item_data.gd": {
+      "unchanged_from_0161": true,
+      "sha256": "695cd4cf0c7ce7e9c30a16c8a728505170cdee50d3d7a1da832755098286a89c"
+    },
+    "world_lighting.gd": {
+      "unchanged_from_0161": true,
+      "sha256": "808435832cfd275ee1fe93b8151d8021628af71ea15a3a18c3568cbcdd1cb7df"
+    },
+    "wildlife-bear.png": {
+      "unchanged_from_016": true,
+      "sha256": "224baa111faf6d99649dc04cd3be5f12c262780018903f1db36eb4658cb5e952"
+    },
+    "wildlife-deer.png": {
+      "unchanged_from_016": true,
+      "sha256": "c3648d4a81e160118366f8f011b6539d27959f159910f1fa651a10de3baac638"
+    },
+    "wildlife-fox.png": {
+      "unchanged_from_016": true,
+      "sha256": "8454647a49e8d85e088c2062398919fc7dea452e3782bed698959a3398e4ac97"
+    },
+    "wildlife-rabbit.png": {
+      "unchanged_from_016": true,
+      "sha256": "5a3df266c08c2ca1340afb95b52c51c7b8c533190b18ab7d4213be0e6aa33fa5"
+    },
+    "wildlife-wolf.png": {
+      "unchanged_from_016": true,
+      "sha256": "86e4fe6489b65678872644d1b9734e43820ffe7ec469eb8e6df32a961d9f50dd"
+    }
+  },
+  "production_artifacts": {
+    "animal_gait.gd": {
+      "sha256": "f677cf03232c3aacde6dfe1cc002dd6fbacfa4b301857e1c8cc3396a8796d97b",
+      "size_bytes": 14707
+    },
+    "assets/animal_atlas.json": {
+      "sha256": "c1710d7b98fd88a5d7987679d8dbebc9287df5a54bd9b8046bca0362cde37a38",
+      "size_bytes": 882473
+    },
+    "assets/animal-skin-topology.bin": {
+      "sha256": "6559021db0830595ca751d316875e84e92b9b968e2f7023eee8debbca920ca98",
+      "size_bytes": 3670480
+    }
+  },
+  "failures": [],
+  "summary": {
+    "headings": 40,
+    "original_painted_pixels_covered": 634398,
+    "visible_triangle_phase_checks": 827000,
+    "actual_support_sole_samples": 45804,
+    "unchanged_physics_behavior_and_source_files": 13,
+    "max_additional_contact_excess_world": 0.1989142100017105,
+    "failures": 0
+  }
+}

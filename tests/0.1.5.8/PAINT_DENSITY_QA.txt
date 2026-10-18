@@ -1,0 +1,43 @@
+Paint density implementation — 0.1.5.8
+
+Runtime module: output/adventure game 0.1.5.8/paint_density.gd
+Sampling: 2.0 world units per texel, rounded upward per axis.
+Display filtering: CanvasItem linear; generated display images include mipmaps.
+Resampling: duplicate original Image, RGBA8 alpha premultiply, Lanczos resize,
+restore straight alpha, repair invisible RGB edges, generate mipmaps.
+Source PNGs, source texture dimensions, UV coordinates and feet anchors stay
+unchanged. The module prepares only the texture used to paint the original
+world rectangle. Collision geometry must always read the original texture.
+
+prepare(texture, world_height) retains source aspect ratio.
+prepare_rect(texture, world_size) handles independently sized ground, ponds,
+blend patches and dropped-item drawing rectangles.
+Cache key: source Texture2D instance ID + target pixel width + target height.
+
+Test: test_paint_density.gd, run with Godot 4.7.2 headless.
+45 actual environment sprite slices from the shipped 0.1.5.7 runtime were
+checked along with the same meadow image used in 0.1.5.8. 273 primary assertions
+passed: display dimensions, identical cache object, original image preservation,
+byte-identical repeated processing, mipmaps and <= 2.0 world units per texel.
+A synthetic red cutout over invisible blue RGB also passed alpha-edge checks.
+
+Representative dimensions:
+Meadow: source 1518 x 1038 -> display 1100 x 750 -> world 2200 x 1500.
+Cabin: source height 498 -> display height 111 -> world height 222.
+Workbench: source height 378 -> display height 41 -> world height 82.
+Resource plants: source height 244-336 -> display height 19 -> world height 38.
+Rock nodes: source height 210-216 -> display height 15 -> world height 30.
+Pond 0: display 165 x 115 -> world 330 x 230.
+
+density-renders/paint-density-before-after.png compares real runtime image
+outputs at the same physical world dimensions and original feet anchors.
+This is an explicitly labelled software image composition, not a native GPU
+screenshot. render_density_comparison.cjs recreates the SVG/PNG preview.
+render_density_comparison.gd can capture the equivalent native Godot canvas.
+Native launch was unavailable in this sandbox (direct engine terminated 134;
+LaunchServices returned -10827), so no native result is claimed here.
+
+Integration scope: all scenery, trees, shrubs, harvested remnants, cabin props,
+stumps, ore, ponds, ground blend patches and dropped objects should use the
+display sampler. Character animation atlases and UI icons retain their source
+sampling so grip/alignment and the inventory stay legible.

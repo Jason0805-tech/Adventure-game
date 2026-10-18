@@ -1,0 +1,50 @@
+FOREST WANDERER 0.1.5.9 — FINAL VALIDATION
+Date: 2026-10-15
+Release: ../../output/adventure game 0.1.5.9/
+
+USER SCREENSHOT REPRODUCTION AND FIX
+The prior complete blocking contours were physically correct, but the whole cabin texture sorted at the deepest stair position. Painted grass and neighboring stair columns then covered an actor whose boots were outside the building.
+The independent original-image/Canvas test reproduced 10 failures along 21 northward frontage approaches in the previous version; some head/torso samples retained only about 0.9% visibility.
+The final version passes the same 21 routes and unchanged strict opacity criteria. All sampled opaque head/torso pixels survive at those front contacts. Residual adjacent-column arm cuts and a gate pillar cut were detected, inspected and fixed before final packaging.
+
+RENDERING CHANGES
+- Cache vertical source-texture bands using each column's own lower solid contour.
+- Once an actor is locally in front, keep its complete body/hand span coherent across the nearby bands, instead of cutting an arm off at a deeper adjacent stair column. This rule also applies to NPCs and mirrored scenery.
+- Preserve real behind-structure ordering and live-tree canopy fading. The gate's open center keeps its overhead header depth.
+- Partition prepared pond pixels into base water/ground and 17 separate shore-rock layers. Source alpha is exclusive and exactly conserved at each source pixel.
+- Collision JSON and every original asset file are byte-identical to 0.1.5.8. Ground/static scenery keep 2-world-unit texel density; avatar, grip, speed and day length are preserved.
+
+WHOLE-MODEL MOVEMENT SIMULATION
+48,830 assertions, zero failures.
+169 actual scene instances plus 152 harvested/depleted/alternate/placed state instances.
+9,717 feasible approaches: 4,614 in the full world and 5,103 against only the target object's own collision.
+48,585 calls to the real move_player method; 9,023 saved legal contact poses.
+Each object is approached at up to 16 support directions, with direct, side-step, diagonal and long-frame movement. All 17 rocks and three water surfaces are included.
+171 crowded/world-boundary starting directions were unavailable and are recorded separately, not silently counted as covered. Finite route coverage is not a proof of every possible position.
+NPCs were also tested in the normal shipped world for 60 seconds: 244 checks, zero failures. Rowan traveled about 1460 units and Ash about 1902, with active walking frames.
+Details: all-model-walkthrough-results.json, all-model-contact-poses.json, npc-normal-world-results.json, INDEPENDENT_WALKTHROUGH_NOTES.txt.
+
+INDEPENDENT VISUAL ACCEPTANCE
+443 model-front alpha checks passed. Every actual static solid/material instance and extra model/state variants use real player approach poses and actual ordered Canvas texture commands.
+The original opaque avatar samples are composited against later paint from that exact object's texture AND transform, so a neighboring identical tree/stump cannot masquerade as the tested object.
+21/21 original cabin routes, 3/3 focused gate contacts, 17/17 focused individual bank stones passed.
+Overhead canopy/back-of-building positions are distinguished from legal facade-front positions; an actor behind a real obstacle is not forced on top.
+68 fresh world-only replay images cover all model/profile/state families and every individual bank stone. Four labeled contact-sheet pages were rendered and visually inspected. HUD removal affects previews only.
+See model-contact-capture-manifest.json and contact-sheets/.
+
+REGRESSIONS, PARTITION AND CPU CHECKS
+Prior independent visible-solid regression: 5269 assertions, zero failures.
+Display-density integration: 416 assertions, zero failures, 83 actual texture sizes; initial prepared cache 139.
+Depth-layer module: 70,132 checks, zero failures, including true pond source alpha ownership/conservation, local slope depths, mirrored-compatible coordinates, gate gap behavior and stable cache.
+Core gameplay: 27 feature checks passed, including chopping, harvesting, crafting/placing bench, mining, fishing, eating, toolbar, repair, inventory validity and Ash walking.
+Pacing: 10 checks passed; movement 108 units/second and daylight 180 seconds.
+100-iteration cached CPU construction benchmark: visible camp/forest/pond paint entries averaged 2.0–3.1 ms; cache 109 remained unchanged. This measures CPU scene/command preparation, not native GPU frame time or FPS.
+The software replayer was corrected to avoid SVG clipping seams between texture bands. Synthetic normal/mirrored/rotated full-texture versus split-texture images are pixel-identical; painter order and repeated-alpha overlap tests passed.
+
+PACKAGED APPLICATION AND LIMITS
+Fresh Forest Wanderer.app passed strict staged ad-hoc signature verification and installed signature verification.
+All 53 bundled runtime/art files match release source SHA-256 hashes.
+The bundled launcher started from /tmp, reached GAME_READY 0.1.5.9 and exited 0.
+Sandbox headless logs include unavailable user data/log directory and certificate discovery warnings; no GDScript failure occurred.
+The installed headless rendering backend is dummy and cannot supply a native GPU viewport image. Contact images are software Canvas replays with exact ordered source paint/transforms, not native screenshots. Filtering/mipmap/font differences remain possible. No native manual playthrough is claimed.
+No indoor scene or persistent save system yet.

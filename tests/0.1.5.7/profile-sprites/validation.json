@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "keys": 45,
+  "polygons": 57,
+  "vertices": 946,
+  "checks": [
+    "45 keys match exact Godot-exported sprite identities",
+    "All UVs inside cropped sprite",
+    "8 or more contour vertices per polygon",
+    "No nonadjacent edge self crossings",
+    "All polygons have nonzero area",
+    "Depth line includes frontmost ground contact",
+    "Every key has per-object notes"
+  ],
+  "visual_qa": [
+    "trees-verified.png",
+    "shrubs-verified.png",
+    "camp-verified.png",
+    "rock_and_stumps-verified.png",
+    "resources-verified.png",
+    "remnants-verified.png",
+    "ponds-verified.png"
+  ]
+}

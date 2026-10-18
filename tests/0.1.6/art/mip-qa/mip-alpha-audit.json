@@ -1,0 +1,66 @@
+{
+  "all_passed": true,
+  "method": "Actual game.load_texture output mip levels exported by headless Godot4.7.2. QA software trilinear sample of actual level data onto meadowgreen/nightblue backgrounds. This is not native GPU readback. Native source files unchanged.",
+  "species": {
+    "rabbit": {
+      "scale": 0.21333333333333335,
+      "expected_lod": 2.228818690495881,
+      "base_alpha_exact": true,
+      "opaque_paint_rgb_alpha_ge250_exact": true,
+      "high_red_alpha_gt3percent_by_mip": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "deer": {
+      "scale": 0.3645833333333333,
+      "expected_lod": 1.4556794837761897,
+      "base_alpha_exact": true,
+      "opaque_paint_rgb_alpha_ge250_exact": true,
+      "high_red_alpha_gt3percent_by_mip": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "fox": {
+      "scale": 0.25149700598802394,
+      "expected_lod": 1.991386869695292,
+      "base_alpha_exact": true,
+      "opaque_paint_rgb_alpha_ge250_exact": true,
+      "high_red_alpha_gt3percent_by_mip": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "wolf": {
+      "scale": 0.26373626373626374,
+      "expected_lod": 1.92283213947754,
+      "base_alpha_exact": true,
+      "opaque_paint_rgb_alpha_ge250_exact": true,
+      "high_red_alpha_gt3percent_by_mip": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "bear": {
+      "scale": 0.42696629213483145,
+      "expected_lod": 1.2278059175228122,
+      "base_alpha_exact": true,
+      "opaque_paint_rgb_alpha_ge250_exact": true,
+      "high_red_alpha_gt3percent_by_mip": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+}

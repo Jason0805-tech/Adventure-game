@@ -1,0 +1,37 @@
+FOREST WANDERER 0.1.5.10 — QUALITY VALIDATION
+Date: 2026-10-16
+
+USER DIRECTION
+The previous fixed2-world-unit-per-texel cap discarded most small-object pixels. It is removed. Source textures are retained at native dimensions with identical base-image RGBA. Mipmaps remain for correct screen minification.
+
+HIGHER-QUALITY ASSETS
+Ground: newly painted2816x1920atlas over2200x1500world, versus previous1100x750display raster. Four native1518x1036region paintings were generated with built-in image_gen from the existing meadow layout/palette, aligned to original main road landmarks, and overlap-blended by the development map atlas builder. Region and prompt sources are archived in 素材整理. No4K claim is made and no low-resolution full-map enlargement was used as the final ground source. Local geometric alignment involves interpolation; output size is not proof of identical native detail at every pixel.
+Scenery: house572x498instead of128x111; native plants, trees, ponds, benches and ores retain source pixels and alpha. No universal texel-density restriction remains.
+Actors:24player/NPC/tool sheets freshly rendered from the approved high-resolution painted sources and identical rig. Normal cells192x320, action384x384, withSS2antialiasing. World size and foot registration remain the same using display scale0.4. Not a resize of the old96x160sheets.
+
+SOURCE AND POSE PROOFS
+789native-quality assertions passed across99preparations, including exact source base RGBA, dimensions, cache reuse across world display sizes and inability of the retired density parameter to reduce quality.
+BeforeHDproduction, four old-generator samples matched existing .9atlas pixels exactly.
+936HDverification checks passed.144normal poses retain identical legs and3Dgrip; projected hands/bob double exactly.96action poses retain identical3Dgrip and doubled hands/rod tips.144NPCpose entries unchanged. Source painted art hashes unchanged. Pose/foot-cycle/knee/weapon/swing/compose functions verified unchanged byAST. World stride60.48.
+See hd-model/hd-actor-verification.json.
+
+INTEGRATION AND VISUAL CHECKS
+21/21originalhouse-front and443/443all-model front-opacity contacts passed AFTERHDactor integration. The original virtual96x160sample grid, world sample positions and opacity thresholds are preserved; only atlas alpha lookup coordinates scale with source resolution.
+Three same-seed/camera/player quality scenes: camp, forest, pond. Actor world rectangles and transforms match the old version exactly. Nine1x/true2xCanvas comparisons rendered; full scenes and actor closeups visually inspected.
+Comparisons show sharper characters and environments with the approved simple oil/gouache shapes. No obvious joins in these views. Actual source dimensions are measured, not inferred from an enlarged screenshot.
+See quality-regression-status.json and quality-comparisons/.
+
+PERFORMANCE AND GAMEPLAY
+Native textures initially produced too many per-pixel depth bands. Only occlusion depth metadata is now grouped at2worldunits, independent of image pixels.33,252checks reconstruct full nativeRGBA from109actual model strip sets exactly. Original depth module70,132checks passed.
+Visible-scene CPU band construction approximately3.6–7.3ms in the sampled scenes, with stable warmed caches. This is notGPUframe time orFPS.
+High-resolution normal tools load on selection, retaining only the current tool sheet, rather than uploading all nine at startup. Assets themselves stay full quality.
+27corefeature and10pacing checks passed after finalHDchanges. Movement108units/second and daylight180seconds retained. Physics contours byte-identical to .9; render-only changes did not expand blocking.
+
+PACKAGE
+Fresh .app built with bundledGodot runtime. Strict ad-hoc signature verified in staging; installed signature verified. All53bundled runtime/art resources match release source hashes. Startup result is recorded in app-startup.log.
+A /usr/bin/time resource-statistics wrapper was unavailable because sandbox denies kern.clockrate; its log reachedGAME_READY but wrapper returned1. Startup was separately checked using the plain bundled launcher without that resource-statistics wrapper.
+
+LIMITS
+SoftwareCanvas replays are not nativeGPUcaptures. Filtering/mipmap/device-memory behavior and a full native manual playthrough are not claimed. Different source assets retain their individual native densities; no claim that every asset has identical physical texel density. Ground paint intentionally keeps broad simple shapes rather than photorealistic fine grass. No interior scene or persistent save system yet.
+
+Final plain bundled launcher startup from /tmp: GAME_READY0.1.5.10, exit0. All53resource hashes and the exact four runtime-source hashes used in final alpha checks reverified.

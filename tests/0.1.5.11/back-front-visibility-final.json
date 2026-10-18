@@ -1,0 +1,1627 @@
+{
+	"captures": [
+		{
+			"facing": [
+				0.000000000000000122464685258517,
+				-1.0
+			],
+			"file": "visibility-final-cabin-front",
+			"name": "cabin-front",
+			"player": [
+				356.359100341797,
+				615.331604003906
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.0,
+				1.0
+			],
+			"file": "visibility-final-cabin-back",
+			"name": "cabin-back",
+			"player": [
+				356.359100341797,
+				538.479125976562
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.0,
+				-1.0
+			],
+			"file": "visibility-final-gate-center-215",
+			"name": "gate-center-215",
+			"player": [
+				1994.0,
+				215.0
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.0,
+				-1.0
+			],
+			"file": "visibility-final-gate-center-245",
+			"name": "gate-center-245",
+			"player": [
+				1994.0,
+				245.0
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.0,
+				-1.0
+			],
+			"file": "visibility-final-gate-center-275",
+			"name": "gate-center-275",
+			"player": [
+				1994.0,
+				275.0
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.0,
+				-1.0
+			],
+			"file": "visibility-final-gate-center-305",
+			"name": "gate-center-305",
+			"player": [
+				1994.0,
+				305.0
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.000000000000000122464685258517,
+				-1.0
+			],
+			"file": "visibility-final-tree_0-front",
+			"name": "tree_0-front",
+			"player": [
+				1221.85766601562,
+				231.172622680664
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.0,
+				1.0
+			],
+			"file": "visibility-final-tree_0-back",
+			"name": "tree_0-back",
+			"player": [
+				1221.85766601562,
+				187.240783691406
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.000000000000000122464685258517,
+				-1.0
+			],
+			"file": "visibility-final-tree_1-front",
+			"name": "tree_1-front",
+			"player": [
+				561.121459960938,
+				336.567047119141
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.0,
+				1.0
+			],
+			"file": "visibility-final-tree_1-back",
+			"name": "tree_1-back",
+			"player": [
+				561.121459960938,
+				298.643371582031
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.000000000000000122464685258517,
+				-1.0
+			],
+			"file": "visibility-final-tree_5-front",
+			"name": "tree_5-front",
+			"player": [
+				2035.63720703125,
+				1135.04223632812
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.0,
+				1.0
+			],
+			"file": "visibility-final-tree_5-back",
+			"name": "tree_5-back",
+			"player": [
+				2035.63720703125,
+				1094.64318847656
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.000000000000000122464685258517,
+				-1.0
+			],
+			"file": "visibility-final-tree_4-front",
+			"name": "tree_4-front",
+			"player": [
+				1498.97875976562,
+				623.936828613281
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.0,
+				1.0
+			],
+			"file": "visibility-final-tree_4-back",
+			"name": "tree_4-back",
+			"player": [
+				1498.97875976562,
+				580.2373046875
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.000000000000000122464685258517,
+				-1.0
+			],
+			"file": "visibility-final-tree_2-front",
+			"name": "tree_2-front",
+			"player": [
+				1197.24560546875,
+				1253.84753417969
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.0,
+				1.0
+			],
+			"file": "visibility-final-tree_2-back",
+			"name": "tree_2-back",
+			"player": [
+				1197.24560546875,
+				1215.91345214844
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.000000000000000122464685258517,
+				-1.0
+			],
+			"file": "visibility-final-tree_3-front",
+			"name": "tree_3-front",
+			"player": [
+				1494.42687988281,
+				298.702819824219
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.0,
+				1.0
+			],
+			"file": "visibility-final-tree_3-back",
+			"name": "tree_3-back",
+			"player": [
+				1494.42687988281,
+				256.319458007812
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.000000000000000122464685258517,
+				-1.0
+			],
+			"file": "visibility-final-prop_1-front",
+			"name": "prop_1-front",
+			"player": [
+				514.781616210938,
+				652.871215820312
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.0,
+				1.0
+			],
+			"file": "visibility-final-prop_1-back",
+			"name": "prop_1-back",
+			"player": [
+				514.781616210938,
+				622.8359375
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.000000000000000122464685258517,
+				-1.0
+			],
+			"file": "visibility-final-prop_3-front",
+			"name": "prop_3-front",
+			"player": [
+				228.069580078125,
+				633.622314453125
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.0,
+				1.0
+			],
+			"file": "visibility-final-prop_3-back",
+			"name": "prop_3-back",
+			"player": [
+				228.069580078125,
+				609.211730957031
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.000000000000000122464685258517,
+				-1.0
+			],
+			"file": "visibility-final-prop_4-front",
+			"name": "prop_4-front",
+			"player": [
+				266.798126220703,
+				671.726379394531
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.0,
+				1.0
+			],
+			"file": "visibility-final-prop_4-back",
+			"name": "prop_4-back",
+			"player": [
+				266.798126220703,
+				644.663818359375
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.000000000000000122464685258517,
+				-1.0
+			],
+			"file": "visibility-final-bench-0-front",
+			"name": "bench-0-front",
+			"player": [
+				621.280883789062,
+				708.867370605469
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.0,
+				1.0
+			],
+			"file": "visibility-final-bench-0-back",
+			"name": "bench-0-back",
+			"player": [
+				621.280883789062,
+				679.957275390625
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.000000000000000122464685258517,
+				-1.0
+			],
+			"file": "visibility-final-ore_0-front",
+			"name": "ore_0-front",
+			"player": [
+				832.34521484375,
+				563.490905761719
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.0,
+				1.0
+			],
+			"file": "visibility-final-ore_0-back",
+			"name": "ore_0-back",
+			"player": [
+				832.34521484375,
+				526.068298339844
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.000000000000000122464685258517,
+				-1.0
+			],
+			"file": "visibility-final-ore_1-front",
+			"name": "ore_1-front",
+			"player": [
+				1541.16198730469,
+				547.906616210938
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.0,
+				1.0
+			],
+			"file": "visibility-final-ore_1-back",
+			"name": "ore_1-back",
+			"player": [
+				1541.16198730469,
+				511.840942382812
+			],
+			"walkable": false
+		},
+		{
+			"facing": [
+				0.000000000000000122464685258517,
+				-1.0
+			],
+			"file": "visibility-final-ore_2-front",
+			"name": "ore_2-front",
+			"player": [
+				703.931762695312,
+				1049.88928222656
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.0,
+				1.0
+			],
+			"file": "visibility-final-ore_2-back",
+			"name": "ore_2-back",
+			"player": [
+				703.931762695312,
+				1016.55023193359
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.000000000000000122464685258517,
+				-1.0
+			],
+			"file": "visibility-final-bank_rock-0-1-front",
+			"name": "bank_rock-0-1-front",
+			"player": [
+				1038.76538085938,
+				410.575439453125
+			],
+			"walkable": false
+		},
+		{
+			"facing": [
+				0.0,
+				1.0
+			],
+			"file": "visibility-final-bank_rock-0-1-back",
+			"name": "bank_rock-0-1-back",
+			"player": [
+				1038.76538085938,
+				378.933624267578
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.000000000000000122464685258517,
+				-1.0
+			],
+			"file": "visibility-final-bank_rock-1-0-front",
+			"name": "bank_rock-1-0-front",
+			"player": [
+				627.786987304688,
+				1122.80358886719
+			],
+			"walkable": false
+		},
+		{
+			"facing": [
+				0.0,
+				1.0
+			],
+			"file": "visibility-final-bank_rock-1-0-back",
+			"name": "bank_rock-1-0-back",
+			"player": [
+				627.786987304688,
+				1099.95690917969
+			],
+			"walkable": true
+		},
+		{
+			"facing": [
+				0.000000000000000122464685258517,
+				-1.0
+			],
+			"file": "visibility-final-bank_rock-2-1-front",
+			"name": "bank_rock-2-1-front",
+			"player": [
+				1518.59106445312,
+				520.626892089844
+			],
+			"walkable": false
+		},
+		{
+			"facing": [
+				0.0,
+				1.0
+			],
+			"file": "visibility-final-bank_rock-2-1-back",
+			"name": "bank_rock-2-1-back",
+			"player": [
+				1518.59106445312,
+				490.438537597656
+			],
+			"walkable": false
+		}
+	],
+	"checks": 66,
+	"failures": [],
+	"method": "Actual ordered Canvas texture calls alpha-composited over opaque HD character source samples at legal own-body front/back contacts, plus independently placed arch-center poses. Full-world walkability reported separately; physics route suite is independent. Software replay, not native GPU/manual playthrough.",
+	"results": [
+		{
+			"covered_samples": 0,
+			"label": "cabin-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 225,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				356.359100341797,
+				615.331604003906
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 223,
+			"label": "cabin-back",
+			"mean_surviving_opacity": 0.552542349193902,
+			"minimum_surviving_opacity": 0.00784313678741455,
+			"mode": "overhead",
+			"model_overlap_samples": 223,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.552542349193902,
+			"pass": true,
+			"player": [
+				356.359100341797,
+				538.479125976562
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 81,
+			"label": "gate-center-215",
+			"mean_surviving_opacity": 0.851735429252427,
+			"minimum_surviving_opacity": 0.583294130460889,
+			"mode": "overhead",
+			"model_overlap_samples": 81,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 0.589150339079319,
+			"pass": true,
+			"player": [
+				1994.0,
+				215.0
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 139,
+			"label": "gate-center-245",
+			"mean_surviving_opacity": 0.748768634851742,
+			"minimum_surviving_opacity": 0.583294130460889,
+			"mode": "overhead",
+			"model_overlap_samples": 139,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 0.594005936648021,
+			"pass": true,
+			"player": [
+				1994.0,
+				245.0
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 88,
+			"label": "gate-center-275",
+			"mean_surviving_opacity": 0.827944927834985,
+			"minimum_surviving_opacity": 0.0156862735748291,
+			"mode": "overhead",
+			"model_overlap_samples": 88,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 0.561340473913533,
+			"pass": true,
+			"player": [
+				1994.0,
+				275.0
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 0,
+			"label": "gate-center-305",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 82,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				1994.0,
+				305.0
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 0,
+			"label": "tree_0-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 214,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				1221.85766601562,
+				231.172622680664
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 211,
+			"label": "tree_0-back",
+			"mean_surviving_opacity": 0.615962026778278,
+			"minimum_surviving_opacity": 0.583294130460889,
+			"mode": "overhead",
+			"model_overlap_samples": 211,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.594339571657378,
+			"pass": true,
+			"player": [
+				1221.85766601562,
+				187.240783691406
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 0,
+			"label": "tree_1-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 225,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				561.121459960938,
+				336.567047119141
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 223,
+			"label": "tree_1-back",
+			"mean_surviving_opacity": 0.585450817155008,
+			"minimum_surviving_opacity": 0.583294130460889,
+			"mode": "overhead",
+			"model_overlap_samples": 223,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.585450817155008,
+			"pass": true,
+			"player": [
+				561.121459960938,
+				298.643371582031
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 0,
+			"label": "tree_5-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 210,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				2035.63720703125,
+				1135.04223632812
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 218,
+			"label": "tree_5-back",
+			"mean_surviving_opacity": 0.595569519057699,
+			"minimum_surviving_opacity": 0.583294130460889,
+			"mode": "overhead",
+			"model_overlap_samples": 218,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.586444696909537,
+			"pass": true,
+			"player": [
+				2035.63720703125,
+				1094.64318847656
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 0,
+			"label": "tree_4-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 221,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				1498.97875976562,
+				623.936828613281
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 223,
+			"label": "tree_4-back",
+			"mean_surviving_opacity": 0.583855459874425,
+			"minimum_surviving_opacity": 0.583294130460889,
+			"mode": "overhead",
+			"model_overlap_samples": 223,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.583855459874425,
+			"pass": true,
+			"player": [
+				1498.97875976562,
+				580.2373046875
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 0,
+			"label": "tree_2-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 216,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				1197.24560546875,
+				1253.84753417969
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 219,
+			"label": "tree_2-back",
+			"mean_surviving_opacity": 0.59417358123986,
+			"minimum_surviving_opacity": 0.583294130460889,
+			"mode": "overhead",
+			"model_overlap_samples": 219,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.58690412207499,
+			"pass": true,
+			"player": [
+				1197.24560546875,
+				1215.91345214844
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 0,
+			"label": "tree_3-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 214,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				1494.42687988281,
+				298.702819824219
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 223,
+			"label": "tree_3-back",
+			"mean_surviving_opacity": 0.585111065197679,
+			"minimum_surviving_opacity": 0.583294130460889,
+			"mode": "overhead",
+			"model_overlap_samples": 223,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.585111065197679,
+			"pass": true,
+			"player": [
+				1494.42687988281,
+				256.319458007812
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 0,
+			"label": "prop_1-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 130,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				514.781616210938,
+				652.871215820312
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 31,
+			"label": "prop_1-back",
+			"mean_surviving_opacity": 0.94502664366779,
+			"minimum_surviving_opacity": 0.583294130460889,
+			"mode": "back",
+			"model_overlap_samples": 31,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.604812155879501,
+			"pass": true,
+			"player": [
+				514.781616210938,
+				622.8359375
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 0,
+			"label": "prop_3-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 128,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				228.069580078125,
+				633.622314453125
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 49,
+			"label": "prop_3-back",
+			"mean_surviving_opacity": 0.909286206900076,
+			"minimum_surviving_opacity": 0.583294130460889,
+			"mode": "back",
+			"model_overlap_samples": 49,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.587495810751535,
+			"pass": true,
+			"player": [
+				228.069580078125,
+				609.211730957031
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 0,
+			"label": "prop_4-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 71,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				266.798126220703,
+				671.726379394531
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 18,
+			"label": "prop_4-back",
+			"mean_surviving_opacity": 0.921814824433605,
+			"minimum_surviving_opacity": 0.00784313678741455,
+			"mode": "back",
+			"model_overlap_samples": 18,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.0313725471496582,
+			"pass": true,
+			"player": [
+				266.798126220703,
+				644.663818359375
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 0,
+			"label": "bench-0-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 198,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				621.280883789062,
+				708.867370605469
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 113,
+			"label": "bench-0-back",
+			"mean_surviving_opacity": 0.790018471132869,
+			"minimum_surviving_opacity": 0.583294130460889,
+			"mode": "back",
+			"model_overlap_samples": 113,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.586413338923029,
+			"pass": true,
+			"player": [
+				621.280883789062,
+				679.957275390625
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 0,
+			"label": "ore_0-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 186,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				832.34521484375,
+				563.490905761719
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 58,
+			"label": "ore_0-back",
+			"mean_surviving_opacity": 0.894270644130219,
+			"minimum_surviving_opacity": 0.583294130460889,
+			"mode": "back",
+			"model_overlap_samples": 58,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.59522110738895,
+			"pass": true,
+			"player": [
+				832.34521484375,
+				526.068298339844
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 0,
+			"label": "ore_1-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 187,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				1541.16198730469,
+				547.906616210938
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 59,
+			"label": "ore_1-back",
+			"mean_surviving_opacity": 0.891545242001351,
+			"minimum_surviving_opacity": 0.583294130460889,
+			"mode": "back",
+			"model_overlap_samples": 59,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.590245276602015,
+			"pass": true,
+			"player": [
+				1541.16198730469,
+				511.840942382812
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": false
+		},
+		{
+			"covered_samples": 0,
+			"label": "ore_2-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 181,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				703.931762695312,
+				1049.88928222656
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 67,
+			"label": "ore_2-back",
+			"mean_surviving_opacity": 0.878789768835981,
+			"minimum_surviving_opacity": 0.583294130460889,
+			"mode": "back",
+			"model_overlap_samples": 67,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.597306421139016,
+			"pass": true,
+			"player": [
+				703.931762695312,
+				1016.55023193359
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 0,
+			"label": "bank_rock-0-0-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 43,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				969.9912109375,
+				450.957794189453
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": false
+		},
+		{
+			"covered_samples": 1,
+			"label": "bank_rock-0-0-back",
+			"mean_surviving_opacity": 0.99556845159274,
+			"minimum_surviving_opacity": 0.0117647051811218,
+			"mode": "back",
+			"model_overlap_samples": 1,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.0117647051811218,
+			"pass": true,
+			"player": [
+				969.9912109375,
+				420.754028320312
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": false
+		},
+		{
+			"covered_samples": 0,
+			"label": "bank_rock-0-1-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 119,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				1038.76538085938,
+				410.575439453125
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": false
+		},
+		{
+			"covered_samples": 23,
+			"label": "bank_rock-0-1-back",
+			"mean_surviving_opacity": 0.902505935006879,
+			"minimum_surviving_opacity": 0.00784313678741455,
+			"mode": "back",
+			"model_overlap_samples": 23,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.0547314568058304,
+			"pass": true,
+			"player": [
+				1038.76538085938,
+				378.933624267578
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 0,
+			"label": "bank_rock-0-2-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 13,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				1153.48510742188,
+				422.128875732422
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": false
+		},
+		{
+			"covered_samples": 0,
+			"label": "bank_rock-0-2-back",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "back",
+			"model_overlap_samples": 0,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.0,
+			"pass": true,
+			"player": [
+				1153.48510742188,
+				396.627624511719
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 0,
+			"label": "bank_rock-0-3-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 120,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				1182.38171386719,
+				444.548675537109
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": false
+		},
+		{
+			"covered_samples": 15,
+			"label": "bank_rock-0-3-back",
+			"mean_surviving_opacity": 0.935426008808239,
+			"minimum_surviving_opacity": 0.00784313678741455,
+			"mode": "back",
+			"model_overlap_samples": 15,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.0399999976158142,
+			"pass": true,
+			"player": [
+				1182.38171386719,
+				406.675079345703
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 0,
+			"label": "bank_rock-0-4-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 121,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				976.637451171875,
+				549.589538574219
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 10,
+			"label": "bank_rock-0-4-back",
+			"mean_surviving_opacity": 0.955508660842485,
+			"minimum_surviving_opacity": 0.00784313678741455,
+			"mode": "back",
+			"model_overlap_samples": 10,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.00784313678741455,
+			"pass": true,
+			"player": [
+				976.637451171875,
+				507.709594726562
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": false
+		},
+		{
+			"covered_samples": 0,
+			"label": "bank_rock-0-5-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 30,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				1047.72338867188,
+				567.163696289062
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 0,
+			"label": "bank_rock-0-5-back",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "back",
+			"model_overlap_samples": 0,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.0,
+			"pass": true,
+			"player": [
+				1047.72338867188,
+				538.530151367188
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": false
+		},
+		{
+			"covered_samples": 0,
+			"label": "bank_rock-0-6-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 102,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				1150.017578125,
+				575.999633789062
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 4,
+			"label": "bank_rock-0-6-back",
+			"mean_surviving_opacity": 0.982238635353978,
+			"minimum_surviving_opacity": 0.00784313678741455,
+			"mode": "back",
+			"model_overlap_samples": 4,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.00980392098426819,
+			"pass": true,
+			"player": [
+				1150.017578125,
+				536.538818359375
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": false
+		},
+		{
+			"covered_samples": 0,
+			"label": "bank_rock-1-0-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 13,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				627.786987304688,
+				1122.80358886719
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": false
+		},
+		{
+			"covered_samples": 0,
+			"label": "bank_rock-1-0-back",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "back",
+			"model_overlap_samples": 0,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.0,
+			"pass": true,
+			"player": [
+				627.786987304688,
+				1099.95690917969
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 0,
+			"label": "bank_rock-1-1-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 88,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				715.457580566406,
+				1140.80749511719
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": false
+		},
+		{
+			"covered_samples": 16,
+			"label": "bank_rock-1-1-back",
+			"mean_surviving_opacity": 0.929024883445703,
+			"minimum_surviving_opacity": 0.00784313678741455,
+			"mode": "back",
+			"model_overlap_samples": 16,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.0112745091319084,
+			"pass": true,
+			"player": [
+				715.457580566406,
+				1110.55419921875
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 0,
+			"label": "bank_rock-1-2-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 19,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				572.512451171875,
+				1182.23022460938
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 0,
+			"label": "bank_rock-1-2-back",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "back",
+			"model_overlap_samples": 0,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.0,
+			"pass": true,
+			"player": [
+				572.512451171875,
+				1156.71447753906
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": false
+		},
+		{
+			"covered_samples": 0,
+			"label": "bank_rock-1-3-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 64,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				596.855224609375,
+				1210.04296875
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 8,
+			"label": "bank_rock-1-3-back",
+			"mean_surviving_opacity": 0.964406928673988,
+			"minimum_surviving_opacity": 0.00784313678741455,
+			"mode": "back",
+			"model_overlap_samples": 8,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.00784313678741455,
+			"pass": true,
+			"player": [
+				596.855224609375,
+				1179.623046875
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": false
+		},
+		{
+			"covered_samples": 0,
+			"label": "bank_rock-1-4-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 14,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				627.421020507812,
+				1217.54760742188
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 0,
+			"label": "bank_rock-1-4-back",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "back",
+			"model_overlap_samples": 0,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.0,
+			"pass": true,
+			"player": [
+				627.421020507812,
+				1193.23986816406
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": false
+		},
+		{
+			"covered_samples": 0,
+			"label": "bank_rock-2-0-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 96,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				1420.04235839844,
+				503.769226074219
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 11,
+			"label": "bank_rock-2-0-back",
+			"mean_surviving_opacity": 0.951147454469193,
+			"minimum_surviving_opacity": 0.00784313678741455,
+			"mode": "back",
+			"model_overlap_samples": 11,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.00962566787546331,
+			"pass": true,
+			"player": [
+				1420.04235839844,
+				470.269226074219
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 0,
+			"label": "bank_rock-2-1-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 51,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				1518.59106445312,
+				520.626892089844
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": false
+		},
+		{
+			"covered_samples": 2,
+			"label": "bank_rock-2-1-back",
+			"mean_surviving_opacity": 0.991119317676989,
+			"minimum_surviving_opacity": 0.00784313678741455,
+			"mode": "back",
+			"model_overlap_samples": 2,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.00980392098426819,
+			"pass": true,
+			"player": [
+				1518.59106445312,
+				490.438537597656
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": false
+		},
+		{
+			"covered_samples": 0,
+			"label": "bank_rock-2-2-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 44,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				1557.96606445312,
+				465.763458251953
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": false
+		},
+		{
+			"covered_samples": 2,
+			"label": "bank_rock-2-2-back",
+			"mean_surviving_opacity": 0.991136903185481,
+			"minimum_surviving_opacity": 0.0117647051811218,
+			"mode": "back",
+			"model_overlap_samples": 2,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.0117647051811218,
+			"pass": true,
+			"player": [
+				1557.96606445312,
+				438.348571777344
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": true
+		},
+		{
+			"covered_samples": 0,
+			"label": "bank_rock-2-3-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 6,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				1521.92797851562,
+				452.571075439453
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": false
+		},
+		{
+			"covered_samples": 0,
+			"label": "bank_rock-2-3-back",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "back",
+			"model_overlap_samples": 0,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.0,
+			"pass": true,
+			"player": [
+				1521.92797851562,
+				431.449371337891
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": false
+		},
+		{
+			"covered_samples": 0,
+			"label": "bank_rock-2-4-front",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "front",
+			"model_overlap_samples": 2,
+			"opaque_actor_samples": 225,
+			"overlap_mean_surviving_opacity": 1.0,
+			"pass": true,
+			"player": [
+				1544.84106445312,
+				473.192260742188
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": false
+		},
+		{
+			"covered_samples": 0,
+			"label": "bank_rock-2-4-back",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"mode": "back",
+			"model_overlap_samples": 0,
+			"opaque_actor_samples": 223,
+			"overlap_mean_surviving_opacity": 0.0,
+			"pass": true,
+			"player": [
+				1544.84106445312,
+				453.412139892578
+			],
+			"target_texture_count": 1,
+			"walkable_full_world": false
+		}
+	],
+	"tag": "final",
+	"version": "0.1.5.11"
+}

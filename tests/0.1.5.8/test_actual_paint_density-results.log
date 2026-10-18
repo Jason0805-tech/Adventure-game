@@ -1,0 +1,6 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+GAME_READY 0.1.5.8
+ACTUAL_PAINT_DENSITY_RESULTS checks=416 failures=0 textures=83 initial_render_cache_entries=139

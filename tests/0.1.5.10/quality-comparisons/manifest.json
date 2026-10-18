@@ -1,0 +1,148 @@
+{
+  "method": "Identical seeded scenes captured from actual runtime Canvas calls. 1x and 2x software rasterization. 2x output replays the original source textures at twice the Canvas scale and does not resize a 1x screenshot. Final actor atlases are rerendered at doubled pixel dimensions; normalized poses, grips and actual world drawing bounds are checked against 0.1.5.9. No native GPU or physical Retina screenshot claim.",
+  "same_pose_seed_time": true,
+  "all_player_positions_walkable": true,
+  "hd_actor_atlases": [
+    {
+      "source": "traveler-unarmed-directions.png",
+      "previous_size": [
+        1536,
+        1440
+      ],
+      "new_size": [
+        3072,
+        2880
+      ],
+      "sha256": "ae5a1d31c3e8601aa303a4f98c2687c518a6014665083e81ac26d97e1f084bc0"
+    },
+    {
+      "source": "traveler-armed-directions.png",
+      "previous_size": [
+        1536,
+        1440
+      ],
+      "new_size": [
+        3072,
+        2880
+      ],
+      "sha256": "315000c8f871df170ed6dba6fbea06fd6ed0cf6618db521106555206b51ed84e"
+    },
+    {
+      "source": "traveler-use-directions.png",
+      "previous_size": [
+        3072,
+        1152
+      ],
+      "new_size": [
+        6144,
+        2304
+      ],
+      "sha256": "05009044b3db5d738299bf395842dfa1dda99a39a58e6330d40de65200171706"
+    }
+  ],
+  "normalized_pose_grip_frames_checked": 240,
+  "hd_actor_world_bounds": [
+    {
+      "scene": "camp",
+      "world_rectangle": [
+        321.600006103516,
+        622.799987792969,
+        76.8000030517578,
+        128
+      ],
+      "transform": [
+        -80,
+        -360,
+        0,
+        1,
+        1
+      ],
+      "world_bounds_unchanged": true
+    },
+    {
+      "scene": "forest",
+      "world_rectangle": [
+        821.599975585938,
+        1132.80004882812,
+        76.8000030517578,
+        128
+      ],
+      "transform": [
+        -540,
+        -880,
+        0,
+        1,
+        1
+      ],
+      "world_bounds_unchanged": true
+    },
+    {
+      "scene": "pond",
+      "world_rectangle": [
+        1061.59997558594,
+        522.799987792969,
+        76.8000030517578,
+        128
+      ],
+      "transform": [
+        -780,
+        -230,
+        0,
+        1,
+        1
+      ],
+      "world_bounds_unchanged": true
+    }
+  ],
+  "actual_ground_rasters": [
+    {
+      "tag": "baseline",
+      "source_texture_pixels": [
+        1100,
+        750
+      ],
+      "world_rectangle": [
+        0,
+        0,
+        2200,
+        1500
+      ]
+    },
+    {
+      "tag": "final",
+      "source_texture_pixels": [
+        2816,
+        1920
+      ],
+      "world_rectangle": [
+        0,
+        0,
+        2200,
+        1500
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "scene": "camp",
+      "outputs": {
+        "1x": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.10/quality-comparisons/camp-1x.png",
+        "2x": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.10/quality-comparisons/camp-2x.png"
+      }
+    },
+    {
+      "scene": "forest",
+      "outputs": {
+        "1x": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.10/quality-comparisons/forest-1x.png",
+        "2x": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.10/quality-comparisons/forest-2x.png"
+      }
+    },
+    {
+      "scene": "pond",
+      "outputs": {
+        "1x": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.10/quality-comparisons/pond-1x.png",
+        "2x": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.5.10/quality-comparisons/pond-2x.png"
+      }
+    }
+  ]
+}

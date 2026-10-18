@@ -1,0 +1,158 @@
+{
+  "version": "0.1.5.10",
+  "status": "complete: post-HD actor contact alpha regressions passed and final high-resolution actor/ground quality comparisons captured and inspected",
+  "runtime_source_sha256_at_alpha_test": {
+    "main.gd": "249262912bac886eff327fb99279773ecfa287f8fb6f697e959af13a154bd034",
+    "depth_layers.gd": "29d6c655eb796a99d220104ab19f5b5940698ea0e3fcf7258db2e5ca54dcbde4",
+    "paint_density.gd": "e81304dd64ce1731c1b3baa94461d79f17df04aa334c5178d52312be338b6bd2",
+    "collision_profiles.json": "3d939b5b58a4bcb4be0d7da4ee40113708f65c841e8dedd6f396ec5fe8ae4906"
+  },
+  "house_front": {
+    "checks": 21,
+    "failures": 0,
+    "method": "21 actual northward player movement routes along cabin frontage; original avatar alpha samples replayed through actual ordered Canvas texture commands. At a legal front contact, head and torso must survive the complete facade/ground vegetation paint."
+  },
+  "all_model_fronts": {
+    "checks": 443,
+    "failures": 0,
+    "actual_instances": 166,
+    "alternate_state_instances": 66,
+    "method": "Every actual static solid instance approached from below with real player movement; every model/state has additional front columns. Actual ordered Canvas calls are alpha-composited against original opaque avatar pixels. Only that object's actual prepared source textures contribute to the visibility failure, so unrelated neighboring canopies cannot hide a regression. Full-world collision routes are tested separately. Tree contacts above the root are legitimately behind canopy and excluded from front-only acceptance."
+  },
+  "alpha_sampling": "Original 96x160 virtual sample grid, alpha threshold0.85, world sample coordinates and survival thresholds unchanged; actual image alpha is sampled at scaled atlas source coordinates.",
+  "quality_comparison_manifest": "quality-comparisons/manifest.json",
+  "actual_ground_rasters": [
+    {
+      "tag": "baseline",
+      "source_texture_pixels": [
+        1100,
+        750
+      ],
+      "world_rectangle": [
+        0,
+        0,
+        2200,
+        1500
+      ]
+    },
+    {
+      "tag": "final",
+      "source_texture_pixels": [
+        2816,
+        1920
+      ],
+      "world_rectangle": [
+        0,
+        0,
+        2200,
+        1500
+      ]
+    }
+  ],
+  "hd_actor_atlases": [
+    {
+      "source": "traveler-unarmed-directions.png",
+      "previous_size": [
+        1536,
+        1440
+      ],
+      "new_size": [
+        3072,
+        2880
+      ],
+      "sha256": "ae5a1d31c3e8601aa303a4f98c2687c518a6014665083e81ac26d97e1f084bc0"
+    },
+    {
+      "source": "traveler-armed-directions.png",
+      "previous_size": [
+        1536,
+        1440
+      ],
+      "new_size": [
+        3072,
+        2880
+      ],
+      "sha256": "315000c8f871df170ed6dba6fbea06fd6ed0cf6618db521106555206b51ed84e"
+    },
+    {
+      "source": "traveler-use-directions.png",
+      "previous_size": [
+        3072,
+        1152
+      ],
+      "new_size": [
+        6144,
+        2304
+      ],
+      "sha256": "05009044b3db5d738299bf395842dfa1dda99a39a58e6330d40de65200171706"
+    }
+  ],
+  "normalized_pose_grip_frames_checked": 240,
+  "hd_actor_world_bounds": [
+    {
+      "scene": "camp",
+      "world_rectangle": [
+        321.600006103516,
+        622.799987792969,
+        76.8000030517578,
+        128
+      ],
+      "transform": [
+        -80,
+        -360,
+        0,
+        1,
+        1
+      ],
+      "world_bounds_unchanged": true
+    },
+    {
+      "scene": "forest",
+      "world_rectangle": [
+        821.599975585938,
+        1132.80004882812,
+        76.8000030517578,
+        128
+      ],
+      "transform": [
+        -540,
+        -880,
+        0,
+        1,
+        1
+      ],
+      "world_bounds_unchanged": true
+    },
+    {
+      "scene": "pond",
+      "world_rectangle": [
+        1061.59997558594,
+        522.799987792969,
+        76.8000030517578,
+        128
+      ],
+      "transform": [
+        -780,
+        -230,
+        0,
+        1,
+        1
+      ],
+      "world_bounds_unchanged": true
+    }
+  ],
+  "comparison_images": 9,
+  "visual_review": {
+    "inspected": [
+      "camp-1x.png",
+      "forest-1x.png",
+      "pond-1x.png",
+      "camp-actor-detail-2x.png",
+      "forest-actor-detail-2x.png",
+      "pond-actor-detail-2x.png"
+    ],
+    "findings": "Actor face, hat, clothes and boot contours are visibly sharper after HD rerender; approved painted proportions retained. Ground and static scenery visibly sharper in all three views. No obvious new ground/prop join or assembled-region seam in these inspected views. Exact captured actor world bounds and transform match the previous release in all three scenes.",
+    "limitation": "Software Canvas replays, not native GPU screenshots or manual playthrough. Static asset physical source densities are not all numerically identical; detail remains painted instead of photorealistic."
+  },
+  "scope": "Native static texture restoration, newly repainted high-resolution meadow, and doubled source actor atlases rerendered from approved art/unchanged rig projection. Existing actual movement approaches and opaque-avatar samples composed against actual ordered Canvas commands. No full movement-suite rerun claimed; collision geometry unchanged."
+}

@@ -1,0 +1,1164 @@
+# Keep source bytes and existing line endings unchanged.
+* -text
+
+# Original files >= 1 MiB use Git LFS; full content and resolution are preserved.
+"output/0.1.5 series/adventure game 0.1.5/Forest Wanderer.app/Contents/MacOS/ForestWanderer" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5/Forest Wanderer.app/Contents/Resources/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5/Forest Wanderer.app/Contents/Resources/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5/Forest Wanderer.app/Contents/Resources/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5/Forest Wanderer.app/Contents/Resources/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5/Forest Wanderer.app/Contents/Resources/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5/Forest Wanderer.app/Contents/Resources/assets/traveler-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5/Forest Wanderer.app/Contents/Resources/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5/assets/traveler-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/Forest Wanderer.app/Contents/MacOS/ForestWanderer" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/Forest Wanderer.app/Contents/Resources/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/Forest Wanderer.app/Contents/Resources/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/Forest Wanderer.app/Contents/Resources/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/Forest Wanderer.app/Contents/Resources/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/Forest Wanderer.app/Contents/Resources/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/Forest Wanderer.app/Contents/Resources/assets/step-contact-b.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/Forest Wanderer.app/Contents/Resources/assets/step-pass-a.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/Forest Wanderer.app/Contents/Resources/assets/step-pass-b.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/Forest Wanderer.app/Contents/Resources/assets/traveler-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/Forest Wanderer.app/Contents/Resources/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/Forest Wanderer.app/Contents/Resources/assets/walk-down.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/Forest Wanderer.app/Contents/Resources/assets/walk-left.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/Forest Wanderer.app/Contents/Resources/assets/walk-right.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/assets/step-contact-b.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/assets/step-pass-a.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/assets/step-pass-b.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/assets/traveler-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/assets/walk-down.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/assets/walk-left.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/assets/walk-right.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/Forest Wanderer.app/Contents/MacOS/GodotRuntime" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/Forest Wanderer.app/Contents/Resources/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/Forest Wanderer.app/Contents/Resources/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/Forest Wanderer.app/Contents/Resources/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/Forest Wanderer.app/Contents/Resources/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/Forest Wanderer.app/Contents/Resources/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/Forest Wanderer.app/Contents/Resources/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/Forest Wanderer.app/Contents/Resources/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/Forest Wanderer.app/Contents/Resources/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/Forest Wanderer.app/Contents/Resources/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/Forest Wanderer.app/Contents/Resources/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/Forest Wanderer.app/Contents/Resources/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/Forest Wanderer.app/Contents/Resources/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/Forest Wanderer.app/Contents/Resources/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/Forest Wanderer.app/Contents/Resources/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/Forest Wanderer.app/Contents/Resources/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/Forest Wanderer.app/Contents/Resources/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/Forest Wanderer.app/Contents/Resources/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/Forest Wanderer.app/Contents/Resources/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.10/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/Forest Wanderer.app/Contents/MacOS/ForestWanderer0152" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/Forest Wanderer.app/Contents/Resources/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/Forest Wanderer.app/Contents/Resources/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/Forest Wanderer.app/Contents/Resources/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/Forest Wanderer.app/Contents/Resources/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/Forest Wanderer.app/Contents/Resources/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/Forest Wanderer.app/Contents/Resources/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/Forest Wanderer.app/Contents/Resources/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/Forest Wanderer.app/Contents/Resources/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/Forest Wanderer.app/Contents/Resources/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/Forest Wanderer.app/Contents/Resources/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/Forest Wanderer.app/Contents/Resources/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/Forest Wanderer.app/Contents/MacOS/GodotRuntime" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/Forest Wanderer.app/Contents/Resources/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/Forest Wanderer.app/Contents/Resources/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/Forest Wanderer.app/Contents/Resources/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/Forest Wanderer.app/Contents/Resources/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/Forest Wanderer.app/Contents/Resources/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/Forest Wanderer.app/Contents/Resources/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/Forest Wanderer.app/Contents/Resources/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/Forest Wanderer.app/Contents/Resources/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/Forest Wanderer.app/Contents/Resources/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/Forest Wanderer.app/Contents/Resources/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/Forest Wanderer.app/Contents/Resources/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/Forest Wanderer.app/Contents/Resources/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/Forest Wanderer.app/Contents/MacOS/GodotRuntime" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/Forest Wanderer.app/Contents/Resources/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/Forest Wanderer.app/Contents/Resources/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/Forest Wanderer.app/Contents/Resources/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/Forest Wanderer.app/Contents/Resources/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/Forest Wanderer.app/Contents/Resources/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/Forest Wanderer.app/Contents/Resources/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/Forest Wanderer.app/Contents/Resources/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/Forest Wanderer.app/Contents/Resources/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/Forest Wanderer.app/Contents/Resources/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/Forest Wanderer.app/Contents/Resources/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/Forest Wanderer.app/Contents/Resources/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/Forest Wanderer.app/Contents/Resources/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/Forest Wanderer.app/Contents/Resources/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/Forest Wanderer.app/Contents/Resources/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/Forest Wanderer.app/Contents/Resources/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/Forest Wanderer.app/Contents/Resources/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/Forest Wanderer.app/Contents/MacOS/GodotRuntime" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/Forest Wanderer.app/Contents/Resources/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/Forest Wanderer.app/Contents/Resources/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/Forest Wanderer.app/Contents/Resources/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/Forest Wanderer.app/Contents/Resources/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/Forest Wanderer.app/Contents/Resources/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/Forest Wanderer.app/Contents/Resources/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/Forest Wanderer.app/Contents/Resources/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/Forest Wanderer.app/Contents/Resources/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/Forest Wanderer.app/Contents/Resources/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/Forest Wanderer.app/Contents/Resources/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/Forest Wanderer.app/Contents/Resources/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/Forest Wanderer.app/Contents/Resources/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/Forest Wanderer.app/Contents/Resources/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/Forest Wanderer.app/Contents/Resources/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/Forest Wanderer.app/Contents/Resources/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/Forest Wanderer.app/Contents/Resources/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/Forest Wanderer.app/Contents/MacOS/GodotRuntime" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/Forest Wanderer.app/Contents/Resources/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/Forest Wanderer.app/Contents/Resources/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/Forest Wanderer.app/Contents/Resources/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/Forest Wanderer.app/Contents/Resources/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/Forest Wanderer.app/Contents/Resources/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/Forest Wanderer.app/Contents/Resources/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/Forest Wanderer.app/Contents/Resources/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/Forest Wanderer.app/Contents/Resources/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/Forest Wanderer.app/Contents/Resources/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/Forest Wanderer.app/Contents/Resources/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/Forest Wanderer.app/Contents/Resources/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/Forest Wanderer.app/Contents/Resources/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/Forest Wanderer.app/Contents/Resources/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/Forest Wanderer.app/Contents/Resources/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/Forest Wanderer.app/Contents/Resources/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/Forest Wanderer.app/Contents/Resources/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.7/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/Forest Wanderer.app/Contents/MacOS/GodotRuntime" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/Forest Wanderer.app/Contents/Resources/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/Forest Wanderer.app/Contents/Resources/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/Forest Wanderer.app/Contents/Resources/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/Forest Wanderer.app/Contents/Resources/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/Forest Wanderer.app/Contents/Resources/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/Forest Wanderer.app/Contents/Resources/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/Forest Wanderer.app/Contents/Resources/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/Forest Wanderer.app/Contents/Resources/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/Forest Wanderer.app/Contents/Resources/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/Forest Wanderer.app/Contents/Resources/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/Forest Wanderer.app/Contents/Resources/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/Forest Wanderer.app/Contents/Resources/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/Forest Wanderer.app/Contents/Resources/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/Forest Wanderer.app/Contents/Resources/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/Forest Wanderer.app/Contents/Resources/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/Forest Wanderer.app/Contents/Resources/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/Forest Wanderer.app/Contents/MacOS/GodotRuntime" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/Forest Wanderer.app/Contents/Resources/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/Forest Wanderer.app/Contents/Resources/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/Forest Wanderer.app/Contents/Resources/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/Forest Wanderer.app/Contents/Resources/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/Forest Wanderer.app/Contents/Resources/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/Forest Wanderer.app/Contents/Resources/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/Forest Wanderer.app/Contents/Resources/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/Forest Wanderer.app/Contents/Resources/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/Forest Wanderer.app/Contents/Resources/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/Forest Wanderer.app/Contents/Resources/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/Forest Wanderer.app/Contents/Resources/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/Forest Wanderer.app/Contents/Resources/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/Forest Wanderer.app/Contents/Resources/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/Forest Wanderer.app/Contents/Resources/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/Forest Wanderer.app/Contents/Resources/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/Forest Wanderer.app/Contents/Resources/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.9/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/Forest Wanderer.app/Contents/MacOS/GodotRuntime" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/Forest Wanderer.app/Contents/Resources/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/Forest Wanderer.app/Contents/Resources/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/Forest Wanderer.app/Contents/Resources/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/Forest Wanderer.app/Contents/Resources/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/Forest Wanderer.app/Contents/Resources/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/Forest Wanderer.app/Contents/Resources/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/Forest Wanderer.app/Contents/Resources/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/Forest Wanderer.app/Contents/Resources/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/Forest Wanderer.app/Contents/Resources/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/Forest Wanderer.app/Contents/Resources/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/Forest Wanderer.app/Contents/Resources/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/Forest Wanderer.app/Contents/Resources/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/Forest Wanderer.app/Contents/Resources/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/Forest Wanderer.app/Contents/Resources/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/Forest Wanderer.app/Contents/Resources/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/Forest Wanderer.app/Contents/Resources/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/Forest Wanderer.app/Contents/Resources/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/Forest Wanderer.app/Contents/Resources/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/Forest Wanderer.app/Contents/Resources/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/Forest Wanderer.app/Contents/Resources/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/Forest Wanderer.app/Contents/Resources/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/Forest Wanderer.app/Contents/Resources/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/Forest Wanderer.app/Contents/Resources/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/Forest Wanderer.app/Contents/MacOS/GodotRuntime" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/Forest Wanderer.app/Contents/Resources/assets/animal-skin-topology.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/Forest Wanderer.app/Contents/Resources/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/Forest Wanderer.app/Contents/Resources/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/Forest Wanderer.app/Contents/Resources/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/Forest Wanderer.app/Contents/Resources/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/Forest Wanderer.app/Contents/Resources/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/Forest Wanderer.app/Contents/Resources/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/Forest Wanderer.app/Contents/Resources/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/Forest Wanderer.app/Contents/Resources/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/Forest Wanderer.app/Contents/Resources/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/Forest Wanderer.app/Contents/Resources/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/Forest Wanderer.app/Contents/Resources/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/Forest Wanderer.app/Contents/Resources/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/Forest Wanderer.app/Contents/Resources/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/Forest Wanderer.app/Contents/Resources/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/Forest Wanderer.app/Contents/Resources/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/Forest Wanderer.app/Contents/Resources/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/Forest Wanderer.app/Contents/Resources/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/Forest Wanderer.app/Contents/Resources/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/Forest Wanderer.app/Contents/Resources/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/Forest Wanderer.app/Contents/Resources/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/Forest Wanderer.app/Contents/Resources/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/Forest Wanderer.app/Contents/Resources/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/Forest Wanderer.app/Contents/Resources/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/assets/animal-skin-topology.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/Forest Wanderer 0.1.6.3 - Web.zip" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/Forest Wanderer 0.1.6.3.html" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/assets/animal-skin-topology.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/web/game.pck" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/web/game.wasm" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/web-share/cover.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/web-share/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/web-share/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/web-share/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/web-share/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/web-share/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/web-share/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/web-share/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/web-share/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/web-share/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/web-share/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/web-share/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/web-share/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/web-share/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.3/web-share/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/Forest Wanderer.app/Contents/MacOS/GodotRuntime" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/Forest Wanderer.app/Contents/Resources/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/Forest Wanderer.app/Contents/Resources/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/Forest Wanderer.app/Contents/Resources/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/Forest Wanderer.app/Contents/Resources/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/Forest Wanderer.app/Contents/Resources/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/Forest Wanderer.app/Contents/Resources/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/Forest Wanderer.app/Contents/Resources/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/Forest Wanderer.app/Contents/Resources/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/Forest Wanderer.app/Contents/Resources/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/Forest Wanderer.app/Contents/Resources/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/Forest Wanderer.app/Contents/Resources/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/Forest Wanderer.app/Contents/Resources/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/Forest Wanderer.app/Contents/Resources/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/Forest Wanderer.app/Contents/Resources/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/Forest Wanderer.app/Contents/Resources/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/Forest Wanderer.app/Contents/Resources/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/Forest Wanderer.app/Contents/Resources/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/Forest Wanderer.app/Contents/Resources/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/Forest Wanderer.app/Contents/Resources/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/Forest Wanderer.app/Contents/Resources/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/Forest Wanderer.app/Contents/Resources/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/Forest Wanderer.app/Contents/Resources/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/Forest Wanderer.app/Contents/Resources/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
+"output/adventure game 0.1.3/Forest Wanderer.app/Contents/MacOS/ForestWanderer" filter=lfs diff=lfs merge=lfs -text
+"output/adventure game 0.1.4/Forest Wanderer.app/Contents/MacOS/ForestWanderer" filter=lfs diff=lfs merge=lfs -text
+"output/adventure game 0.1.4/Forest Wanderer.app/Contents/Resources/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/adventure game 0.1.4/Forest Wanderer.app/Contents/Resources/assets/materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/adventure game 0.1.4/Forest Wanderer.app/Contents/Resources/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/adventure game 0.1.4/Forest Wanderer.app/Contents/Resources/assets/npcs.png" filter=lfs diff=lfs merge=lfs -text
+"output/adventure game 0.1.4/Forest Wanderer.app/Contents/Resources/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/adventure game 0.1.4/Forest Wanderer.app/Contents/Resources/assets/traveler-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/adventure game 0.1.4/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/adventure game 0.1.4/assets/materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/adventure game 0.1.4/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/adventure game 0.1.4/assets/npcs.png" filter=lfs diff=lfs merge=lfs -text
+"output/adventure game 0.1.4/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/adventure game 0.1.4/assets/traveler-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/adventure game （English version）0.1.1/Forest Wanderer.app/Contents/MacOS/ForestWanderer" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.4/early-side-view-draft.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/captures/texture-60447--9223372000666319211.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/captures/texture-60447--9223372001857501581.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/captures/texture-60682--9223372000783759722.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/captures/texture-60682--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/captures/texture-60683--9223372000414660969.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/captures/texture-60683--9223372001538734476.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/captures/texture-60819--9223372000766982506.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/captures/texture-60819--9223372001891056013.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/captures/texture-61908--9223372001387739516.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/captures/texture-61908--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/captures/texture-61908--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/captures/texture-61908--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/captures/texture-61939--9223372001018640763.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/captures/texture-61939--9223372001236744578.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/captures/texture-61939--9223372001303853444.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/captures/texture-61939--9223372001538734476.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/captures/texture-62116--9223372001370962300.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/captures/texture-62116--9223372001589066115.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/captures/texture-62116--9223372001656174981.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/captures/texture-62116--9223372001891056013.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/quality-comparisons/camp-1x.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/quality-comparisons/camp-2x.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/quality-comparisons/forest-1x.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/quality-comparisons/forest-2x.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/quality-comparisons/pond-1x.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/quality-comparisons/pond-2x.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/terrain-sources/ne.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/terrain-sources/nw.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/terrain-sources/se.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.10/terrain-sources/sw.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/all-model-contact-poses.json" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-63932--9223372001354185084.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-63932--9223372001572288899.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-63932--9223372001639397765.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-63932--9223372001874278797.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-63942--9223372001354185084.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-63942--9223372001572288899.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-63942--9223372001639397765.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-63942--9223372001874278797.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-64176--9223372001018640763.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-64176--9223372001236744578.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-64176--9223372001303853444.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-64176--9223372001538734476.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-64198--9223372001387739516.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-64198--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-64198--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-64198--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-64290--9223372001320630652.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-64290--9223372001538734467.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-64290--9223372001605843333.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-64290--9223372001840724365.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-64300--9223372001387739516.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-64300--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-64300--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-64300--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-65091--9223372001387739516.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-65091--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-65091--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-65091--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-65095--9223372001018640763.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-65095--9223372001236744578.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-65095--9223372001303853444.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-65095--9223372001538734476.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-65194--9223372001387739516.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-65194--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-65194--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-65194--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-65343--9223372001354185084.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-65343--9223372001572288899.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-65343--9223372001639397765.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/captures/texture-65343--9223372001874278797.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/footprint-authoring/all-48-ground-footprints.jpg" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/visual-acceptance/model-front-back-1.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.11/visual-acceptance/model-front-back-2.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/art-style-demo/001/directions-draft-2.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/art-style-demo/001/directions-draft.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/art-style-demo/001/directions-style-demo.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/art-style-demo/001/game-scene-demo.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/behind-logs.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/day.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/forest-and-low-vitals.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/in-front-of-logs.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/texture--9223372001689729364.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/texture--9223372004306975130.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/texture--9223372004323752346.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/texture--9223372004776737329.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/texture--9223372004793514545.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/texture--9223372004843846194.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/texture--9223372004860623410.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/turn-00.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/turn-01.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/turn-02.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/turn-03.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/turn-04.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/turn-05.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/turn-06.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/turn-07.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/turn-08.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/turn-09.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/turn-10.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/turn-11.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/walk-00.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/walk-01.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/walk-02.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/walk-03.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/walk-04.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/walk-05.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/walk-06.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/captures/walk-07.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/retired-art/step-contact-b.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/retired-art/step-pass-a.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/retired-art/step-pass-b.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/retired-art/traveler-directions.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/retired-art/walk-down.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/retired-art/walk-left.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.2/retired-art/walk-right.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/behind-logs.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/day.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/forest-and-low-vitals.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/in-front-of-logs.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/texture--9223372004306975130.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/texture--9223372004323752346.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/texture--9223372004776737329.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/texture--9223372004793514545.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/texture--9223372004843846194.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/texture--9223372004860623410.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/turn-00.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/turn-01.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/turn-02.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/turn-03.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/turn-04.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/turn-05.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/turn-06.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/turn-07.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/turn-08.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/turn-09.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/turn-10.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/turn-11.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/turn-12.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/turn-13.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/turn-14.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/turn-15.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/walk-00.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/walk-01.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/walk-02.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/walk-03.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/walk-04.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/walk-05.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/walk-06.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.3/captures/walk-07.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/behind-logs.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/camp-contours.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/day-overview.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/felled-stump-contour.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/forest-detail.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/ground-after.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/ground-before.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/in-front-of-logs.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/lake-contours.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/mesh--9223372009692461615.json" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/mesh--9223372009692461615.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/mesh-40314--9223372001488402798.json" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/mesh-40314--9223372001488402798.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/mesh-41337--9223372001454848366.json" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/mesh-41337--9223372001454848366.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/texture--9223372009742793265.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/texture-40314--9223372001572288881.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/texture-40314--9223372002478258571.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/texture-40314--9223372002545367437.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/texture-40314--9223372002612476465.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/texture-41337--9223372001538734449.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/texture-41337--9223372002444704139.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/texture-41337--9223372002511813005.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/texture-41337--9223372002578921873.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/tree-hit-00.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/tree-hit-01.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/tree-hit-02.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/tree-hit-03.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/workbench-back.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.7/captures/workbench-front.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.8/independent-solid-landmarks.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.8/captures/all-bank-stones.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.8/captures/complete-house-solid.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.8/captures/day-camp.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.8/captures/log-contact.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.8/captures/stone-gate.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.8/captures/texture-42665--9223372001068972397.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.8/captures/texture-42665--9223372002260154767.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.8/captures/texture-43007--9223372001068972397.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.8/captures/texture-43007--9223372002260154767.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.8/captures/world-paint-density.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.8/density-renders/meadow-after.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.8/density-renders/meadow-before.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.8/density-renders/paint-density-before-after.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.8/density-renders/paint-density-before-after.svg" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/all-model-contact-poses.json" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/app-icon-demos/rowan-icon-A-forest-green.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/app-icon-demos/rowan-icon-B-warm-closeup.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/app-icon-demos/rowan-icon-C-twilight-blue.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/captures/texture-45277--9223372001068972397.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/captures/texture-45277--9223372002260154767.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/captures/texture-45368--9223372000716650859.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/captures/texture-45368--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/captures/texture-45427--9223372000347552106.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/captures/texture-45427--9223372001538734476.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/captures/texture-45448--9223372000716650859.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/captures/texture-45448--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/captures/texture-45545--9223372000347552106.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/captures/texture-45545--9223372001538734476.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/captures/texture-45609--9223372000716650859.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/captures/texture-45609--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/captures/texture-45719--9223372000347552106.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/captures/texture-45719--9223372001538734476.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/captures/texture-45761--9223372000716650859.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/captures/texture-45761--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/captures/texture-45890--9223372000347552106.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/captures/texture-45890--9223372001538734476.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/captures/texture-45940--9223371978268735354.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/captures/texture-45940--9223371979459917724.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/captures/texture-45942--9223372000045562217.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/captures/texture-45942--9223372001236744587.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/captures/texture-46063--9223372000045562217.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/captures/texture-46063--9223372001236744587.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/contact-sheets/models-1.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/contact-sheets/models-2.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.5.9/contact-sheets/models-3.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/art/all-eight-directions-native.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/art/mip-qa/bear-mip0.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/art/mip-qa/deer-mip0.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/art/mip-qa/fox-mip0.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/art/mip-qa/rabbit-mip0.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/art/mip-qa/wolf-mip0.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-66862--9223372001001863538.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-66862--9223372001152858487.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-66862--9223372001219967353.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-66862--9223372001287076219.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-66862--9223372001354185085.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-66862--9223372001421293951.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-66862--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-66862--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-66862--9223372001840724361.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-66954--9223372001001863538.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-66954--9223372001152858487.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-66954--9223372001219967353.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-66954--9223372001287076219.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-66954--9223372001354185085.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-66954--9223372001421293951.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-66954--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-66954--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-66954--9223372001840724361.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67064--9223372001001863538.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67064--9223372001152858487.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67064--9223372001219967353.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67064--9223372001287076219.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67064--9223372001354185085.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67064--9223372001421293951.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67064--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67064--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67064--9223372001840724361.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67108--9223372001001863538.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67108--9223372001287076219.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67108--9223372001354185085.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67108--9223372001421293951.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67108--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67108--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67108--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67199--9223372000850868594.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67199--9223372001001863543.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67199--9223372001068972409.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67199--9223372001136081275.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67199--9223372001203190141.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67199--9223372001270299007.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67199--9223372001454848387.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67199--9223372001521957253.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67199--9223372001756838285.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67243--9223372001001863538.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67243--9223372001152858487.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67243--9223372001219967353.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67243--9223372001287076219.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67243--9223372001354185085.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67243--9223372001421293951.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67243--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67243--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67243--9223372001773615495.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67243--9223372001840724361.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67266--9223372000850868594.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67266--9223372001001863543.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67266--9223372001068972409.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67266--9223372001136081275.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67266--9223372001203190141.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67266--9223372001270299007.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67266--9223372001454848387.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67266--9223372001521957253.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/texture-67266--9223372001756838285.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/wildlife-day-demo.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/wildlife-day-natural.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/wildlife-walk-bear-0.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/wildlife-walk-bear-1.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/wildlife-walk-bear-2.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/wildlife-walk-bear-3.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/wildlife-walk-deer-0.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/wildlife-walk-deer-1.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/wildlife-walk-deer-2.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/wildlife-walk-deer-3.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/wildlife-walk-fox-0.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/wildlife-walk-fox-1.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/wildlife-walk-fox-2.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/wildlife-walk-fox-3.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/wildlife-walk-rabbit-0.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/wildlife-walk-rabbit-1.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/wildlife-walk-rabbit-2.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/wildlife-walk-rabbit-3.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/wildlife-walk-wolf-0.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/wildlife-walk-wolf-1.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/wildlife-walk-wolf-2.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/captures/wildlife-walk-wolf-3.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/MacOS/GodotRuntime" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/MacOS/GodotRuntime" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.1/art-revision/uv-proof-geometry.json" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.1/captures/before-dawn.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.1/captures/dawn.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.1/captures/noon.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.1/captures/texture-69196--9223371999743572332.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.1/captures/texture-69196--9223371999894567281.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.1/captures/texture-69196--9223371999961676147.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.1/captures/texture-69196--9223372000028785013.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.1/captures/texture-69196--9223372000095893879.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.1/captures/texture-69196--9223372000163002745.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.1/captures/texture-69196--9223372000347552125.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.1/captures/texture-69196--9223372000414660991.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.1/captures/texture-69196--9223372000582433155.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.1/captures/texture-69943--9223371999710017900.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.1/captures/texture-69943--9223371999861012849.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.1/captures/texture-69943--9223371999928121715.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.1/captures/texture-69943--9223371999995230581.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.1/captures/texture-69943--9223372000062339447.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.1/captures/texture-69943--9223372000129448313.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.1/captures/texture-69943--9223372000313997693.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.1/captures/texture-69943--9223372000381106559.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.1/captures/texture-69943--9223372000548878723.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.1/gait/gait-geometry.json" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.1/gait/sequential-locomotion.gif" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.1/previews/five-animal-cycle.gif" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/release-source.zip" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/work-in-progress-source.zip" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/before-dawn.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/dawn.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/noon.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-71993--9223371999743572332.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-71993--9223371999894567281.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-71993--9223371999961676147.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-71993--9223372000028785013.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-71993--9223372000095893879.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-71993--9223372000163002745.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-71993--9223372000347552125.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-71993--9223372000414660991.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-71993--9223372000649542023.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-71995--9223371999743572332.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-71995--9223371999894567281.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-71995--9223371999961676147.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-71995--9223372000028785013.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-71995--9223372000095893879.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-71995--9223372000163002745.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-71995--9223372000347552125.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-71995--9223372000414660991.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-71995--9223372000582433155.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-72621--9223371999743572332.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-72621--9223371999894567281.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-72621--9223371999961676147.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-72621--9223372000028785013.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-72621--9223372000095893879.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-72621--9223372000163002745.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-72621--9223372000347552125.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-72621--9223372000414660991.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-72621--9223372000649542023.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-72885--9223371999743572332.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-72885--9223371999894567281.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-72885--9223371999961676147.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-72885--9223372000028785013.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-72885--9223372000095893879.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-72885--9223372000163002745.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-72885--9223372000347552125.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-72885--9223372000414660991.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-72885--9223372000649542023.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73025--9223371999743572332.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73025--9223371999894567281.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73025--9223371999961676147.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73025--9223372000028785013.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73025--9223372000095893879.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73025--9223372000163002745.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73025--9223372000347552125.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73025--9223372000414660991.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73025--9223372000582433155.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73280--9223371999743572332.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73280--9223371999894567281.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73280--9223371999961676147.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73280--9223372000028785013.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73280--9223372000095893879.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73280--9223372000163002745.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73280--9223372000347552125.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73280--9223372000414660991.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73280--9223372000582433155.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73325--9223371999743572332.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73325--9223371999894567281.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73325--9223371999961676147.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73325--9223372000028785013.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73325--9223372000095893879.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73325--9223372000163002745.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73325--9223372000347552125.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73325--9223372000414660991.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/captures/texture-73325--9223372000649542023.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/MacOS/GodotRuntime" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/animal-skin-topology.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/gait-uv/independent_geometry/bear-1.json" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/gait-uv/independent_geometry/bear-2.json" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/gait-uv/independent_geometry/bear-3.json" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/gait-uv/independent_geometry/bear-5.json" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/gait-uv/independent_geometry/bear-6.json" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/gait-uv/independent_geometry/bear-7.json" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/gait-uv/independent_geometry/deer-2.json" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/gait-uv/independent_geometry/deer-6.json" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/gait-uv/independent_geometry/wolf-2.json" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/gait-uv/independent_geometry/wolf-6.json" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/previews/five-animal-cycle.gif" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.2/previews/original-paint-and-walk.gif" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/raw-assets-probe.pck" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/raw-export-fixture.pck" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/before-feedback/Forest Wanderer 0.1.6.3 - Web.zip" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/before-feedback/Forest Wanderer 0.1.6.3.html" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/before-feedback/web 2/game.pck" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/before-feedback/web 2/game.wasm" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/Forest Wanderer 0.1.6.3 - Web.zip" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/Forest Wanderer 0.1.6.3.html" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/assets/animal-skin-topology.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/web/game.pck" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/web/game.wasm" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/web-share/cover.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/site-source/cover-original.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/site-source/dist/cover.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/site-source/dist/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/site-source/dist/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/site-source/dist/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/site-source/dist/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/review-fixes/site-source/dist/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/site-source/cover-original.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/site-source/dist/cover.png" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/site-source/dist/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/site-source/dist/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/site-source/dist/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/site-source/dist/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/site-source/dist/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/site-source/dist/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/site-source/dist/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/site-source/dist/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/site-source/dist/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/site-source/dist/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/site-source/dist/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/site-source/dist/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/site-source/dist/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/site-source/dist/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/web-template-api/web_nothreads_release.zip" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/web-template-api/parallel/0" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/web-template-api/parallel/1" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/web-template-api/parallel/2" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/web-template-api/parallel/3" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/web-template-api/parallel/4" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/web-template-api/parallel/5" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/web-template-api/parallel/6" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/web-template-api/parallel/7" filter=lfs diff=lfs merge=lfs -text
+"tests/0.1.6.3/web-template-api/parallel/8" filter=lfs diff=lfs merge=lfs -text
+"tests/art-previews/001/oil-cartoon-scene.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/动物/0.1.6/originals/bear-native-generated.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/动物/0.1.6/originals/deer-native-generated.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/动物/0.1.6/originals/fox-native-generated.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/动物/0.1.6/originals/fox-southeast-repair-native-generated.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/动物/0.1.6/originals/rabbit-native-generated.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/动物/0.1.6/originals/wolf-native-generated.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/动物/0.1.6/production/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/动物/0.1.6/production/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/动物/0.1.6/production/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/动物/0.1.6/production/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/动物/0.1.6/production/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/动物/0.1.6.1/sequential-locomotion.gif" filter=lfs diff=lfs merge=lfs -text
+"素材整理/动物/0.1.6.2/animal-skin-topology.bin" filter=lfs diff=lfs merge=lfs -text
+"素材整理/动物/0.1.6.2/five-animal-cycle.gif" filter=lfs diff=lfs merge=lfs -text
+"素材整理/动物/0.1.6.2/original-paint-and-walk.gif" filter=lfs diff=lfs merge=lfs -text
+"素材整理/地形背景/草地_0.1.5.10/草地整图_2816x1920.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/地形背景/草地_0.1.5.10/分块原图/ne.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/地形背景/草地_0.1.5.10/分块原图/nw.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/地形背景/草地_0.1.5.10/分块原图/se.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/地形背景/草地_0.1.5.10/分块原图/sw.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/封面图标/Rowan正脸/A_森林绿底.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/封面图标/Rowan正脸/B_暖色近景.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/封面图标/Rowan正脸/C_暮色蓝底.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/封面图标/Rowan正脸/来源与设计/角色参考_正脸位于左上.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/角色动画/高清角色_0.1.5.10/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/角色动画/高清角色_0.1.5.10/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/角色动画/高清角色_0.1.5.10/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/角色动画/高清角色_0.1.5.10/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/角色动画/高清角色_0.1.5.10/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/角色动画/高清角色_0.1.5.10/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/角色动画/高清角色_0.1.5.10/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"问题报告/0.1.5.9.png" filter=lfs diff=lfs merge=lfs -text

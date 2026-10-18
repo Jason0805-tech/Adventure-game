@@ -1,0 +1,17 @@
+{
+	"checks": 3106,
+	"failures": [],
+	"passed": true,
+	"sizes": [
+		960,
+		1080,
+		1319,
+		1320,
+		1518,
+		1558,
+		1920
+	],
+	"source_hashes": {
+		"mobile_controls.gd": "412a4881d2f64c5299534d8a6d02730b19404f5442b75b8dc1e5101ff2b8348e"
+	}
+}

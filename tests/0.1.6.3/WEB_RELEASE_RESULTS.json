@@ -1,0 +1,32 @@
+{
+  "version": "0.1.6.3",
+  "release_path": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/output/adventure game 0.1.6.3",
+  "html": {
+    "file": "Forest Wanderer 0.1.6.3.html",
+    "bytes": 109225549,
+    "sha256": "0af510f7358b5fef5f68eea9869d365887820f35cf38b9c24c31539ed9b6749c",
+    "embedded_resources_match_export": true,
+    "actual_HTTP_browser": "GAME_READY 0.1.6.3, WebGL2 rendered, no browser runtime errors",
+    "file_protocol": "blocked by browser-tool URL policy; direct-doubleclick not claimed",
+    "physical_iPhone": "not tested"
+  },
+  "zip": {
+    "file": "Forest Wanderer 0.1.6.3 - Web.zip",
+    "bytes": 81656685,
+    "crc_test": "passed"
+  },
+  "local_preview": "http://192.168.1.166:8765/",
+  "public_deployment": {
+    "status": "not_published",
+    "site_id": "appgprj_6ad2dc3761bc81918b546e708b10733b",
+    "reason": "source helper stdin was rejected by automatic approval policy; sandbox_approval category disabled"
+  },
+  "default_cover": "This web release uses archived Rowan A following the user correction; map unlock system is still unimplemented",
+  "feedback_corrections": {
+    "cover": "Archived Rowan A restored to web launch cover and app icons",
+    "halo": "No daytime artificial light, no free player halo; night lamps and 5m torch remain",
+    "actual_QA": "review-fixes/QA_RESULTS.json",
+    "complete_day_night_cycle": "NIGHT_SURVIVED 1 observed",
+    "status": "tested_then_updated"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "file_bytes": 106615427,
+  "payload_checks": [
+    {
+      "name": "game.wasm",
+      "bytes": 39514754,
+      "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0",
+      "matches_export": true
+    },
+    {
+      "name": "game.pck",
+      "bytes": 72438584,
+      "sha256": "9ff7ca4ec311de5c2893317fb9c962d871a7d34036a335bb2f313cd259479395",
+      "matches_export": true
+    }
+  ],
+  "external_script_tags": 0,
+  "persistent_paths": [],
+  "browser_file_protocol_test": "not_permitted_by_browser_tool",
+  "physical_iPhone": "not_tested"
+}

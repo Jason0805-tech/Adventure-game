@@ -1,0 +1,39 @@
+Forest Wanderer 0.1.6.1 — lighting implementation / reproducible checks
+
+Source: output/adventure game 0.1.6.1/world_lighting.gd
+Native Canvas ArrayMesh, indexed triangles and smoothly interpolated vertex alpha.
+The 18-screen-pixel lighting grid changes illumination only. No source art is
+resized, downsampled or rewritten. Native 1100x720 mesh build measured 0.99 ms
+mean across 100 changing player positions on this machine, headless Godot.
+
+Scale: 32 world units = 1 metre. A torch has a 160-world-unit outer radius,
+bright centre to 60.8 units and a smooth falloff to darkness at five metres.
+No torch means 98% fog at midnight outside camp. At most a barely visible
+22-unit pool around one's boots prevents losing the player entirely; it reveals
+no ground at 25 units. Camp's safe radius160 remains visibly lit inside its
+205-unit soft campfire falloff. Torch item, crafting, fuel, toggling and visible
+hand prop are integrated in main.gd by the root agent.
+
+Lighting phase continuity:
+ dawn .36 darkness + .13 warmth -> clear noon0 -> evening .52 +.16warmth
+ -> 6-second dusk .95 -> midnight .98 -> final16seconds sunrise -> dawn .36.
+ Night result and next day's first frame use the same dawn values. The maximum
+ darkness change per1/60second over a complete day+dusk+night is .001792.
+ All animation/blink timing reads the paused simulation elapsed time.
+
+Eye glows are attached to actual wolf/bear entries and their authored native
+head landmarks. Gait.eye_offsets supplies exact body bob registration. Wolves
+are muted red; bears muted green. Rear views correctly show no eyes; side views
+show one. The effect fades when exposed by torch/camp illumination. It is limited
+to300world units, fades past235, and never invents animals in empty space.
+Active solid ground polygons block the sight segment; water does not. Elevated
+leaf canopies are not separate LOS walls, while the normal animal/body rendering
+still uses the game's depth layers. Blinks are staggered per UID.
+
+Checks:
+ test_lighting.gd: 2,794 checks, failures0. Covers phase boundaries, smoothness,
+ torch radius and monotonic field, fuel exhaustion, no free lantern, camp,
+ real-enemy-only eyes, colour, LOS, visibility distance, blink and mesh alphas.
+ test_native_lighting_draw.gd: draws actual main torch/night-eyes/dusk/dawn in
+ Godot Canvas to catch dynamic native argument mismatch and triangulation bugs.
+ Native logs and numerical checks are not a claimed manual GPU playthrough.

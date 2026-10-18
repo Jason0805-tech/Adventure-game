@@ -1,0 +1,24 @@
+ERROR: Could not create directory: '/Users/jasonsmacair/Library/Application Support/Godot/app_userdata/Forest Wanderer 0.1.6'.
+   at: make_dir_recursive (core/io/dir_access.cpp:179)
+ERROR: Error attempting to create data dir: /Users/jasonsmacair/Library/Application Support/Godot/app_userdata/Forest Wanderer 0.1.6.
+   at: ensure_user_data_dir (core/os/os.cpp:442)
+ERROR: Could not create directory: 'user://logs'.
+   at: make_dir_recursive (core/io/dir_access.cpp:179)
+ERROR: Failed to open log file for writing: user://logs/godot.log
+   at: rotate_file (core/io/logger.cpp:169)
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+GAME_READY 0.1.6
+ERROR: Dawn cannot grow a solid rock under the player's boots
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (res://../../tests/0.1.6/test_morning_contacts.gd:7)
+       [1] run (res://../../tests/0.1.6/test_morning_contacts.gd:31)
+ERROR: Dawn cannot grow a solid rock under animal paws
+   at: push_error (core/variant/variant_utility.cpp:1023)
+   GDScript backtrace (most recent call first):
+       [0] check (res://../../tests/0.1.6/test_morning_contacts.gd:7)
+       [1] run (res://../../tests/0.1.6/test_morning_contacts.gd:32)
+MORNING_CONTACT_CHECKS 5 failures=2

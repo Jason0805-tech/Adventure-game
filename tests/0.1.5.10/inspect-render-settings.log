@@ -1,0 +1,9 @@
+ERROR: Failed to open 'user://logs/godot2026-10-16T14.39.17.log'.
+   at: copy (core/io/dir_access.cpp:429)
+ERROR: Failed to open log file for writing: user://logs/godot.log
+   at: rotate_file (core/io/logger.cpp:169)
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+{"display/window/dpi/allow_hidpi":true,"display/window/size/viewport_height":720,"display/window/size/viewport_width":1100,"display/window/size/window_height_override":720,"display/window/size/window_width_override":1100,"display/window/stretch/aspect":"keep","display/window/stretch/mode":"canvas_items","display/window/stretch/scale":1.0,"display/window/stretch/scale_mode":"fractional","rendering/anti_aliasing/quality/msaa_2d":0,"rendering/anti_aliasing/quality/msaa_3d":0,"rendering/anti_aliasing/quality/screen_space_aa":0,"rendering/anti_aliasing/quality/smaa_edge_detection_threshold":0.05,"rendering/anti_aliasing/quality/use_debanding":false,"rendering/anti_aliasing/quality/use_taa":false,"rendering/anti_aliasing/screen_space_roughness_limiter/amount":0.25,"rendering/anti_aliasing/screen_space_roughness_limiter/enabled":true,"rendering/anti_aliasing/screen_space_roughness_limiter/limit":0.18,"rendering/textures/canvas_textures/default_texture_filter":1,"rendering/textures/default_filters/use_nearest_mipmap_filter":{"exists":true,"value":false}}

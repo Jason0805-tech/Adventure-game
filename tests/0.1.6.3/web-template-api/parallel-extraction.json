@@ -1,0 +1,11 @@
+{
+  "official_asset": "https://api.github.com/repos/godotengine/godot-builds/releases/assets/519674520",
+  "compressed_range": [
+    1053533838,
+    1063755633
+  ],
+  "member_bytes": 10245903,
+  "sha256": "d3ee2f08cef0cf3cf6678a6355a92a8db48ccdd35cbd2e8bfd5f0e8a0b4032a0",
+  "crc32": "795d38e9",
+  "elapsed": 236.95173597335815
+}

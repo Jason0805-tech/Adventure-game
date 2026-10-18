@@ -1,0 +1,335 @@
+
+func selected_item()->Dictionary:
+ return bag.item_by_uid(hotbar[active_hotbar])
+func sanitize_hotbar()->void:
+ for i in range(6):
+  if bag.index_of_uid(hotbar[i])<0:hotbar[i]=-1
+func bind_hotbar(uid:int,slot:int)->bool:
+ var item:Dictionary=bag.item_by_uid(uid)
+ if item.is_empty() or slot<0 or slot>=6:return false
+ if Data.info(item.id).category=="material":
+  notify("Materials stay in the backpack. Equip a tool, food or workbench.");return false
+ for i in range(6):
+  if hotbar[i]==uid:hotbar[i]=-1
+ hotbar[slot]=uid;active_hotbar=slot;cancel_action()
+ return true
+func auto_equip(uid:int)->void:
+ for i in range(6):
+  if hotbar[i]<0:bind_hotbar(uid,i);return
+ bind_hotbar(uid,active_hotbar)
+func give_item(id:String,quantity:int,at:Vector2=Vector2.ZERO)->int:
+ var added:int=bag.add(id,quantity)
+ if added<quantity:
+  var point:Vector2=player+Vector2(19,12) if at==Vector2.ZERO else at
+  items.append({"pos":point,"kind":id,"taken":false,"variant":0,"dropped":true,"qty":quantity-added})
+ sanitize_hotbar()
+ return added
+func tree_live(p:Vector2)->bool:
+ return not bool(tree_states.get(p,{}).get("felled",false))
+func rebuild_obstacles()->void:
+ obstacles=[cabin,Rect2(gate+Vector2(-57,-19),Vector2(29,49)),Rect2(gate+Vector2(29,-19),Vector2(29,49))]
+ for prop in props:obstacles.append(prop.rect)
+ for p in trees:
+  if tree_live(p):obstacles.append(Rect2(p-Vector2(16,13),Vector2(32,21)))
+ for p in shrubs:obstacles.append(Rect2(p-Vector2(19,13),Vector2(38,23)))
+ for bench in workbenches:obstacles.append(Rect2(bench.p-Vector2(39,21),Vector2(78,28)))
+ for vein in ore_veins:
+  if not vein.depleted:obstacles.append(Rect2(vein.p-Vector2(21,13),Vector2(42,22)))
+func setup_features_world()->void:
+ tree_states.clear();ore_veins.clear()
+ for p in trees:tree_states[p]={"hp":3,"felled":false,"shake":0.0}
+ workbenches=[{"uid":1,"p":Vector2(620,704)}];next_bench_uid=2
+ rebuild_obstacles()
+ var rng=RandomNumberGenerator.new();rng.seed=154
+ for center in [Vector2(805,630),Vector2(1430,615),Vector2(660,1080),Vector2(1880,1110)]:
+  for attempt in range(80):
+   var p:Vector2=center+Vector2(rng.randf_range(-115,115),rng.randf_range(-100,100))
+   if not static_walkable(p) or not static_walkable(p+Vector2(0,38)):continue
+   var close:bool=false
+   for vein in ore_veins:
+    if p.distance_to(vein.p)<130:close=true
+   if close:continue
+   ore_veins.append({"p":p,"hp":3,"depleted":false,"variant":ore_veins.size()%2})
+   break
+ rebuild_obstacles()
+ setup_npcs();rebuild_navigation()
+func static_walkable(p:Vector2)->bool:
+ if p.x<32 or p.y<40 or p.x>WORLD.x-32 or p.y>WORLD.y-32:return false
+ var feet:Rect2=feet_rect(p)
+ for rect in obstacles:
+  if feet.intersects(rect):return false
+ for item in items:
+  if not item.taken and not item.get("dropped",false) and item.kind!="rope" and feet.intersects(resource_rect(item)):return false
+ var polygon:PackedVector2Array=rect_polygon(feet)
+ for water in pond_colliders:
+  if not Geometry2D.intersect_polygons(polygon,water).is_empty():return false
+ return true
+func setup_npcs()->void:
+ npc_home=CAMP;npc_position=npc_scout
+ npc_states={
+ "Rowan":{"p":npc_home,"facing":Vector2.DOWN,"moving":false,"walk":0.0,"speed":30.0,
+  "route":[CAMP,Vector2(570,802),Vector2(686,765),Vector2(510,824)],"waypoint":1,"path":PackedVector2Array(),"cursor":0,"replan":0.0,"wait":1.0},
+ "Ash":{"p":npc_position,"facing":Vector2.LEFT,"moving":false,"walk":0.0,"speed":43.0,
+  "route":[npc_scout,Vector2(1180,970),Vector2(1330,1080),Vector2(1460,970),Vector2(1340,870)],
+  "waypoint":1,"path":PackedVector2Array(),"cursor":0,"replan":0.0,"wait":0.3}}
+func rebuild_navigation()->void:
+ nav_grid=AStarGrid2D.new()
+ nav_grid.region=Rect2i(0,0,69,47);nav_grid.cell_size=Vector2(32,32);nav_grid.offset=Vector2(16,16)
+ nav_grid.diagonal_mode=AStarGrid2D.DIAGONAL_MODE_ONLY_IF_NO_OBSTACLES
+ nav_grid.update()
+ for y in range(47):
+  for x in range(69):
+   var id:Vector2i=Vector2i(x,y)
+   nav_grid.set_point_solid(id,not static_walkable(nav_grid.get_point_position(id)))
+ nav_revision+=1
+ for name in npc_states:npc_states[name].replan=0.0
+func nav_cell(p:Vector2)->Vector2i:
+ var base:Vector2i=Vector2i(int(p.x/32),int(p.y/32))
+ var nearest:Vector2i=Vector2i(-1,-1)
+ var distance:float=INF
+ for dy in range(-3,4):
+  for dx in range(-3,4):
+   var id:Vector2i=base+Vector2i(dx,dy)
+   if not nav_grid.region.has_point(id) or nav_grid.is_point_solid(id):continue
+   var d:float=p.distance_squared_to(nav_grid.get_point_position(id))
+   if d<distance:distance=d;nearest=id
+ return nearest
+func npc_walkable(p:Vector2,name:String)->bool:
+ if not static_walkable(p) or feet_rect(p).intersects(feet_rect(player)):return false
+ for other in npc_states:
+  if other!=name and feet_rect(p).intersects(feet_rect(npc_states[other].p)):return false
+ return true
+func update_npcs(dt:float)->void:
+ if phase!="day" or paused:return
+ for name in npc_states:
+  var npc:Dictionary=npc_states[name]
+  npc.moving=false
+  if not dialog.is_empty() and str(dialog).begins_with(name):
+   npc.facing=(player-npc.p).normalized();continue
+  npc.wait=maxf(0,float(npc.wait)-dt)
+  if npc.wait>0:continue
+  npc.replan-=dt
+  var goal:Vector2=npc.route[int(npc.waypoint)]
+  if npc.p.distance_to(goal)<26:
+   npc.waypoint=(int(npc.waypoint)+1)%npc.route.size();npc.wait=1.0
+   npc.path=PackedVector2Array();npc.replan=0.0;continue
+  if npc.replan<=0:
+   var from:Vector2i=nav_cell(npc.p);var to:Vector2i=nav_cell(goal)
+   npc.path=nav_grid.get_point_path(from,to) if from.x>=0 and to.x>=0 else PackedVector2Array()
+   npc.cursor=0;npc.replan=1.4
+  var path:PackedVector2Array=npc.path
+  while int(npc.cursor)<path.size() and npc.p.distance_to(path[int(npc.cursor)])<4:npc.cursor+=1
+  if int(npc.cursor)>=path.size():continue
+  var target:Vector2=path[int(npc.cursor)]
+  var delta:Vector2=target-npc.p
+  var step:Vector2=delta.normalized()*minf(delta.length(),float(npc.speed)*dt)
+  var previous:Vector2=npc.p
+  if npc_walkable(npc.p+step,name):npc.p+=step
+  elif npc_walkable(npc.p+Vector2(step.x,0),name):npc.p.x+=step.x
+  elif npc_walkable(npc.p+Vector2(0,step.y),name):npc.p.y+=step.y
+  var distance:float=npc.p.distance_to(previous)
+  if distance>0.01:
+   npc.moving=true;npc.walk=fposmod(float(npc.walk)+distance,WALK_STRIDE)
+   var angle:float=lerp_angle(atan2(npc.facing.x,npc.facing.y),atan2(delta.x,delta.y),1.0-exp(-dt*10.0))
+   npc.facing=Vector2(sin(angle),cos(angle))
+  else:
+   npc.replan=minf(float(npc.replan),0.2)
+ npc_home=npc_states.Rowan.p;npc_position=npc_states.Ash.p
+func nearby_bench()->int:
+ var best:float=92.0;var uid:int=-1
+ for bench in workbenches:
+  var distance:float=player.distance_to(bench.p)
+  if distance<best and target_line_clear(bench.p):best=distance;uid=int(bench.uid)
+ return uid
+func bench_available()->bool:
+ if crafting_station<0:return false
+ for bench in workbenches:
+  if int(bench.uid)==crafting_station:return player.distance_to(bench.p)<96 and target_line_clear(bench.p)
+ return false
+func visible_recipes()->Array[int]:
+ var result:Array[int]=[]
+ for i in range(Data.RECIPES.size()):
+  if not Data.RECIPES[i].bench or bench_available():result.append(i)
+ return result
+func repair_held()->void:
+ var item:Dictionary=selected_item()
+ if nearby_bench()<0:notify("Repairs need a nearby workbench.");return
+ if item.is_empty() or not item.has("durability"):notify("Equip the tool you want to repair.");return
+ if bag.repair(int(item.uid),Data.REPAIR_COST):notify("Repaired "+Data.label(item.id)+".")
+ else:notify("Repair needs 2 branches, 1 rock and 1 fiber, or the tool is already sound.")
+func place_point()->Vector2:return player+facing.normalized()*80
+func can_place_bench(p:Vector2)->bool:
+ var rect:Rect2=Rect2(p-Vector2(39,21),Vector2(78,28))
+ if p.x<70 or p.y<100 or p.x>WORLD.x-70 or p.y>WORLD.y-50:return false
+ for solid in obstacles:
+  if rect.grow(7).intersects(solid):return false
+ for item in items:
+  if not item.taken and not item.get("dropped",false) and rect.intersects(resource_rect(item)):return false
+ for npc in [player,npc_home,npc_position]:
+  if rect.intersects(feet_rect(npc)):return false
+ for water in pond_colliders:
+  if not Geometry2D.intersect_polygons(rect_polygon(rect.grow(7)),water).is_empty():return false
+ return true
+func place_workbench()->bool:
+ var item:Dictionary=selected_item();var p:Vector2=place_point()
+ if item.get("id","")!="workbench" or not can_place_bench(p):notify("Choose clear ground in front of you for the workbench.");return false
+ bag.remove_uid(int(item.uid),1);sanitize_hotbar()
+ workbenches.append({"p":p,"uid":next_bench_uid});next_bench_uid+=1
+ rebuild_obstacles();rebuild_navigation()
+ notify("Workbench placed. Move close and press E to craft.")
+ return true
+func nearest_water()->Dictionary:
+ var result:Dictionary={};var best:float=90.0
+ for i in range(pond_colliders.size()):
+  var polygon:PackedVector2Array=pond_colliders[i]
+  for k in range(polygon.size()):
+   var edge:Vector2=Geometry2D.get_closest_point_to_segment(player,polygon[k],polygon[(k+1)%polygon.size()])
+   var distance:float=player.distance_to(edge)
+   if distance<best and target_line_clear(edge):
+    best=distance;result={"kind":"water","index":i,"pos":edge,"cast":edge+(edge-player).normalized()*29}
+ return result
+func target_is_valid(target:Dictionary)->bool:
+ if phase!="day" or target.is_empty() or player.distance_to(target.pos)>92 or not target_line_clear(target.pos):return false
+ match target.kind:
+  "tree":return tree_states.has(target.pos) and tree_live(target.pos)
+  "ore":return int(target.index)<ore_veins.size() and not ore_veins[int(target.index)].depleted
+  "water":return not nearest_water().is_empty()
+  "swing":return true
+ return false
+func cancel_action()->void:action.clear()
+func begin_action(target:Dictionary)->bool:
+ if not action.is_empty() or phase!="day" or interaction_cooldown>0:return false
+ var item:Dictionary=selected_item()
+ if item.is_empty() or not bag.usable(int(item.uid)):notify("Equip a usable tool in slots 1-6. Repair broken tools at a workbench.");return false
+ var type:String=str(Data.info(item.id).get("tool",""))
+ var required:String={"tree":"axe","ore":"pick","water":"rod"}.get(target.get("kind",""),"")
+ if not required.is_empty() and type!=required:
+  notify({"axe":"Equip an axe to chop this tree.","pick":"Equip a pickaxe to mine iron ore.","rod":"Equip a fishing rod beside water."}[required]);return false
+ if not target_is_valid(target):return false
+ facing=(target.pos-player).normalized() if target.kind!="swing" else facing
+ action={"target":target.duplicate(true),"uid":int(item.uid),"id":item.id,"elapsed":0.0,"duration":2.0 if target.kind=="water" else 0.8,"hit":false}
+ return true
+func action_frame()->int:
+ if action.is_empty():return 0
+ var t:float=float(action.elapsed)/float(action.duration)
+ if action.target.kind=="water":
+  if t<0.3:return mini(3,int(t/0.3*4))
+  if t<0.88:return 3
+  return mini(5,4+int((t-0.88)/0.12*2))
+ return mini(5,int(t*6))
+func commit_action()->void:
+ if action.is_empty() or action.hit:return
+ var target:Dictionary=action.target;var uid:int=int(action.uid)
+ if not target_is_valid(target) or not bag.usable(uid):cancel_action();return
+ action.hit=true
+ if target.kind=="swing":return
+ bag.damage(uid,1)
+ var spec:Dictionary=Data.info(action.id)
+ match target.kind:
+  "tree":
+   var state:Dictionary=tree_states[target.pos]
+   state.hp-=int(spec.get("strength",1));state.shake=0.3
+   harvest_effects.append({"p":target.pos,"age":0.0,"kind":"wood"})
+   if state.hp<=0:
+    state.felled=true
+    give_item("log",4,target.pos+Vector2(-12,9));give_item("branch",2,target.pos+Vector2(14,13))
+    rebuild_obstacles();rebuild_navigation();notify("Tree felled: 4 logs + 2 branches. Extra loot stays on the ground.")
+  "ore":
+   var vein:Dictionary=ore_veins[int(target.index)]
+   vein.hp-=int(spec.get("strength",1))
+   harvest_effects.append({"p":target.pos,"age":0.0,"kind":"stone"})
+   if vein.hp<=0:
+    vein.depleted=true
+    give_item("ore",3,target.pos+Vector2(-10,9));give_item("rock",2,target.pos+Vector2(15,12))
+    rebuild_obstacles();rebuild_navigation();notify("Mined: 3 iron ore + 2 rocks.")
+  "water":
+   var before:int=bag.count("fish")
+   give_item("fish",1,player+Vector2(18,11))
+   if before==0 and bag.count("fish")>0:
+    var i:int=bag.first("fish")
+    for slot in range(6):
+     if hotbar[slot]<0:hotbar[slot]=int(bag.slots[i].uid);break
+   notify("Caught a fish! Equip it and use to restore 25 fullness.")
+ if not bag.usable(uid):notify(Data.label(action.id)+" broke. Repair it at a workbench.")
+func update_action(dt:float)->void:
+ interaction_cooldown=maxf(0,interaction_cooldown-dt)
+ for p in tree_states:tree_states[p].shake=maxf(0,float(tree_states[p].shake)-dt)
+ for effect in harvest_effects:effect.age+=dt
+ harvest_effects=harvest_effects.filter(func(e):return e.age<0.65)
+ if action.is_empty():return
+ if phase!="day" or inventory or crafting or not dialog.is_empty():cancel_action();return
+ if selected_item().get("uid",-1)!=action.uid or not target_is_valid(action.target):
+  if not action.hit:cancel_action();return
+ action.elapsed+=dt
+ var trigger:float=0.99 if action.target.kind=="water" else 0.62
+ if not action.hit and float(action.elapsed)>=float(action.duration)*trigger:commit_action()
+ if not action.is_empty() and float(action.elapsed)>=float(action.duration):
+  action.clear();interaction_cooldown=0.12
+func use_selected()->void:
+ if phase!="day" or paused or inventory or crafting or not dialog.is_empty():return
+ var item:Dictionary=selected_item()
+ if item.is_empty():interact();return
+ if item.id=="workbench":place_workbench();return
+ if item.id=="fish":
+  if fullness>=100:notify("You are already well fed.");return
+  bag.remove_uid(int(item.uid));fullness=mini(100,fullness+25);sanitize_hotbar();notify("Ate fish. Fullness +25.");return
+ if item.id=="medicine":use_medicine();return
+ if item.id=="crystal":notify("Magic stones protect you automatically at night.");return
+ var target:Dictionary=nearest_target(true)
+ if target.is_empty():target={"kind":"swing","pos":player+facing*35}
+ begin_action(target)
+func item_icon(id:String)->Texture2D:
+ var spec:Dictionary=Data.info(id)
+ if spec.is_empty():return null
+ var index:int=int(spec.icon)
+ match spec.family:
+  "utility":return utility_icons[index] if index<utility_icons.size() else null
+  "equipment":return equipment_art[index] if index<equipment_art.size() else null
+  "resource":return resource_art[index] if index<resource_art.size() else null
+ return null
+func draw_item_icon(id:String,rect:Rect2,opacity:float=1.0)->void:
+ var texture:Texture2D=item_icon(id)
+ if texture!=null:draw_texture_rect(texture,rect,false,Color(1,1,1,opacity))
+func npc_direction(direction:Vector2)->int:
+ var angle:float=fposmod(rad_to_deg(atan2(direction.x,direction.y)),360)
+ return int(round(angle/45.0))%8
+func draw_npc(p:Vector2,name:String)->void:
+ if not npc_states.has(name) or not npc_atlases.has(name):return
+ var npc:Dictionary=npc_states[name]
+ var frame:int=int(float(npc.walk)/WALK_STRIDE*8)%8 if npc.moving else 8
+ var direction:int=npc_direction(npc.facing)
+ var source:Rect2=Rect2(Vector2(direction*96,frame*160),AVATAR_CELL)
+ var rect:Rect2=Rect2(p-AVATAR_ANCHOR*AVATAR_SCALE,AVATAR_CELL*AVATAR_SCALE)
+ draw_texture_rect_region(npc_atlases[name],rect,source)
+ if name=="Rowan" and rowan_lantern!=null:draw_texture_rect_region(rowan_lantern,rect,source)
+ label_at(p+Vector2(-24,-83),name,16,Color("304c3c"))
+func draw_action_effects()->void:
+ for effect in harvest_effects:
+  for i in range(6):
+   var t:float=float(effect.age)
+   var p:Vector2=effect.p+Vector2((i-2.5)*t*39,-sin(t*PI/0.65)*20+t*17)
+   var color:Color=Color("b58243") if effect.kind=="wood" else Color("829699")
+   draw_colored_polygon(PackedVector2Array([p+Vector2(-2,-1),p+Vector2(2,-2),p+Vector2(3,1),p+Vector2(-1,2)]),Color(color,1-t/0.65))
+ if not action.is_empty() and action.target.kind=="water":
+  var direction:int=avatar_direction(facing);var frame:int=action_frame()
+  var meta:Dictionary=use_metadata.get("%d_%d"%[direction,frame],{})
+  var point:Vector2=player+Vector2(8,-48)
+  if meta.has("rod_tip"):point=player+(Vector2(meta.rod_tip[0],meta.rod_tip[1])-USE_ANCHOR)*AVATAR_SCALE
+  var cast:Vector2=action.target.cast+Vector2(0,sin(elapsed*3)*1.2)
+  draw_line(point,cast,Color("d4caa0"),1.2,true)
+  draw_circle(cast,3.0,Color("c16d49"));draw_circle(cast+Vector2(0,-1.5),1.5,Color("e9d7a7"))
+ if not action.is_empty():
+  var t:float=clampf(float(action.elapsed)/float(action.duration),0,1)
+  var rect:Rect2=Rect2(player+Vector2(-32,-106),Vector2(64,6))
+  draw_rect(rect,Color(0.2,0.3,0.22,0.8))
+  draw_rect(Rect2(rect.position,Vector2(64*t,6)),Color("dec17a"))
+func target_prompt(target:Dictionary)->String:
+ match target.kind:
+  "guide","scout":return "E  Talk"
+  "gate":return "E  Open gate"
+  "bench":return "E  Workbench"
+  "tree":return "E / Hold  Chop tree (axe)" if not action.is_empty() else "Hold E  Chop tree - axe required"
+  "ore":return "Hold E  Mine ore - pickaxe required"
+  "water":return "Hold E  Fish"
+  "item":return "E  "+("Eat berries" if items[int(target.index)].kind=="berry" else "Take "+item_name(items[int(target.index)].kind))
+ return ""

@@ -1,0 +1,18 @@
+{
+	"actual_native_draw_calls": 0,
+	"elapsed_ms": 8991,
+	"frames": 0,
+	"indexed_triangle_checks": 4139553,
+	"invalid": 0,
+	"method": "Actual release main.gd native Canvas queued redraws with original native UV texture; staged independent rendering coverage, not a manual GPU playthrough.",
+	"mode": "fast-geometry",
+	"native_draw_command_max_ms": 0.0,
+	"native_draw_command_mean_ms": 0.0,
+	"native_edge_bridge_quads": 69034,
+	"native_edge_bridge_triangles": 138068,
+	"native_uv_mesh_checks": 1320,
+	"native_vertex_checks": 2588817,
+	"painted_triangle_checks": 1793649,
+	"pose_draws": 0,
+	"queued_redraw_cycle_mean_ms": 0.0
+}

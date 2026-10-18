@@ -1,0 +1,147 @@
+{
+	"bear": {
+		"levels": [
+			{
+				"bytes": 18874368,
+				"height": 1536,
+				"level": 0,
+				"width": 3072
+			},
+			{
+				"bytes": 4718592,
+				"height": 768,
+				"level": 1,
+				"width": 1536
+			},
+			{
+				"bytes": 1179648,
+				"height": 384,
+				"level": 2,
+				"width": 768
+			},
+			{
+				"bytes": 294912,
+				"height": 192,
+				"level": 3,
+				"width": 384
+			}
+		],
+		"mip_count": 11
+	},
+	"deer": {
+		"levels": [
+			{
+				"bytes": 18874368,
+				"height": 1536,
+				"level": 0,
+				"width": 3072
+			},
+			{
+				"bytes": 4718592,
+				"height": 768,
+				"level": 1,
+				"width": 1536
+			},
+			{
+				"bytes": 1179648,
+				"height": 384,
+				"level": 2,
+				"width": 768
+			},
+			{
+				"bytes": 294912,
+				"height": 192,
+				"level": 3,
+				"width": 384
+			}
+		],
+		"mip_count": 11
+	},
+	"fox": {
+		"levels": [
+			{
+				"bytes": 18874368,
+				"height": 1536,
+				"level": 0,
+				"width": 3072
+			},
+			{
+				"bytes": 4718592,
+				"height": 768,
+				"level": 1,
+				"width": 1536
+			},
+			{
+				"bytes": 1179648,
+				"height": 384,
+				"level": 2,
+				"width": 768
+			},
+			{
+				"bytes": 294912,
+				"height": 192,
+				"level": 3,
+				"width": 384
+			}
+		],
+		"mip_count": 11
+	},
+	"rabbit": {
+		"levels": [
+			{
+				"bytes": 18874368,
+				"height": 1536,
+				"level": 0,
+				"width": 3072
+			},
+			{
+				"bytes": 4718592,
+				"height": 768,
+				"level": 1,
+				"width": 1536
+			},
+			{
+				"bytes": 1179648,
+				"height": 384,
+				"level": 2,
+				"width": 768
+			},
+			{
+				"bytes": 294912,
+				"height": 192,
+				"level": 3,
+				"width": 384
+			}
+		],
+		"mip_count": 11
+	},
+	"wolf": {
+		"levels": [
+			{
+				"bytes": 18874368,
+				"height": 1536,
+				"level": 0,
+				"width": 3072
+			},
+			{
+				"bytes": 4718592,
+				"height": 768,
+				"level": 1,
+				"width": 1536
+			},
+			{
+				"bytes": 1179648,
+				"height": 384,
+				"level": 2,
+				"width": 768
+			},
+			{
+				"bytes": 294912,
+				"height": 192,
+				"level": 3,
+				"width": 384
+			}
+		],
+		"mip_count": 11
+	}
+}

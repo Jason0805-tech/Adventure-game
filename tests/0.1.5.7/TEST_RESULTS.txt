@@ -1,0 +1,23 @@
+FOREST WANDERER 0.1.5.7 VALIDATION (2026-10-14 to 2026-10-15)
+
+PASS: Individually authored 45 sprite profiles / 57 polygons / 946 vertices. All UVs, areas and non-self-intersecting contours verified against exact runtime sprite crops.
+PASS: 5,562 world assertions, covering 157 instantiated solid bodies, transformed and mirrored contours, collision/depth agreement, tree stumps, depleted ore, workbench placement and actual shorelines. This includes 224 cardinal long-frame player/NPC traversal cases.
+PASS: 34 independent geometry cases: concavity, edge-only crossings, containment, touching boundaries, segments and rounded boot shapes.
+PASS: All 27 crafting/harvesting/backpack/tool/NPC feature smoke checks.
+PASS: 10 pacing checks retain 108-unit movement and 180-second daylight.
+PASS: 120 actual tree paint-call samples keep the same texture, dimensions, tint, mirror and root while sway changes.
+PASS: Local navigation refresh after collection: 30 nearby cells checked, 5,696 distant cells unchanged, next-day item/body indices remain aligned.
+PASS: Ground brush layer has a fixed seed, one static mesh and no per-frame regeneration.
+PASS: Packaged app launched headlessly from /tmp and printed GAME_READY 0.1.5.7, exit code 0. Clean staging signature strictly verified and installed bundle signature verified. 51 packaged runtime source/art files match the release by SHA-256.
+
+VISUAL CHECKS
+13 scenario captures use the actual runtime assets and recorded Canvas commands, replayed in software. Ground mesh vertex colours are approximated by each triangle's mean; these PNGs are not native GPU screenshots. Camp contours, front/behind logs, workbench front/back, tree-hit frames, stumps, water and forest detail were reviewed. Source-sprite overlay sheets separately show every authored contour.
+
+NATIVE WINDOW CHECK
+The packaged app was also opened through Computer Use and rendered its real scene on Apple OpenGL/Metal. A brief input test observed player movement up to the stacked-log footprint, displayed the polygon debug overlay, and observed Rowan walking. This is a partial native UI smoke test; the entire three-night game and every harvesting action were not manually played through.
+
+HEADLESS ENVIRONMENT NOTES
+Shell sandbox restrictions produced Godot user-log rotation and macOS certificate-discovery messages. Checks and startup still succeeded; the native app log reached GAME_READY without these directory-access messages.
+
+FILES
+features.log, pacing.log, geometry-results.log, collision-world-results.log, navigation-refresh.log, captures.log, scene-render.log, package.log, app-startup.log, bundle-manifest.json.

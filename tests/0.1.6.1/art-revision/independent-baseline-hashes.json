@@ -1,0 +1,15 @@
+{
+  "wildlife.gd": "6431434db0f7d6e88b57b7fdd1abf92021fda67d74741a6b60cf8d198b42ac92",
+  "wildlife_data.gd": "dcfbb73c59d3cb99b358ad926b08681db3fde76a316b41f471050f55cde4eb9a",
+  "npc_roaming.gd": "47daab7f50ecfd255f4388350f47a66baac3b81091f605b9883cdcd8f43d199e",
+  "world_geometry.gd": "90bd1d12624f2ef9260fbc5cbf5b0755158da6116d2685cfa8878b9720d58fca",
+  "inventory.gd": "f0b840f445e2359555b3c85e527750a42b5acc338860b19dfb83bc8b2fef0678",
+  "item_data.gd": "695cd4cf0c7ce7e9c30a16c8a728505170cdee50d3d7a1da832755098286a89c",
+  "world_lighting.gd": "808435832cfd275ee1fe93b8151d8021628af71ea15a3a18c3568cbcdd1cb7df",
+  "assets/wildlife-rabbit.png": "5a3df266c08c2ca1340afb95b52c51c7b8c533190b18ab7d4213be0e6aa33fa5",
+  "assets/wildlife-deer.png": "c3648d4a81e160118366f8f011b6539d27959f159910f1fa651a10de3baac638",
+  "assets/wildlife-fox.png": "8454647a49e8d85e088c2062398919fc7dea452e3782bed698959a3398e4ac97",
+  "assets/wildlife-wolf.png": "86e4fe6489b65678872644d1b9734e43820ffe7ec469eb8e6df32a961d9f50dd",
+  "assets/wildlife-bear.png": "224baa111faf6d99649dc04cd3be5f12c262780018903f1db36eb4658cb5e952",
+  "collision_profiles.json": "378504470b20f7704b64e3cbe4046fb2adf6464a9a183ada6e6fac6222e70c93"
+}

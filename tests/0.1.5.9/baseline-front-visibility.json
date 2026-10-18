@@ -1,0 +1,261 @@
+{
+	"baseline": true,
+	"checks": 21,
+	"failures": 10,
+	"method": "21 actual northward player movement routes along cabin frontage; original avatar alpha samples replayed through actual ordered Canvas texture commands. At a legal front contact, head and torso must survive the complete facade/ground vegetation paint.",
+	"results": [
+		{
+			"label": "cabin-front-250",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				250.0,
+				667.10595703125
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"label": "cabin-front-260",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				260.0,
+				671.600830078125
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"label": "cabin-front-270",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				270.0,
+				671.600830078125
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"label": "cabin-front-280",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				280.0,
+				670.1025390625
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"label": "cabin-front-290",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				290.0,
+				665.607666015625
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"label": "cabin-front-300",
+			"mean_surviving_opacity": 0.00929110050201416,
+			"minimum_surviving_opacity": 0.00784313678741455,
+			"opaque_avatar_samples": 130,
+			"pass": false,
+			"player": [
+				300.0,
+				592.19140625
+			],
+			"samples_losing_over_25_percent_alpha": 130
+		},
+		{
+			"label": "cabin-front-310",
+			"mean_surviving_opacity": 0.00941176414489746,
+			"minimum_surviving_opacity": 0.00784313678741455,
+			"opaque_avatar_samples": 130,
+			"pass": false,
+			"player": [
+				310.0,
+				595.18798828125
+			],
+			"samples_losing_over_25_percent_alpha": 130
+		},
+		{
+			"label": "cabin-front-320",
+			"mean_surviving_opacity": 0.00962292551994324,
+			"minimum_surviving_opacity": 0.00784313678741455,
+			"opaque_avatar_samples": 130,
+			"pass": false,
+			"player": [
+				320.0,
+				605.676025390625
+			],
+			"samples_losing_over_25_percent_alpha": 130
+		},
+		{
+			"label": "cabin-front-330",
+			"mean_surviving_opacity": 0.00941176414489746,
+			"minimum_surviving_opacity": 0.00784313678741455,
+			"opaque_avatar_samples": 130,
+			"pass": false,
+			"player": [
+				330.0,
+				610.1708984375
+			],
+			"samples_losing_over_25_percent_alpha": 130
+		},
+		{
+			"label": "cabin-front-340",
+			"mean_surviving_opacity": 0.00944193005561829,
+			"minimum_surviving_opacity": 0.00784313678741455,
+			"opaque_avatar_samples": 130,
+			"pass": false,
+			"player": [
+				340.0,
+				614.665771484375
+			],
+			"samples_losing_over_25_percent_alpha": 130
+		},
+		{
+			"label": "cabin-front-350",
+			"mean_surviving_opacity": 0.00920060276985168,
+			"minimum_surviving_opacity": 0.00784313678741455,
+			"opaque_avatar_samples": 130,
+			"pass": false,
+			"player": [
+				350.0,
+				614.665771484375
+			],
+			"samples_losing_over_25_percent_alpha": 130
+		},
+		{
+			"label": "cabin-front-360",
+			"mean_surviving_opacity": 0.00886877775192261,
+			"minimum_surviving_opacity": 0.00784313678741455,
+			"opaque_avatar_samples": 130,
+			"pass": false,
+			"player": [
+				360.0,
+				614.665771484375
+			],
+			"samples_losing_over_25_percent_alpha": 130
+		},
+		{
+			"label": "cabin-front-370",
+			"mean_surviving_opacity": 0.00871794819831848,
+			"minimum_surviving_opacity": 0.00784313678741455,
+			"opaque_avatar_samples": 130,
+			"pass": false,
+			"player": [
+				370.0,
+				613.16748046875
+			],
+			"samples_losing_over_25_percent_alpha": 130
+		},
+		{
+			"label": "cabin-front-380",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				380.0,
+				628.150390625
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"label": "cabin-front-390",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				390.0,
+				632.645263671875
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"label": "cabin-front-400",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				400.0,
+				635.641845703125
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"label": "cabin-front-410",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				410.0,
+				635.641845703125
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"label": "cabin-front-420",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				420.0,
+				634.1435546875
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"label": "cabin-front-430",
+			"mean_surviving_opacity": 1.0,
+			"minimum_surviving_opacity": 1.0,
+			"opaque_avatar_samples": 130,
+			"pass": true,
+			"player": [
+				430.0,
+				631.14697265625
+			],
+			"samples_losing_over_25_percent_alpha": 0
+		},
+		{
+			"label": "cabin-front-440",
+			"mean_surviving_opacity": 0.112518852444079,
+			"minimum_surviving_opacity": 0.0,
+			"opaque_avatar_samples": 130,
+			"pass": false,
+			"player": [
+				440.0,
+				626.652099609375
+			],
+			"samples_losing_over_25_percent_alpha": 120
+		},
+		{
+			"label": "cabin-front-450",
+			"mean_surviving_opacity": 0.0858823514185273,
+			"minimum_surviving_opacity": 0.0,
+			"opaque_avatar_samples": 130,
+			"pass": false,
+			"player": [
+				450.0,
+				623.655517578125
+			],
+			"samples_losing_over_25_percent_alpha": 122
+		}
+	],
+	"version": "0.1.5.9"
+}

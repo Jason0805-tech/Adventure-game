@@ -1,0 +1,2149 @@
+{
+  "alpha_threshold": 0.1,
+  "original_ground_contact_tolerance_world": 0.5,
+  "allowed_additional_excess_world": 0.25,
+  "sole_samples": 3703,
+  "species": {
+    "bear": {
+      "0": [
+        {
+          "name": "front_left",
+          "source_sole_points": 54,
+          "contact_sole_points": 54,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 7.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 7.0
+        },
+        {
+          "name": "front_right",
+          "source_sole_points": 45,
+          "contact_sole_points": 45,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 7.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 7.0
+        }
+      ],
+      "1": [
+        {
+          "name": "hind_right",
+          "source_sole_points": 39,
+          "contact_sole_points": 39,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 7.0,
+          "requested_max_extra_excess_world": 0.03460739834408777,
+          "requested_max_excess_world": 0.03460739834408777,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.03460739834408777,
+          "recommended_reach_native": 7.0
+        },
+        {
+          "name": "hind_left",
+          "source_sole_points": 51,
+          "contact_sole_points": 51,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 10.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 10.0
+        },
+        {
+          "name": "front_left",
+          "source_sole_points": 48,
+          "contact_sole_points": 43,
+          "excluded_preexisting_raised_or_fur": 5,
+          "baseline_max_excess_world": 1.7876723956306702,
+          "contact_baseline_max_excess_world": 0.11465844010932535,
+          "requested_reach_native": 10.0,
+          "requested_max_extra_excess_world": 2.373891267137031,
+          "requested_max_excess_world": 2.4885497072463565,
+          "recommended_rest_shift_native": [
+            -6.0,
+            1.75
+          ],
+          "shifted_max_extra_excess_world": 0.19118327250564704,
+          "recommended_reach_native": 10.0
+        }
+      ],
+      "2": [
+        {
+          "name": "hind_left",
+          "source_sole_points": 50,
+          "contact_sole_points": 50,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 9.0,
+          "requested_max_extra_excess_world": 1.7997839922785133,
+          "requested_max_excess_world": 1.7997839922785133,
+          "recommended_rest_shift_native": [
+            4.0,
+            0.25
+          ],
+          "shifted_max_extra_excess_world": 0.18646034252105537,
+          "recommended_reach_native": 9.0
+        },
+        {
+          "name": "hind_right",
+          "source_sole_points": 50,
+          "contact_sole_points": 50,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 9.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 9.0
+        },
+        {
+          "name": "front_right",
+          "source_sole_points": 35,
+          "contact_sole_points": 35,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 9.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 9.0
+        },
+        {
+          "name": "front_left",
+          "source_sole_points": 52,
+          "contact_sole_points": 52,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 9.0,
+          "requested_max_extra_excess_world": 0.44299995649018165,
+          "requested_max_excess_world": 0.44299995649018165,
+          "recommended_rest_shift_native": [
+            -0.75,
+            0.25
+          ],
+          "shifted_max_extra_excess_world": 0.1710149863598538,
+          "recommended_reach_native": 9.0
+        }
+      ],
+      "3": [
+        {
+          "name": "hind_left",
+          "source_sole_points": 46,
+          "contact_sole_points": 46,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 9.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 9.0
+        },
+        {
+          "name": "hind_right",
+          "source_sole_points": 53,
+          "contact_sole_points": 53,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 9.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 9.0
+        },
+        {
+          "name": "front_left",
+          "source_sole_points": 44,
+          "contact_sole_points": 44,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 7.0,
+          "requested_max_extra_excess_world": 1.3098941442578358,
+          "requested_max_excess_world": 1.3098941442578358,
+          "recommended_rest_shift_native": [
+            -2.75,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.17620501857144433,
+          "recommended_reach_native": 7.0
+        }
+      ],
+      "4": [
+        {
+          "name": "hind_right",
+          "source_sole_points": 42,
+          "contact_sole_points": 42,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 7.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 7.0
+        },
+        {
+          "name": "hind_left",
+          "source_sole_points": 45,
+          "contact_sole_points": 45,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 7.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 7.0
+        }
+      ],
+      "5": [
+        {
+          "name": "front_right",
+          "source_sole_points": 38,
+          "contact_sole_points": 37,
+          "excluded_preexisting_raised_or_fur": 1,
+          "baseline_max_excess_world": 0.6013370245927945,
+          "contact_baseline_max_excess_world": 0.11307796629967015,
+          "requested_reach_native": 7.0,
+          "requested_max_extra_excess_world": 2.185730014234185,
+          "requested_max_excess_world": 2.298807980533855,
+          "recommended_rest_shift_native": [
+            4.75,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.1882056155478331,
+          "recommended_reach_native": 7.0
+        },
+        {
+          "name": "hind_left",
+          "source_sole_points": 42,
+          "contact_sole_points": 42,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 9.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 9.0
+        },
+        {
+          "name": "hind_right",
+          "source_sole_points": 55,
+          "contact_sole_points": 55,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 9.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 9.0
+        }
+      ],
+      "6": [
+        {
+          "name": "hind_right",
+          "source_sole_points": 50,
+          "contact_sole_points": 49,
+          "excluded_preexisting_raised_or_fur": 1,
+          "baseline_max_excess_world": 0.5425673390705477,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 9.0,
+          "requested_max_extra_excess_world": 2.197176129259116,
+          "requested_max_excess_world": 2.197176129259116,
+          "recommended_rest_shift_native": [
+            -4.0,
+            3.5
+          ],
+          "shifted_max_extra_excess_world": 0.1673651520786983,
+          "recommended_reach_native": 9.0
+        },
+        {
+          "name": "hind_left",
+          "source_sole_points": 50,
+          "contact_sole_points": 50,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 9.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 9.0
+        },
+        {
+          "name": "front_left",
+          "source_sole_points": 32,
+          "contact_sole_points": 32,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 9.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 9.0
+        },
+        {
+          "name": "front_right",
+          "source_sole_points": 44,
+          "contact_sole_points": 44,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 9.0,
+          "requested_max_extra_excess_world": 1.6583393684146372,
+          "requested_max_excess_world": 1.6583393684146372,
+          "recommended_rest_shift_native": [
+            4.0,
+            1.0
+          ],
+          "shifted_max_extra_excess_world": 0.1882783581987173,
+          "recommended_reach_native": 9.0
+        }
+      ],
+      "7": [
+        {
+          "name": "hind_left",
+          "source_sole_points": 45,
+          "contact_sole_points": 45,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 7.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 7.0
+        },
+        {
+          "name": "front_left",
+          "source_sole_points": 47,
+          "contact_sole_points": 47,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 9.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 9.0
+        },
+        {
+          "name": "front_right",
+          "source_sole_points": 50,
+          "contact_sole_points": 49,
+          "excluded_preexisting_raised_or_fur": 1,
+          "baseline_max_excess_world": 0.5445261005631679,
+          "contact_baseline_max_excess_world": 0.37599065928778863,
+          "requested_reach_native": 9.0,
+          "requested_max_extra_excess_world": 2.1898523834915675,
+          "requested_max_excess_world": 2.565843042779356,
+          "recommended_rest_shift_native": [
+            5.75,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.18418581938917455,
+          "recommended_reach_native": 9.0
+        }
+      ]
+    },
+    "deer": {
+      "0": [
+        {
+          "name": "front_right",
+          "source_sole_points": 16,
+          "contact_sole_points": 10,
+          "excluded_preexisting_raised_or_fur": 6,
+          "baseline_max_excess_world": 3.883510100178821,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.9290644425447745,
+          "requested_max_excess_world": 0.9290644425447745,
+          "recommended_rest_shift_native": [
+            1.5,
+            1.5
+          ],
+          "shifted_max_extra_excess_world": 0.17275056686376988,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "front_left",
+          "source_sole_points": 16,
+          "contact_sole_points": 16,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        }
+      ],
+      "1": [
+        {
+          "name": "hind_right",
+          "source_sole_points": 16,
+          "contact_sole_points": 14,
+          "excluded_preexisting_raised_or_fur": 2,
+          "baseline_max_excess_world": 1.3587268839491085,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 2.67677144217234,
+          "requested_max_excess_world": 2.67677144217234,
+          "recommended_rest_shift_native": [
+            7.75,
+            0.25
+          ],
+          "shifted_max_extra_excess_world": 0.1855926919876012,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "hind_left",
+          "source_sole_points": 18,
+          "contact_sole_points": 12,
+          "excluded_preexisting_raised_or_fur": 6,
+          "baseline_max_excess_world": 4.776041666666664,
+          "contact_baseline_max_excess_world": 0.03645833333333215,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.9280774999999863,
+          "requested_max_excess_world": 0.9645358333333185,
+          "recommended_rest_shift_native": [
+            0.0,
+            2.0
+          ],
+          "shifted_max_extra_excess_world": 0.19891083333332027,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "front_right",
+          "source_sole_points": 17,
+          "contact_sole_points": 17,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "front_left",
+          "source_sole_points": 14,
+          "contact_sole_points": 14,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        }
+      ],
+      "3": [
+        {
+          "name": "hind_right",
+          "source_sole_points": 14,
+          "contact_sole_points": 14,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 1.8157075602454693,
+          "requested_max_excess_world": 1.8157075602454693,
+          "recommended_rest_shift_native": [
+            5.0,
+            0.25
+          ],
+          "shifted_max_extra_excess_world": 0.19983939115255467,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "hind_left",
+          "source_sole_points": 20,
+          "contact_sole_points": 20,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "front_right",
+          "source_sole_points": 15,
+          "contact_sole_points": 15,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "front_left",
+          "source_sole_points": 11,
+          "contact_sole_points": 11,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.1539231668408938,
+          "requested_max_excess_world": 0.1539231668408938,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.1539231668408938,
+          "recommended_reach_native": 12.0
+        }
+      ],
+      "4": [
+        {
+          "name": "hind_right",
+          "source_sole_points": 18,
+          "contact_sole_points": 18,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 7.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 7.0
+        },
+        {
+          "name": "hind_left",
+          "source_sole_points": 17,
+          "contact_sole_points": 11,
+          "excluded_preexisting_raised_or_fur": 6,
+          "baseline_max_excess_world": 4.113477666810441,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 7.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 7.0
+        }
+      ],
+      "5": [
+        {
+          "name": "front_right",
+          "source_sole_points": 20,
+          "contact_sole_points": 18,
+          "excluded_preexisting_raised_or_fur": 2,
+          "baseline_max_excess_world": 1.7523661366138423,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 9.0,
+          "requested_max_extra_excess_world": 1.3022014368249568,
+          "requested_max_excess_world": 1.3022014368249568,
+          "recommended_rest_shift_native": [
+            1.0,
+            3.0
+          ],
+          "shifted_max_extra_excess_world": 0.1659497426350196,
+          "recommended_reach_native": 9.0
+        },
+        {
+          "name": "front_left",
+          "source_sole_points": 17,
+          "contact_sole_points": 17,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 10.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 10.0
+        },
+        {
+          "name": "hind_left",
+          "source_sole_points": 23,
+          "contact_sole_points": 23,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 10.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 10.0
+        },
+        {
+          "name": "hind_right",
+          "source_sole_points": 19,
+          "contact_sole_points": 19,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 10.0,
+          "requested_max_extra_excess_world": 1.6479536134389523,
+          "requested_max_excess_world": 1.6479536134389523,
+          "recommended_rest_shift_native": [
+            -4.0,
+            2.25
+          ],
+          "shifted_max_extra_excess_world": 0.18055908344120475,
+          "recommended_reach_native": 10.0
+        }
+      ],
+      "6": [
+        {
+          "name": "front_left",
+          "source_sole_points": 25,
+          "contact_sole_points": 25,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 10.0,
+          "requested_max_extra_excess_world": 2.553095511203921,
+          "requested_max_excess_world": 2.553095511203921,
+          "recommended_rest_shift_native": [
+            6.0,
+            6.0
+          ],
+          "shifted_max_extra_excess_world": 0.1959908885776187,
+          "recommended_reach_native": 10.0
+        },
+        {
+          "name": "front_right",
+          "source_sole_points": 18,
+          "contact_sole_points": 18,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 10.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 10.0
+        },
+        {
+          "name": "hind_right",
+          "source_sole_points": 18,
+          "contact_sole_points": 18,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 10.0,
+          "requested_max_extra_excess_world": 1.8271335593201314,
+          "requested_max_excess_world": 1.8271335593201314,
+          "recommended_rest_shift_native": [
+            -6.0,
+            0.75
+          ],
+          "shifted_max_extra_excess_world": 0.17091176047187062,
+          "recommended_reach_native": 10.0
+        },
+        {
+          "name": "hind_left",
+          "source_sole_points": 25,
+          "contact_sole_points": 25,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 10.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 10.0
+        }
+      ],
+      "7": [
+        {
+          "name": "front_left",
+          "source_sole_points": 20,
+          "contact_sole_points": 20,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 10.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 10.0
+        },
+        {
+          "name": "front_right",
+          "source_sole_points": 14,
+          "contact_sole_points": 6,
+          "excluded_preexisting_raised_or_fur": 8,
+          "baseline_max_excess_world": 5.140625,
+          "contact_baseline_max_excess_world": 0.40915364467111814,
+          "requested_reach_native": 8.0,
+          "requested_max_extra_excess_world": 0.6187183333333248,
+          "requested_max_excess_world": 1.019759999999991,
+          "recommended_rest_shift_native": [
+            0.0,
+            1.25
+          ],
+          "shifted_max_extra_excess_world": 0.16298916666665697,
+          "recommended_reach_native": 8.0
+        },
+        {
+          "name": "hind_left",
+          "source_sole_points": 19,
+          "contact_sole_points": 19,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 9.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 9.0
+        },
+        {
+          "name": "hind_right",
+          "source_sole_points": 16,
+          "contact_sole_points": 9,
+          "excluded_preexisting_raised_or_fur": 7,
+          "baseline_max_excess_world": 3.6822916666666643,
+          "contact_baseline_max_excess_world": 0.41050279921470434,
+          "requested_reach_native": 8.0,
+          "requested_max_extra_excess_world": 0.9126356316313053,
+          "requested_max_excess_world": 1.3231384308460097,
+          "recommended_rest_shift_native": [
+            -3.0,
+            2.5
+          ],
+          "shifted_max_extra_excess_world": 0.19904786032293664,
+          "recommended_reach_native": 8.0
+        }
+      ],
+      "2": [
+        {
+          "name": "hind_near",
+          "source_sole_points": 18,
+          "contact_sole_points": 18,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 18.0,
+          "requested_max_extra_excess_world": 4.637609593605724,
+          "requested_max_excess_world": 4.637609593605724,
+          "recommended_rest_shift_native": [
+            13.5,
+            6.5
+          ],
+          "shifted_max_extra_excess_world": 0.18064436350046442,
+          "recommended_reach_native": 18.0
+        },
+        {
+          "name": "hind_far",
+          "source_sole_points": 24,
+          "contact_sole_points": 24,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 18.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 18.0
+        },
+        {
+          "name": "front_near",
+          "source_sole_points": 21,
+          "contact_sole_points": 21,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 18.0,
+          "requested_max_extra_excess_world": 2.4168132047616844,
+          "requested_max_excess_world": 2.4168132047616844,
+          "recommended_rest_shift_native": [
+            -8.0,
+            3.5
+          ],
+          "shifted_max_extra_excess_world": 0.1806541839306579,
+          "recommended_reach_native": 18.0
+        },
+        {
+          "name": "front_far",
+          "source_sole_points": 18,
+          "contact_sole_points": 18,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 18.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 18.0
+        }
+      ]
+    },
+    "fox": {
+      "0": [
+        {
+          "name": "front_right",
+          "source_sole_points": 21,
+          "contact_sole_points": 21,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "front_left",
+          "source_sole_points": 24,
+          "contact_sole_points": 24,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        }
+      ],
+      "1": [
+        {
+          "name": "hind_right",
+          "source_sole_points": 17,
+          "contact_sole_points": 5,
+          "excluded_preexisting_raised_or_fur": 12,
+          "baseline_max_excess_world": 2.1976047904191613,
+          "contact_baseline_max_excess_world": 0.4503147057279122,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 1.0281836213310491,
+          "requested_max_excess_world": 1.4784983270589613,
+          "recommended_rest_shift_native": [
+            4.5,
+            5.25
+          ],
+          "shifted_max_extra_excess_world": 0.19610572108682778,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "front_right",
+          "source_sole_points": 28,
+          "contact_sole_points": 28,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "front_left",
+          "source_sole_points": 16,
+          "contact_sole_points": 16,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.5495255876798932,
+          "requested_max_excess_world": 0.5495255876798932,
+          "recommended_rest_shift_native": [
+            0.75,
+            4.75
+          ],
+          "shifted_max_extra_excess_world": 0.19558030879135746,
+          "recommended_reach_native": 12.0
+        }
+      ],
+      "2": [
+        {
+          "name": "hind_right",
+          "source_sole_points": 17,
+          "contact_sole_points": 17,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 1.3204040021622223,
+          "requested_max_excess_world": 1.3204040021622223,
+          "recommended_rest_shift_native": [
+            4.0,
+            3.0
+          ],
+          "shifted_max_extra_excess_world": 0.19991721352189362,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "hind_left",
+          "source_sole_points": 28,
+          "contact_sole_points": 28,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "front_right",
+          "source_sole_points": 25,
+          "contact_sole_points": 25,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "front_left",
+          "source_sole_points": 22,
+          "contact_sole_points": 22,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.7661055465816915,
+          "requested_max_excess_world": 0.7661055465816915,
+          "recommended_rest_shift_native": [
+            -2.0,
+            2.0
+          ],
+          "shifted_max_extra_excess_world": 0.19747870451422145,
+          "recommended_reach_native": 12.0
+        }
+      ],
+      "3": [
+        {
+          "name": "hind_right",
+          "source_sole_points": 25,
+          "contact_sole_points": 25,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "front_right",
+          "source_sole_points": 19,
+          "contact_sole_points": 19,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "front_left",
+          "source_sole_points": 18,
+          "contact_sole_points": 18,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 1.0160243328837444,
+          "requested_max_excess_world": 1.0160243328837444,
+          "recommended_rest_shift_native": [
+            -3.5,
+            0.5
+          ],
+          "shifted_max_extra_excess_world": 0.17439935378290006,
+          "recommended_reach_native": 12.0
+        }
+      ],
+      "4": [
+        {
+          "name": "hind_left",
+          "source_sole_points": 20,
+          "contact_sole_points": 20,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 10.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 10.0
+        }
+      ],
+      "5": [
+        {
+          "name": "front_left",
+          "source_sole_points": 24,
+          "contact_sole_points": 24,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.43113772455089716,
+          "contact_baseline_max_excess_world": 0.43113772455089716,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 1.9342042521433012,
+          "requested_max_excess_world": 1.9342042521433012,
+          "recommended_rest_shift_native": [
+            3.0,
+            12.75
+          ],
+          "shifted_max_extra_excess_world": 0.4549399782303194,
+          "recommended_reach_native": 7.87
+        },
+        {
+          "name": "hind_left",
+          "source_sole_points": 24,
+          "contact_sole_points": 24,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        }
+      ],
+      "6": [
+        {
+          "name": "front_left",
+          "source_sole_points": 24,
+          "contact_sole_points": 24,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.7107368272701757,
+          "requested_max_excess_world": 0.7107368272701757,
+          "recommended_rest_shift_native": [
+            2.5,
+            2.75
+          ],
+          "shifted_max_extra_excess_world": 0.1903032357714478,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "front_right",
+          "source_sole_points": 24,
+          "contact_sole_points": 24,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "hind_left",
+          "source_sole_points": 32,
+          "contact_sole_points": 32,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 1.363342806717923,
+          "requested_max_excess_world": 1.363342806717923,
+          "recommended_rest_shift_native": [
+            -6.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.18975346223475853,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "hind_right",
+          "source_sole_points": 15,
+          "contact_sole_points": 15,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        }
+      ],
+      "7": [
+        {
+          "name": "front_right",
+          "source_sole_points": 22,
+          "contact_sole_points": 17,
+          "excluded_preexisting_raised_or_fur": 5,
+          "baseline_max_excess_world": 1.2907213686449932,
+          "contact_baseline_max_excess_world": 0.43597819644202485,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 1.0391558884354373,
+          "requested_max_excess_world": 1.4751340848774621,
+          "recommended_rest_shift_native": [
+            6.0,
+            1.0
+          ],
+          "shifted_max_extra_excess_world": 0.19045258951619015,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "front_left",
+          "source_sole_points": 23,
+          "contact_sole_points": 23,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "hind_right",
+          "source_sole_points": 7,
+          "contact_sole_points": 7,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 10.0,
+          "requested_max_extra_excess_world": 0.3308921922709498,
+          "requested_max_excess_world": 0.3308921922709498,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.75
+          ],
+          "shifted_max_extra_excess_world": 0.18845100315593832,
+          "recommended_reach_native": 10.0
+        },
+        {
+          "name": "hind_left",
+          "source_sole_points": 20,
+          "contact_sole_points": 20,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        }
+      ]
+    },
+    "rabbit": {
+      "0": [
+        {
+          "name": "front_left",
+          "source_sole_points": 31,
+          "contact_sole_points": 31,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 6.0,
+          "requested_max_extra_excess_world": 0.2723921521019097,
+          "requested_max_excess_world": 0.2723921521019097,
+          "recommended_rest_shift_native": [
+            0.25,
+            0.25
+          ],
+          "shifted_max_extra_excess_world": 0.19448747672801936,
+          "recommended_reach_native": 6.0
+        },
+        {
+          "name": "front_right",
+          "source_sole_points": 29,
+          "contact_sole_points": 29,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 6.0,
+          "requested_max_extra_excess_world": 0.0527192208609959,
+          "requested_max_excess_world": 0.0527192208609959,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0527192208609959,
+          "recommended_reach_native": 6.0
+        }
+      ],
+      "1": [
+        {
+          "name": "front_near",
+          "source_sole_points": 41,
+          "contact_sole_points": 41,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 6.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 6.0
+        },
+        {
+          "name": "hind_near",
+          "source_sole_points": 38,
+          "contact_sole_points": 36,
+          "excluded_preexisting_raised_or_fur": 2,
+          "baseline_max_excess_world": 0.9615359691199652,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 6.0,
+          "requested_max_extra_excess_world": 0.8329997091737811,
+          "requested_max_excess_world": 0.8329997091737811,
+          "recommended_rest_shift_native": [
+            2.0,
+            2.0
+          ],
+          "shifted_max_extra_excess_world": 0.1926589650907884,
+          "recommended_reach_native": 6.0
+        },
+        {
+          "name": "front_far",
+          "source_sole_points": 20,
+          "contact_sole_points": 20,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.07830242852427549,
+          "contact_baseline_max_excess_world": 0.07830242852427549,
+          "requested_reach_native": 5.0,
+          "requested_max_extra_excess_world": 0.6592971266181857,
+          "requested_max_excess_world": 0.7375995551424612,
+          "recommended_rest_shift_native": [
+            -2.5,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.18233713617269487,
+          "recommended_reach_native": 5.0
+        }
+      ],
+      "2": [
+        {
+          "name": "hind_near",
+          "source_sole_points": 51,
+          "contact_sole_points": 51,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.13670884689582063,
+          "contact_baseline_max_excess_world": 0.13670884689582063,
+          "requested_reach_native": 6.0,
+          "requested_max_extra_excess_world": 0.44713728629139293,
+          "requested_max_excess_world": 0.44713728629139293,
+          "recommended_rest_shift_native": [
+            1.5,
+            0.25
+          ],
+          "shifted_max_extra_excess_world": 0.1902559143708782,
+          "recommended_reach_native": 6.0
+        },
+        {
+          "name": "front_near",
+          "source_sole_points": 29,
+          "contact_sole_points": 29,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 6.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 6.0
+        },
+        {
+          "name": "front_far",
+          "source_sole_points": 6,
+          "contact_sole_points": 6,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 5.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 5.0
+        },
+        {
+          "name": "hind_far",
+          "source_sole_points": 12,
+          "contact_sole_points": 1,
+          "excluded_preexisting_raised_or_fur": 11,
+          "baseline_max_excess_world": 2.4621414858977024,
+          "contact_baseline_max_excess_world": 0.3408613537518468,
+          "requested_reach_native": 5.0,
+          "requested_max_extra_excess_world": 0.9780133702617411,
+          "requested_max_excess_world": 1.3188747240135879,
+          "recommended_rest_shift_native": [
+            3.75,
+            0.25
+          ],
+          "shifted_max_extra_excess_world": 0.19046358296589805,
+          "recommended_reach_native": 5.0
+        }
+      ],
+      "3": [
+        {
+          "name": "hind_near",
+          "source_sole_points": 64,
+          "contact_sole_points": 61,
+          "excluded_preexisting_raised_or_fur": 3,
+          "baseline_max_excess_world": 0.971859937332014,
+          "contact_baseline_max_excess_world": 0.3086930804315893,
+          "requested_reach_native": 6.0,
+          "requested_max_extra_excess_world": 0.3211892214414176,
+          "requested_max_excess_world": 0.5790308366318717,
+          "recommended_rest_shift_native": [
+            0.5,
+            0.75
+          ],
+          "shifted_max_extra_excess_world": 0.19251005883550576,
+          "recommended_reach_native": 6.0
+        },
+        {
+          "name": "front_near",
+          "source_sole_points": 28,
+          "contact_sole_points": 28,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 6.0,
+          "requested_max_extra_excess_world": 0.011009286070099655,
+          "requested_max_excess_world": 0.011009286070099655,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.011009286070099655,
+          "recommended_reach_native": 6.0
+        },
+        {
+          "name": "hind_far",
+          "source_sole_points": 14,
+          "excluded_preexisting_raised_or_fur": 14,
+          "baseline_max_excess_world": 4.78456834907794,
+          "note": "No original ground-contact sole samples; not clamped as a ground foot."
+        }
+      ],
+      "4": [
+        {
+          "name": "hind_left",
+          "source_sole_points": 25,
+          "contact_sole_points": 25,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.33979006148659074,
+          "contact_baseline_max_excess_world": 0.33979006148659074,
+          "requested_reach_native": 6.0,
+          "requested_max_extra_excess_world": 0.01604998304595373,
+          "requested_max_excess_world": 0.3557783069087659,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.01604998304595373,
+          "recommended_reach_native": 6.0
+        },
+        {
+          "name": "hind_right",
+          "source_sole_points": 24,
+          "contact_sole_points": 24,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.13298923298863663,
+          "contact_baseline_max_excess_world": 0.13298923298863663,
+          "requested_reach_native": 6.0,
+          "requested_max_extra_excess_world": 0.016358486193024824,
+          "requested_max_excess_world": 0.14919800101894953,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.016358486193024824,
+          "recommended_reach_native": 6.0
+        }
+      ],
+      "5": [
+        {
+          "name": "hind_near",
+          "source_sole_points": 44,
+          "contact_sole_points": 44,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 6.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 6.0
+        },
+        {
+          "name": "front_near",
+          "source_sole_points": 22,
+          "contact_sole_points": 22,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 6.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 6.0
+        },
+        {
+          "name": "hind_far",
+          "source_sole_points": 18,
+          "contact_sole_points": 9,
+          "excluded_preexisting_raised_or_fur": 9,
+          "baseline_max_excess_world": 2.7928400186039726,
+          "contact_baseline_max_excess_world": 0.28614120970003043,
+          "requested_reach_native": 5.0,
+          "requested_max_extra_excess_world": 0.6703508391661321,
+          "requested_max_excess_world": 0.9564920488661626,
+          "recommended_rest_shift_native": [
+            -2.5,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.17161375923003153,
+          "recommended_reach_native": 5.0
+        }
+      ],
+      "6": [
+        {
+          "name": "hind_near",
+          "source_sole_points": 39,
+          "contact_sole_points": 39,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.444246708427368,
+          "contact_baseline_max_excess_world": 0.444246708427368,
+          "requested_reach_native": 6.0,
+          "requested_max_extra_excess_world": 0.904591595474507,
+          "requested_max_excess_world": 1.2824290419177826,
+          "recommended_rest_shift_native": [
+            -1.75,
+            2.0
+          ],
+          "shifted_max_extra_excess_world": 0.1788904389250341,
+          "recommended_reach_native": 6.0
+        },
+        {
+          "name": "front_near",
+          "source_sole_points": 38,
+          "contact_sole_points": 38,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 6.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 6.0
+        },
+        {
+          "name": "front_far",
+          "source_sole_points": 14,
+          "contact_sole_points": 14,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 5.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 5.0
+        }
+      ],
+      "7": [
+        {
+          "name": "front_near",
+          "source_sole_points": 35,
+          "contact_sole_points": 35,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 6.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 6.0
+        },
+        {
+          "name": "hind_near",
+          "source_sole_points": 32,
+          "contact_sole_points": 32,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.3307993980473718,
+          "contact_baseline_max_excess_world": 0.3307993980473718,
+          "requested_reach_native": 6.0,
+          "requested_max_extra_excess_world": 0.9657594737681485,
+          "requested_max_excess_world": 1.2965588718155203,
+          "recommended_rest_shift_native": [
+            -4.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.1945525142686968,
+          "recommended_reach_native": 6.0
+        },
+        {
+          "name": "front_far",
+          "source_sole_points": 26,
+          "contact_sole_points": 26,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 5.0,
+          "requested_max_extra_excess_world": 0.4400446788113541,
+          "requested_max_excess_world": 0.4400446788113541,
+          "recommended_rest_shift_native": [
+            1.25,
+            0.25
+          ],
+          "shifted_max_extra_excess_world": 0.19802755280036344,
+          "recommended_reach_native": 5.0
+        }
+      ]
+    },
+    "wolf": {
+      "0": [
+        {
+          "name": "front_left",
+          "source_sole_points": 36,
+          "contact_sole_points": 36,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.3220960254900245,
+          "contact_baseline_max_excess_world": 0.3220960254900245,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.10516589507614515,
+          "requested_max_excess_world": 0.42726192056616963,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.10516589507614515,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "front_right",
+          "source_sole_points": 27,
+          "contact_sole_points": 27,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        }
+      ],
+      "1": [
+        {
+          "name": "hind_right",
+          "source_sole_points": 22,
+          "contact_sole_points": 22,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "front_left",
+          "source_sole_points": 27,
+          "contact_sole_points": 27,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.20879120879120983,
+          "contact_baseline_max_excess_world": 0.20879120879120983,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.6713629081318722,
+          "requested_max_excess_world": 0.880154116923082,
+          "recommended_rest_shift_native": [
+            0.0,
+            2.0
+          ],
+          "shifted_max_extra_excess_world": 0.15486724576072497,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "front_right",
+          "source_sole_points": 27,
+          "contact_sole_points": 27,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        }
+      ],
+      "2": [
+        {
+          "name": "hind_right",
+          "source_sole_points": 25,
+          "contact_sole_points": 25,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 15.0,
+          "requested_max_extra_excess_world": 0.18627092116515698,
+          "requested_max_excess_world": 0.18627092116515698,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.18627092116515698,
+          "recommended_reach_native": 15.0
+        },
+        {
+          "name": "hind_left",
+          "source_sole_points": 31,
+          "contact_sole_points": 31,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 15.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 15.0
+        },
+        {
+          "name": "front_right",
+          "source_sole_points": 28,
+          "contact_sole_points": 28,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 15.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 15.0
+        },
+        {
+          "name": "front_left",
+          "source_sole_points": 31,
+          "contact_sole_points": 31,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 15.0,
+          "requested_max_extra_excess_world": 1.807364236759609,
+          "requested_max_excess_world": 1.807364236759609,
+          "recommended_rest_shift_native": [
+            -6.0,
+            6.0
+          ],
+          "shifted_max_extra_excess_world": 0.17574536183441403,
+          "recommended_reach_native": 15.0
+        }
+      ],
+      "3": [
+        {
+          "name": "hind_right",
+          "source_sole_points": 17,
+          "contact_sole_points": 17,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "front_left",
+          "source_sole_points": 32,
+          "contact_sole_points": 24,
+          "excluded_preexisting_raised_or_fur": 8,
+          "baseline_max_excess_world": 1.5274725274725274,
+          "contact_baseline_max_excess_world": 0.4725274725274726,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.6713629081318739,
+          "requested_max_excess_world": 1.1438903806593466,
+          "recommended_rest_shift_native": [
+            0.0,
+            2.0
+          ],
+          "shifted_max_extra_excess_world": 0.19909302948910224,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "front_right",
+          "source_sole_points": 22,
+          "contact_sole_points": 22,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        }
+      ],
+      "4": [
+        {
+          "name": "hind_right",
+          "source_sole_points": 26,
+          "contact_sole_points": 26,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.4876543723007103,
+          "contact_baseline_max_excess_world": 0.4876543723007103,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.4876543723007103,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "hind_left",
+          "source_sole_points": 28,
+          "contact_sole_points": 28,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        }
+      ],
+      "5": [
+        {
+          "name": "front_right",
+          "source_sole_points": 30,
+          "contact_sole_points": 30,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.843210193293439,
+          "requested_max_excess_world": 0.843210193293439,
+          "recommended_rest_shift_native": [
+            2.0,
+            2.0
+          ],
+          "shifted_max_extra_excess_world": 0.18431583320320222,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "hind_left",
+          "source_sole_points": 28,
+          "contact_sole_points": 28,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "hind_right",
+          "source_sole_points": 34,
+          "contact_sole_points": 34,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        }
+      ],
+      "6": [
+        {
+          "name": "front_left",
+          "source_sole_points": 28,
+          "contact_sole_points": 28,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 1.6865376184662253,
+          "requested_max_excess_world": 1.6865376184662253,
+          "recommended_rest_shift_native": [
+            8.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.17740217485926202,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "front_right",
+          "error": "No owned visible alpha in paw mask"
+        },
+        {
+          "name": "hind_left",
+          "source_sole_points": 22,
+          "contact_sole_points": 22,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "hind_right",
+          "source_sole_points": 19,
+          "contact_sole_points": 19,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        }
+      ],
+      "7": [
+        {
+          "name": "front_right",
+          "source_sole_points": 28,
+          "contact_sole_points": 28,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "front_left",
+          "source_sole_points": 24,
+          "contact_sole_points": 24,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.08894532571429181,
+          "requested_max_excess_world": 0.08894532571429181,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.08894532571429181,
+          "recommended_reach_native": 12.0
+        },
+        {
+          "name": "hind_right",
+          "source_sole_points": 22,
+          "contact_sole_points": 22,
+          "excluded_preexisting_raised_or_fur": 0,
+          "baseline_max_excess_world": 0.0,
+          "contact_baseline_max_excess_world": 0.0,
+          "requested_reach_native": 12.0,
+          "requested_max_extra_excess_world": 0.0,
+          "requested_max_excess_world": 0.0,
+          "recommended_rest_shift_native": [
+            0.0,
+            0.0
+          ],
+          "shifted_max_extra_excess_world": 0.0,
+          "recommended_reach_native": 12.0
+        }
+      ]
+    }
+  }
+}

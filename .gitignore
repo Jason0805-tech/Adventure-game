@@ -1,0 +1,17 @@
+# Regenerable caches and macOS metadata
+.DS_Store
+._*
+.godot/
+__pycache__/
+*.pyc
+node_modules/
+
+# Local upload tooling and verification files
+tests/0.1.6.3/github-upload-2026-10-18/
+
+# Credentials are never project files
+.env
+.env.*
+!.env.example
+!.env.sample
+.git-credentials

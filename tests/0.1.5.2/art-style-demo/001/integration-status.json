@@ -1,0 +1,14 @@
+{
+  "installed": true,
+  "unchanged_sha256": {
+    "main.gd": "268c094396d3031b45a8bab4f0aa7623250d91b66eedbe46d3b254579fed8ddb",
+    "assets/traveler-unarmed-directions.png": "e16d2c1162d0807d10b4b5574d6b83e081373dd95f95e423be68fb43984ef2fc",
+    "assets/traveler-armed-directions.png": "eab8562952a83218315d92c9f0869f32dd833205cc91e7503b69d34b0241bdaf"
+  },
+  "art_style_approved": true,
+  "approval_date": "2026-10-13",
+  "hand_grip_requirement": "Same anatomical right hand; handle contacts palm; follows wrist through movement; natural occlusion; never mirror to swap hands.",
+  "production_pose_calibration_complete": true,
+  "installed_version": "0.1.5.3",
+  "installed_release": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/output/adventure game 0.1.5.3"
+}

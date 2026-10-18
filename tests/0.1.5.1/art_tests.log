@@ -1,0 +1,225 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+PASS All 50 independent sprite regions load
+PASS Six walk frames in each of four directions
+PASS Distance selects walk frame 0
+PASS Distance selects walk frame 1
+PASS Distance selects walk frame 2
+PASS Distance selects walk frame 3
+PASS Distance selects walk frame 4
+PASS Distance selects walk frame 5
+PASS Blocked or idle player stops walking animation
+PASS Full stride loops seamlessly
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite soles stay at ground anchor without negative width
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Sprite is nonempty with real transparency
+PASS Four real directional frames
+PASS Each pond center blocks walking
+PASS Each pond center blocks walking
+PASS Each pond center blocks walking
+PASS Dry corner outside curved shore remains walkable
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Tree trunk blocks feet
+PASS Shrub footprint blocks feet
+PASS Shrub footprint blocks feet
+PASS Shrub footprint blocks feet
+PASS Shrub footprint blocks feet
+PASS Shrub footprint blocks feet
+PASS Shrub footprint blocks feet
+PASS Shrub footprint blocks feet
+PASS Shrub footprint blocks feet
+PASS Shrub footprint blocks feet
+PASS Shrub footprint blocks feet
+PASS Shrub footprint blocks feet
+PASS Shrub footprint blocks feet
+PASS Shrub footprint blocks feet
+PASS Shrub footprint blocks feet
+PASS Shrub footprint blocks feet
+PASS Both NPCs have foot collisions
+PASS Cabin ground footprint blocks movement
+PASS Gate pillars are solid
+PASS Gate center can be approached
+PASS Every material spawn remains accessible
+PASS Every material spawn remains accessible
+PASS Every material spawn remains accessible
+PASS Every material spawn remains accessible
+PASS Every material spawn remains accessible
+PASS Every material spawn remains accessible
+PASS Every material spawn remains accessible
+PASS Every material spawn remains accessible
+PASS Every material spawn remains accessible
+PASS Every material spawn remains accessible
+PASS Every material spawn remains accessible
+PASS Every material spawn remains accessible
+PASS Every material spawn remains accessible
+PASS Every material spawn remains accessible
+PASS Every material spawn remains accessible
+PASS Every material spawn remains accessible
+PASS Large movement cannot tunnel through a thin obstacle
+PASS F3 exposes hitboxes
+PASS F3 hides hitboxes
+ART_RESULT: 220 checks, 0 failures

@@ -1,0 +1,9 @@
+{
+  "checks": 56,
+  "failures": [],
+  "payload_bytes": 111953338,
+  "payload_files": [
+    "game.wasm",
+    "game.pck"
+  ]
+}

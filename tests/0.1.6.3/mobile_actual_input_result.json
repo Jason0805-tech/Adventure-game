@@ -1,0 +1,18 @@
+{
+	"checks": 235,
+	"duration_seconds": 6.258099,
+	"failures": [],
+	"passed": true,
+	"scenarios": [
+		"real movement speed, walking, independent Use/Gather fingers, both release orders and cancellation",
+		"bag full simulation freeze, modal finger quarantine, one menu drag owner and canceled inventory touch",
+		"craft/dialog/manual pause, background/native focus freeze, drag clearing, manual pause preservation and bounded return delta",
+		"portrait full simulation freeze, rotation invalidates old fingers and landscape preserves manual pause"
+	],
+	"scope": "Actual Godot release scene with synthetic native touch/lifecycle events; no browser, GPU pixel capture or physical iPhone claim",
+	"source_hashes": {
+		"main.gd": "1b9140b1f32817d8fb10cfcb22a7fde17ebe3158f71ec1b78bc6ac65a5eff20b",
+		"mobile_controls.gd": "412a4881d2f64c5299534d8a6d02730b19404f5442b75b8dc1e5101ff2b8348e",
+		"mobile_ui.gd": "689a046b23e9d7f4fc200f4e67433d5f7e17a4e589d80a32f20e462002be922f"
+	}
+}

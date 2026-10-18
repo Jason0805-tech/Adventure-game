@@ -1,0 +1,10 @@
+{
+  "profiles": 48,
+  "physical_polygons": 74,
+  "visual_polygons": 81,
+  "shore_stones": 17,
+  "landmark_checks": 153,
+  "failures": [],
+  "source_art_modified": false,
+  "visual_contours_preserved": true
+}

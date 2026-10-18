@@ -1,0 +1,19 @@
+0.1.0 自动测试结果
+
+PASS: Spawn is walkable
+PASS: Lake collision
+PASS: Cabin collision
+PASS: World boundary
+PASS: Diagonal speed normalized
+PASS: NPC quest dialogue
+PASS: Cannot craft without materials
+PASS: Capacity rejects excess materials
+PASS: Craft consumes exact recipe
+PASS: Repeat craft cannot consume more materials
+PASS: Exit locked without crystals
+PASS: Crystals picked once each
+PASS: Exit completes quest
+PASS: All resources, NPCs and exit reachable from spawn
+TEST RESULT: 0 failures
+
+核心逻辑与地图可达性检查通过。当前工具环境下，桌面窗口启动校验未完成。

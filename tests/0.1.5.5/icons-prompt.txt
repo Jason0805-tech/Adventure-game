@@ -1,0 +1,12 @@
+Create a true-transparent 2D inventory icon atlas, exact regular 3 columns x 3 rows, for a cozy top-down hand-painted forest game. The attached harvest sprites and meadow are the style reference: loose irregular opaque oil/gouache brush strokes, simplified broad shapes, very few details, matte flat paint, muted moss green, blue-gray, teal and warm ochre. Match their approachable painted 2D game style; no realistic 3D, no isometric render, no glossy lighting, no photoreal textures, no smooth gradients, no outlines, no badges, no scenery, no shadows, no text, no labels, no borders. Each cell has one clear centered isolated item icon with large transparent margins, distinguishable when displayed at 36 pixels. Exact 1536x1536 sheet, transparent alpha.
+Cell order left-to-right, top-to-bottom:
+1. A small bundle of freshly cut warm ochre-brown logs, two cut ends visible.
+2. A few blue-gray iron ore stones with two muted teal mineral strokes.
+3. A simple small river fish, painted blue-gray with ochre fins.
+4. A handmade stone pickaxe, plain branch handle and pale gray stone head.
+5. A simple wooden fishing rod with a curved loose pale fiber line and tiny red-ochre float.
+6. A tiny sturdy wooden workbench with broad painted plank shapes.
+7. A handmade iron axe: brown branch handle, compact gray-blue blade with one muted teal accent.
+8. A simple stone axe with ochre wood handle and pale blue-gray stone blade.
+9. A small coiled bundle of olive plant fibers.
+All icons are deliberately simple, flat, broad-brush paintings coherent with the attached sprites. Keep every object fully inside its own cell, no overlap.

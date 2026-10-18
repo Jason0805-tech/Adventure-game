@@ -1,0 +1,22 @@
+FOREST WANDERER 0.1.5.3 — 2026-10-14
+
+PASS: 3,465 numerical art/motion checks, including all 16 headings, eight walk
+poses plus idle, shared anatomical right-hand projection, handle geometry,
+visible palm contact, constant leg lengths and forward knee bending.
+PASS: 1,017 game logic checks.
+PASS: All 67 resource sites reachable; 5,454 walkable ground cells visited.
+PASS: 11 UI/phase states, including inventory, crafting, night and win/loss.
+PASS: 40 scene/motion command captures; selected views inspected visually.
+PASS: Eight-frame animation preview created at the actual gait cadence.
+PASS: Packaged Mac application has a verified ad-hoc code signature.
+PASS: 26 runtime files match the release source byte-for-byte.
+PASS: Actual packaged launcher starts the game from /tmp without a project
+path supplied by the caller; GAME_READY 0.1.5.3 recorded.
+PASS: Every 0.1.5.2 runtime source file still matches its existing manifest.
+
+Limitations:
+The native graphics window has not been manually playtested. Scene previews
+replay the game's drawing commands in software and can differ in font/raster
+details from the native GPU. The test sandbox denies Godot's normal user-data
+directory and macOS certificate access; those environment messages occur in
+headless logs. They did not prevent successful game/launcher initialization.

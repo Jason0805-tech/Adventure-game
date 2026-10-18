@@ -1,0 +1,10 @@
+{
+  "display_server": "headless",
+  "image_null": true,
+  "rendering_driver": "opengl3",
+  "rendering_method": "gl_compatibility",
+  "texture_size": [
+    64,
+    64
+  ]
+}

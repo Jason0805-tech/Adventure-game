@@ -1,0 +1,36 @@
+{
+  "status": "preview_only_waiting_for_user_selection",
+  "target_app": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/output/adventure game 0.1.5.9/Forest Wanderer.app",
+  "target_version": "0.1.5.9",
+  "app_info_sha256_before": "fb65a741ef10a10e1134aa4117eb52705002c2732188007d3b8ad9333763f1fd",
+  "installed": false,
+  "reference": "Rowan camp guide, npc-torso-source.png top-left front portrait",
+  "generator": "built-in image_gen",
+  "variants": [
+    {
+      "id": "A",
+      "file": "rowan-icon-A-forest-green.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "ee6d0c6b3c2ff9e871eddeb11a870112b9e4d86fd494fc2eb30df944fe7ad35b",
+      "source_file": "/Users/jasonsmacair/.codex/generated_images/01a12370-5b35-7eb2-809e-f354f97a3872/exec-589b753a-54f9-434d-842e-6b0b45ca3d64.png"
+    },
+    {
+      "id": "B",
+      "file": "rowan-icon-B-warm-closeup.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "844bf489db02726a3afd30cc11b994405f574ea37296a497dc35af503ff2373f",
+      "source_file": "/Users/jasonsmacair/.codex/generated_images/01a12370-5b35-7eb2-809e-f354f97a3872/exec-9bd1303a-e15c-4d17-a7d0-4e8de6255495.png"
+    },
+    {
+      "id": "C",
+      "file": "rowan-icon-C-twilight-blue.png",
+      "width": 1254,
+      "height": 1254,
+      "sha256": "05cfad25f1828336b07f72f81e8e41aa46cb5b65c864209d56bd393a8f5a31e5",
+      "source_file": "/Users/jasonsmacair/.codex/generated_images/01a12370-5b35-7eb2-809e-f354f97a3872/exec-a5106334-7fa7-4572-963b-f9bc3d7adf1b.png"
+    }
+  ],
+  "app_unchanged_verified": true
+}

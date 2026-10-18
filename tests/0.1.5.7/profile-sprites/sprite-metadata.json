@@ -1,0 +1,362 @@
+{
+	"bench": {
+		"anchor": [
+			220.295501708984,
+			371.0
+		],
+		"height": 378,
+		"width": 464
+	},
+	"cabin": {
+		"anchor": [
+			267.734954833984,
+			498.0
+		],
+		"height": 498,
+		"width": 572
+	},
+	"gate": {
+		"anchor": [
+			342.677612304688,
+			389.0
+		],
+		"height": 396,
+		"width": 468
+	},
+	"ore_0": {
+		"anchor": [
+			155.722839355469,
+			293.0
+		],
+		"height": 300,
+		"width": 448
+	},
+	"ore_1": {
+		"anchor": [
+			177.190490722656,
+			352.0
+		],
+		"height": 358,
+		"width": 426
+	},
+	"ore_2": {
+		"anchor": [
+			186.069107055664,
+			291.0
+		],
+		"height": 298,
+		"width": 420
+	},
+	"pond_0": {
+		"anchor": [
+			285.5,
+			404.0
+		],
+		"height": 404,
+		"width": 571
+	},
+	"pond_1": {
+		"anchor": [
+			300.5,
+			426.0
+		],
+		"height": 426,
+		"width": 601
+	},
+	"pond_2": {
+		"anchor": [
+			236.0,
+			390.0
+		],
+		"height": 390,
+		"width": 472
+	},
+	"prop_0": {
+		"anchor": [
+			267.734954833984,
+			498.0
+		],
+		"height": 498,
+		"width": 572
+	},
+	"prop_1": {
+		"anchor": [
+			163.709991455078,
+			251.0
+		],
+		"height": 258,
+		"width": 356
+	},
+	"prop_2": {
+		"anchor": [
+			207.810806274414,
+			285.0
+		],
+		"height": 292,
+		"width": 402
+	},
+	"prop_3": {
+		"anchor": [
+			181.657516479492,
+			309.0
+		],
+		"height": 316,
+		"width": 364
+	},
+	"prop_4": {
+		"anchor": [
+			172.12141418457,
+			304.0
+		],
+		"height": 312,
+		"width": 378
+	},
+	"prop_5": {
+		"anchor": [
+			161.247451782227,
+			232.0
+		],
+		"height": 240,
+		"width": 324
+	},
+	"resource_branch_0": {
+		"anchor": [
+			147.770278930664,
+			255.0
+		],
+		"height": 257,
+		"width": 275
+	},
+	"resource_branch_1": {
+		"anchor": [
+			120.906951904297,
+			238.0
+		],
+		"height": 244,
+		"width": 264
+	},
+	"resource_branch_2": {
+		"anchor": [
+			137.814575195312,
+			266.0
+		],
+		"height": 267,
+		"width": 272
+	},
+	"resource_branch_spent_0": {
+		"anchor": [
+			123.660171508789,
+			166.0
+		],
+		"height": 166,
+		"width": 214
+	},
+	"resource_branch_spent_1": {
+		"anchor": [
+			85.1440277099609,
+			144.0
+		],
+		"height": 152,
+		"width": 196
+	},
+	"resource_branch_spent_2": {
+		"anchor": [
+			103.688041687012,
+			151.0
+		],
+		"height": 156,
+		"width": 216
+	},
+	"resource_rock_0": {
+		"anchor": [
+			157.72834777832,
+			206.0
+		],
+		"height": 214,
+		"width": 270
+	},
+	"resource_rock_1": {
+		"anchor": [
+			128.770858764648,
+			216.0
+		],
+		"height": 216,
+		"width": 226
+	},
+	"resource_rock_2": {
+		"anchor": [
+			129.182861328125,
+			204.0
+		],
+		"height": 210,
+		"width": 266
+	},
+	"resource_rock_spent_0": {
+		"anchor": [
+			150.748626708984,
+			153.0
+		],
+		"height": 160,
+		"width": 242
+	},
+	"resource_rock_spent_1": {
+		"anchor": [
+			145.642639160156,
+			134.0
+		],
+		"height": 140,
+		"width": 230
+	},
+	"resource_rock_spent_2": {
+		"anchor": [
+			108.035667419434,
+			163.0
+		],
+		"height": 170,
+		"width": 230
+	},
+	"resource_rope_0": {
+		"anchor": [
+			120.425849914551,
+			289.0
+		],
+		"height": 296,
+		"width": 232
+	},
+	"resource_rope_1": {
+		"anchor": [
+			119.428993225098,
+			330.0
+		],
+		"height": 336,
+		"width": 230
+	},
+	"resource_rope_2": {
+		"anchor": [
+			115.236236572266,
+			280.0
+		],
+		"height": 280,
+		"width": 228
+	},
+	"resource_rope_spent_0": {
+		"anchor": [
+			96.3717727661133,
+			138.0
+		],
+		"height": 146,
+		"width": 224
+	},
+	"resource_rope_spent_1": {
+		"anchor": [
+			86.7192230224609,
+			118.0
+		],
+		"height": 126,
+		"width": 208
+	},
+	"resource_rope_spent_2": {
+		"anchor": [
+			133.952011108398,
+			120.0
+		],
+		"height": 128,
+		"width": 216
+	},
+	"shrub_0": {
+		"anchor": [
+			234.392135620117,
+			322.0
+		],
+		"height": 328,
+		"width": 408
+	},
+	"shrub_1": {
+		"anchor": [
+			221.8291015625,
+			266.0
+		],
+		"height": 272,
+		"width": 424
+	},
+	"shrub_2": {
+		"anchor": [
+			257.224151611328,
+			213.0
+		],
+		"height": 220,
+		"width": 430
+	},
+	"shrub_3": {
+		"anchor": [
+			192.115966796875,
+			223.0
+		],
+		"height": 230,
+		"width": 366
+	},
+	"stump_0": {
+		"anchor": [
+			242.788940429688,
+			334.0
+		],
+		"height": 342,
+		"width": 474
+	},
+	"stump_1": {
+		"anchor": [
+			243.825210571289,
+			332.0
+		],
+		"height": 340,
+		"width": 400
+	},
+	"tree_0": {
+		"anchor": [
+			249.42546081543,
+			526.0
+		],
+		"height": 534,
+		"width": 506
+	},
+	"tree_1": {
+		"anchor": [
+			225.9248046875,
+			519.0
+		],
+		"height": 526,
+		"width": 434
+	},
+	"tree_2": {
+		"anchor": [
+			207.958633422852,
+			527.0
+		],
+		"height": 534,
+		"width": 444
+	},
+	"tree_3": {
+		"anchor": [
+			234.287078857422,
+			419.0
+		],
+		"height": 426,
+		"width": 444
+	},
+	"tree_4": {
+		"anchor": [
+			159.014755249023,
+			499.0
+		],
+		"height": 506,
+		"width": 318
+	},
+	"tree_5": {
+		"anchor": [
+			224.376113891602,
+			493.0
+		],
+		"height": 500,
+		"width": 416
+	}
+}

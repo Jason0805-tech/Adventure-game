@@ -1,0 +1,14 @@
+{
+  "version": "0.1.5.3",
+  "installed": true,
+  "release_directory": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/output/adventure game 0.1.5.3",
+  "app": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/output/adventure game 0.1.5.3/Forest Wanderer.app",
+  "art_style_approved": true,
+  "same_anatomical_right_hand": true,
+  "headings": 16,
+  "walk_frames": 8,
+  "avatar_checks": 3465,
+  "native_gui_manually_played": false,
+  "packaged_launcher_headless_startup": true,
+  "previous_runtime_files_unchanged": 24
+}

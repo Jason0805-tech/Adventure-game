@@ -1,0 +1,12 @@
+ERROR: Failed to open 'user://logs/godot2026-10-16T22.22.49.log'.
+   at: copy (core/io/dir_access.cpp:429)
+ERROR: Failed to open log file for writing: user://logs/godot.log
+   at: rotate_file (core/io/logger.cpp:169)
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+GAME_READY 0.1.6.1
+INVALID_WORLD_STROKE rabbit p=(1726.055, 1303.068) facing=(0.490571, 0.871401) phase=0.0 moving=false idx=11 points=[(1723.02, 1300.606), (1723.058, 1300.673), (1723.063, 1300.751), (1723.034, 1300.823), (1722.977, 1300.875), (1722.902, 1300.897), (1722.826, 1300.885), (1722.762, 1300.84), (1722.471, 1300.724), (1722.411, 1300.601), (1722.395, 1300.465), (1722.451, 1300.34), (1722.55, 1300.247), (1722.681, 1300.208), (1722.815, 1300.232), (1722.929, 1300.306)]
+INVALID_WORLD_STROKE rabbit p=(1726.055, 1303.068) facing=(0.490571, 0.871401) phase=0.0 moving=false idx=33 points=[(1730.608, 1301.033), (1730.645, 1301.092), (1730.652, 1301.162), (1730.628, 1301.227), (1730.578, 1301.276), (1730.512, 1301.298), (1730.442, 1301.29), (1730.384, 1301.252), (1730.102, 1301.139), (1730.03, 1301.036), (1730.026, 1300.909), (1730.061, 1300.788), (1730.157, 1300.705), (1730.274, 1300.659), (1730.399, 1300.679), (1730.506, 1300.746)]
+DIAGNOSE_GAIT_FAILED_POLYGONS 2

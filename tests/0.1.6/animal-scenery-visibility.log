@@ -1,0 +1,134 @@
+ERROR: Could not create directory: '/Users/jasonsmacair/Library/Application Support/Godot/app_userdata/Forest Wanderer 0.1.6'.
+   at: make_dir_recursive (core/io/dir_access.cpp:179)
+ERROR: Error attempting to create data dir: /Users/jasonsmacair/Library/Application Support/Godot/app_userdata/Forest Wanderer 0.1.6.
+   at: ensure_user_data_dir (core/os/os.cpp:442)
+ERROR: Could not create directory: 'user://logs'.
+   at: make_dir_recursive (core/io/dir_access.cpp:179)
+ERROR: Failed to open log file for writing: user://logs/godot.log
+   at: rotate_file (core/io/logger.cpp:169)
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+GAME_READY 0.1.6
+ANIMAL_ALPHA rabbit-tree-front-frame0 overlap=254 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA rabbit-tree-front-frame1 overlap=242 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA rabbit-tree-front-frame2 overlap=257 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA rabbit-tree-front-frame3 overlap=228 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA rabbit-tree-back-frame0 overlap=269 covered=267 mean=0.05188319849004 pass=true
+ANIMAL_ALPHA rabbit-tree-back-frame1 overlap=267 covered=265 mean=0.04710175946736 pass=true
+ANIMAL_ALPHA rabbit-tree-back-frame2 overlap=272 covered=269 mean=0.05326330434265 pass=true
+ANIMAL_ALPHA rabbit-tree-back-frame3 overlap=256 covered=254 mean=0.05466518594163 pass=true
+ANIMAL_ALPHA rabbit-ore-front-frame0 overlap=191 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA rabbit-ore-front-frame1 overlap=194 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA rabbit-ore-front-frame2 overlap=201 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA rabbit-ore-front-frame3 overlap=202 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA rabbit-ore-back-frame0 overlap=252 covered=252 mean=0.11561574163954 pass=true
+ANIMAL_ALPHA rabbit-ore-back-frame1 overlap=245 covered=245 mean=0.13213109941881 pass=true
+ANIMAL_ALPHA rabbit-ore-back-frame2 overlap=247 covered=246 mean=0.14784313600311 pass=true
+ANIMAL_ALPHA rabbit-ore-back-frame3 overlap=235 covered=235 mean=0.14043655073411 pass=true
+ANIMAL_ALPHA rabbit-bank_rock-front-frame0 overlap=184 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA rabbit-bank_rock-front-frame1 overlap=187 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA rabbit-bank_rock-front-frame2 overlap=194 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA rabbit-bank_rock-front-frame3 overlap=196 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA rabbit-bank_rock-back-frame0 overlap=78 covered=78 mean=0.72179432910123 pass=true
+ANIMAL_ALPHA rabbit-bank_rock-back-frame1 overlap=50 covered=50 mean=0.81907828815662 pass=true
+ANIMAL_ALPHA rabbit-bank_rock-back-frame2 overlap=48 covered=48 mean=0.83005602232047 pass=true
+ANIMAL_ALPHA rabbit-bank_rock-back-frame3 overlap=42 covered=42 mean=0.84285608575029 pass=true
+ANIMAL_ALPHA deer-tree-front-frame0 overlap=228 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA deer-tree-front-frame1 overlap=207 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA deer-tree-front-frame2 overlap=209 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA deer-tree-front-frame3 overlap=206 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA deer-tree-back-frame0 overlap=213 covered=212 mean=0.11004056665516 pass=true
+ANIMAL_ALPHA deer-tree-back-frame1 overlap=211 covered=210 mean=0.11075873698472 pass=true
+ANIMAL_ALPHA deer-tree-back-frame2 overlap=219 covered=218 mean=0.1074806380383 pass=true
+ANIMAL_ALPHA deer-tree-back-frame3 overlap=216 covered=215 mean=0.10866916851398 pass=true
+ANIMAL_ALPHA deer-ore-front-frame0 overlap=180 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA deer-ore-front-frame1 overlap=168 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA deer-ore-front-frame2 overlap=173 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA deer-ore-front-frame3 overlap=168 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA deer-ore-back-frame0 overlap=62 covered=61 mean=0.74320486767201 pass=true
+ANIMAL_ALPHA deer-ore-back-frame1 overlap=55 covered=54 mean=0.77115089467362 pass=true
+ANIMAL_ALPHA deer-ore-back-frame2 overlap=65 covered=64 mean=0.7373208101964 pass=true
+ANIMAL_ALPHA deer-ore-back-frame3 overlap=56 covered=55 mean=0.77163120522461 pass=true
+ANIMAL_ALPHA deer-bank_rock-front-frame0 overlap=104 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA deer-bank_rock-front-frame1 overlap=92 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA deer-bank_rock-front-frame2 overlap=91 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA deer-bank_rock-front-frame3 overlap=88 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA deer-bank_rock-back-frame0 overlap=6 covered=6 mean=0.97434077077898 pass=true
+ANIMAL_ALPHA deer-bank_rock-back-frame1 overlap=4 covered=4 mean=0.98276214832845 pass=true
+ANIMAL_ALPHA deer-bank_rock-back-frame2 overlap=6 covered=6 mean=0.97503707363826 pass=true
+ANIMAL_ALPHA deer-bank_rock-back-frame3 overlap=6 covered=6 mean=0.97466833540734 pass=true
+ANIMAL_ALPHA fox-tree-front-frame0 overlap=287 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA fox-tree-front-frame1 overlap=282 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA fox-tree-front-frame2 overlap=281 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA fox-tree-front-frame3 overlap=289 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA fox-tree-back-frame0 overlap=242 covered=240 mean=0.16270995720734 pass=true
+ANIMAL_ALPHA fox-tree-back-frame1 overlap=235 covered=233 mean=0.1591721120187 pass=true
+ANIMAL_ALPHA fox-tree-back-frame2 overlap=248 covered=246 mean=0.15938080364609 pass=true
+ANIMAL_ALPHA fox-tree-back-frame3 overlap=234 covered=232 mean=0.15983672151307 pass=true
+ANIMAL_ALPHA fox-ore-front-frame0 overlap=257 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA fox-ore-front-frame1 overlap=255 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA fox-ore-front-frame2 overlap=255 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA fox-ore-front-frame3 overlap=259 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA fox-ore-back-frame0 overlap=179 covered=178 mean=0.37835406478141 pass=true
+ANIMAL_ALPHA fox-ore-back-frame1 overlap=170 covered=169 mean=0.3905882344288 pass=true
+ANIMAL_ALPHA fox-ore-back-frame2 overlap=183 covered=182 mean=0.37758513846712 pass=true
+ANIMAL_ALPHA fox-ore-back-frame3 overlap=170 covered=169 mean=0.38827902821782 pass=true
+ANIMAL_ALPHA fox-bank_rock-front-frame0 overlap=246 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA fox-bank_rock-front-frame1 overlap=247 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA fox-bank_rock-front-frame2 overlap=242 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA fox-bank_rock-front-frame3 overlap=246 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA fox-bank_rock-back-frame0 overlap=22 covered=22 mean=0.92184974343973 pass=true
+ANIMAL_ALPHA fox-bank_rock-back-frame1 overlap=22 covered=22 mean=0.91930283219726 pass=true
+ANIMAL_ALPHA fox-bank_rock-back-frame2 overlap=24 covered=24 mean=0.91658754725205 pass=true
+ANIMAL_ALPHA fox-bank_rock-back-frame3 overlap=19 covered=19 mean=0.92996574090759 pass=true
+ANIMAL_ALPHA wolf-tree-front-frame0 overlap=330 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA wolf-tree-front-frame1 overlap=313 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA wolf-tree-front-frame2 overlap=312 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA wolf-tree-front-frame3 overlap=315 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA wolf-tree-back-frame0 overlap=291 covered=289 mean=0.14505021392067 pass=true
+ANIMAL_ALPHA wolf-tree-back-frame1 overlap=273 covered=271 mean=0.15276407205139 pass=true
+ANIMAL_ALPHA wolf-tree-back-frame2 overlap=274 covered=272 mean=0.15234852651541 pass=true
+ANIMAL_ALPHA wolf-tree-back-frame3 overlap=264 covered=262 mean=0.15692788609876 pass=true
+ANIMAL_ALPHA wolf-ore-front-frame0 overlap=275 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA wolf-ore-front-frame1 overlap=271 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA wolf-ore-front-frame2 overlap=267 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA wolf-ore-front-frame3 overlap=269 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA wolf-ore-back-frame0 overlap=154 covered=153 mean=0.55015542712091 pass=true
+ANIMAL_ALPHA wolf-ore-back-frame1 overlap=134 covered=133 mean=0.58775458479631 pass=true
+ANIMAL_ALPHA wolf-ore-back-frame2 overlap=138 covered=137 mean=0.57640753959087 pass=true
+ANIMAL_ALPHA wolf-ore-back-frame3 overlap=125 covered=124 mean=0.60497687355556 pass=true
+ANIMAL_ALPHA wolf-bank_rock-front-frame0 overlap=229 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA wolf-bank_rock-front-frame1 overlap=221 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA wolf-bank_rock-front-frame2 overlap=223 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA wolf-bank_rock-front-frame3 overlap=225 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA wolf-bank_rock-back-frame0 overlap=15 covered=15 mean=0.95462697271894 pass=true
+ANIMAL_ALPHA wolf-bank_rock-back-frame1 overlap=10 covered=10 mean=0.96802024033762 pass=true
+ANIMAL_ALPHA wolf-bank_rock-back-frame2 overlap=13 covered=13 mean=0.95852720507472 pass=true
+ANIMAL_ALPHA wolf-bank_rock-back-frame3 overlap=8 covered=8 mean=0.97365643930594 pass=true
+ANIMAL_ALPHA bear-tree-front-frame0 overlap=421 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA bear-tree-front-frame1 overlap=413 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA bear-tree-front-frame2 overlap=411 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA bear-tree-front-frame3 overlap=408 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA bear-tree-back-frame0 overlap=424 covered=420 mean=0.1019607831933 pass=true
+ANIMAL_ALPHA bear-tree-back-frame1 overlap=408 covered=404 mean=0.09070758637173 pass=true
+ANIMAL_ALPHA bear-tree-back-frame2 overlap=432 covered=428 mean=0.10034848946571 pass=true
+ANIMAL_ALPHA bear-tree-back-frame3 overlap=417 covered=413 mean=0.08911456859403 pass=true
+ANIMAL_ALPHA bear-ore-front-frame0 overlap=349 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA bear-ore-front-frame1 overlap=349 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA bear-ore-front-frame2 overlap=350 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA bear-ore-front-frame3 overlap=339 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA bear-ore-back-frame0 overlap=111 covered=107 mean=0.76923405503436 pass=true
+ANIMAL_ALPHA bear-ore-back-frame1 overlap=91 covered=87 mean=0.80261138759477 pass=true
+ANIMAL_ALPHA bear-ore-back-frame2 overlap=98 covered=94 mean=0.8020741484792 pass=true
+ANIMAL_ALPHA bear-ore-back-frame3 overlap=82 covered=78 mean=0.8266948032811 pass=true
+ANIMAL_ALPHA bear-bank_rock-front-frame0 overlap=189 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA bear-bank_rock-front-frame1 overlap=189 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA bear-bank_rock-front-frame2 overlap=186 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA bear-bank_rock-front-frame3 overlap=182 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA bear-bank_rock-back-frame0 overlap=6 covered=6 mean=0.98703062923905 pass=true
+ANIMAL_ALPHA bear-bank_rock-back-frame1 overlap=5 covered=5 mean=0.98864809080992 pass=true
+ANIMAL_ALPHA bear-bank_rock-back-frame2 overlap=0 covered=0 mean=1.0 pass=true
+ANIMAL_ALPHA bear-bank_rock-back-frame3 overlap=0 covered=0 mean=1.0 pass=true
+ANIMAL_SCENERY_VISIBILITY checks=120 samples=36576 failures=0 contacts=30 fullworld_unavailable=5

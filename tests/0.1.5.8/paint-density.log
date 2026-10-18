@@ -1,0 +1,5 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+PAINT_DENSITY_PASS objects=45 assertions=273 world_units_per_texel=2 ground=1100x750 source_unmodified=true cache_stable=true deterministic=true premultiplied_edges=true

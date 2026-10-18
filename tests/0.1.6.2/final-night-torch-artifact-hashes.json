@@ -1,0 +1,14 @@
+{
+  "animal_gait.gd": {
+    "sha256": "f677cf03232c3aacde6dfe1cc002dd6fbacfa4b301857e1c8cc3396a8796d97b",
+    "same_as_independent_final_audit": true
+  },
+  "assets/animal_atlas.json": {
+    "sha256": "c1710d7b98fd88a5d7987679d8dbebc9287df5a54bd9b8046bca0362cde37a38",
+    "same_as_independent_final_audit": true
+  },
+  "assets/animal-skin-topology.bin": {
+    "sha256": "6559021db0830595ca751d316875e84e92b9b968e2f7023eee8debbca920ca98",
+    "same_as_independent_final_audit": true
+  }
+}

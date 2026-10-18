@@ -1,0 +1,9 @@
+test_crc_checked_only_desired_member_without_full_archive_download (__main__.RemoteZipContractTests.test_crc_checked_only_desired_member_without_full_archive_download) ... ok
+test_curl_failure_rejects_without_retrying_full_download (__main__.RemoteZipContractTests.test_curl_failure_rejects_without_retrying_full_download) ... ok
+test_missing_content_range_rejects_full_response (__main__.RemoteZipContractTests.test_missing_content_range_rejects_full_response) ... ok
+test_wrong_body_length_rejected (__main__.RemoteZipContractTests.test_wrong_body_length_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.013s
+
+OK

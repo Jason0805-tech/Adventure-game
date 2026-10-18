@@ -1,0 +1,61 @@
+0.1.5.3 ART PROVENANCE
+New torso artwork: built-in imagegen with actual transparent alpha.
+Consumed source: assets/painted-torso-source.png
+References: approved 0.1.5.2 art-style demo and the 0.1.5.3 torso heading guide.
+
+Use case: style-transfer.
+Asset type: production 2D game puppet torso atlas, TRUE transparent background.
+Image 1 is the APPROVED 2D painted traveler character/style. Image 2 is ONLY the exact body/head/backpack yaw and silhouette reference, with arms and legs deliberately omitted. Image 3 is approved painted environment style.
+
+Create a 4 columns x 4 rows sheet of 16 ARMLESS AND LEGLESS traveler TORSO cutouts, on real transparent alpha. Each cutout contains ONLY head, blue beanie + gold pompom, tiny rough dot eyes, orange hair, mustard coat body down to its rounded bottom hem, and olive backpack + bedroll. No arms, sleeves hanging outside body, hands, fingers, legs, trousers, boots, weapon, shadows, backdrop, paper, text, labels or grid lines. Arms and legs will be attached by the game animation rig; adding any here creates duplicate limbs. The yellow coat is a compact body garment with shoulders ready for separate sleeve attachment, not a long dress.
+
+Exact same cozy 2D oil/gouache style and proportions as image 1: broad irregular opaque brush masses, few features, matte flat paint, tiny rough eyes, warm ochre coat, teal-blue hat, olive pack. NOT a 3D model, realistic volume, plastic, smooth shading or fine realistic texture. Image 2 must be REPAINTED in image 1's art style, do not retain its rendering appearance. No shiny outlines or glow.
+
+Follow the exact yaw in each corresponding cell of image 2. Left-to-right then top-to-bottom:
+0,30,45,60 / 90,120,135,150 / 180,210,225,240 / 270,300,315,330.
+0 front face; 90 profile facing RIGHT; 180 back; 270 profile facing LEFT.
+120,135,150 are rear views turned to screen RIGHT, diminishing cheek on RIGHT, not left.
+210,225,240 are rear views turned to screen LEFT, cheek on LEFT, not right.
+30 and 330 are shallow turns near front; 45 and315 diagonals; 60 and300 approach profiles.
+Head, torso, coat and backpack turn together, keep angle changes subtle and true, never accidentally reverse rear views.
+
+Sixteen evenly spaced complete cutouts at equal scale. Keep every torso fully isolated within its own cell with generous transparent margins. Pompom/face/coat all connected as one character cutout; preserve rough hand-painted edges and actual alpha. No baked ground shadow or foot circle. No new costume, accessories or design changes.
+
+Retained environment/material artwork from 0.1.5.2:
+FOREST WANDERER 0.1.5.2 — ART PROMPTS
+Generated with the built-in image_gen tool. Transparent assets preserve generated alpha.
+The traveler and held-weapon atlases are renders of one shared 3D model, textured using paint-materials.png; they are not independently generated poses.
+
+harvest-nodes.png
+Production game sprite atlas, same loose muted oil-painted cartoon forest brushwork as reference. True transparent background. EXACT regular grid 3 columns by 6 rows; all cells isolated with wide transparent gutters, every object contained in central 65 percent of its cell, no overlap. Each object small, slightly overhead ground view, soft irregular paint edges, no black outlines, no realism. Row 1: three different knee-high WOODY FOREST SHRUBS with small teal leaves and exposed fallen sticks at roots, some terracotta berries. Row 2: three different small half-buried GREY ROCK OUTCROPS with moss, 2-4 stones each, sparse matching sage grass. Row 3: three different harvestable FIBROUS GRASS AND REED TUFTS, muted sage green and ochre dried stems, small natural clumps. Row 4: depleted matching woody shrub bases: tiny pruned twig stump, few low leaves, almost no tall branches. Row 5: depleted matching rock outcrops: low gravel and fragments, almost no large stones. Row 6: depleted matching grass tufts: low clipped stems and a few short leaves. The intact and depleted objects share muted colors, ground contact and footprint, not pickup icons. Irregular human brush marks and broad simple paint masses, sparse details. No dirt disks, hard ground borders, text, shadows, labels, frames, surrounding scenery. 1024x2048 tall sheet.
+
+cabin-props.png
+Game sprite atlas in the exact same loose oil-painted cartoon style and palette as reference image. True transparent alpha background, not an opaque green background. Regular 3 columns by 2 rows. Each asset inside its own cell with wide transparent gutters. Top left cell: the reference small brown timber cabin with terracotta roof, dark doorway and two porch steps, WITHOUT ANY LOG PILE, BARREL, CRATE, STONES OR OTHER PROPS beside it. Cabin is isolated building only; small grass at the wall allowed, no broad ground disk. Top middle: isolated short stack of three horizontal cut timber logs, exposed pale ochre round ends, dark brown bark and a few small sage grass strokes at feet. Top right: another variant stack of logs, four short timbers. Bottom left: isolated squat wooden barrel with broad dark hoops and a little sage grass at base. Bottom middle: isolated small wooden packing crate. Bottom right: isolated smaller weathered wooden crate. All use slightly overhead flat-2D game view, broad irregular hand-painted oil/gouache brush marks, muted colors, no sharp realism, no pixel art, no outlines. NO BAKED CAST SHADOWS, text or labels, no props connected to cabin. All objects ground feet clearly readable. The cabin can be larger than props inside its own cell, but never cross the cell edge.
+
+paint-materials.png
+Game material texture atlas, painterly oil/gouache made by irregular HUMAN brushstrokes. Exact regular 3 columns x 2 rows of six seamless-ish full filled swatches; no objects, no borders, no typography. Top row swatches: golden ochre yellow jacket paint; muted deep teal-blue hat paint; mossy forest olive green backpack paint. Bottom row: dusky teal trousers paint; warm muted terracotta brown leather boots paint; soft peach face and hands paint. Each swatch must be a flat diffuse material in a narrow range of its single base hue, medium broad brush patches, occasional dry-brush texture, no specular shine, no 3D, no shadows, no gradients into other swatches. Light contrast, 80 percent flat harmonious painterly color, 20 percent visible hand brushed patches. Exactly horizontal and vertical grid separation, fill every swatch to its edges. 1536x1024.
+
+status-icons.png
+Two small hand-painted game HUD icons on a genuinely transparent background, one horizontal row, generous empty gutter between them. LEFT: simple warm terracotta-red painted HEART representing health, a few irregular oil/gouache strokes, no gloss. RIGHT: simple golden ochre WHEAT sprig with two olive leaves representing hunger and fullness. Same rustic muted forest cartoon oil-painted style, broad shapes legible at 24 pixels, no tiny decorative detail, no black outlines. No circles or badges behind icons, no text, no gradients into transparent space, no shadows, each object confined within middle half of its equal cell.
+
+0.1.5.5 WORKBENCH / STUMP / ORE SPRITE PROMPT
+Make a transparent 2D sprite atlas, exact 3 columns x 2 rows, for the same cozy top-down forest game as the attached references. Broad loose opaque oil/gouache brush marks, matte flat shapes, low detail, irregular hand-painted edges, muted moss green, teal-blue, gray stone and ochre wood. Match their painted-game look; NOT photorealistic, NOT a 3D/isometric render, no glossy materials, no gradient lighting, outlines, scenery, ground disks, text, labels or cast shadows. Keep true transparent alpha around every sprite. Each cell has one isolated complete object with generous transparent gutters, same slightly overhead 2D game view, similar scale. Exact 1536x1024.
+Row 1: (1) compact sturdy wooden workbench with a few painted tools on top; (2) broad freshly cut tree stump with pale ochre cut top, rough short roots and tiny moss; (3) smaller crooked older stump variant.
+Row 2: three distinct small low blue-gray iron ore outcrops with only a few muted teal mineral flecks and sparse moss; vary their silhouettes while keeping each readable at tiny game size. Ensure exactly six complete sprites, one per cell, centered and never crossing cell boundaries.
+
+0.1.5.5 INVENTORY ICON PROMPT
+Create a true-transparent 2D inventory icon atlas, exact regular 3 columns x 3 rows, for a cozy top-down hand-painted forest game. The attached harvest sprites and meadow are the style reference: loose irregular opaque oil/gouache brush strokes, simplified broad shapes, very few details, matte flat paint, muted moss green, blue-gray, teal and warm ochre. Match their approachable painted 2D game style; no realistic 3D, no isometric render, no glossy lighting, no photoreal textures, no smooth gradients, no outlines, no badges, no scenery, no shadows, no text, no labels, no borders. Each cell has one clear centered isolated item icon with large transparent margins, distinguishable when displayed at 36 pixels. Exact 1536x1536 sheet, transparent alpha.
+Cell order left-to-right, top-to-bottom:
+1. A small bundle of freshly cut warm ochre-brown logs, two cut ends visible.
+2. A few blue-gray iron ore stones with two muted teal mineral strokes.
+3. A simple small river fish, painted blue-gray with ochre fins.
+4. A handmade stone pickaxe, plain branch handle and pale gray stone head.
+5. A simple wooden fishing rod with a curved loose pale fiber line and tiny red-ochre float.
+6. A tiny sturdy wooden workbench with broad painted plank shapes.
+7. A handmade iron axe: brown branch handle, compact gray-blue blade with one muted teal accent.
+8. A simple stone axe with ochre wood handle and pale blue-gray stone blade.
+9. A small coiled bundle of olive plant fibers.
+All icons are deliberately simple, flat, broad-brush paintings coherent with the attached sprites. Keep every object fully inside its own cell, no overlap.
+
+0.1.5.7 RENDERING NOTE
+Existing approved painted assets are preserved. The ground detail layer is generated by ground_painter.gd as fixed world-space brush geometry using colours sampled from the meadow. Contour coordinates are authored in collision_profiles.json against the cropped runtime sprites. No new image generation was used for this patch.

@@ -1,0 +1,10 @@
+Use case: precise-object-edit.
+Edit image 1, the newly hand-painted 4x4 traveler direction study. Keep its beautiful flat oil/gouache brush style, its 16-cell layout, ivory background, clothing, head/body proportions, simple dot eyes and scale. Image 2 is the accurate heading/arm guide. Image 3 is supporting environment art style ONLY.
+
+Correct the geometrically wrong orientations and right-hand continuity, not the art style. 0 faces down/front, 90 screen RIGHT, 180 up/back, 270 screen LEFT. Image 1 is wrong at labels 120/135/150 and 210/225/240: these two groups were drawn facing the wrong side. REDRAW these poses anatomically, using the corresponding cells of image 2, never mirror the whole armed person.
+- 120,135,150: back three-quarter views turned toward screen RIGHT, with a diminishing sliver of face/nose on the RIGHT edge of the head; backpack visible on LEFT/center. 150 is nearly rear.
+- 210,225,240: back three-quarter views turned toward screen LEFT, with a diminishing sliver of face/nose on the LEFT edge of the head; backpack visible on RIGHT/center. 210 is nearly rear.
+- 30: only a shallow rightward rotation from front, not almost a profile. 45 true diagonal. 60 more profile. 300 nearly left profile, 315 diagonal front-left, 330 only shallow leftward rotation.
+All angle labels and cell order stay identical: 0,30,45,60 / 90,120,135,150 / 180,210,225,240 / 270,300,315,330.
+Same anatomical RIGHT hand in every view; carry the sword on viewer-left for front 0,30,45,60, naturally partly occluded as the arm turns away at 90. For rear 180 his right hand is on viewer-right. At 270 left profile the sword is on the near right hand pointing screen-left. At 120/135/150 the sword is on the right edge, at 210/225/240 far right hand is partly hidden. Do not switch to left hand just to display sword. Let the coat occlude far hands if necessary, faithful to image 2 guide. Fixed relaxed standing pose, both boots grounded; compact legs, no new accessories, no extra poses.
+DO NOT introduce any 3D look. Preserve image 1 broad irregular brush patches, no smooth shading or shiny effects. This is an ART DEMO, not a rendering of the 3D guide.

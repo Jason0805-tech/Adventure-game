@@ -1,0 +1,11 @@
+{
+  "source": "same runtime meadow texture and static mesh, software Canvas replay",
+  "width": 1100,
+  "height": 720,
+  "changedPixels": 106025,
+  "changedFraction": 0.1338699494949495,
+  "meanAbsoluteChannelDifference": 0.13443223905723906,
+  "maxChannelDifference": 18,
+  "meshVertexColorMode": "mean of triangle vertices",
+  "nativeGPUFrame": false
+}

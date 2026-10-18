@@ -1,0 +1,13 @@
+{
+	"checks": 3320,
+	"distinct_own_shore_stones": 17,
+	"failure_labels": [],
+	"failures": 0,
+	"method": "Native source-art points manually selected before reading or executing new collision contours. Physical expectation is top-down ground volume, not opaque visual silhouette. Tall upper wood/roof/table/arch pixels are explicitly negative tests. All 48 exported profiles, all 17 shoreline stones. Current field branch/fiber and spent nodes intentionally soft. Actor-capsule-free assertions are separate from source center coverage. Initial five root points were found on low foliage after independent 4x source inspection; retained as center-negative, with new bare-wood points added. Initial failed report is preserved.",
+	"negative_instance_samples": 311,
+	"positive_instance_samples": 172,
+	"profile_count": 48,
+	"real_movement_cases": 940,
+	"source_landmarks": 118,
+	"version": "0.1.5.11"
+}

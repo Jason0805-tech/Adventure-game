@@ -1,0 +1,9 @@
+FOREST WANDERER 0.1.5.6 CHECKS (2026-10-14)
+
+PASS: 10 pacing checks: straight and diagonal movement at 108 units/second, distance-based walk animation, three-minute countdown, midday fraction, pause, automatic night transition at 180 seconds, and the next morning reset.
+PASS: All 27 existing harvesting/crafting/backpack/tool/NPC checks.
+PASS: Newly packaged ForestWanderer0156 started from /tmp, printed GAME_READY 0.1.5.6 and exited with code 0.
+PASS: App signature verified by the packaging script; 48 source/art files match the bundled resources by SHA-256.
+
+Logs: pacing.log, features.log, package.log, app-startup.log.
+A native graphics-window play session was not performed. Sandbox access restrictions caused Godot user-data/log directory and macOS certificate messages; they did not prevent the checks or startup.
