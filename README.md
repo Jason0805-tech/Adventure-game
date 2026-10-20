@@ -17,7 +17,7 @@ This project is actively under development.
 | Category | Details |
 |---|---|
 | Game | Forest Wanderer |
-| Current Version | v0.1.6.3 |
+| Current Version | v0.1.6-alpha.4 |
 | Development Status | Early Development |
 | Game Engine | Godot 4.7 |
 | Programming Language | GDScript |
@@ -160,7 +160,7 @@ Additional development and debugging controls may be available.
 
 4. Locate the following directory:
 
-   `output/0.1.6 series/adventure game 0.1.6.3/`
+   `output/0.1.6 series/adventure game 0.1.6.4/`
 
 5. Select `project.godot`.
 
@@ -178,7 +178,7 @@ The web distribution includes browser-compatible game files and additional launc
 
 Some browsers may require the game to be served through a local web server rather than opened directly as a local HTML file.
 
-For additional information, refer to the web instructions included with v0.1.6.3.
+For additional information, refer to the web instructions included with v0.1.6-alpha.4.
 
 ### Mobile Browser Testing
 
@@ -272,7 +272,7 @@ The project is not yet considered a stable final release.
 
 The repository preserves multiple development versions.
 
-The current documented version is **v0.1.6.3**.
+The current documented version is **v0.1.6-alpha.4**.
 
 Earlier versions remain available for development reference and comparison.
 

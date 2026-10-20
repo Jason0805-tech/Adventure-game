@@ -1162,3 +1162,45 @@
 "素材整理/角色动画/高清角色_0.1.5.10/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
 "素材整理/角色动画/高清角色_0.1.5.10/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
 "问题报告/0.1.5.9.png" filter=lfs diff=lfs merge=lfs -text
+# v0.1.6-alpha.4 release files >= 1 MiB
+"output/0.1.6 series/adventure game 0.1.6.4/Forest Wanderer 0.1.6.4 - Web.zip" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/assets/animal-skin-topology.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/tools/web_nothreads_release.zip" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/web-share/cover.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/web-share/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/web-share/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/web-share/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/web-share/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/web-share/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/web-share/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/web-share/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/web-share/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/web-share/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/web-share/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/web-share/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/web-share/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/web-share/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/web-share/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
