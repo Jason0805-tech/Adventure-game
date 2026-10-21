@@ -27,3 +27,7 @@
 `main.gd` 是入口；新的理智规则在 `sanity_system.gd`，平衡数值在 `survival_balance.gd`，捕食者战术在 `predator_behavior.gd`。`assets/` 是原始高清素材。`tools/` 内保留官方单线程 Web 导出模板，所以再次导出不依赖旧版本文件夹。
 
 详细修改、数值和验证范围见 **CHANGELOG.md**。所有测试脚本、日志和截图保存在项目根目录的 `tests/0.1.6.4/`。
+
+## 版权与许可
+
+本版本中由 Jason0805-tech 拥有或有权管理的原创代码、文档和游戏素材均保留所有权利。未经权利人事先书面许可，不授权个人、教育、非商业、商业或其他用途。GitHub 站内浏览和 Fork 仍受 GitHub 条款约束；第三方组件继续遵守其各自许可证。详见 [LICENSE.txt](LICENSE.txt) 和 [ENGINE_LICENSES.txt](ENGINE_LICENSES.txt)。
