@@ -1,39 +1,28 @@
-Source Code License
+Forest Wanderer — All Rights Reserved
 
-The MIT License below applies only to original source code
-and associated software documentation for Forest Wanderer
-to which the copyright holder has the right to grant this license.
+Copyright © 2026 Jason0805-tech
 
-It does not apply to game artwork, character designs,
-sprites, textures, animations, sound, fonts, third-party
-materials, or bundled game assets.
+All original material in this repository that Jason0805-tech owns or is
+authorized to control, including source code, scripts, documentation, game
+designs, artwork, characters, sprites, textures, animations, audio, and other
+project files, is proprietary and all rights are reserved.
 
-See ASSETS_LICENSE.md for additional information.
+No permission is granted to use, copy, reproduce, modify, adapt, distribute,
+publish, sell, publicly display, perform, or create derivative works from
+that material, whether for personal, private, educational, non-commercial, or
+commercial purposes, without prior written permission from the applicable
+rights holder. This restriction applies unless a separate written permission
+or an applicable third-party license says otherwise, and is subject to uses
+that cannot be restricted under applicable law.
 
-------------------------------------------------------------
+This notice does not override GitHub's Terms of Service. While this repository
+is public, GitHub's terms permit other users to view and fork repository
+content through GitHub's service. This notice does not grant permission for
+use outside rights provided by GitHub's terms.
 
-MIT License
+Third-party software, fonts, libraries, and other materials are not covered by
+this notice and remain subject to their own license terms. Existing third-party
+license notices must be preserved.
 
-Copyright (c) 2026 Jason0805-tech
-
-Permission is hereby granted, free of charge, to any person
-obtaining a copy of this software and associated documentation
-files (the "Software"), to deal in the Software without
-restriction, including without limitation the rights to use,
-copy, modify, merge, publish, distribute, sublicense, and/or
-sell copies of the Software, and to permit persons to whom
-the Software is furnished to do so, subject to the following
-conditions:
-
-The above copyright notice and this permission notice shall
-be included in all copies or substantial portions of the
-Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
-KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
-WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
-PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS
-OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
-OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+For written permission, contact the rights holder through:
+https://github.com/Jason0805-tech

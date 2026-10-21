@@ -294,16 +294,19 @@ The project does not currently maintain a formal contribution process.
 
 ## 📜 License
 
-Original source code is available under the MIT License.
+Original project material owned or controlled by Jason0805-tech is proprietary
+and all rights are reserved. Personal, private, educational, commercial, and
+other reuse requires prior written permission from the applicable rights
+holder.
 
-Original game artwork, character designs, sprites, textures, and other creative assets are not covered by the MIT License and remain subject to separate restrictions.
+Because this repository is public, GitHub's Terms of Service still allow users
+to view and fork content through GitHub. The rights notice cannot remove those
+platform rights. Third-party materials remain under their own licenses.
 
 See:
 
 - [LICENSE](LICENSE)
 - [ASSETS_LICENSE.md](ASSETS_LICENSE.md)
-
-Third-party materials remain subject to their respective licenses.
 
 ---
 
