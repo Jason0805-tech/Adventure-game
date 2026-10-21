@@ -529,607 +529,607 @@
 "output/adventure game 0.1.4/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
 "output/adventure game 0.1.4/assets/traveler-directions.png" filter=lfs diff=lfs merge=lfs -text
 "output/adventure game （English version）0.1.1/Forest Wanderer.app/Contents/MacOS/ForestWanderer" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.4/early-side-view-draft.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/captures/texture-60447--9223372000666319211.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/captures/texture-60447--9223372001857501581.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/captures/texture-60682--9223372000783759722.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/captures/texture-60682--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/captures/texture-60683--9223372000414660969.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/captures/texture-60683--9223372001538734476.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/captures/texture-60819--9223372000766982506.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/captures/texture-60819--9223372001891056013.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/captures/texture-61908--9223372001387739516.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/captures/texture-61908--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/captures/texture-61908--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/captures/texture-61908--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/captures/texture-61939--9223372001018640763.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/captures/texture-61939--9223372001236744578.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/captures/texture-61939--9223372001303853444.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/captures/texture-61939--9223372001538734476.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/captures/texture-62116--9223372001370962300.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/captures/texture-62116--9223372001589066115.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/captures/texture-62116--9223372001656174981.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/captures/texture-62116--9223372001891056013.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/quality-comparisons/camp-1x.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/quality-comparisons/camp-2x.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/quality-comparisons/forest-1x.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/quality-comparisons/forest-2x.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/quality-comparisons/pond-1x.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/quality-comparisons/pond-2x.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/terrain-sources/ne.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/terrain-sources/nw.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/terrain-sources/se.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.10/terrain-sources/sw.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/all-model-contact-poses.json" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-63932--9223372001354185084.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-63932--9223372001572288899.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-63932--9223372001639397765.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-63932--9223372001874278797.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-63942--9223372001354185084.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-63942--9223372001572288899.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-63942--9223372001639397765.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-63942--9223372001874278797.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-64176--9223372001018640763.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-64176--9223372001236744578.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-64176--9223372001303853444.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-64176--9223372001538734476.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-64198--9223372001387739516.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-64198--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-64198--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-64198--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-64290--9223372001320630652.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-64290--9223372001538734467.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-64290--9223372001605843333.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-64290--9223372001840724365.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-64300--9223372001387739516.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-64300--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-64300--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-64300--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-65091--9223372001387739516.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-65091--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-65091--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-65091--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-65095--9223372001018640763.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-65095--9223372001236744578.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-65095--9223372001303853444.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-65095--9223372001538734476.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-65194--9223372001387739516.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-65194--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-65194--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-65194--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-65343--9223372001354185084.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-65343--9223372001572288899.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-65343--9223372001639397765.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/captures/texture-65343--9223372001874278797.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/footprint-authoring/all-48-ground-footprints.jpg" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/visual-acceptance/model-front-back-1.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.11/visual-acceptance/model-front-back-2.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/art-style-demo/001/directions-draft-2.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/art-style-demo/001/directions-draft.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/art-style-demo/001/directions-style-demo.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/art-style-demo/001/game-scene-demo.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/behind-logs.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/day.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/forest-and-low-vitals.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/in-front-of-logs.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/texture--9223372001689729364.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/texture--9223372004306975130.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/texture--9223372004323752346.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/texture--9223372004776737329.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/texture--9223372004793514545.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/texture--9223372004843846194.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/texture--9223372004860623410.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/turn-00.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/turn-01.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/turn-02.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/turn-03.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/turn-04.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/turn-05.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/turn-06.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/turn-07.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/turn-08.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/turn-09.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/turn-10.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/turn-11.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/walk-00.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/walk-01.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/walk-02.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/walk-03.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/walk-04.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/walk-05.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/walk-06.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/captures/walk-07.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/retired-art/step-contact-b.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/retired-art/step-pass-a.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/retired-art/step-pass-b.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/retired-art/traveler-directions.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/retired-art/walk-down.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/retired-art/walk-left.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.2/retired-art/walk-right.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/behind-logs.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/day.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/forest-and-low-vitals.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/in-front-of-logs.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/texture--9223372004306975130.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/texture--9223372004323752346.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/texture--9223372004776737329.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/texture--9223372004793514545.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/texture--9223372004843846194.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/texture--9223372004860623410.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/turn-00.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/turn-01.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/turn-02.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/turn-03.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/turn-04.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/turn-05.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/turn-06.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/turn-07.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/turn-08.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/turn-09.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/turn-10.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/turn-11.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/turn-12.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/turn-13.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/turn-14.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/turn-15.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/walk-00.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/walk-01.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/walk-02.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/walk-03.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/walk-04.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/walk-05.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/walk-06.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.3/captures/walk-07.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/behind-logs.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/camp-contours.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/day-overview.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/felled-stump-contour.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/forest-detail.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/ground-after.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/ground-before.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/in-front-of-logs.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/lake-contours.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/mesh--9223372009692461615.json" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/mesh--9223372009692461615.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/mesh-40314--9223372001488402798.json" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/mesh-40314--9223372001488402798.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/mesh-41337--9223372001454848366.json" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/mesh-41337--9223372001454848366.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/texture--9223372009742793265.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/texture-40314--9223372001572288881.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/texture-40314--9223372002478258571.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/texture-40314--9223372002545367437.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/texture-40314--9223372002612476465.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/texture-41337--9223372001538734449.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/texture-41337--9223372002444704139.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/texture-41337--9223372002511813005.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/texture-41337--9223372002578921873.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/tree-hit-00.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/tree-hit-01.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/tree-hit-02.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/tree-hit-03.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/workbench-back.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.7/captures/workbench-front.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.8/independent-solid-landmarks.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.8/captures/all-bank-stones.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.8/captures/complete-house-solid.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.8/captures/day-camp.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.8/captures/log-contact.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.8/captures/stone-gate.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.8/captures/texture-42665--9223372001068972397.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.8/captures/texture-42665--9223372002260154767.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.8/captures/texture-43007--9223372001068972397.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.8/captures/texture-43007--9223372002260154767.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.8/captures/world-paint-density.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.8/density-renders/meadow-after.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.8/density-renders/meadow-before.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.8/density-renders/paint-density-before-after.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.8/density-renders/paint-density-before-after.svg" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/all-model-contact-poses.json" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/app-icon-demos/rowan-icon-A-forest-green.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/app-icon-demos/rowan-icon-B-warm-closeup.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/app-icon-demos/rowan-icon-C-twilight-blue.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/captures/texture-45277--9223372001068972397.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/captures/texture-45277--9223372002260154767.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/captures/texture-45368--9223372000716650859.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/captures/texture-45368--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/captures/texture-45427--9223372000347552106.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/captures/texture-45427--9223372001538734476.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/captures/texture-45448--9223372000716650859.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/captures/texture-45448--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/captures/texture-45545--9223372000347552106.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/captures/texture-45545--9223372001538734476.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/captures/texture-45609--9223372000716650859.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/captures/texture-45609--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/captures/texture-45719--9223372000347552106.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/captures/texture-45719--9223372001538734476.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/captures/texture-45761--9223372000716650859.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/captures/texture-45761--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/captures/texture-45890--9223372000347552106.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/captures/texture-45890--9223372001538734476.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/captures/texture-45940--9223371978268735354.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/captures/texture-45940--9223371979459917724.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/captures/texture-45942--9223372000045562217.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/captures/texture-45942--9223372001236744587.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/captures/texture-46063--9223372000045562217.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/captures/texture-46063--9223372001236744587.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/contact-sheets/models-1.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/contact-sheets/models-2.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.5.9/contact-sheets/models-3.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/art/all-eight-directions-native.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/art/mip-qa/bear-mip0.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/art/mip-qa/deer-mip0.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/art/mip-qa/fox-mip0.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/art/mip-qa/rabbit-mip0.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/art/mip-qa/wolf-mip0.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-66862--9223372001001863538.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-66862--9223372001152858487.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-66862--9223372001219967353.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-66862--9223372001287076219.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-66862--9223372001354185085.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-66862--9223372001421293951.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-66862--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-66862--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-66862--9223372001840724361.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-66954--9223372001001863538.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-66954--9223372001152858487.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-66954--9223372001219967353.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-66954--9223372001287076219.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-66954--9223372001354185085.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-66954--9223372001421293951.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-66954--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-66954--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-66954--9223372001840724361.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67064--9223372001001863538.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67064--9223372001152858487.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67064--9223372001219967353.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67064--9223372001287076219.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67064--9223372001354185085.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67064--9223372001421293951.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67064--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67064--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67064--9223372001840724361.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67108--9223372001001863538.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67108--9223372001287076219.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67108--9223372001354185085.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67108--9223372001421293951.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67108--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67108--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67108--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67199--9223372000850868594.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67199--9223372001001863543.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67199--9223372001068972409.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67199--9223372001136081275.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67199--9223372001203190141.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67199--9223372001270299007.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67199--9223372001454848387.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67199--9223372001521957253.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67199--9223372001756838285.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67243--9223372001001863538.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67243--9223372001152858487.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67243--9223372001219967353.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67243--9223372001287076219.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67243--9223372001354185085.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67243--9223372001421293951.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67243--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67243--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67243--9223372001773615495.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67243--9223372001840724361.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67266--9223372000850868594.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67266--9223372001001863543.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67266--9223372001068972409.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67266--9223372001136081275.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67266--9223372001203190141.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67266--9223372001270299007.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67266--9223372001454848387.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67266--9223372001521957253.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/texture-67266--9223372001756838285.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/wildlife-day-demo.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/wildlife-day-natural.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/wildlife-walk-bear-0.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/wildlife-walk-bear-1.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/wildlife-walk-bear-2.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/wildlife-walk-bear-3.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/wildlife-walk-deer-0.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/wildlife-walk-deer-1.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/wildlife-walk-deer-2.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/wildlife-walk-deer-3.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/wildlife-walk-fox-0.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/wildlife-walk-fox-1.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/wildlife-walk-fox-2.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/wildlife-walk-fox-3.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/wildlife-walk-rabbit-0.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/wildlife-walk-rabbit-1.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/wildlife-walk-rabbit-2.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/wildlife-walk-rabbit-3.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/wildlife-walk-wolf-0.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/wildlife-walk-wolf-1.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/wildlife-walk-wolf-2.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/captures/wildlife-walk-wolf-3.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/MacOS/GodotRuntime" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/MacOS/GodotRuntime" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.1/art-revision/uv-proof-geometry.json" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.1/captures/before-dawn.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.1/captures/dawn.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.1/captures/noon.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.1/captures/texture-69196--9223371999743572332.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.1/captures/texture-69196--9223371999894567281.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.1/captures/texture-69196--9223371999961676147.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.1/captures/texture-69196--9223372000028785013.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.1/captures/texture-69196--9223372000095893879.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.1/captures/texture-69196--9223372000163002745.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.1/captures/texture-69196--9223372000347552125.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.1/captures/texture-69196--9223372000414660991.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.1/captures/texture-69196--9223372000582433155.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.1/captures/texture-69943--9223371999710017900.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.1/captures/texture-69943--9223371999861012849.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.1/captures/texture-69943--9223371999928121715.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.1/captures/texture-69943--9223371999995230581.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.1/captures/texture-69943--9223372000062339447.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.1/captures/texture-69943--9223372000129448313.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.1/captures/texture-69943--9223372000313997693.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.1/captures/texture-69943--9223372000381106559.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.1/captures/texture-69943--9223372000548878723.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.1/gait/gait-geometry.json" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.1/gait/sequential-locomotion.gif" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.1/previews/five-animal-cycle.gif" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/release-source.zip" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/work-in-progress-source.zip" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/before-dawn.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/dawn.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/noon.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-71993--9223371999743572332.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-71993--9223371999894567281.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-71993--9223371999961676147.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-71993--9223372000028785013.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-71993--9223372000095893879.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-71993--9223372000163002745.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-71993--9223372000347552125.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-71993--9223372000414660991.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-71993--9223372000649542023.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-71995--9223371999743572332.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-71995--9223371999894567281.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-71995--9223371999961676147.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-71995--9223372000028785013.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-71995--9223372000095893879.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-71995--9223372000163002745.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-71995--9223372000347552125.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-71995--9223372000414660991.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-71995--9223372000582433155.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-72621--9223371999743572332.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-72621--9223371999894567281.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-72621--9223371999961676147.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-72621--9223372000028785013.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-72621--9223372000095893879.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-72621--9223372000163002745.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-72621--9223372000347552125.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-72621--9223372000414660991.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-72621--9223372000649542023.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-72885--9223371999743572332.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-72885--9223371999894567281.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-72885--9223371999961676147.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-72885--9223372000028785013.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-72885--9223372000095893879.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-72885--9223372000163002745.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-72885--9223372000347552125.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-72885--9223372000414660991.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-72885--9223372000649542023.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73025--9223371999743572332.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73025--9223371999894567281.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73025--9223371999961676147.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73025--9223372000028785013.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73025--9223372000095893879.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73025--9223372000163002745.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73025--9223372000347552125.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73025--9223372000414660991.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73025--9223372000582433155.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73280--9223371999743572332.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73280--9223371999894567281.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73280--9223371999961676147.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73280--9223372000028785013.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73280--9223372000095893879.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73280--9223372000163002745.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73280--9223372000347552125.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73280--9223372000414660991.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73280--9223372000582433155.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73325--9223371999743572332.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73325--9223371999894567281.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73325--9223371999961676147.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73325--9223372000028785013.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73325--9223372000095893879.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73325--9223372000163002745.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73325--9223372000347552125.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73325--9223372000414660991.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/captures/texture-73325--9223372000649542023.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/MacOS/GodotRuntime" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/animal-skin-topology.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/gait-uv/independent_geometry/bear-1.json" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/gait-uv/independent_geometry/bear-2.json" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/gait-uv/independent_geometry/bear-3.json" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/gait-uv/independent_geometry/bear-5.json" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/gait-uv/independent_geometry/bear-6.json" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/gait-uv/independent_geometry/bear-7.json" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/gait-uv/independent_geometry/deer-2.json" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/gait-uv/independent_geometry/deer-6.json" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/gait-uv/independent_geometry/wolf-2.json" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/gait-uv/independent_geometry/wolf-6.json" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/previews/five-animal-cycle.gif" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.2/previews/original-paint-and-walk.gif" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/raw-assets-probe.pck" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/raw-export-fixture.pck" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/before-feedback/Forest Wanderer 0.1.6.3 - Web.zip" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/before-feedback/Forest Wanderer 0.1.6.3.html" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/before-feedback/web 2/game.pck" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/before-feedback/web 2/game.wasm" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/Forest Wanderer 0.1.6.3 - Web.zip" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/Forest Wanderer 0.1.6.3.html" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/assets/animal-skin-topology.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/web/game.pck" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/web/game.wasm" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/web-share/cover.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/site-source/cover-original.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/site-source/dist/cover.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/site-source/dist/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/site-source/dist/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/site-source/dist/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/site-source/dist/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/review-fixes/site-source/dist/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/site-source/cover-original.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/site-source/dist/cover.png" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/site-source/dist/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/site-source/dist/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/site-source/dist/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/site-source/dist/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/site-source/dist/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/site-source/dist/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/site-source/dist/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/site-source/dist/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/site-source/dist/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/site-source/dist/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/site-source/dist/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/site-source/dist/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/site-source/dist/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/site-source/dist/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/web-template-api/web_nothreads_release.zip" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/web-template-api/parallel/0" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/web-template-api/parallel/1" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/web-template-api/parallel/2" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/web-template-api/parallel/3" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/web-template-api/parallel/4" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/web-template-api/parallel/5" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/web-template-api/parallel/6" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/web-template-api/parallel/7" filter=lfs diff=lfs merge=lfs -text
-"tests/0.1.6.3/web-template-api/parallel/8" filter=lfs diff=lfs merge=lfs -text
-"tests/art-previews/001/oil-cartoon-scene.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.4/early-side-view-draft.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/captures/texture-60447--9223372000666319211.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/captures/texture-60447--9223372001857501581.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/captures/texture-60682--9223372000783759722.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/captures/texture-60682--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/captures/texture-60683--9223372000414660969.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/captures/texture-60683--9223372001538734476.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/captures/texture-60819--9223372000766982506.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/captures/texture-60819--9223372001891056013.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/captures/texture-61908--9223372001387739516.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/captures/texture-61908--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/captures/texture-61908--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/captures/texture-61908--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/captures/texture-61939--9223372001018640763.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/captures/texture-61939--9223372001236744578.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/captures/texture-61939--9223372001303853444.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/captures/texture-61939--9223372001538734476.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/captures/texture-62116--9223372001370962300.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/captures/texture-62116--9223372001589066115.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/captures/texture-62116--9223372001656174981.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/captures/texture-62116--9223372001891056013.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/quality-comparisons/camp-1x.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/quality-comparisons/camp-2x.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/quality-comparisons/forest-1x.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/quality-comparisons/forest-2x.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/quality-comparisons/pond-1x.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/quality-comparisons/pond-2x.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/terrain-sources/ne.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/terrain-sources/nw.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/terrain-sources/se.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.10/terrain-sources/sw.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/all-model-contact-poses.json" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-63932--9223372001354185084.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-63932--9223372001572288899.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-63932--9223372001639397765.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-63932--9223372001874278797.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-63942--9223372001354185084.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-63942--9223372001572288899.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-63942--9223372001639397765.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-63942--9223372001874278797.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-64176--9223372001018640763.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-64176--9223372001236744578.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-64176--9223372001303853444.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-64176--9223372001538734476.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-64198--9223372001387739516.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-64198--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-64198--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-64198--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-64290--9223372001320630652.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-64290--9223372001538734467.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-64290--9223372001605843333.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-64290--9223372001840724365.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-64300--9223372001387739516.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-64300--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-64300--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-64300--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-65091--9223372001387739516.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-65091--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-65091--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-65091--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-65095--9223372001018640763.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-65095--9223372001236744578.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-65095--9223372001303853444.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-65095--9223372001538734476.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-65194--9223372001387739516.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-65194--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-65194--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-65194--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-65343--9223372001354185084.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-65343--9223372001572288899.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-65343--9223372001639397765.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/captures/texture-65343--9223372001874278797.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/footprint-authoring/all-48-ground-footprints.jpg" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/visual-acceptance/model-front-back-1.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.11/visual-acceptance/model-front-back-2.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/art-style-demo/001/directions-draft-2.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/art-style-demo/001/directions-draft.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/art-style-demo/001/directions-style-demo.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/art-style-demo/001/game-scene-demo.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/behind-logs.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/day.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/forest-and-low-vitals.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/in-front-of-logs.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/texture--9223372001689729364.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/texture--9223372004306975130.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/texture--9223372004323752346.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/texture--9223372004776737329.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/texture--9223372004793514545.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/texture--9223372004843846194.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/texture--9223372004860623410.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/turn-00.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/turn-01.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/turn-02.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/turn-03.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/turn-04.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/turn-05.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/turn-06.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/turn-07.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/turn-08.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/turn-09.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/turn-10.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/turn-11.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/walk-00.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/walk-01.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/walk-02.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/walk-03.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/walk-04.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/walk-05.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/walk-06.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/captures/walk-07.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/retired-art/step-contact-b.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/retired-art/step-pass-a.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/retired-art/step-pass-b.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/retired-art/traveler-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/retired-art/walk-down.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/retired-art/walk-left.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.2/retired-art/walk-right.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/behind-logs.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/day.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/forest-and-low-vitals.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/in-front-of-logs.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/texture--9223372004306975130.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/texture--9223372004323752346.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/texture--9223372004776737329.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/texture--9223372004793514545.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/texture--9223372004843846194.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/texture--9223372004860623410.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/turn-00.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/turn-01.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/turn-02.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/turn-03.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/turn-04.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/turn-05.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/turn-06.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/turn-07.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/turn-08.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/turn-09.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/turn-10.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/turn-11.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/turn-12.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/turn-13.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/turn-14.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/turn-15.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/walk-00.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/walk-01.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/walk-02.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/walk-03.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/walk-04.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/walk-05.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/walk-06.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.3/captures/walk-07.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/behind-logs.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/camp-contours.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/day-overview.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/felled-stump-contour.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/forest-detail.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/ground-after.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/ground-before.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/in-front-of-logs.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/lake-contours.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/mesh--9223372009692461615.json" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/mesh--9223372009692461615.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/mesh-40314--9223372001488402798.json" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/mesh-40314--9223372001488402798.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/mesh-41337--9223372001454848366.json" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/mesh-41337--9223372001454848366.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/texture--9223372009742793265.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/texture-40314--9223372001572288881.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/texture-40314--9223372002478258571.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/texture-40314--9223372002545367437.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/texture-40314--9223372002612476465.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/texture-41337--9223372001538734449.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/texture-41337--9223372002444704139.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/texture-41337--9223372002511813005.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/texture-41337--9223372002578921873.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/tree-hit-00.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/tree-hit-01.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/tree-hit-02.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/tree-hit-03.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/workbench-back.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.7/captures/workbench-front.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.8/independent-solid-landmarks.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.8/captures/all-bank-stones.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.8/captures/complete-house-solid.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.8/captures/day-camp.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.8/captures/log-contact.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.8/captures/stone-gate.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.8/captures/texture-42665--9223372001068972397.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.8/captures/texture-42665--9223372002260154767.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.8/captures/texture-43007--9223372001068972397.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.8/captures/texture-43007--9223372002260154767.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.8/captures/world-paint-density.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.8/density-renders/meadow-after.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.8/density-renders/meadow-before.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.8/density-renders/paint-density-before-after.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.8/density-renders/paint-density-before-after.svg" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/all-model-contact-poses.json" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/app-icon-demos/rowan-icon-A-forest-green.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/app-icon-demos/rowan-icon-B-warm-closeup.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/app-icon-demos/rowan-icon-C-twilight-blue.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/captures/texture-45277--9223372001068972397.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/captures/texture-45277--9223372002260154767.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/captures/texture-45368--9223372000716650859.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/captures/texture-45368--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/captures/texture-45427--9223372000347552106.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/captures/texture-45427--9223372001538734476.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/captures/texture-45448--9223372000716650859.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/captures/texture-45448--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/captures/texture-45545--9223372000347552106.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/captures/texture-45545--9223372001538734476.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/captures/texture-45609--9223372000716650859.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/captures/texture-45609--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/captures/texture-45719--9223372000347552106.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/captures/texture-45719--9223372001538734476.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/captures/texture-45761--9223372000716650859.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/captures/texture-45761--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/captures/texture-45890--9223372000347552106.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/captures/texture-45890--9223372001538734476.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/captures/texture-45940--9223371978268735354.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/captures/texture-45940--9223371979459917724.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/captures/texture-45942--9223372000045562217.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/captures/texture-45942--9223372001236744587.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/captures/texture-46063--9223372000045562217.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/captures/texture-46063--9223372001236744587.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/contact-sheets/models-1.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/contact-sheets/models-2.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.5.9/contact-sheets/models-3.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/art/all-eight-directions-native.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/art/mip-qa/bear-mip0.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/art/mip-qa/deer-mip0.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/art/mip-qa/fox-mip0.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/art/mip-qa/rabbit-mip0.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/art/mip-qa/wolf-mip0.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-66862--9223372001001863538.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-66862--9223372001152858487.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-66862--9223372001219967353.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-66862--9223372001287076219.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-66862--9223372001354185085.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-66862--9223372001421293951.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-66862--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-66862--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-66862--9223372001840724361.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-66954--9223372001001863538.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-66954--9223372001152858487.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-66954--9223372001219967353.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-66954--9223372001287076219.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-66954--9223372001354185085.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-66954--9223372001421293951.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-66954--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-66954--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-66954--9223372001840724361.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67064--9223372001001863538.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67064--9223372001152858487.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67064--9223372001219967353.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67064--9223372001287076219.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67064--9223372001354185085.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67064--9223372001421293951.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67064--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67064--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67064--9223372001840724361.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67108--9223372001001863538.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67108--9223372001287076219.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67108--9223372001354185085.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67108--9223372001421293951.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67108--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67108--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67108--9223372001907833229.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67199--9223372000850868594.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67199--9223372001001863543.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67199--9223372001068972409.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67199--9223372001136081275.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67199--9223372001203190141.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67199--9223372001270299007.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67199--9223372001454848387.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67199--9223372001521957253.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67199--9223372001756838285.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67243--9223372001001863538.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67243--9223372001152858487.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67243--9223372001219967353.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67243--9223372001287076219.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67243--9223372001354185085.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67243--9223372001421293951.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67243--9223372001605843331.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67243--9223372001672952197.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67243--9223372001773615495.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67243--9223372001840724361.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67266--9223372000850868594.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67266--9223372001001863543.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67266--9223372001068972409.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67266--9223372001136081275.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67266--9223372001203190141.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67266--9223372001270299007.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67266--9223372001454848387.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67266--9223372001521957253.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/texture-67266--9223372001756838285.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/wildlife-day-demo.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/wildlife-day-natural.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/wildlife-walk-bear-0.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/wildlife-walk-bear-1.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/wildlife-walk-bear-2.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/wildlife-walk-bear-3.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/wildlife-walk-deer-0.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/wildlife-walk-deer-1.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/wildlife-walk-deer-2.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/wildlife-walk-deer-3.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/wildlife-walk-fox-0.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/wildlife-walk-fox-1.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/wildlife-walk-fox-2.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/wildlife-walk-fox-3.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/wildlife-walk-rabbit-0.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/wildlife-walk-rabbit-1.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/wildlife-walk-rabbit-2.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/wildlife-walk-rabbit-3.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/wildlife-walk-wolf-0.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/wildlife-walk-wolf-1.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/wildlife-walk-wolf-2.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/captures/wildlife-walk-wolf-3.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/MacOS/GodotRuntime" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-5viz56pw/Forest Wanderer.app/Contents/Resources/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/MacOS/GodotRuntime" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6/previous-local-app-9w2liq8o/Forest Wanderer.app/Contents/Resources/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.1/art-revision/uv-proof-geometry.json" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.1/captures/before-dawn.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.1/captures/dawn.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.1/captures/noon.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.1/captures/texture-69196--9223371999743572332.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.1/captures/texture-69196--9223371999894567281.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.1/captures/texture-69196--9223371999961676147.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.1/captures/texture-69196--9223372000028785013.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.1/captures/texture-69196--9223372000095893879.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.1/captures/texture-69196--9223372000163002745.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.1/captures/texture-69196--9223372000347552125.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.1/captures/texture-69196--9223372000414660991.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.1/captures/texture-69196--9223372000582433155.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.1/captures/texture-69943--9223371999710017900.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.1/captures/texture-69943--9223371999861012849.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.1/captures/texture-69943--9223371999928121715.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.1/captures/texture-69943--9223371999995230581.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.1/captures/texture-69943--9223372000062339447.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.1/captures/texture-69943--9223372000129448313.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.1/captures/texture-69943--9223372000313997693.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.1/captures/texture-69943--9223372000381106559.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.1/captures/texture-69943--9223372000548878723.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.1/gait/gait-geometry.json" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.1/gait/sequential-locomotion.gif" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.1/previews/five-animal-cycle.gif" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/release-source.zip" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/work-in-progress-source.zip" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/before-dawn.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/dawn.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/noon.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-71993--9223371999743572332.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-71993--9223371999894567281.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-71993--9223371999961676147.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-71993--9223372000028785013.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-71993--9223372000095893879.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-71993--9223372000163002745.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-71993--9223372000347552125.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-71993--9223372000414660991.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-71993--9223372000649542023.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-71995--9223371999743572332.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-71995--9223371999894567281.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-71995--9223371999961676147.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-71995--9223372000028785013.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-71995--9223372000095893879.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-71995--9223372000163002745.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-71995--9223372000347552125.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-71995--9223372000414660991.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-71995--9223372000582433155.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-72621--9223371999743572332.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-72621--9223371999894567281.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-72621--9223371999961676147.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-72621--9223372000028785013.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-72621--9223372000095893879.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-72621--9223372000163002745.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-72621--9223372000347552125.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-72621--9223372000414660991.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-72621--9223372000649542023.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-72885--9223371999743572332.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-72885--9223371999894567281.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-72885--9223371999961676147.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-72885--9223372000028785013.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-72885--9223372000095893879.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-72885--9223372000163002745.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-72885--9223372000347552125.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-72885--9223372000414660991.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-72885--9223372000649542023.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73025--9223371999743572332.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73025--9223371999894567281.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73025--9223371999961676147.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73025--9223372000028785013.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73025--9223372000095893879.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73025--9223372000163002745.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73025--9223372000347552125.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73025--9223372000414660991.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73025--9223372000582433155.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73280--9223371999743572332.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73280--9223371999894567281.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73280--9223371999961676147.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73280--9223372000028785013.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73280--9223372000095893879.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73280--9223372000163002745.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73280--9223372000347552125.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73280--9223372000414660991.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73280--9223372000582433155.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73325--9223371999743572332.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73325--9223371999894567281.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73325--9223371999961676147.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73325--9223372000028785013.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73325--9223372000095893879.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73325--9223372000163002745.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73325--9223372000347552125.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73325--9223372000414660991.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/captures/texture-73325--9223372000649542023.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/MacOS/GodotRuntime" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/animal-skin-topology.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/earlier-uv-prototype/Forest Wanderer.app/Contents/Resources/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/gait-uv/independent_geometry/bear-1.json" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/gait-uv/independent_geometry/bear-2.json" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/gait-uv/independent_geometry/bear-3.json" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/gait-uv/independent_geometry/bear-5.json" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/gait-uv/independent_geometry/bear-6.json" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/gait-uv/independent_geometry/bear-7.json" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/gait-uv/independent_geometry/deer-2.json" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/gait-uv/independent_geometry/deer-6.json" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/gait-uv/independent_geometry/wolf-2.json" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/gait-uv/independent_geometry/wolf-6.json" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/previews/five-animal-cycle.gif" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.2/previews/original-paint-and-walk.gif" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/raw-assets-probe.pck" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/raw-export-fixture.pck" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/before-feedback/Forest Wanderer 0.1.6.3 - Web.zip" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/before-feedback/Forest Wanderer 0.1.6.3.html" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/before-feedback/web 2/game.pck" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/before-feedback/web 2/game.wasm" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/before-feedback/web-share 2/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/Forest Wanderer 0.1.6.3 - Web.zip" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/Forest Wanderer 0.1.6.3.html" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/assets/animal-skin-topology.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/web/game.pck" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/web/game.wasm" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/web-share/cover.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/candidate-game/web-share/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/site-source/cover-original.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/site-source/dist/cover.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/site-source/dist/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/site-source/dist/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/site-source/dist/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/site-source/dist/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/site-source/dist/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/review-fixes/site-source/dist/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/site-source/cover-original.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/site-source/dist/cover.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/site-source/dist/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/site-source/dist/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/site-source/dist/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/site-source/dist/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/site-source/dist/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/site-source/dist/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/site-source/dist/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/site-source/dist/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/site-source/dist/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/site-source/dist/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/site-source/dist/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/site-source/dist/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/site-source/dist/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/site-source/dist/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/web-template-api/web_nothreads_release.zip" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/web-template-api/parallel/0" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/web-template-api/parallel/1" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/web-template-api/parallel/2" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/web-template-api/parallel/3" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/web-template-api/parallel/4" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/web-template-api/parallel/5" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/web-template-api/parallel/6" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/web-template-api/parallel/7" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/web-template-api/parallel/8" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/art-previews/001/oil-cartoon-scene.png" filter=lfs diff=lfs merge=lfs -text
 "素材整理/动物/0.1.6/originals/bear-native-generated.png" filter=lfs diff=lfs merge=lfs -text
 "素材整理/动物/0.1.6/originals/deer-native-generated.png" filter=lfs diff=lfs merge=lfs -text
 "素材整理/动物/0.1.6/originals/fox-native-generated.png" filter=lfs diff=lfs merge=lfs -text
@@ -1204,3 +1204,399 @@
 "output/0.1.6 series/adventure game 0.1.6.4/web-share/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
 "output/0.1.6 series/adventure game 0.1.6.4/web-share/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
 "output/0.1.6 series/adventure game 0.1.6.4/web-share/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
+"deployment/itchio/v0.1.6-alpha.4/Forest-Wanderer-v0.1.6-alpha.4-itchio.zip" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/.godot/imported/environment.png-063298a0820723ffeab057e628c722bb.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/.godot/imported/equipment.png-54d9fbb4def9584d51ccae925151cf43.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/.godot/imported/ground-blends.png-ec1c7c122a7fc70be1b6b4b9ea2ae8f9.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/.godot/imported/meadow.png-5c1d4c916c9483fbdfe299842e25eee3.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/.godot/imported/step-contact-b.png-7abe6c1fc7ae07d027803a4e091f2914.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/.godot/imported/traveler-directions.png-dd4d6b5921f4a75f9f79bd0771e026bf.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.1/.godot/imported/tree-variants.png-7bfcb8b3b7a1490046891059067b295e.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/.godot/imported/cabin-props.png-5739bb0a6bf258eac993bd059a649cc0.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/.godot/imported/environment.png-063298a0820723ffeab057e628c722bb.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/.godot/imported/equipment.png-54d9fbb4def9584d51ccae925151cf43.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/.godot/imported/ground-blends.png-ec1c7c122a7fc70be1b6b4b9ea2ae8f9.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/.godot/imported/harvest-nodes.png-798d5440c28a4ab0ea272a651b1522b0.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/.godot/imported/meadow.png-5c1d4c916c9483fbdfe299842e25eee3.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/.godot/imported/npc-ash-directions.png-fc56187b96ad9705fdab78223939ae69.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/.godot/imported/npc-rowan-directions.png-9bc089afefdbfba8a190dd5059754eba.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/.godot/imported/npc-torso-source.png-a679250b5811bb834f1f9dc7638dba5b.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/.godot/imported/paint-materials.png-b61a19823a2b657121822c5e02cb2952.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/.godot/imported/traveler-armed-directions.png-cfe352802f1f66bb58f395175b54e334.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/.godot/imported/traveler-unarmed-directions.png-4bcc5b885358c5f5e19d43e67a36218a.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/.godot/imported/traveler-use-directions.png-09d5e2b8ade1990c406028097215cfec.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/.godot/imported/tree-variants.png-7bfcb8b3b7a1490046891059067b295e.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.11/.godot/imported/utility-props.png-c0506093644e7c058a49f25b70727375.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/.godot/imported/cabin-props.png-5739bb0a6bf258eac993bd059a649cc0.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/.godot/imported/environment.png-063298a0820723ffeab057e628c722bb.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/.godot/imported/equipment.png-54d9fbb4def9584d51ccae925151cf43.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/.godot/imported/ground-blends.png-ec1c7c122a7fc70be1b6b4b9ea2ae8f9.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/.godot/imported/harvest-nodes.png-798d5440c28a4ab0ea272a651b1522b0.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/.godot/imported/meadow.png-5c1d4c916c9483fbdfe299842e25eee3.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/.godot/imported/paint-materials.png-b61a19823a2b657121822c5e02cb2952.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/.godot/imported/traveler-armed-directions.png-cfe352802f1f66bb58f395175b54e334.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/.godot/imported/traveler-unarmed-directions.png-4bcc5b885358c5f5e19d43e67a36218a.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.2/.godot/imported/tree-variants.png-7bfcb8b3b7a1490046891059067b295e.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/.godot/imported/cabin-props.png-5739bb0a6bf258eac993bd059a649cc0.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/.godot/imported/environment.png-063298a0820723ffeab057e628c722bb.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/.godot/imported/equipment.png-54d9fbb4def9584d51ccae925151cf43.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/.godot/imported/ground-blends.png-ec1c7c122a7fc70be1b6b4b9ea2ae8f9.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/.godot/imported/harvest-nodes.png-798d5440c28a4ab0ea272a651b1522b0.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/.godot/imported/meadow.png-5c1d4c916c9483fbdfe299842e25eee3.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/.godot/imported/paint-materials.png-b61a19823a2b657121822c5e02cb2952.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/.godot/imported/traveler-armed-directions.png-cfe352802f1f66bb58f395175b54e334.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/.godot/imported/traveler-unarmed-directions.png-4bcc5b885358c5f5e19d43e67a36218a.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.3/.godot/imported/tree-variants.png-7bfcb8b3b7a1490046891059067b295e.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/.godot/imported/cabin-props.png-5739bb0a6bf258eac993bd059a649cc0.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/.godot/imported/environment.png-063298a0820723ffeab057e628c722bb.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/.godot/imported/equipment.png-54d9fbb4def9584d51ccae925151cf43.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/.godot/imported/ground-blends.png-ec1c7c122a7fc70be1b6b4b9ea2ae8f9.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/.godot/imported/harvest-nodes.png-798d5440c28a4ab0ea272a651b1522b0.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/.godot/imported/meadow.png-5c1d4c916c9483fbdfe299842e25eee3.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/.godot/imported/npc-torso-source.png-a679250b5811bb834f1f9dc7638dba5b.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/.godot/imported/paint-materials.png-b61a19823a2b657121822c5e02cb2952.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/.godot/imported/traveler-armed-directions.png-cfe352802f1f66bb58f395175b54e334.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/.godot/imported/traveler-unarmed-directions.png-4bcc5b885358c5f5e19d43e67a36218a.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/.godot/imported/traveler-use-directions.png-09d5e2b8ade1990c406028097215cfec.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/.godot/imported/tree-variants.png-7bfcb8b3b7a1490046891059067b295e.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/.godot/imported/utility-icons.png-4447fd25528326b6ef7e5d650d3db6e8.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.4/.godot/imported/utility-props.png-c0506093644e7c058a49f25b70727375.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/.godot/imported/cabin-props.png-5739bb0a6bf258eac993bd059a649cc0.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/.godot/imported/environment.png-063298a0820723ffeab057e628c722bb.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/.godot/imported/equipment.png-54d9fbb4def9584d51ccae925151cf43.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/.godot/imported/ground-blends.png-ec1c7c122a7fc70be1b6b4b9ea2ae8f9.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/.godot/imported/harvest-nodes.png-798d5440c28a4ab0ea272a651b1522b0.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/.godot/imported/meadow.png-5c1d4c916c9483fbdfe299842e25eee3.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/.godot/imported/npc-torso-source.png-a679250b5811bb834f1f9dc7638dba5b.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/.godot/imported/paint-materials.png-b61a19823a2b657121822c5e02cb2952.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/.godot/imported/traveler-armed-directions.png-cfe352802f1f66bb58f395175b54e334.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/.godot/imported/traveler-unarmed-directions.png-4bcc5b885358c5f5e19d43e67a36218a.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/.godot/imported/traveler-use-directions.png-09d5e2b8ade1990c406028097215cfec.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/.godot/imported/tree-variants.png-7bfcb8b3b7a1490046891059067b295e.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.5/.godot/imported/utility-props.png-c0506093644e7c058a49f25b70727375.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/.godot/imported/cabin-props.png-5739bb0a6bf258eac993bd059a649cc0.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/.godot/imported/environment.png-063298a0820723ffeab057e628c722bb.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/.godot/imported/equipment.png-54d9fbb4def9584d51ccae925151cf43.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/.godot/imported/ground-blends.png-ec1c7c122a7fc70be1b6b4b9ea2ae8f9.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/.godot/imported/harvest-nodes.png-798d5440c28a4ab0ea272a651b1522b0.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/.godot/imported/meadow.png-5c1d4c916c9483fbdfe299842e25eee3.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/.godot/imported/npc-torso-source.png-a679250b5811bb834f1f9dc7638dba5b.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/.godot/imported/paint-materials.png-b61a19823a2b657121822c5e02cb2952.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/.godot/imported/traveler-armed-directions.png-cfe352802f1f66bb58f395175b54e334.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/.godot/imported/traveler-unarmed-directions.png-4bcc5b885358c5f5e19d43e67a36218a.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/.godot/imported/traveler-use-directions.png-09d5e2b8ade1990c406028097215cfec.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/.godot/imported/tree-variants.png-7bfcb8b3b7a1490046891059067b295e.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.6/.godot/imported/utility-props.png-c0506093644e7c058a49f25b70727375.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/.godot/imported/cabin-props.png-5739bb0a6bf258eac993bd059a649cc0.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/.godot/imported/environment.png-063298a0820723ffeab057e628c722bb.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/.godot/imported/equipment.png-54d9fbb4def9584d51ccae925151cf43.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/.godot/imported/ground-blends.png-ec1c7c122a7fc70be1b6b4b9ea2ae8f9.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/.godot/imported/harvest-nodes.png-798d5440c28a4ab0ea272a651b1522b0.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/.godot/imported/meadow.png-5c1d4c916c9483fbdfe299842e25eee3.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/.godot/imported/npc-torso-source.png-a679250b5811bb834f1f9dc7638dba5b.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/.godot/imported/paint-materials.png-b61a19823a2b657121822c5e02cb2952.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/.godot/imported/traveler-armed-directions.png-cfe352802f1f66bb58f395175b54e334.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/.godot/imported/traveler-unarmed-directions.png-4bcc5b885358c5f5e19d43e67a36218a.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/.godot/imported/traveler-use-directions.png-09d5e2b8ade1990c406028097215cfec.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/.godot/imported/tree-variants.png-7bfcb8b3b7a1490046891059067b295e.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5.8/.godot/imported/utility-props.png-c0506093644e7c058a49f25b70727375.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5/.godot/imported/environment.png-063298a0820723ffeab057e628c722bb.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5/.godot/imported/equipment.png-54d9fbb4def9584d51ccae925151cf43.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5/.godot/imported/ground-blends.png-ec1c7c122a7fc70be1b6b4b9ea2ae8f9.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5/.godot/imported/meadow.png-5c1d4c916c9483fbdfe299842e25eee3.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5/.godot/imported/ponds.png-c00442751583bc5b61a9d0512b1e89ab.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5/.godot/imported/traveler-directions.png-dd4d6b5921f4a75f9f79bd0771e026bf.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.5 series/adventure game 0.1.5/.godot/imported/tree-variants.png-7bfcb8b3b7a1490046891059067b295e.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/.godot/imported/cabin-props.png-5739bb0a6bf258eac993bd059a649cc0.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/.godot/imported/environment.png-063298a0820723ffeab057e628c722bb.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/.godot/imported/equipment.png-54d9fbb4def9584d51ccae925151cf43.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/.godot/imported/ground-blends.png-ec1c7c122a7fc70be1b6b4b9ea2ae8f9.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/.godot/imported/harvest-nodes.png-798d5440c28a4ab0ea272a651b1522b0.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/.godot/imported/meadow.png-5c1d4c916c9483fbdfe299842e25eee3.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/.godot/imported/npc-ash-directions.png-fc56187b96ad9705fdab78223939ae69.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/.godot/imported/npc-rowan-directions.png-9bc089afefdbfba8a190dd5059754eba.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/.godot/imported/npc-torso-source.png-a679250b5811bb834f1f9dc7638dba5b.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/.godot/imported/paint-materials.png-b61a19823a2b657121822c5e02cb2952.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/.godot/imported/traveler-armed-directions.png-cfe352802f1f66bb58f395175b54e334.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/.godot/imported/traveler-unarmed-directions.png-4bcc5b885358c5f5e19d43e67a36218a.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/.godot/imported/traveler-use-directions.png-09d5e2b8ade1990c406028097215cfec.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/.godot/imported/tree-variants.png-7bfcb8b3b7a1490046891059067b295e.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/.godot/imported/utility-props.png-c0506093644e7c058a49f25b70727375.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/.godot/imported/wildlife-bear.png-6c740e57790ef9f90afe0bfa6aeba260.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.1/.godot/imported/wildlife-wolf.png-e2bae5d562c610fc0daa731185873b28.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/.godot/imported/cabin-props.png-5739bb0a6bf258eac993bd059a649cc0.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/.godot/imported/environment.png-063298a0820723ffeab057e628c722bb.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/.godot/imported/equipment.png-54d9fbb4def9584d51ccae925151cf43.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/.godot/imported/ground-blends.png-ec1c7c122a7fc70be1b6b4b9ea2ae8f9.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/.godot/imported/harvest-nodes.png-798d5440c28a4ab0ea272a651b1522b0.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/.godot/imported/meadow.png-5c1d4c916c9483fbdfe299842e25eee3.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/.godot/imported/npc-ash-directions.png-fc56187b96ad9705fdab78223939ae69.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/.godot/imported/npc-rowan-directions.png-9bc089afefdbfba8a190dd5059754eba.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/.godot/imported/npc-torso-source.png-a679250b5811bb834f1f9dc7638dba5b.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/.godot/imported/paint-materials.png-b61a19823a2b657121822c5e02cb2952.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/.godot/imported/traveler-armed-directions.png-cfe352802f1f66bb58f395175b54e334.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/.godot/imported/traveler-unarmed-directions.png-4bcc5b885358c5f5e19d43e67a36218a.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/.godot/imported/traveler-use-directions.png-09d5e2b8ade1990c406028097215cfec.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/.godot/imported/tree-variants.png-7bfcb8b3b7a1490046891059067b295e.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/.godot/imported/utility-props.png-c0506093644e7c058a49f25b70727375.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/.godot/imported/wildlife-bear.png-6c740e57790ef9f90afe0bfa6aeba260.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.2/.godot/imported/wildlife-wolf.png-e2bae5d562c610fc0daa731185873b28.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/.godot/imported/cover.png-7c527b8907a6063a80f4b649866414bc.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game 0.1.6.4/.godot/imported/meadow.jpg-6b25434c9943d0e699dcce9517bf4e2d.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/.godot/imported/cabin-props.png-5739bb0a6bf258eac993bd059a649cc0.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/.godot/imported/environment.png-063298a0820723ffeab057e628c722bb.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/.godot/imported/equipment.png-54d9fbb4def9584d51ccae925151cf43.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/.godot/imported/ground-blends.png-ec1c7c122a7fc70be1b6b4b9ea2ae8f9.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/.godot/imported/harvest-nodes.png-798d5440c28a4ab0ea272a651b1522b0.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/.godot/imported/meadow.png-5c1d4c916c9483fbdfe299842e25eee3.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/.godot/imported/npc-ash-directions.png-fc56187b96ad9705fdab78223939ae69.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/.godot/imported/npc-rowan-directions.png-9bc089afefdbfba8a190dd5059754eba.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/.godot/imported/npc-torso-source.png-a679250b5811bb834f1f9dc7638dba5b.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/.godot/imported/paint-materials.png-b61a19823a2b657121822c5e02cb2952.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/.godot/imported/traveler-armed-directions.png-cfe352802f1f66bb58f395175b54e334.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/.godot/imported/traveler-unarmed-directions.png-4bcc5b885358c5f5e19d43e67a36218a.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/.godot/imported/traveler-use-directions.png-09d5e2b8ade1990c406028097215cfec.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/.godot/imported/tree-variants.png-7bfcb8b3b7a1490046891059067b295e.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.6 series/adventure game （adding animals) 0.1.6/.godot/imported/utility-props.png-c0506093644e7c058a49f25b70727375.ctex" filter=lfs diff=lfs merge=lfs -text
+"output/personal-website 0.1.0/dist/assets/forest-entrance.png" filter=lfs diff=lfs merge=lfs -text
+"output/personal-website 0.1.0/dist/games/forest-wanderer/cover.png" filter=lfs diff=lfs merge=lfs -text
+"output/personal-website 0.1.0/dist/games/forest-wanderer/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
+"output/personal-website 0.1.0/dist/games/forest-wanderer/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
+"output/personal-website 0.1.0/dist/games/forest-wanderer/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
+"output/personal-website 0.1.0/dist/games/forest-wanderer/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
+"output/personal-website 0.1.0/dist/games/forest-wanderer/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
+"output/personal-website 0.1.0/dist/games/forest-wanderer/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
+"output/personal-website 0.1.0/dist/games/forest-wanderer/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
+"output/personal-website 0.1.0/dist/games/forest-wanderer/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
+"output/personal-website 0.1.0/dist/games/forest-wanderer/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
+"output/personal-website 0.1.0/dist/games/forest-wanderer/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
+"output/personal-website 0.1.0/dist/games/forest-wanderer/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
+"output/personal-website 0.1.0/dist/games/forest-wanderer/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
+"output/personal-website 0.1.0/dist/games/forest-wanderer/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
+"output/personal-website 0.1.0/dist/games/forest-wanderer/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/github-upload-2026-10-18/inventory.json" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/github-upload-2026-10-18/tools/gh" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.3/github-upload-2026-10-18/tools/git-lfs" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/assets/animal-skin-topology.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/tools/web_nothreads_release.zip" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/web-share/cover.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/web-share/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/web-share/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/web-share/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/web-share/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/web-share/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/web-share/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/web-share/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/web-share/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/web-share/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/web-share/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/web-share/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/web-share/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/web-share/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/web-share/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/web/game.pck" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/candidate/web/game.wasm" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/fixture-web/cover-original.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/fixture-web/dist/cover.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/fixture-web/dist/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/fixture-web/dist/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/fixture-web/dist/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/fixture-web/dist/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/fixture-web/dist/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/fixture-web/dist/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/fixture-web/dist/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/fixture-web/dist/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/fixture-web/dist/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/fixture-web/dist/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/fixture-web/dist/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/fixture-web/dist/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/fixture-web/dist/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/fixture-web/dist/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-build-project/assets/animal-skin-topology.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-build-project/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-build-project/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-build-project/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-build-project/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-build-project/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-build-project/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-build-project/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-build-project/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-build-project/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-build-project/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-build-project/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-build-project/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-build-project/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-build-project/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-build-project/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-build-project/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-build-project/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-build-project/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-build-project/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-build-project/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-build-project/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-build-project/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-build-project/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-build-project/tools/web_nothreads_release.zip" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/contents/cover.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/contents/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/contents/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/contents/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/contents/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/contents/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/contents/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/contents/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/contents/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/contents/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/contents/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/contents/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/contents/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/contents/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/contents/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/extracted/cover.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/extracted/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/extracted/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/extracted/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/extracted/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/extracted/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/extracted/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/extracted/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/extracted/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/extracted/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/extracted/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/extracted/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/extracted/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/extracted/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/extracted/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/regenerated/game.pck" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/itchio-package/regenerated/game.wasm" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/assets/animal-skin-topology.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/web/game.pck" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/visual-fixture/web/game.wasm" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/web-build/cover-original.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/web-build/dist/cover.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/web-build/dist/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/web-build/dist/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/web-build/dist/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/web-build/dist/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/web-build/dist/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/web-build/dist/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/web-build/dist/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/web-build/dist/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/web-build/dist/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/web-build/dist/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/web-build/dist/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/web-build/dist/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/web-build/dist/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.1.6.4/web-build/dist/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/.git/objects/08/be5b69134719c560c7b4d178956f4604be6c9b" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/.git/objects/1b/3c9e37b98811b6b514720f8618bb9709613201" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/.git/objects/2d/c9f7201513cbcd11f1de236c1f5272dc606d53" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/.git/objects/38/1689b594c4fceee5025bdda7db379bf4626da6" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/.git/objects/58/101f780c575bc6812dd4d4e10b129a9fd1b4f5" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/.git/objects/67/9eb524641ebe8373112ae04b16a5d157a1b481" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/.git/objects/79/aa2e03e125944e1fc952c68a54445fbe63f70e" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/.git/objects/85/99045f473ff1dcf2588fc1df7231befcd01117" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/.git/objects/9a/234accef50c83cbbf430952f8195f4d48eb735" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/.git/objects/ab/9e759ed24b119d9be06a220f07a3f1a2c2f12b" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/.git/objects/ac/0abdcc4badeab3702fd6a02027b206b3992ad0" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/.git/objects/b3/91c596d87b9280d944fc7f104352db3e1e8200" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/.git/objects/bd/2423e172478bb71c49e719fc174a23902a9d6f" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/.git/objects/bf/357bc2365afc00e9d7462b62ca184e3d959ded" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/.git/objects/c1/c49e8d01fb847f90fbffc1ef8632ac13e83297" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/.git/objects/d4/37d097aae0ba0746e422932dcc4454fb96433b" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/dist/assets/forest-entrance.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/dist/games/forest-wanderer/cover.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/dist/games/forest-wanderer/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/dist/games/forest-wanderer/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/dist/games/forest-wanderer/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/dist/games/forest-wanderer/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/dist/games/forest-wanderer/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/dist/games/forest-wanderer/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/dist/games/forest-wanderer/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/dist/games/forest-wanderer/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/dist/games/forest-wanderer/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/dist/games/forest-wanderer/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/dist/games/forest-wanderer/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/dist/games/forest-wanderer/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/dist/games/forest-wanderer/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site-publish/dist/games/forest-wanderer/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/.git/objects/08/be5b69134719c560c7b4d178956f4604be6c9b" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/.git/objects/1b/3c9e37b98811b6b514720f8618bb9709613201" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/.git/objects/2d/c9f7201513cbcd11f1de236c1f5272dc606d53" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/.git/objects/38/1689b594c4fceee5025bdda7db379bf4626da6" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/.git/objects/58/101f780c575bc6812dd4d4e10b129a9fd1b4f5" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/.git/objects/67/9eb524641ebe8373112ae04b16a5d157a1b481" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/.git/objects/79/aa2e03e125944e1fc952c68a54445fbe63f70e" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/.git/objects/85/99045f473ff1dcf2588fc1df7231befcd01117" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/.git/objects/9a/234accef50c83cbbf430952f8195f4d48eb735" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/.git/objects/ab/9e759ed24b119d9be06a220f07a3f1a2c2f12b" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/.git/objects/ac/0abdcc4badeab3702fd6a02027b206b3992ad0" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/.git/objects/b3/91c596d87b9280d944fc7f104352db3e1e8200" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/.git/objects/bd/2423e172478bb71c49e719fc174a23902a9d6f" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/.git/objects/bf/357bc2365afc00e9d7462b62ca184e3d959ded" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/.git/objects/c1/c49e8d01fb847f90fbffc1ef8632ac13e83297" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/.git/objects/d4/37d097aae0ba0746e422932dcc4454fb96433b" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/dist/assets/forest-entrance.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/dist/games/forest-wanderer/cover.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/dist/games/forest-wanderer/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/dist/games/forest-wanderer/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/dist/games/forest-wanderer/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/dist/games/forest-wanderer/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/dist/games/forest-wanderer/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/dist/games/forest-wanderer/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/dist/games/forest-wanderer/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/dist/games/forest-wanderer/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/dist/games/forest-wanderer/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/dist/games/forest-wanderer/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/dist/games/forest-wanderer/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/dist/games/forest-wanderer/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/dist/games/forest-wanderer/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/personal-website/0.1.0/site/dist/games/forest-wanderer/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
+"素材整理/个人网站/0.1.0/forest-entrance.png" filter=lfs diff=lfs merge=lfs -text
+"问题报告/不能退出对话.png" filter=lfs diff=lfs merge=lfs -text

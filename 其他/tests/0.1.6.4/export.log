@@ -1,0 +1,165 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+ERROR: Could not open 'user://' directory: 'user://'.
+   at: _get_and_create_snapshot_storage_dir (modules/objectdb_profiler/editor/objectdb_profiler_panel.cpp:157)
+[   0% ] first_scan_filesystem | Started 项目初始化 (5 steps)
+[   0% ] first_scan_filesystem | 正在扫描文件结构……
+[  16% ] first_scan_filesystem | 正在加载全局类名……
+[  33% ] first_scan_filesystem | 正在校验 GDExtension……
+[  50% ] first_scan_filesystem | 正在创建自动加载脚本……
+[  66% ] first_scan_filesystem | 正在初始化插件……
+[  83% ] first_scan_filesystem | 正在启动文件扫描……
+[ DONE ] first_scan_filesystem
+
+[   0% ] _update_scan_actions | Started 正在扫描动作…… (48 steps)
+[   0% ] _update_scan_actions | cabin-props.png
+[   2% ] _update_scan_actions | environment.png
+[   4% ] _update_scan_actions | equipment.png
+[   6% ] _update_scan_actions | ground-blends.png
+[   8% ] _update_scan_actions | harvest-nodes.png
+[  10% ] _update_scan_actions | held-use-weapon-0.png
+[  12% ] _update_scan_actions | held-use-weapon-1.png
+[  14% ] _update_scan_actions | held-use-weapon-2.png
+[  16% ] _update_scan_actions | held-use-weapon-3.png
+[  18% ] _update_scan_actions | held-use-weapon-4.png
+[  20% ] _update_scan_actions | held-use-weapon-5.png
+[  22% ] _update_scan_actions | held-use-weapon-6.png
+[  24% ] _update_scan_actions | held-use-weapon-7.png
+[  26% ] _update_scan_actions | held-use-weapon-8.png
+[  28% ] _update_scan_actions | held-weapon-0.png
+[  30% ] _update_scan_actions | held-weapon-1.png
+[  32% ] _update_scan_actions | held-weapon-2.png
+[  34% ] _update_scan_actions | held-weapon-3.png
+[  36% ] _update_scan_actions | held-weapon-4.png
+[  38% ] _update_scan_actions | held-weapon-5.png
+[  40% ] _update_scan_actions | held-weapon-6.png
+[  42% ] _update_scan_actions | held-weapon-7.png
+[  44% ] _update_scan_actions | held-weapon-8.png
+[  46% ] _update_scan_actions | materials.png
+[  48% ] _update_scan_actions | meadow.png
+[  51% ] _update_scan_actions | npc-ash-directions.png
+[  53% ] _update_scan_actions | npc-rowan-directions.png
+[  55% ] _update_scan_actions | npc-rowan-lantern.png
+[  57% ] _update_scan_actions | npc-torso-source.png
+[  59% ] _update_scan_actions | npcs.png
+[  61% ] _update_scan_actions | paint-materials.png
+[  63% ] _update_scan_actions | painted-torso-source.png
+[  65% ] _update_scan_actions | ponds.png
+[  67% ] _update_scan_actions | status-icons.png
+[  69% ] _update_scan_actions | traveler-armed-directions.png
+[  71% ] _update_scan_actions | traveler-unarmed-directions.png
+[  73% ] _update_scan_actions | traveler-use-directions.png
+[  75% ] _update_scan_actions | tree-variants.png
+[  77% ] _update_scan_actions | utility-icons.png
+[  79% ] _update_scan_actions | utility-props.png
+[  81% ] _update_scan_actions | wildlife-bear.png
+[  83% ] _update_scan_actions | wildlife-deer.png
+[  85% ] _update_scan_actions | wildlife-fox.png
+[  87% ] _update_scan_actions | wildlife-rabbit.png
+[  89% ] _update_scan_actions | wildlife-wolf.png
+[  91% ] _update_scan_actions | game.apple-touch-icon.png
+[  93% ] _update_scan_actions | game.icon.png
+[  95% ] _update_scan_actions | game.png
+[ DONE ] _update_scan_actions
+
+[   0% ] savepack | Started 打包中 (102 steps)
+[   1% ] savepack | 正在保存文件：res://assets/animal_atlas.json
+[   2% ] savepack | 正在保存文件：res://assets/cabin-props.png
+[   3% ] savepack | 正在保存文件：res://assets/environment.png
+[   5% ] savepack | 正在保存文件：res://assets/equipment.png
+[   6% ] savepack | 正在保存文件：res://assets/ground-blends.png
+[   8% ] savepack | 正在保存文件：res://assets/harvest-nodes.png
+[   9% ] savepack | 正在保存文件：res://assets/held-use-weapon-0.png
+[  11% ] savepack | 正在保存文件：res://assets/held-use-weapon-1.png
+[  12% ] savepack | 正在保存文件：res://assets/held-use-weapon-2.png
+[  14% ] savepack | 正在保存文件：res://assets/held-use-weapon-3.png
+[  15% ] savepack | 正在保存文件：res://assets/held-use-weapon-4.png
+[  16% ] savepack | 正在保存文件：res://assets/held-use-weapon-5.png
+[  18% ] savepack | 正在保存文件：res://assets/held-use-weapon-6.png
+[  19% ] savepack | 正在保存文件：res://assets/held-use-weapon-7.png
+[  21% ] savepack | 正在保存文件：res://assets/held-use-weapon-8.png
+[  22% ] savepack | 正在保存文件：res://assets/held-weapon-0.png
+[  24% ] savepack | 正在保存文件：res://assets/held-weapon-1.png
+[  25% ] savepack | 正在保存文件：res://assets/held-weapon-2.png
+[  27% ] savepack | 正在保存文件：res://assets/held-weapon-3.png
+[  28% ] savepack | 正在保存文件：res://assets/held-weapon-4.png
+[  29% ] savepack | 正在保存文件：res://assets/held-weapon-5.png
+[  31% ] savepack | 正在保存文件：res://assets/held-weapon-6.png
+[  32% ] savepack | 正在保存文件：res://assets/held-weapon-7.png
+[  33% ] savepack | 正在保存文件：res://assets/held-weapon-8.png
+[  34% ] savepack | 正在保存文件：res://assets/materials.png
+[  36% ] savepack | 正在保存文件：res://assets/meadow.png
+[  37% ] savepack | 正在保存文件：res://assets/npc-ash-directions.png
+[  39% ] savepack | 正在保存文件：res://assets/npc-rowan-directions.png
+[  40% ] savepack | 正在保存文件：res://assets/npc-rowan-lantern.png
+[  42% ] savepack | 正在保存文件：res://assets/npc-torso-source.png
+[  43% ] savepack | 正在保存文件：res://assets/npcs.png
+[  44% ] savepack | 正在保存文件：res://assets/paint-materials.png
+[  46% ] savepack | 正在保存文件：res://assets/painted-torso-source.png
+[  47% ] savepack | 正在保存文件：res://assets/ponds.png
+[  49% ] savepack | 正在保存文件：res://assets/status-icons.png
+[  50% ] savepack | 正在保存文件：res://assets/tool-use-meta.json
+[  52% ] savepack | 正在保存文件：res://assets/traveler-armed-directions.png
+[  53% ] savepack | 正在保存文件：res://assets/traveler-directions.json
+[  55% ] savepack | 正在保存文件：res://assets/traveler-unarmed-directions.png
+[  56% ] savepack | 正在保存文件：res://assets/traveler-use-directions.png
+[  57% ] savepack | 正在保存文件：res://assets/tree-variants.png
+[  59% ] savepack | 正在保存文件：res://assets/utility-icons.png
+[  60% ] savepack | 正在保存文件：res://assets/utility-props.png
+[  62% ] savepack | 正在保存文件：res://assets/wildlife-bear.png
+[  63% ] savepack | 正在保存文件：res://assets/wildlife-deer.png
+[  65% ] savepack | 正在保存文件：res://assets/wildlife-fox.png
+[  66% ] savepack | 正在保存文件：res://assets/wildlife-rabbit.png
+[  67% ] savepack | 正在保存文件：res://assets/wildlife-wolf.png
+[  68% ] savepack | 正在保存文件：res://world_geometry.gdc
+[  70% ] savepack | 正在保存文件：res://world_lighting.gdc
+[  71% ] savepack | 正在保存文件：res://assets/animal-skin-topology.bin
+[  72% ] savepack | 正在保存文件：res://animal_gait.gdc
+[  74% ] savepack | 正在保存文件：res://.godot/imported/app_icon.png-f349b850a0f29361cfbcb17623f8bdde.ctex
+[  74% ] savepack | 正在保存文件：res://app_icon.png.import
+[  75% ] savepack | 正在保存文件：res://collision_profiles.json
+[  77% ] savepack | 正在保存文件：res://depth_layers.gdc
+[  78% ] savepack | 正在保存文件：res://ground_painter.gdc
+[  80% ] savepack | 正在保存文件：res://inventory.gdc
+[  81% ] savepack | 正在保存文件：res://item_data.gdc
+[  83% ] savepack | 正在保存文件：res://main.gdc
+[  84% ] savepack | 正在保存文件：res://.godot/exported/133200997/export-3070c538c03ee49b7677ff960a3f5195-main.scn
+[  85% ] savepack | 正在保存文件：res://mobile_controls.gdc
+[  87% ] savepack | 正在保存文件：res://mobile_ui.gdc
+[  88% ] savepack | 正在保存文件：res://npc_roaming.gdc
+[  90% ] savepack | 正在保存文件：res://paint_density.gdc
+[  91% ] savepack | 正在保存文件：res://predator_behavior.gdc
+[  93% ] savepack | 正在保存文件：res://sanity_system.gdc
+[  94% ] savepack | 正在保存文件：res://survival_balance.gdc
+[  96% ] savepack | 正在保存文件：res://wildlife.gdc
+[  97% ] savepack | 正在保存文件：res://wildlife_data.gdc
+[  97% ] savepack | 正在保存文件：res://world_geometry.gd.remap
+[  97% ] savepack | 正在保存文件：res://world_lighting.gd.remap
+[  97% ] savepack | 正在保存文件：res://animal_gait.gd.remap
+[  97% ] savepack | 正在保存文件：res://depth_layers.gd.remap
+[  97% ] savepack | 正在保存文件：res://ground_painter.gd.remap
+[  97% ] savepack | 正在保存文件：res://inventory.gd.remap
+[  97% ] savepack | 正在保存文件：res://item_data.gd.remap
+[  97% ] savepack | 正在保存文件：res://main.gd.remap
+[  97% ] savepack | 正在保存文件：res://main.tscn.remap
+[  97% ] savepack | 正在保存文件：res://mobile_controls.gd.remap
+[  97% ] savepack | 正在保存文件：res://mobile_ui.gd.remap
+[  97% ] savepack | 正在保存文件：res://npc_roaming.gd.remap
+[  97% ] savepack | 正在保存文件：res://paint_density.gd.remap
+[  97% ] savepack | 正在保存文件：res://predator_behavior.gd.remap
+[  97% ] savepack | 正在保存文件：res://sanity_system.gd.remap
+[  97% ] savepack | 正在保存文件：res://survival_balance.gd.remap
+[  97% ] savepack | 正在保存文件：res://wildlife.gd.remap
+[  97% ] savepack | 正在保存文件：res://wildlife_data.gd.remap
+[  97% ] savepack | 正在保存文件：res://.godot/global_script_class_cache.cfg
+[  97% ] savepack | 正在保存文件：res://app_icon.png
+[  97% ] savepack | 正在保存文件：res://.godot/uid_cache.bin
+[  97% ] savepack | 正在保存文件：res://project.binary
+[ DONE ] savepack
+
+ERROR: Cannot save file '/Users/jasonsmacair/Library/Application Support/Godot/editor_settings-4.7.tres'.
+   at: save (scene/resources/resource_format_text.cpp:1768)
+ERROR: Error saving editor settings to /Users/jasonsmacair/Library/Application Support/Godot/editor_settings-4.7.tres
+   at: save (editor/settings/editor_settings.cpp:1525)

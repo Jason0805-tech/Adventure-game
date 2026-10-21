@@ -1,0 +1,14 @@
+{
+  "test": "Actual browser homepage visit; cache permitted",
+  "passed": true,
+  "requests": [
+    {
+      "time": 1792405858.903266,
+      "request": "\"GET /?qa=home-no-engine HTTP/1.1\" 200 -"
+    },
+    {
+      "time": 1792405859.030279,
+      "request": "\"GET /assets/jason.svg HTTP/1.1\" 200 -"
+    }
+  ]
+}

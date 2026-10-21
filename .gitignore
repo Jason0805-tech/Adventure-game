@@ -7,7 +7,7 @@ __pycache__/
 node_modules/
 
 # Local upload tooling and verification files
-tests/0.1.6.3/github-upload-2026-10-18/
+其他/tests/0.1.6.3/github-upload-2026-10-18/
 
 # Credentials are never project files
 .env
@@ -15,3 +15,7 @@ tests/0.1.6.3/github-upload-2026-10-18/
 !.env.example
 !.env.sample
 .git-credentials
+
+# Regenerable site deployment bundles
+其他/tests/personal-website/*/*.tar.gz
+其他/tests/personal-website/*/site/

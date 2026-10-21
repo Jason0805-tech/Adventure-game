@@ -1,0 +1,31 @@
+{
+  "release": "personal-website 0.1.0",
+  "site_project_id": "appgprj_6ad2dc3761bc81918b546e708b10733b",
+  "publishing": "succeeded",
+  "source_push": "succeeded in small batches; final commit 880742b103405d66c2ce8cb9c519b294e6b16e03",
+  "access_mode": "public (existing configuration retained)",
+  "checks": {
+    "desktop_bilingual_home_and_navigation": "passed on the production Site",
+    "language_choice_persists_after_reload": "passed on the production Site; English remained selected",
+    "390x844_mobile_layout_no_horizontal_overflow": "passed on the production Site in browser viewport emulation",
+    "homepage_does_not_request_game_runtime_or_data": "passed on the local candidate; 2 origin requests, zero runtime/data requests; production home has only site assets",
+    "game_intro_direct_open": "passed on the production Site",
+    "lazy_download_and_game_ready": "passed on the production Site; ~112,588,390 game bytes downloaded with live progress and GAME_READY v0.1.6-alpha.4",
+    "game_map_render": "passed on the production Site; actual Canvas map rendered",
+    "movement_backpack_crafting_manual_pause": "passed on the production Site; movement, B backpack, C crafting, and Esc pause observed",
+    "backpack_world_freeze": "passed on the production Site; night timer remained at 00:49 in screenshots 5 seconds apart",
+    "download_failure_message_and_retry": "passed on the local candidate using an intentional HTTP 503 followed by successful map boot",
+    "game_back_to_portfolio_and_browser_back": "passed on the local candidate",
+    "vertical_orientation_pause": "passed at emulated 390x844 viewport on the local candidate",
+    "asset_preservation": "passed; 23 original web resources matched, exact Rowan cover preserved, final 33-file deployment archive matched all local files",
+    "source_contracts": "passed; 14 static translation, route, contact-configuration, reduced-motion branch and navigation checks",
+    "touch_input": "not verified; browser viewport emulation did not provide touch hardware events",
+    "physical_phone_or_safari": "not tested",
+    "reduced_motion_os_preference": "not tested in browser; code branch contract checked only",
+    "audio_worklet": "production map booted; the connected QA browser logged worklet-module network errors and direct asset inspection returned ERR_BLOCKED_BY_CLIENT, so audio output remains unverified",
+    "focus_loss_resume": "not separately verified"
+  },
+  "evidence": "Local browser, game and final-live screenshots plus static-check-results.json and asset-integrity.json are in tests/personal-website/0.1.0/.",
+  "deployed_url": "https://forest-wanderer-three-nights-20261017.jasonlifengtong08-05.chatgpt.site",
+  "saved_version": 1
+}

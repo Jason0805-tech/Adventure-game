@@ -1,0 +1,212 @@
+ERROR: Could not create directory: '/Users/jasonsmacair/Library/Application Support/Godot/app_userdata/Forest Wanderer v0.1.6-alpha.4'.
+   at: make_dir_recursive (core/io/dir_access.cpp:179)
+ERROR: Error attempting to create data dir: /Users/jasonsmacair/Library/Application Support/Godot/app_userdata/Forest Wanderer v0.1.6-alpha.4.
+   at: ensure_user_data_dir (core/os/os.cpp:442)
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/environment.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:169)
+         [1] load_art (res://main.gd:240)
+         [2] _ready (res://main.gd:440)
+         [3] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6/smoke_features.gd:25)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/materials.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:169)
+         [1] load_art (res://main.gd:241)
+         [2] _ready (res://main.gd:440)
+         [3] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6/smoke_features.gd:25)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/ponds.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:169)
+         [1] load_art (res://main.gd:242)
+         [2] _ready (res://main.gd:440)
+         [3] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6/smoke_features.gd:25)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/tree-variants.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:169)
+         [1] load_art (res://main.gd:243)
+         [2] _ready (res://main.gd:440)
+         [3] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6/smoke_features.gd:25)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/equipment.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:169)
+         [1] load_art (res://main.gd:244)
+         [2] _ready (res://main.gd:440)
+         [3] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6/smoke_features.gd:25)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/ground-blends.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:169)
+         [1] load_art (res://main.gd:245)
+         [2] _ready (res://main.gd:440)
+         [3] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6/smoke_features.gd:25)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/harvest-nodes.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] auto_grid (res://main.gd:185)
+         [1] load_art (res://main.gd:246)
+         [2] _ready (res://main.gd:440)
+         [3] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6/smoke_features.gd:25)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/harvest-nodes.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:169)
+         [1] auto_grid (res://main.gd:221)
+         [2] load_art (res://main.gd:246)
+         [3] _ready (res://main.gd:440)
+         [4] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6/smoke_features.gd:25)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/cabin-props.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] auto_grid (res://main.gd:185)
+         [1] load_art (res://main.gd:247)
+         [2] _ready (res://main.gd:440)
+         [3] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6/smoke_features.gd:25)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/cabin-props.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:169)
+         [1] auto_grid (res://main.gd:221)
+         [2] load_art (res://main.gd:247)
+         [3] _ready (res://main.gd:440)
+         [4] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6/smoke_features.gd:25)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/status-icons.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] auto_grid (res://main.gd:185)
+         [1] load_art (res://main.gd:248)
+         [2] _ready (res://main.gd:440)
+         [3] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6/smoke_features.gd:25)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/status-icons.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:169)
+         [1] auto_grid (res://main.gd:221)
+         [2] load_art (res://main.gd:248)
+         [3] _ready (res://main.gd:440)
+         [4] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6/smoke_features.gd:25)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/utility-icons.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:169)
+         [1] load_art (res://main.gd:249)
+         [2] _ready (res://main.gd:440)
+         [3] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6/smoke_features.gd:25)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/utility-props.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:169)
+         [1] load_art (res://main.gd:250)
+         [2] _ready (res://main.gd:440)
+         [3] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6/smoke_features.gd:25)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/traveler-unarmed-directions.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:224)
+         [1] load_art (res://main.gd:251)
+         [2] _ready (res://main.gd:440)
+         [3] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6/smoke_features.gd:25)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/npc-rowan-directions.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:224)
+         [1] load_art (res://main.gd:254)
+         [2] _ready (res://main.gd:440)
+         [3] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6/smoke_features.gd:25)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/npc-ash-directions.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:224)
+         [1] load_art (res://main.gd:254)
+         [2] _ready (res://main.gd:440)
+         [3] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6/smoke_features.gd:25)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/npc-rowan-lantern.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:224)
+         [1] load_art (res://main.gd:255)
+         [2] _ready (res://main.gd:440)
+         [3] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6/smoke_features.gd:25)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-bear.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:224)
+         [1] load_animal_art (res://main.gd:302)
+         [2] load_art (res://main.gd:256)
+         [3] _ready (res://main.gd:440)
+         [4] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6/smoke_features.gd:25)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-deer.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:224)
+         [1] load_animal_art (res://main.gd:302)
+         [2] load_art (res://main.gd:256)
+         [3] _ready (res://main.gd:440)
+         [4] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6/smoke_features.gd:25)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-fox.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:224)
+         [1] load_animal_art (res://main.gd:302)
+         [2] load_art (res://main.gd:256)
+         [3] _ready (res://main.gd:440)
+         [4] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6/smoke_features.gd:25)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-rabbit.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:224)
+         [1] load_animal_art (res://main.gd:302)
+         [2] load_art (res://main.gd:256)
+         [3] _ready (res://main.gd:440)
+         [4] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6/smoke_features.gd:25)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-wolf.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:224)
+         [1] load_animal_art (res://main.gd:302)
+         [2] load_art (res://main.gd:256)
+         [3] _ready (res://main.gd:440)
+         [4] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6/smoke_features.gd:25)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/meadow.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_art (res://main.gd:281)
+         [1] _ready (res://main.gd:440)
+         [2] _run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6/smoke_features.gd:25)
+GAME_READY v0.1.6-alpha.4
+PASS  backpack has 24 slots
+PASS  trees have persistent harvest states
+PASS  camp workbench and ore veins exist
+PASS  both NPC rigs are active
+PASS  empty backpack is valid
+PASS  field recipe crafts and equips a stone axe
+PASS  equipped axe starts chopping
+PASS  axe fells the final-hit tree
+PASS  tree yields logs and branches
+PASS  field recipe crafts a placeable workbench
+PASS  world contains clear workbench placement ground
+PASS  workbench places into the world and enters collision/navigation
+PASS  placed workbench unlocks advanced recipes
+PASS  workbench crafts a pickaxe
+PASS  workbench crafts a fishing rod
+PASS  crafted pickaxe is assigned to the six-slot toolbar
+PASS  equipped pickaxe starts mining
+PASS  pickaxe damages an ore vein
+PASS  crafted rod is assigned to a toolbar slot
+PASS  fishing rod finds reachable water
+PASS  fishing rod begins a cast beside water
+PASS  successful cast adds a fish
+PASS  caught fish is placed on an open toolbar slot
+PASS  using fish restores fullness
+PASS  workbench repairs a selected tool
+PASS  Ash moves and advances her walking cycle
+PASS  all inventory changes preserve valid stacks and item ids
+ALL_FEATURE_SMOKES_PASSED

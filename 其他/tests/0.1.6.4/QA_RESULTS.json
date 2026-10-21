@@ -1,0 +1,162 @@
+{
+  "version": "v0.1.6-alpha.4",
+  "historical_source_unchanged": true,
+  "historical_manifest_files": 180,
+  "native_preservation": {
+    "unchanged": 59,
+    "mismatches": [],
+    "native_pngs": 45,
+    "sha256": {
+      "assets/utility-props.png": "cd74e26ae7619c84c3d2250caf567c3c219c747267ad77193cfc2fc2507bd3f3",
+      "assets/animal-skin-topology.bin": "6559021db0830595ca751d316875e84e92b9b968e2f7023eee8debbca920ca98",
+      "assets/held-use-weapon-8.png": "5240a0a29d60afae359f14e446aaeabf8b1ba9348bcb70ef8f4c3a20bbf7b942",
+      "assets/meadow.png": "314984f67c8474779ae107cc3932bc3f3006307e0cc3e3cf7d614c9bc381d321",
+      "assets/wildlife-fox.png": "8454647a49e8d85e088c2062398919fc7dea452e3782bed698959a3398e4ac97",
+      "assets/ground-blends.png": "c41491d96e08bed6162d63068265546a30e2fbccb2faa82bed18b82589f12787",
+      "assets/harvest-nodes.png": "0f507e38444816727bc0664fccf64a500a29dba5126f62b1bda7009bf3822da6",
+      "assets/held-weapon-2.png": "84c6f3957a7ffea34d1fd0a769638034b7c244b5274a640d0f56359daab8256b",
+      "assets/held-weapon-3.png": "154be1d4828b8a808f7527b82c277be2d9f2c3947e9b10479a9466ea8191f6a8",
+      "assets/npc-ash-directions.png": "aae3ca38489f1c3016eab9506dca3d6267a32be383bafe5cf516a011ef8f74c9",
+      "assets/held-weapon-1.png": "196608e5be2bf7ce2321f0dcf83989fd4a52dd266fd3f82e473d5171b6b2c3d9",
+      "assets/held-weapon-0.png": "144eeea4bc841f2713b04243f62e832ff428ab441d9cbe01ea994500dcddd2e7",
+      "assets/utility-icons.png": "b39531a7cb9965bba9a3312cf1689b36c68a70f50028de332e5b0a421664e2a8",
+      "assets/ponds.png": "50834aaf572e5acef19d917d550113b1b1167737ec499acb8302db5571ea99ff",
+      "assets/wildlife-deer.png": "c3648d4a81e160118366f8f011b6539d27959f159910f1fa651a10de3baac638",
+      "assets/held-weapon-4.png": "0cc1f4479e30b0e03145074ce8bc463ddb17f41f5a3865299aea3c75d0a7a8df",
+      "assets/held-weapon-5.png": "850117d2beba17fa65fc58a05e23da0743e46a6c84f8e1c017da0088925d76ec",
+      "assets/cabin-props.png": "3077f0ac969f22d679af1584c76e2a1933f2b376c4f54c0869d7b2e250b94ec6",
+      "assets/held-weapon-7.png": "f57571df71d6c44fb0cb411ccbbed9ffbe04dff71e3ac423a287b314f006de56",
+      "assets/held-weapon-6.png": "8e0c3deac8ec52b52ede4e4f1775b780f422973a0d772ef9fa62b7ba63a4d10f",
+      "assets/painted-torso-source.png": "9c7c456234a1c70ae5cb048de47affa4c8e1074fd9a6275d4e8969b594616bd6",
+      "assets/paint-materials.png": "7b35678e58e33e0bfa4844f30554026342a59d96148b073cee6c2e9acd33414b",
+      "assets/equipment.png": "4cce0e33959c4db274f440ed53a1333bd6c79d565b38f854be0edef168cae467",
+      "assets/tree-variants.png": "cf27e3b6bd70273ad19199b22e3b6915fe1317b8b374c36d7b4c2fa5daec7de4",
+      "assets/held-weapon-8.png": "cc0512dc93d4ee257acb7b0053115076381a1a45f70723eba50841aebfdfef1d",
+      "assets/tool-use-meta.json": "d6f271b89967458e8570c0cd3280462f81b3a1a285fc1202fb2210738767652b",
+      "assets/wildlife-rabbit.png": "5a3df266c08c2ca1340afb95b52c51c7b8c533190b18ab7d4213be0e6aa33fa5",
+      "assets/wildlife-bear.png": "224baa111faf6d99649dc04cd3be5f12c262780018903f1db36eb4658cb5e952",
+      "assets/traveler-use-directions.png": "05009044b3db5d738299bf395842dfa1dda99a39a58e6330d40de65200171706",
+      "assets/traveler-armed-directions.png": "315000c8f871df170ed6dba6fbea06fd6ed0cf6618db521106555206b51ed84e",
+      "assets/held-use-weapon-7.png": "26ba104180063773b9fb644eb6601a6870cb5a332fbb597da09eaecb9d59e886",
+      "assets/materials.png": "ce019823fe28c7cb5fb1f4869c56edbebeb1a7050bf58c3c407014b89e8b7298",
+      "assets/status-icons.png": "5854448e8b07b48fe8736bab3a4dd05437c8119a0e6281683e3449e3da3c0553",
+      "assets/held-use-weapon-6.png": "2d20f497ef749afbd7b9b7c43c23e730295aea2469e7618b48799fccf7b920e1",
+      "assets/npcs.png": "cf60eee56af31ab12102b8017ba5d5cc5418901bc330aeac1116a4fe57ba66f6",
+      "assets/traveler-directions.json": "65dc6e13c2546e12bbfab957ad6875de719ace927574601a7462fc19ce5eef6b",
+      "assets/held-use-weapon-4.png": "eeb0adcdf26c6e6ccbaded2820f850a37d1ce6ed516c179021deecbd1f3b39c0",
+      "assets/animal_atlas.json": "c1710d7b98fd88a5d7987679d8dbebc9287df5a54bd9b8046bca0362cde37a38",
+      "assets/wildlife-wolf.png": "86e4fe6489b65678872644d1b9734e43820ffe7ec469eb8e6df32a961d9f50dd",
+      "assets/traveler-unarmed-directions.png": "ae5a1d31c3e8601aa303a4f98c2687c518a6014665083e81ac26d97e1f084bc0",
+      "assets/held-use-weapon-5.png": "550f4fc2bd068e25763e70a68536b51868c095ff19509b7970053556e128db09",
+      "assets/held-use-weapon-1.png": "a03283d2eb1a992696add138931ca3aae2f639cd994c83bf2a28983a89335a3c",
+      "assets/npc-rowan-directions.png": "004f9abb363e1da76b944dfa856417aa3cf01540502371102f5a26f2c2024e89",
+      "assets/held-use-weapon-0.png": "bd9563430c44db0397c68e313ff993a069219fd095f4abbfaf9c126f67b8a21a",
+      "assets/held-use-weapon-2.png": "a993769055e07d67b9dfb2547f0716c3b47b13ea10cc9a857b1c47a63dcb1463",
+      "assets/npc-torso-source.png": "b0ab881faf822708aa86495089f9aeaa3ac76f3b6b5bf79100635cea91d9e5ba",
+      "assets/environment.png": "60a342530309f4367e2c5ed58f78b93ec9bba61e20aa4ab19146df6fa5ad85bb",
+      "assets/npc-rowan-lantern.png": "d2ee913e5d34835a71abae94fd180e50601fa46ee9df9ce20de2fc3b7dc31407",
+      "assets/held-use-weapon-3.png": "94ebc2f55664d0247a20cc74760849c19c5a40384a37f7533f20dfe9ebb91d28",
+      "collision_profiles.json": "378504470b20f7704b64e3cbe4046fb2adf6464a9a183ada6e6fac6222e70c93",
+      "animal_gait.gd": "f677cf03232c3aacde6dfe1cc002dd6fbacfa4b301857e1c8cc3396a8796d97b",
+      "world_geometry.gd": "90bd1d12624f2ef9260fbc5cbf5b0755158da6116d2685cfa8878b9720d58fca",
+      "depth_layers.gd": "7430ef7d3fffaaf386d49599c1ea97d8e34771a6bc9fa98144060d867c00fc84",
+      "ground_painter.gd": "6b4a6129bd8f7a49829fdc3b56c2d8a47ae5590b7aa5324e279cae7eb2b6a621",
+      "paint_density.gd": "e81304dd64ce1731c1b3baa94461d79f17df04aa334c5178d52312be338b6bd2",
+      "world_lighting.gd": "d588fc26f6807f5f6c94a4c92a2cdea91ac48b06d6f011785e61ad62584fd9e7",
+      "npc_roaming.gd": "47daab7f50ecfd255f4388350f47a66baac3b81091f605b9883cdcd8f43d199e",
+      "mobile_controls.gd": "412a4881d2f64c5299534d8a6d02730b19404f5442b75b8dc1e5101ff2b8348e",
+      "app_icon.png": "27ccb42a08eeeafc1b73d5071bd8b99100fc296468a0c1b0a3485c155cd38459"
+    }
+  },
+  "suites": {
+    "survival": {
+      "checks": 46,
+      "passed": true
+    },
+    "predator": {
+      "checks": 72,
+      "passed": true
+    },
+    "edge": {
+      "checks": 24,
+      "passed": true
+    },
+    "campaign": {
+      "checks": 15,
+      "passed": true
+    },
+    "pack": {
+      "checks": 113,
+      "passed": true
+    }
+  },
+  "retained_regressions": {
+    "actual_world_checks": 45737,
+    "existing_features": 27,
+    "morning_regrowth": 6,
+    "touch_control_checks": 3106,
+    "no_daylight_halo": 1046
+  },
+  "browser": {
+    "production_http_startup": true,
+    "final_export_reboot": true,
+    "error_logs": [],
+    "held_key_movement": true,
+    "gathered_fiber_seen_in_bag": true,
+    "bag_craft_open_close": true,
+    "desktop_ui": true,
+    "mobile_landscape_overrides": [
+      [
+        844,
+        390
+      ],
+      [
+        568,
+        320
+      ]
+    ],
+    "portrait_pause_prompt": true,
+    "staged_critical_shadow_charge_render": true,
+    "staged_fixture_is_delivered": false,
+    "physical_iphone_safari": false,
+    "full_manual_three_night_playthrough": false
+  },
+  "campaign_scope": "Automated stationary camp scenarios; provisioned starting inventories explicitly, real recipes/combat/AI/production clocks. Not a manual or exploration playthrough.",
+  "local_only": true,
+  "known_limitations": [
+    "No physical iPhone/Safari or WeChat test.",
+    "Campaign comparisons provision materials; not a complete exploration playthrough.",
+    "Finite seed sampling, future player tuning remains.",
+    "Headless sandbox denies Godot user directory/editor settings/system certificates; actual browser has no script/runtime errors."
+  ],
+  "payload": [
+    {
+      "name": "game.wasm",
+      "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0",
+      "bytes": 39514754
+    },
+    {
+      "name": "game.pck",
+      "sha256": "86a792469bd6b4a65a1e6ede91eb824b51b9397ca1c4ece2afae961ca8c55855",
+      "bytes": 73073636
+    }
+  ],
+  "local_launcher": {
+    "loopback_only": true,
+    "starts_without_dependencies": true,
+    "verified_url": "http://127.0.0.1:64883/"
+  },
+  "release_folder": "/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/output/0.1.6 series/adventure game 0.1.6.4",
+  "release_files": 166,
+  "independent_delivered_project_startup": true,
+  "delivered_preview": {
+    "url": "http://127.0.0.1:65062/",
+    "actual_browser_GAME_READY": true,
+    "browser_errors": [],
+    "paused_for_user": true,
+    "viewport_override_reset": true
+  },
+  "evidence_image": "browser-delivered.png",
+  "complete": true,
+  "actual_world_regression_rerun_from_delivered_folder": true
+}

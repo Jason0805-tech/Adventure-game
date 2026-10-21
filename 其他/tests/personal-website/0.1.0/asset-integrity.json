@@ -1,0 +1,121 @@
+{
+  "preserved_files": [
+    {
+      "path": "app-icon-rowan.png",
+      "sha256": "27ccb42a08eeeafc1b73d5071bd8b99100fc296468a0c1b0a3485c155cd38459",
+      "unchanged": true
+    },
+    {
+      "path": "cover.png",
+      "sha256": "ee6d0c6b3c2ff9e871eddeb11a870112b9e4d86fd494fc2eb30df944fe7ad35b",
+      "unchanged": true
+    },
+    {
+      "path": "data/game.pck.00.bin",
+      "sha256": "f57b2d5ce6f523460495baabe4f97a4a4af6bd600488c6c74f64ddf9ee7ec790",
+      "unchanged": true
+    },
+    {
+      "path": "data/game.pck.01.bin",
+      "sha256": "eb4be4915856dcb8948a41fcdaa1b586dfbacb349f7ad7c334cb27e2c3cc3144",
+      "unchanged": true
+    },
+    {
+      "path": "data/game.pck.02.bin",
+      "sha256": "13c01ec802b56441f2d9cf5acb38b3865040e7daabcaedcfff2ab12926c80a4e",
+      "unchanged": true
+    },
+    {
+      "path": "data/game.pck.03.bin",
+      "sha256": "f253f5656d9171861914ce11c7edfae5a8582e80abb14329ef4862ee7310e464",
+      "unchanged": true
+    },
+    {
+      "path": "data/game.pck.04.bin",
+      "sha256": "bccc176fd239fc070a0be5082ee94f4a20f585cd39e5e3d843ce9d44ae8f8cec",
+      "unchanged": true
+    },
+    {
+      "path": "data/game.pck.05.bin",
+      "sha256": "b2c22d4eb447e66d1691735652d7c6b9f56ab021ec35b6f0cf3bca5d0d983623",
+      "unchanged": true
+    },
+    {
+      "path": "data/game.pck.06.bin",
+      "sha256": "89591d443f12dc5c96f32a6dbf169f882a210877c0694a68d9412ba3d2c8f409",
+      "unchanged": true
+    },
+    {
+      "path": "data/game.pck.07.bin",
+      "sha256": "8a945a6bb400ad9263d96a2a812bcef940fea7e65fde76ea0defe1e48348dcd8",
+      "unchanged": true
+    },
+    {
+      "path": "data/game.pck.08.bin",
+      "sha256": "7cc8fec4190b62b644f27c89051064cbe4383c55c5d917d08865f8989b101a9e",
+      "unchanged": true
+    },
+    {
+      "path": "data/game.wasm.00.bin",
+      "sha256": "8a56546b5f9b9137e80adde4400b797a5189062dee30d2505871ebd8e83987d3",
+      "unchanged": true
+    },
+    {
+      "path": "data/game.wasm.01.bin",
+      "sha256": "62901720225c5663e708a233614396a6943357de7c98cead67f11669773dccae",
+      "unchanged": true
+    },
+    {
+      "path": "data/game.wasm.02.bin",
+      "sha256": "c14dee0b88ada7bc7b4b48f3b8ae20e16922818417292b06082484fe183ae397",
+      "unchanged": true
+    },
+    {
+      "path": "data/game.wasm.03.bin",
+      "sha256": "ca498a54fdb112b659cf23bc79a932e58d350a0f4cc8fabb639f230233ad6c72",
+      "unchanged": true
+    },
+    {
+      "path": "data/game.wasm.04.bin",
+      "sha256": "219249da87c3cfda9a89fba24e253e60d6efd5191d0b108120ad93e51e54d707",
+      "unchanged": true
+    },
+    {
+      "path": "game.audio.position.worklet.js",
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
+      "unchanged": true
+    },
+    {
+      "path": "game.audio.worklet.js",
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
+      "unchanged": true
+    },
+    {
+      "path": "game.js",
+      "sha256": "33c94cb3175f3333b82e2a3be5e8e86f77986f0aa2042b1631f6367a4e5bb6ba",
+      "unchanged": true
+    },
+    {
+      "path": "icon.png",
+      "sha256": "27ccb42a08eeeafc1b73d5071bd8b99100fc296468a0c1b0a3485c155cd38459",
+      "unchanged": true
+    },
+    {
+      "path": "manifest.webmanifest",
+      "sha256": "132404b2cea3daccd4ba88848309ca444cc698ee5a0b1ab0f5d39804e3cca14a",
+      "unchanged": true
+    },
+    {
+      "path": "meadow.jpg",
+      "sha256": "ead0e6cf40887c0d677609fa446c41f615cbd944c719f07e2f9eb844b685c914",
+      "unchanged": true
+    },
+    {
+      "path": "payload.json",
+      "sha256": "95554c32241f9100d0105516857f66862730a8b7d6d14767be0c964b25905f25",
+      "unchanged": true
+    }
+  ],
+  "payloads": "WASM and PCK reconstruct to original manifest SHA-256",
+  "rowan_cover": "byte-identical approved original"
+}

@@ -1,0 +1,33 @@
+{
+  "failures": [],
+  "night_runs": [
+    {
+      "bears": 1,
+      "expected_wolves": 2,
+      "fade_complete": true,
+      "night": 1,
+      "predator_min_distance": 360,
+      "wolf_and_bear_entries": true,
+      "wolves": 2
+    },
+    {
+      "bears": 1,
+      "expected_wolves": 3,
+      "fade_complete": true,
+      "night": 2,
+      "predator_min_distance": 360,
+      "wolf_and_bear_entries": true,
+      "wolves": 3
+    },
+    {
+      "bears": 1,
+      "expected_wolves": 3,
+      "fade_complete": true,
+      "night": 3,
+      "predator_min_distance": 360,
+      "wolf_and_bear_entries": true,
+      "wolves": 3
+    }
+  ],
+  "passed": true
+}

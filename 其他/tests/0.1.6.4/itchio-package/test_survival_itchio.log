@@ -1,0 +1,206 @@
+ERROR: Could not create directory: '/Users/jasonsmacair/Library/Application Support/Godot/app_userdata/Forest Wanderer v0.1.6-alpha.4'.
+   at: make_dir_recursive (core/io/dir_access.cpp:179)
+ERROR: Error attempting to create data dir: /Users/jasonsmacair/Library/Application Support/Godot/app_userdata/Forest Wanderer v0.1.6-alpha.4.
+   at: ensure_user_data_dir (core/os/os.cpp:442)
+ERROR: Could not create directory: 'user://logs'.
+   at: make_dir_recursive (core/io/dir_access.cpp:179)
+ERROR: Failed to open log file for writing: user://logs/godot.log
+   at: rotate_file (core/io/logger.cpp:169)
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/environment.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:168)
+         [1] load_art (res://main.gd:239)
+         [2] _ready (res://main.gd:439)
+         [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.4/itchio-package/test_survival_itchio.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/materials.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:168)
+         [1] load_art (res://main.gd:240)
+         [2] _ready (res://main.gd:439)
+         [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.4/itchio-package/test_survival_itchio.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/ponds.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:168)
+         [1] load_art (res://main.gd:241)
+         [2] _ready (res://main.gd:439)
+         [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.4/itchio-package/test_survival_itchio.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/tree-variants.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:168)
+         [1] load_art (res://main.gd:242)
+         [2] _ready (res://main.gd:439)
+         [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.4/itchio-package/test_survival_itchio.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/equipment.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:168)
+         [1] load_art (res://main.gd:243)
+         [2] _ready (res://main.gd:439)
+         [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.4/itchio-package/test_survival_itchio.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/ground-blends.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:168)
+         [1] load_art (res://main.gd:244)
+         [2] _ready (res://main.gd:439)
+         [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.4/itchio-package/test_survival_itchio.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/harvest-nodes.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] auto_grid (res://main.gd:184)
+         [1] load_art (res://main.gd:245)
+         [2] _ready (res://main.gd:439)
+         [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.4/itchio-package/test_survival_itchio.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/harvest-nodes.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:168)
+         [1] auto_grid (res://main.gd:220)
+         [2] load_art (res://main.gd:245)
+         [3] _ready (res://main.gd:439)
+         [4] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.4/itchio-package/test_survival_itchio.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/cabin-props.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] auto_grid (res://main.gd:184)
+         [1] load_art (res://main.gd:246)
+         [2] _ready (res://main.gd:439)
+         [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.4/itchio-package/test_survival_itchio.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/cabin-props.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:168)
+         [1] auto_grid (res://main.gd:220)
+         [2] load_art (res://main.gd:246)
+         [3] _ready (res://main.gd:439)
+         [4] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.4/itchio-package/test_survival_itchio.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/status-icons.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] auto_grid (res://main.gd:184)
+         [1] load_art (res://main.gd:247)
+         [2] _ready (res://main.gd:439)
+         [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.4/itchio-package/test_survival_itchio.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/status-icons.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:168)
+         [1] auto_grid (res://main.gd:220)
+         [2] load_art (res://main.gd:247)
+         [3] _ready (res://main.gd:439)
+         [4] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.4/itchio-package/test_survival_itchio.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/utility-icons.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:168)
+         [1] load_art (res://main.gd:248)
+         [2] _ready (res://main.gd:439)
+         [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.4/itchio-package/test_survival_itchio.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/utility-props.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:168)
+         [1] load_art (res://main.gd:249)
+         [2] _ready (res://main.gd:439)
+         [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.4/itchio-package/test_survival_itchio.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/traveler-unarmed-directions.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:223)
+         [1] load_art (res://main.gd:250)
+         [2] _ready (res://main.gd:439)
+         [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.4/itchio-package/test_survival_itchio.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/npc-rowan-directions.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:223)
+         [1] load_art (res://main.gd:253)
+         [2] _ready (res://main.gd:439)
+         [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.4/itchio-package/test_survival_itchio.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/npc-ash-directions.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:223)
+         [1] load_art (res://main.gd:253)
+         [2] _ready (res://main.gd:439)
+         [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.4/itchio-package/test_survival_itchio.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/npc-rowan-lantern.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:223)
+         [1] load_art (res://main.gd:254)
+         [2] _ready (res://main.gd:439)
+         [3] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.4/itchio-package/test_survival_itchio.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-bear.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:223)
+         [1] load_animal_art (res://main.gd:301)
+         [2] load_art (res://main.gd:255)
+         [3] _ready (res://main.gd:439)
+         [4] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.4/itchio-package/test_survival_itchio.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-deer.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:223)
+         [1] load_animal_art (res://main.gd:301)
+         [2] load_art (res://main.gd:255)
+         [3] _ready (res://main.gd:439)
+         [4] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.4/itchio-package/test_survival_itchio.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-fox.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:223)
+         [1] load_animal_art (res://main.gd:301)
+         [2] load_art (res://main.gd:255)
+         [3] _ready (res://main.gd:439)
+         [4] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.4/itchio-package/test_survival_itchio.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-rabbit.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:223)
+         [1] load_animal_art (res://main.gd:301)
+         [2] load_art (res://main.gd:255)
+         [3] _ready (res://main.gd:439)
+         [4] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.4/itchio-package/test_survival_itchio.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-wolf.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:223)
+         [1] load_animal_art (res://main.gd:301)
+         [2] load_art (res://main.gd:255)
+         [3] _ready (res://main.gd:439)
+         [4] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.4/itchio-package/test_survival_itchio.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/meadow.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_art (res://main.gd:280)
+         [1] _ready (res://main.gd:439)
+         [2] run (/Users/jasonsmacair/Documents/Codex/adventure game program by AI tech/tests/0.1.6.4/itchio-package/test_survival_itchio.gd:21)
+GAME_READY v0.1.6-alpha.4
+SURVIVAL_RESULTS {"checks":46,"details":{"berries":9,"near_food":3,"reachable_food":9},"failures":[],"passed":true}
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/traveler-armed-directions.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:223)
+         [1] draw_traveler (res://main.gd:1039)
+         [2] person (res://main.gd:1090)
+         [3] draw_paint_entry (res://main.gd:1223)
+         [4] _draw (res://main.gd:1367)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/held-weapon-2.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:223)
+         [1] held_weapon_texture (res://main.gd:234)
+         [2] draw_traveler (res://main.gd:1044)
+         [3] person (res://main.gd:1090)
+         [4] draw_paint_entry (res://main.gd:1223)
+         [5] _draw (res://main.gd:1367)

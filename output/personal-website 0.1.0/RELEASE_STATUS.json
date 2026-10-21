@@ -1,0 +1,21 @@
+{
+  "release": "Jason personal website 0.1.0",
+  "published": true,
+  "url": "https://forest-wanderer-three-nights-20261017.jasonlifengtong08-05.chatgpt.site",
+  "site_title": "Jason · AI Creator",
+  "access": "Public; existing Sites project and public setting preserved",
+  "site_project_id": "appgprj_6ad2dc3761bc81918b546e708b10733b",
+  "saved_version": 1,
+  "source_commit": "880742b103405d66c2ce8cb9c519b294e6b16e03",
+  "game": "Forest Wanderer 0.1.6.4 web release; native game resources and approved Rowan cover retained",
+  "game_first_download_bytes": 112588390,
+  "contacts": {
+    "github": "https://github.com/Jason0805-tech",
+    "wechat": null,
+    "douyin": null,
+    "phone": null,
+    "gmail": null
+  },
+  "contact_integration": "Contact links are prepared in dist/assets/content.js and will remain hidden until the user provides them.",
+  "verification": "See tests/personal-website/0.1.0/WEB_RELEASE_RESULTS.json. Touch hardware, physical phone, OS reduced-motion setting, and audio output were not verified."
+}

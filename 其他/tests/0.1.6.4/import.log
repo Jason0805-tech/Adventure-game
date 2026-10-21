@@ -1,0 +1,110 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Condition "ret != noErr" is true. Returning: ""
+   at: get_system_ca_certificates (platform/macos/os_macos.mm:1035)
+ERROR: Could not open 'user://' directory: 'user://'.
+   at: _get_and_create_snapshot_storage_dir (modules/objectdb_profiler/editor/objectdb_profiler_panel.cpp:157)
+[   0% ] first_scan_filesystem | Started 项目初始化 (5 steps)
+[   0% ] first_scan_filesystem | 正在扫描文件结构……
+[  16% ] first_scan_filesystem | 正在加载全局类名……
+[  33% ] first_scan_filesystem | 正在校验 GDExtension……
+[  50% ] first_scan_filesystem | 正在创建自动加载脚本……
+[  66% ] first_scan_filesystem | 正在初始化插件……
+[  83% ] first_scan_filesystem | 正在启动文件扫描……
+[ DONE ] first_scan_filesystem
+
+[   0% ] update_scripts_classes | Started 正在注册全局类…… (17 steps)
+[   0% ] update_scripts_classes | 
+[   5% ] update_scripts_classes | 
+[  11% ] update_scripts_classes | 
+[  16% ] update_scripts_classes | 
+[  22% ] update_scripts_classes | 
+[  27% ] update_scripts_classes | 
+[  33% ] update_scripts_classes | 
+[  38% ] update_scripts_classes | 
+[  44% ] update_scripts_classes | 
+[  50% ] update_scripts_classes | 
+[  55% ] update_scripts_classes | 
+[  61% ] update_scripts_classes | 
+[  66% ] update_scripts_classes | 
+[  72% ] update_scripts_classes | 
+[  77% ] update_scripts_classes | 
+[  83% ] update_scripts_classes | 
+[  88% ] update_scripts_classes | 
+[ DONE ] update_scripts_classes
+
+[   0% ] _update_scan_actions | Started 正在扫描动作…… (46 steps)
+[   0% ] _update_scan_actions | cabin-props.png
+[   2% ] _update_scan_actions | environment.png
+[   4% ] _update_scan_actions | equipment.png
+[   6% ] _update_scan_actions | ground-blends.png
+[   8% ] _update_scan_actions | harvest-nodes.png
+[  10% ] _update_scan_actions | held-use-weapon-0.png
+[  12% ] _update_scan_actions | held-use-weapon-1.png
+[  14% ] _update_scan_actions | held-use-weapon-2.png
+[  17% ] _update_scan_actions | held-use-weapon-3.png
+[  19% ] _update_scan_actions | held-use-weapon-4.png
+[  21% ] _update_scan_actions | held-use-weapon-5.png
+[  23% ] _update_scan_actions | held-use-weapon-6.png
+[  25% ] _update_scan_actions | held-use-weapon-7.png
+[  27% ] _update_scan_actions | held-use-weapon-8.png
+[  29% ] _update_scan_actions | held-weapon-0.png
+[  31% ] _update_scan_actions | held-weapon-1.png
+[  34% ] _update_scan_actions | held-weapon-2.png
+[  36% ] _update_scan_actions | held-weapon-3.png
+[  38% ] _update_scan_actions | held-weapon-4.png
+[  40% ] _update_scan_actions | held-weapon-5.png
+[  42% ] _update_scan_actions | held-weapon-6.png
+[  44% ] _update_scan_actions | held-weapon-7.png
+[  46% ] _update_scan_actions | held-weapon-8.png
+[  48% ] _update_scan_actions | materials.png
+[  51% ] _update_scan_actions | meadow.png
+[  53% ] _update_scan_actions | npc-ash-directions.png
+[  55% ] _update_scan_actions | npc-rowan-directions.png
+[  57% ] _update_scan_actions | npc-rowan-lantern.png
+[  59% ] _update_scan_actions | npc-torso-source.png
+[  61% ] _update_scan_actions | npcs.png
+[  63% ] _update_scan_actions | paint-materials.png
+[  65% ] _update_scan_actions | painted-torso-source.png
+[  68% ] _update_scan_actions | ponds.png
+[  70% ] _update_scan_actions | status-icons.png
+[  72% ] _update_scan_actions | traveler-armed-directions.png
+[  74% ] _update_scan_actions | traveler-unarmed-directions.png
+[  76% ] _update_scan_actions | traveler-use-directions.png
+[  78% ] _update_scan_actions | tree-variants.png
+[  80% ] _update_scan_actions | utility-icons.png
+[  82% ] _update_scan_actions | utility-props.png
+[  85% ] _update_scan_actions | wildlife-bear.png
+[  87% ] _update_scan_actions | wildlife-deer.png
+[  89% ] _update_scan_actions | wildlife-fox.png
+[  91% ] _update_scan_actions | wildlife-rabbit.png
+[  93% ] _update_scan_actions | wildlife-wolf.png
+[  95% ] _update_scan_actions | app_icon.png
+[ DONE ] _update_scan_actions
+
+[   0% ] reimport | Started 正在导入或重新导入资产 (1 steps)
+[   0% ] reimport | 正在准备重新导入文件……
+[   0% ] reimport | 正在执行重新导入的前置操作……
+[   0% ] reimport | app_icon.png
+[  50% ] reimport | 正在结束资产导入……
+[ DONE ] reimport
+
+[   0% ] reimport | Started 正在导入或重新导入资产 (1 steps)
+[   0% ] reimport | 正在执行重新导入的后置操作……
+[ DONE ] reimport
+
+[   0% ] loading_editor_layout | Started 正在加载编辑器 (5 steps)
+[   0% ] loading_editor_layout | 正在加载编辑器布局……
+[  16% ] loading_editor_layout | 正在加载停靠面板……
+[ DONE ] loading_editor_layout
+
+SCRIPT ERROR: Parse Error: Cannot infer the type of "safe" variable because the value doesn't have a set type.
+   at: GDScript::reload (res://sanity_system.gd:48)
+SCRIPT ERROR: Compile Error: Failed to compile depended scripts.
+   at: GDScript::reload (res://main.gd:0)
+ERROR: Failed to load script "res://main.gd" with error "Parse error".
+   at: load (modules/gdscript/gdscript_resource_format.cpp:46)
+ERROR: Cannot save file '/Users/jasonsmacair/Library/Application Support/Godot/editor_settings-4.7.tres'.
+   at: save (scene/resources/resource_format_text.cpp:1768)
+ERROR: Error saving editor settings to /Users/jasonsmacair/Library/Application Support/Godot/editor_settings-4.7.tres
+   at: save (editor/settings/editor_settings.cpp:1525)

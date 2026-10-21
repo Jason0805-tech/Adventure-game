@@ -1,0 +1,61 @@
+{
+  "kind": "Source and JavaScript contract checks; not browser/device tests",
+  "checks": [
+    {
+      "name": "Bilingual dictionary keys match",
+      "result": "pass"
+    },
+    {
+      "name": "Contact details remain unpublished until supplied",
+      "result": "pass"
+    },
+    {
+      "name": "index.html translation keys exist",
+      "result": "pass"
+    },
+    {
+      "name": "index.html local references resolve",
+      "result": "pass"
+    },
+    {
+      "name": "index.html no duplicate IDs",
+      "result": "pass"
+    },
+    {
+      "name": "index.html does not eagerly include engine",
+      "result": "pass"
+    },
+    {
+      "name": "games/forest-wanderer/index.html translation keys exist",
+      "result": "pass"
+    },
+    {
+      "name": "games/forest-wanderer/index.html local references resolve",
+      "result": "pass"
+    },
+    {
+      "name": "games/forest-wanderer/index.html no duplicate IDs",
+      "result": "pass"
+    },
+    {
+      "name": "games/forest-wanderer/index.html does not eagerly include engine",
+      "result": "pass"
+    },
+    {
+      "name": "Reduced-motion false transition contract",
+      "result": "pass"
+    },
+    {
+      "name": "Back navigation clears transition false",
+      "result": "pass"
+    },
+    {
+      "name": "Reduced-motion true transition contract",
+      "result": "pass"
+    },
+    {
+      "name": "Back navigation clears transition true",
+      "result": "pass"
+    }
+  ]
+}

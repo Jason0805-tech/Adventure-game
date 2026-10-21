@@ -1,0 +1,314 @@
+PROJECT: Forest Wanderer
+NEW VERSION: v0.1.6-alpha.4
+ENGINE: Godot 4.7 / GDScript
+
+OBJECTIVE
+Improve survival difficulty, player progression, and gameplay engagement while preserving all existing systems, artwork, and visual quality.
+
+SOURCE
+Use the existing v0.1.6.3 project as the foundation.
+
+Create a separate playable development version at:
+output/0.1.6 series/adventure game 0.1.6.4/
+
+Preserve v0.1.6.3 completely.
+Copy the required project source and assets while excluding unnecessary generated caches and exports.
+Ensure the new Godot project works independently.
+
+IMPORTANT:
+- Save all changes locally.
+- Do NOT push to GitHub.
+- Do NOT create a GitHub Release.
+- Do NOT modify existing historical versions.
+- Do NOT replace original artwork.
+- Preserve current desktop/mobile controls.
+- Preserve the existing three-night survival objective.
+- Integrate changes into existing systems rather than rebuilding them.
+
+========================================
+1. SANITY SYSTEM
+========================================
+
+Implement a complete Sanity system.
+
+Base values:
+- Maximum sanity: 100
+- Initial sanity: 100
+- Minimum sanity: 0
+
+Sanity changes:
+- Daytime exploration: no passive sanity loss.
+- Nighttime darkness: -0.35 sanity/second.
+- Protected light sources: prevent darkness-related sanity loss.
+- Resting in a safe, illuminated camp: +0.25 sanity/second.
+- Dangerous wildlife encounters: -5 sanity per encounter, with a cooldown.
+- Severe hunger: additional gradual sanity loss.
+- Selected existing food or rest interactions may restore sanity.
+
+Avoid unlimited sanity restoration exploits.
+
+SANITY LEVELS:
+
+70-100: NORMAL
+- No negative effects.
+
+30-69: UNSTABLE
+- Subtle screen-edge darkness.
+- Occasional environmental visual distortions.
+- Rare shadow hallucinations.
+- Mild atmospheric effects.
+
+0-29: CRITICAL
+- Stronger but readable visual distortions.
+- More frequent hallucinations.
+- Actual hostile shadow creatures may appear.
+
+SHADOW CREATURES:
+- Only spawn at critical sanity.
+- Maximum one active shadow creature near the player.
+- Minimum 45-second spawn cooldown.
+- Use existing combat and collision systems.
+- Shadow creatures must be avoidable or defeatable.
+- Despawn when sanity rises above 35 or conditions become safe.
+- Do not use unavoidable damage or sudden unfair spawning.
+- Reuse existing visual resources where possible.
+
+VISUAL DESIGN:
+- Add a Sanity indicator to the existing HUD.
+- Keep the interface consistent with current visual styling.
+- Support both desktop and mobile layouts.
+- Avoid excessive screen effects that obstruct gameplay.
+
+========================================
+2. HUNGER REBALANCING
+========================================
+
+Current problem:
+Hunger decreases too slowly and rarely affects survival.
+
+Requirements:
+- Preserve the existing hunger system.
+- Rebalance passive hunger consumption to approximately 8 points/minute.
+- Scale appropriately if the existing hunger range differs from 0-100.
+- Existing food items must restore meaningful amounts of hunger.
+
+Hunger consequences:
+- Above 25%: normal gameplay.
+- Below 25%: mild survival penalties.
+- At 0: gradual health loss.
+- Severe hunger also increases sanity loss.
+
+Avoid instant death.
+
+Food gathering, fishing, and food management should become meaningful survival activities.
+
+Ensure sufficient accessible food resources exist so survival remains achievable.
+
+========================================
+3. WILDLIFE DIFFICULTY
+========================================
+
+Current problem:
+Wolves and bears are too slow to threaten players.
+
+Improve hostile wildlife behavior.
+
+WOLVES:
+- Slightly faster than normal player movement during pursuit.
+- Maintain existing perception and warning behavior.
+- Lose pursuit when the player escapes detection or reaches effective protection.
+
+BEARS:
+- Slower normal pursuit than wolves.
+- Can perform short, faster charges.
+- Charges must include visible warning behavior.
+- Charges require cooldowns.
+
+GENERAL RULES:
+- Preserve existing animal movement and animation systems.
+- Preserve species-specific behavior.
+- Do not modify passive animals into aggressive enemies.
+- Respect existing obstacles and collision.
+- Prevent predators from spawning directly beside the player.
+- Do not create unavoidable encounters.
+
+Players must have realistic escape options through movement, obstacles, equipment, or environmental protection.
+
+========================================
+4. NIGHT SURVIVAL & CAMP SAFETY
+========================================
+
+Current problem:
+The camp is completely safe, making preparation unnecessary.
+
+Keep the camp useful, but remove unconditional safety.
+
+CAMP:
+- Preserve the existing permanent camp lantern.
+- Light reduces wildlife aggression and visibility-related sanity loss.
+- Camp protection must not completely disable survival mechanics.
+- Hunger continues decreasing while resting.
+- Nearby threats may still create pressure.
+- Avoid unfair attacks immediately after spawning.
+
+NIGHT DIFFICULTY:
+
+NIGHT 1:
+- Introduction to survival threats.
+- Relatively forgiving enemy behavior.
+- Allow players to learn preparation mechanics.
+
+NIGHT 2:
+- Increased predator activity.
+- Greater importance of equipment and food.
+- More meaningful environmental threats.
+
+NIGHT 3:
+- Highest survival pressure.
+- Requires effective preparation and resource management.
+- Difficult but achievable without perfect gameplay.
+
+Preserve the existing day-night cycle duration unless a verified balancing issue requires adjustment.
+
+Do not solve difficulty problems simply by spawning excessive enemies.
+
+========================================
+5. PLAYER PROGRESSION
+========================================
+
+Current problem:
+Gathering resources, crafting weapons, and exploring are often optional and unrewarding.
+
+Create meaningful progression using existing mechanics.
+
+EARLY GAME:
+- Basic resource gathering.
+- Food acquisition.
+- Simple tools and equipment.
+
+MID GAME:
+- Improved tools and weapons.
+- More effective resource collection.
+- Better preparation for dangerous encounters.
+
+LATE GAME:
+- Advanced survival equipment.
+- Stronger defensive options.
+- Preparation for the final night.
+
+REQUIREMENTS:
+- Preserve existing crafting recipes unless modification is necessary.
+- Make equipment upgrades noticeably useful.
+- Improved tools should increase gathering efficiency.
+- Better weapons should meaningfully improve survival.
+- Light sources should provide tactical advantages.
+- Reward exploration with useful resources or opportunities.
+- Ensure progression works within the existing three-night timeline.
+
+Do NOT add an unnecessary XP or character-level system.
+
+Progression should come primarily from equipment, resources, exploration, and preparation.
+
+========================================
+6. GAMEPLAY BALANCE
+========================================
+
+The intended gameplay loop is:
+
+EXPLORE
+→ GATHER RESOURCES
+→ CRAFT EQUIPMENT
+→ IMPROVE SURVIVAL CAPABILITY
+→ SURVIVE THE NIGHT
+→ EXPLORE FURTHER
+
+Balance the systems together.
+
+Avoid:
+- Unfair difficulty spikes.
+- Unavoidable enemy damage.
+- Excessive hunger consumption.
+- Uncontrollable sanity loss.
+- Repetitive resource grinding.
+- Equipment upgrades with no practical value.
+- Excessive enemy spawning.
+
+Each survival mechanic should create meaningful player decisions.
+
+Players who prepare carefully should have a clear advantage over players who ignore survival mechanics.
+
+========================================
+7. TECHNICAL REQUIREMENTS
+========================================
+
+- Use Godot 4.7-compatible GDScript.
+- Inspect the existing architecture before editing.
+- Reuse existing components and functions.
+- Keep code modular and maintainable.
+- Preserve current save-independent gameplay behavior.
+- Pause all survival timers when the game is paused.
+- Prevent duplicated timers, signals, or damage events.
+- Keep HUD elements readable on mobile devices.
+- Maintain original graphics and animation quality.
+- Avoid introducing unnecessary dependencies.
+- Optimize new systems for desktop and web performance.
+
+Do not introduce unrelated features.
+
+========================================
+8. TESTING
+========================================
+
+Verify the following:
+
+1. Game launches without errors.
+2. Existing movement and controls still work.
+3. Resource gathering and crafting remain functional.
+4. Sanity decreases correctly in darkness.
+5. Sanity recovers under appropriate conditions.
+6. Shadow creatures appear only under valid conditions.
+7. Hunger has meaningful survival consequences.
+8. Wolves and bears present fair challenges.
+9. Camp protection works without granting immunity.
+10. Each night presents an appropriate difficulty increase.
+11. Existing inventory and combat mechanics remain functional.
+12. The three-night objective remains completable.
+13. No major regressions occur in desktop or mobile UI.
+
+Use available automated tests where practical.
+
+Do not claim manual testing unless it was actually performed.
+
+========================================
+9. LOCAL STORAGE & REPORTING
+========================================
+
+Save the completed implementation locally in:
+
+output/0.1.6 series/adventure game 0.1.6.4/
+
+Keep the previous version unchanged.
+
+Create a concise CHANGELOG.md inside the new version folder containing:
+- Implemented features.
+- Modified files.
+- Balance changes.
+- Known issues.
+- Testing results.
+
+Do not upload, commit, or push anything.
+
+After implementation, report:
+1. Completed features.
+2. Files changed.
+3. Tests performed and results.
+4. Remaining issues.
+5. Exact local project location.
+
+Do not claim that a feature is complete unless it is implemented and verified.
+
+PRIORITY:
+Gameplay quality > Logical consistency > Performance > Additional complexity.
+
+FINAL GOAL:
+Transform Forest Wanderer from a low-pressure exploration game into a balanced survival adventure with meaningful preparation, progression, and increasing nighttime challenges.

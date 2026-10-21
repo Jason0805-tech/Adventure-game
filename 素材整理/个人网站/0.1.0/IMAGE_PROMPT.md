@@ -1,0 +1,7 @@
+# Personal website forest atmosphere
+
+Generated with the built-in image_gen tool on 2026-10-19. Original pixels retained in forest-entrance.png; the deployed image is a byte-identical copy. Decorative website illustration, not gameplay footage.
+
+## Full prompt
+
+Use case: illustration-story. Asset type: full-width background illustration for Jason's personal AI creator portfolio website, forest theme. Primary request: A richly hand-painted gouache forest clearing at the threshold of adventure, sweeping wide cinematic landscape 3:2 aspect ratio. Tall dark fir trees frame the far left and right, mossy roots and soft ferns in the foreground, a winding pale golden footpath leads from lower center into a distant warm clearing slightly right of center, tiny fireflies, layered misty sage-green woodland silhouettes. Medium: painterly oil/gouache storybook cartoon, tactile brushwork and subtle paper grain, sophisticated quiet editorial composition, no photorealism, no 3D render. Forest green, deep teal, muted sage, warm cream sunlight, small amber accents. Left-center must remain darker and relatively calm with clear negative space for large warm white headline overlay. Visually strongest illuminated path and trees on right half. Dense illustrated foliage fills entire image to edges, no border. No people, no text, no letters, no logo, no interface. This is decorative website atmosphere, not a game screenshot.

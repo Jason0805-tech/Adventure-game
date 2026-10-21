@@ -1,0 +1,16 @@
+{
+  "original_recipe_count": 11,
+  "original_recipes_unchanged": true,
+  "new_recipes": [
+    {
+      "id": "crystal",
+      "cost": {
+        "ore": 1,
+        "rock": 2,
+        "rope": 1
+      },
+      "bench": true
+    }
+  ],
+  "absolute_project_dependencies": []
+}

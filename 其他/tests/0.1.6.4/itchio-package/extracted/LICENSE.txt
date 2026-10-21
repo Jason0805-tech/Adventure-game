@@ -1,0 +1,28 @@
+Forest Wanderer — All Rights Reserved
+
+Copyright © 2026 Jason0805-tech
+
+All original material in this repository that Jason0805-tech owns or is
+authorized to control, including source code, scripts, documentation, game
+designs, artwork, characters, sprites, textures, animations, audio, and other
+project files, is proprietary and all rights are reserved.
+
+No permission is granted to use, copy, reproduce, modify, adapt, distribute,
+publish, sell, publicly display, perform, or create derivative works from
+that material, whether for personal, private, educational, non-commercial, or
+commercial purposes, without prior written permission from the applicable
+rights holder. This restriction applies unless a separate written permission
+or an applicable third-party license says otherwise, and is subject to uses
+that cannot be restricted under applicable law.
+
+This notice does not override GitHub's Terms of Service. While this repository
+is public, GitHub's terms permit other users to view and fork repository
+content through GitHub's service. This notice does not grant permission for
+use outside rights provided by GitHub's terms.
+
+Third-party software, fonts, libraries, and other materials are not covered by
+this notice and remain subject to their own license terms. Existing third-party
+license notices must be preserved.
+
+For written permission, contact the rights holder through:
+https://github.com/Jason0805-tech
