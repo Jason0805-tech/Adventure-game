@@ -60,3 +60,14 @@ Delivery gate: complete actual browser startup into the map and relevant interac
 ## Personal website — persistent game-world design rule
 
 2026-10-19: Jason’s personal site is bilingual, with a shared portfolio and independent themed spaces for each game. Before adding any new game, remind Jason to decide its own background, palette, atmosphere, and transition from the homepage. Do not silently reuse the forest theme. First game: Forest Wanderer 0.1.6.4. Optional WeChat, Douyin, phone and Gmail remain hidden until Jason supplies exact public contact details. Site uses the existing public Sites project appgprj_6ad2dc3761bc81918b546e708b10733b; do not create a duplicate. Candidate/evidence: tests/personal-website/0.1.0/. Accepted delivery: output/personal-website 0.1.0/.
+
+
+## 2026-10-21 (Claude Code takes over from Codex)
+
+Folders moved: AGENTS.md/README/LICENSE/tests now live in `其他/` (tests = `其他/tests/<version>/`); roadmap screenshots in `主线思路/`. Git LFS and gh live in `~/.local/bin/`; .git/config and .git/hooks point there. `.gitattributes` lists every file >= 1 MiB explicitly as LFS — add new large files there before committing. Do not commit `其他/tests/personal-website/*/site/` (embedded repo) or its `*.tar.gz` bundles.
+
+User wants every update/change committed and pushed to GitHub automatically, and uploaded to itch.io (jason0805-tech.itch.io/forest-wanderer). itch.io zip goes in `deployment/itchio/v<version>/`.
+
+v0.1.6-alpha.5 = `output/0.1.6 series/adventure game 0.1.6.5/`: fixes the dialog that reopened while E was still held. Rule: after any modal closes, `input_latched` blocks interact/use until E/Space/click/mobile buttons are released; keep this. F3 collider overlay is gated by OS.is_debug_build(), so release exports need no separate itch.io copy. Web export: Godot headless `--export-release "Web" web/game.html`, then `其他/tests/0.1.6.5/web-build/build_web.py` chunks it into dist. Export template is in each release's tools/ and also installed into ~/Library/Application Support/Godot/export_templates/4.7.2.stable/.
+
+Next roadmap (主线思路 screenshots): Phase 1 v0.1.7 beacon main quest (repair an ancient beacon from parts in different areas, then escape; three nights stay but are no longer the only goal), v0.1.8 quest log/progression, v0.1.9 wildlife AI, v0.2.0 night survival 2.0; Phase 2 v0.3–0.5 world expansion/diversity/dynamic world; Phase 3 v0.6–1.0.

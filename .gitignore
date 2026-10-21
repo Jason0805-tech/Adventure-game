@@ -19,3 +19,8 @@ node_modules/
 # Regenerable site deployment bundles
 其他/tests/personal-website/*/*.tar.gz
 其他/tests/personal-website/*/site/
+
+# Regenerable raw Godot web exports (the chunked web-share is kept)
+其他/tests/*/raw-export/
+其他/tests/*/fixture-*/web/
+其他/tests/*/fixture-*/.godot/

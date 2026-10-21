@@ -1,0 +1,4 @@
+== 0.1.6.4
+{"checks":9,"failures":["E press closes the conversation","holding E after closing does not reopen the conversation","releasing E keeps the conversation closed","Space closes the conversation","closing any menu with E held does not trigger a new interaction"],"passed":false,"suite":"dialog_close"}
+== 0.1.6.5
+{"checks":9,"failures":[],"passed":true,"suite":"dialog_close"}

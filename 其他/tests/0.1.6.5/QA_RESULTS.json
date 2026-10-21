@@ -1,0 +1,20 @@
+{
+  "version": "v0.1.6-alpha.5",
+  "base": "output/0.1.6 series/adventure game 0.1.6.4 (unchanged)",
+  "fix": "Input latch after any modal closes: E/Space/left-click/mobile buttons must be released before the next interaction or tool use.",
+  "suites": {
+    "dialog_close": {"checks": 9, "passed_on_0.1.6.5": true, "failures_on_0.1.6.4": 5},
+    "survival": {"checks": 46, "passed": true},
+    "predators": {"checks": 72, "passed": true},
+    "edges": {"checks": 24, "passed": true},
+    "actual_world": {"checks": 45737, "passed": true}
+  },
+  "browser": {
+    "delivered_web_share_boot": "GAME_READY v0.1.6-alpha.5, no console errors (http://127.0.0.1:65165/)",
+    "fixture_ash_tests_only": "E opens Ash dialog, E closes and it stays closed, clicking Continue closes; clock resumes after close",
+    "held_key_in_browser": false,
+    "note": "Browser tool can only tap keys; held-key cases are verified headless with real Godot InputEventKey state.",
+    "physical_iphone_safari": false
+  },
+  "fixture_is_delivered": false
+}
