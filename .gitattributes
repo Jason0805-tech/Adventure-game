@@ -1823,3 +1823,4 @@
 "其他/tests/0.1.7.1/web-build/dist/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
 "其他/tests/0.1.7.1/web-build/dist/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
 "其他/tests/0.1.7.1/web-build/dist/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.1.7 series/adventure game 0.1.7.1/Forest Wanderer 0.1.7-alpha.1 - Web.zip" filter=lfs diff=lfs merge=lfs -text

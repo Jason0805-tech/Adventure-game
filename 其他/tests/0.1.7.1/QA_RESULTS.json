@@ -1,0 +1,9 @@
+{
+  "version": "v0.1.7-alpha.1",
+  "base": "output/0.1.7 series/adventure game 0.1.7 (unchanged)",
+  "changes": ["day 180 -> 120 s", "Shift / mobile Run sprint x1.55 with ~4 s stamina", "squash-and-spring press feedback on all buttons", "stone gate removed", "zone-balanced resources (3x3) with daily relocation of collected nodes", "M / mobile Map world map with fog of war and key-place markers; world keeps running"],
+  "suites": {"alpha1": 78, "survival": 46, "beacon": 473, "dialog_fit": "pass", "dialog_close": 9, "predators": 72, "edges": 24, "actual_world": 45737, "all_passed": true},
+  "resource_balance": {"old_worst_zone_share": 0.44, "new_worst_zone_share": 0.22, "seeds": [7, 164, 9001, 31337]},
+  "browser": {"desktop_1280x720": "GAME_READY v0.1.7-alpha.1, map opens/closes", "mobile_667x375_touch": "Map/Close/Run touch taps work, Run ON ring visible, toast clears Map, legend fits", "held_shift_in_browser": false, "physical_phone": false},
+  "itch_package": "not built (GitHub-first rule; itch only when the user approves a build)"
+}
