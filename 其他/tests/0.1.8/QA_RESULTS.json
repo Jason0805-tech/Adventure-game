@@ -1,0 +1,7 @@
+{
+  "version": "v0.1.8",
+  "base": "output/0.1.7 series/adventure game 0.1.7.1 (unchanged)",
+  "features": ["journal tab (J) beside the map (M) with main-quest steps, gear hint, discoveries, caches, exploration bar", "8 landmarks with first-visit rewards; 3 teach tier-III recipes", "4 supply caches (reused weathered crate art + prop_5 ground profile)", "exploration milestones at 25/50/75%", "tiered crafting I/II/III with locked recipes", "queued quest banners"],
+  "suites": {"progression": 652, "alpha1": 78, "survival": 46, "beacon": 482, "dialog_fit": "pass", "dialog_close": 9, "predators": 72, "edges": 24, "actual_world": 45737, "all_passed": true},
+  "browser": {"desktop_1280x720": "GAME_READY v0.1.8, intro banner, J journal", "mobile_667x375_touch": "Map -> Journal tab by touch, journal columns fit", "physical_phone": false, "manual_full_playthrough": false}
+}
