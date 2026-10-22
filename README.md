@@ -2,6 +2,10 @@
 
 **A 2D survival adventure game built with Godot Engine.**
 
+### ▶ [Play in your browser](https://jason0805-tech.github.io/Adventure-game/)
+
+The link always runs the newest build (alpha, beta or release). Desktop and landscape phones are supported; the first load is about 110 MB.
+
 Forest Wanderer is an independent adventure game focused on exploration, survival, resource management, and environmental interaction.
 
 Players explore a forest environment, collect resources, craft equipment, interact with wildlife, and overcome environmental challenges.
@@ -17,7 +21,7 @@ This project is actively under development.
 | Category | Details |
 |---|---|
 | Game | Forest Wanderer |
-| Current Version | v0.1.7 |
+| Current Version | v0.1.7-alpha.1 |
 | Development Status | Early Development |
 | Game Engine | Godot 4.7 |
 | Programming Language | GDScript |
@@ -160,7 +164,7 @@ Additional development and debugging controls may be available.
 
 4. Locate the following directory:
 
-   `output/0.1.7 series/adventure game 0.1.7/`
+   `output/0.1.7 series/adventure game 0.1.7.1/`
 
 5. Select `project.godot`.
 
@@ -178,7 +182,7 @@ The web distribution includes browser-compatible game files and additional launc
 
 Some browsers may require the game to be served through a local web server rather than opened directly as a local HTML file.
 
-For additional information, refer to the web instructions included with v0.1.7.
+For additional information, refer to the web instructions included with v0.1.7-alpha.1.
 
 ### Mobile Browser Testing
 
@@ -270,7 +274,7 @@ The project is not yet considered a stable final release.
 
 The repository preserves multiple development versions.
 
-The current documented version is **v0.1.7**.
+The current documented version is **v0.1.7-alpha.1**.
 
 Earlier versions remain available for development reference and comparison.
 
