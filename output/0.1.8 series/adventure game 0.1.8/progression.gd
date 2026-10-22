@@ -230,9 +230,18 @@ func draw_banner(game: Variant, screen: Vector2) -> void:
 	var title_size := 26 if mobile else 18
 	var text_size := 22 if mobile else 15
 	var width: float = minf(screen.x - 80, maxf(game.font.get_string_size(banner_title, HORIZONTAL_ALIGNMENT_LEFT, -1, title_size).x, game.font.get_string_size(banner_text, HORIZONTAL_ALIGNMENT_LEFT, -1, text_size).x) + 48)
-	var top: float = (230.0 if mobile else 152.0) - (1.0 - alpha) * 12.0
-	var rect := Rect2(Vector2((screen.x - width) * 0.5, top), Vector2(width, title_size + text_size + 34))
+	var lines := 1
+	if mobile:
+		# Same width as the centred toast, so the right-hand buttons stay clear.
+		width = minf(width, game.mobile_ui.toast_room(game, screen))
+		if game.font.get_string_size(banner_text, HORIZONTAL_ALIGNMENT_LEFT, -1, text_size).x > width - 48: lines = 2
+	# Phones: below the centred toast (which sits under the top hotbar).
+	var top: float = (392.0 if mobile else 152.0) - (1.0 - alpha) * 12.0
+	var rect := Rect2(Vector2((screen.x - width) * 0.5, top), Vector2(width, title_size + text_size * lines + 6 * (lines - 1) + 34))
 	game.paper_panel(rect, Color(0.94, 0.88, 0.69, alpha), 10)
 	game.draw_rect(Rect2(rect.position + Vector2(10, 6), Vector2(rect.size.x - 20, 3)), Color(0.66, 0.47, 0.24, alpha))
 	game.label_at(rect.position + Vector2(24, title_size + 12), banner_title, title_size, Color(0.42, 0.29, 0.13, alpha))
-	game.label_at(rect.position + Vector2(24, title_size + text_size + 22), banner_text, text_size, Color(0.21, 0.28, 0.24, alpha))
+	if lines == 1:
+		game.label_at(rect.position + Vector2(24, title_size + text_size + 22), banner_text, text_size, Color(0.21, 0.28, 0.24, alpha))
+	else:
+		game.draw_wrapped_text(banner_text, rect.position + Vector2(24, title_size + text_size + 22), width - 48, text_size, 2)

@@ -35,13 +35,13 @@
     },
     {
       "name": "game.pck",
-      "bytes": 75217228,
-      "sha256": "7e29cb21970aea91a00e12297e5c8a3704e9c1901e1af3d73c34bea06758b2f2",
+      "bytes": 75217484,
+      "sha256": "ac11c329d1038cfd094bf63f0b46c46ca432ea2786eaae382f72d60503e2a09b",
       "parts": [
         {
           "url": "data/game.pck.00.bin",
           "bytes": 8388608,
-          "sha256": "f356e6bcc0d47f28df6389926e49177f3104b777730c08696373f2172151bd63"
+          "sha256": "a30a9d15ea3328e7c6f11da3e7d3a0b80d55b762ace01303f2a15bd5e054f4f4"
         },
         {
           "url": "data/game.pck.01.bin",
@@ -80,14 +80,14 @@
         },
         {
           "url": "data/game.pck.08.bin",
-          "bytes": 8108364,
-          "sha256": "8bf51911f0244e97ef92634d3a5b16f91947b16d52ea7a2958a2f58651d141a8"
+          "bytes": 8108620,
+          "sha256": "18c5e22d4f878449b380ed9e079e5c2afbc56f5588f157d974f2082a6b63463e"
         }
       ]
     }
   ],
   "sizes": {
     "game.wasm": 39514754,
-    "game.pck": 75217228
+    "game.pck": 75217484
   }
 }
