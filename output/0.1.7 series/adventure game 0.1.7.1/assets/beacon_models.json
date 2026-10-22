@@ -1,0 +1,614 @@
+{
+  "models": {
+    "beacon": {
+      "beacon-broken": {
+        "height": 184.57,
+        "profile": "beacon_broken"
+      },
+      "beacon-lit": {
+        "height": 191.02,
+        "profile": "beacon_lit"
+      },
+      "beacon-repaired": {
+        "height": 190.0,
+        "profile": "beacon_repaired"
+      }
+    },
+    "rune_rock": {
+      "rune-rock": {
+        "height": 74.0,
+        "profile": "rune_rock"
+      },
+      "rune-rock-open": {
+        "height": 71.82,
+        "profile": "rune_rock_open"
+      }
+    },
+    "shrine": {
+      "shrine-core": {
+        "height": 64.32,
+        "profile": "shrine_core"
+      },
+      "shrine-empty": {
+        "height": 60.0,
+        "profile": "shrine_empty"
+      }
+    }
+  },
+  "profiles": {
+    "beacon_broken": {
+      "collision_space": "ground_plane",
+      "depth_v": 0.976,
+      "notes": "v0.1.7 beacon ground base: bottom 20% of the beacon-repaired reference silhouette, inset 10% each side, shared world footprint across states. Elevated paint is visual only.",
+      "overhead_split_v": 0.787,
+      "polygons": [
+        [
+          [
+            0.196,
+            0.787
+          ],
+          [
+            0.188,
+            0.811
+          ],
+          [
+            0.192,
+            0.836
+          ],
+          [
+            0.206,
+            0.862
+          ],
+          [
+            0.245,
+            0.888
+          ],
+          [
+            0.271,
+            0.914
+          ],
+          [
+            0.318,
+            0.939
+          ],
+          [
+            0.375,
+            0.965
+          ],
+          [
+            0.571,
+            0.991
+          ],
+          [
+            0.583,
+            0.991
+          ],
+          [
+            0.805,
+            0.965
+          ],
+          [
+            0.836,
+            0.939
+          ],
+          [
+            0.885,
+            0.914
+          ],
+          [
+            0.882,
+            0.888
+          ],
+          [
+            0.876,
+            0.862
+          ],
+          [
+            0.874,
+            0.836
+          ],
+          [
+            0.874,
+            0.811
+          ],
+          [
+            0.875,
+            0.787
+          ]
+        ]
+      ]
+    },
+    "beacon_lit": {
+      "collision_space": "ground_plane",
+      "depth_v": 0.974,
+      "notes": "v0.1.7 beacon ground base: bottom 20% of the beacon-repaired reference silhouette, inset 10% each side, shared world footprint across states. Elevated paint is visual only.",
+      "overhead_split_v": 0.792,
+      "polygons": [
+        [
+          [
+            0.097,
+            0.792
+          ],
+          [
+            0.089,
+            0.815
+          ],
+          [
+            0.093,
+            0.84
+          ],
+          [
+            0.109,
+            0.865
+          ],
+          [
+            0.153,
+            0.89
+          ],
+          [
+            0.182,
+            0.915
+          ],
+          [
+            0.236,
+            0.94
+          ],
+          [
+            0.3,
+            0.964
+          ],
+          [
+            0.521,
+            0.989
+          ],
+          [
+            0.535,
+            0.989
+          ],
+          [
+            0.785,
+            0.964
+          ],
+          [
+            0.82,
+            0.94
+          ],
+          [
+            0.875,
+            0.915
+          ],
+          [
+            0.872,
+            0.89
+          ],
+          [
+            0.865,
+            0.865
+          ],
+          [
+            0.863,
+            0.84
+          ],
+          [
+            0.863,
+            0.815
+          ],
+          [
+            0.864,
+            0.792
+          ]
+        ]
+      ]
+    },
+    "beacon_repaired": {
+      "collision_space": "ground_plane",
+      "depth_v": 0.974,
+      "notes": "v0.1.7 beacon ground base: bottom 20% of the beacon-repaired reference silhouette, inset 10% each side, shared world footprint across states. Elevated paint is visual only.",
+      "overhead_split_v": 0.791,
+      "polygons": [
+        [
+          [
+            0.124,
+            0.791
+          ],
+          [
+            0.115,
+            0.814
+          ],
+          [
+            0.12,
+            0.839
+          ],
+          [
+            0.135,
+            0.864
+          ],
+          [
+            0.18,
+            0.889
+          ],
+          [
+            0.208,
+            0.914
+          ],
+          [
+            0.261,
+            0.939
+          ],
+          [
+            0.325,
+            0.964
+          ],
+          [
+            0.543,
+            0.989
+          ],
+          [
+            0.557,
+            0.989
+          ],
+          [
+            0.805,
+            0.964
+          ],
+          [
+            0.839,
+            0.939
+          ],
+          [
+            0.895,
+            0.914
+          ],
+          [
+            0.891,
+            0.889
+          ],
+          [
+            0.884,
+            0.864
+          ],
+          [
+            0.883,
+            0.839
+          ],
+          [
+            0.882,
+            0.814
+          ],
+          [
+            0.883,
+            0.791
+          ]
+        ]
+      ]
+    },
+    "rune_rock": {
+      "collision_space": "ground_plane",
+      "depth_v": 0.973,
+      "notes": "v0.1.7 rune_rock ground base: bottom 30% of the rune-rock reference silhouette, inset 8% each side, shared world footprint across states. Elevated paint is visual only.",
+      "overhead_split_v": 0.689,
+      "polygons": [
+        [
+          [
+            0.153,
+            0.689
+          ],
+          [
+            0.139,
+            0.725
+          ],
+          [
+            0.137,
+            0.762
+          ],
+          [
+            0.114,
+            0.799
+          ],
+          [
+            0.141,
+            0.838
+          ],
+          [
+            0.127,
+            0.875
+          ],
+          [
+            0.213,
+            0.912
+          ],
+          [
+            0.252,
+            0.949
+          ],
+          [
+            0.753,
+            0.988
+          ],
+          [
+            0.764,
+            0.988
+          ],
+          [
+            0.775,
+            0.949
+          ],
+          [
+            0.813,
+            0.912
+          ],
+          [
+            0.9,
+            0.875
+          ],
+          [
+            0.911,
+            0.838
+          ],
+          [
+            0.886,
+            0.799
+          ],
+          [
+            0.9,
+            0.762
+          ],
+          [
+            0.896,
+            0.725
+          ],
+          [
+            0.885,
+            0.689
+          ]
+        ]
+      ]
+    },
+    "rune_rock_open": {
+      "collision_space": "ground_plane",
+      "depth_v": 0.972,
+      "notes": "v0.1.7 rune_rock ground base: bottom 30% of the rune-rock reference silhouette, inset 8% each side, shared world footprint across states. Elevated paint is visual only.",
+      "overhead_split_v": 0.679,
+      "polygons": [
+        [
+          [
+            0.171,
+            0.679
+          ],
+          [
+            0.156,
+            0.717
+          ],
+          [
+            0.154,
+            0.755
+          ],
+          [
+            0.129,
+            0.793
+          ],
+          [
+            0.157,
+            0.833
+          ],
+          [
+            0.144,
+            0.871
+          ],
+          [
+            0.234,
+            0.909
+          ],
+          [
+            0.274,
+            0.947
+          ],
+          [
+            0.799,
+            0.987
+          ],
+          [
+            0.811,
+            0.987
+          ],
+          [
+            0.822,
+            0.947
+          ],
+          [
+            0.863,
+            0.909
+          ],
+          [
+            0.953,
+            0.871
+          ],
+          [
+            0.964,
+            0.833
+          ],
+          [
+            0.939,
+            0.793
+          ],
+          [
+            0.954,
+            0.755
+          ],
+          [
+            0.949,
+            0.717
+          ],
+          [
+            0.937,
+            0.679
+          ]
+        ]
+      ]
+    },
+    "shrine_core": {
+      "collision_space": "ground_plane",
+      "depth_v": 0.972,
+      "notes": "v0.1.7 shrine ground base: bottom 40% of the shrine-empty reference silhouette, inset 7% each side, shared world footprint across states. Elevated paint is visual only.",
+      "overhead_split_v": 0.614,
+      "polygons": [
+        [
+          [
+            0.14,
+            0.614
+          ],
+          [
+            0.14,
+            0.658
+          ],
+          [
+            0.156,
+            0.705
+          ],
+          [
+            0.131,
+            0.752
+          ],
+          [
+            0.148,
+            0.799
+          ],
+          [
+            0.171,
+            0.846
+          ],
+          [
+            0.228,
+            0.893
+          ],
+          [
+            0.262,
+            0.94
+          ],
+          [
+            0.4,
+            0.987
+          ],
+          [
+            0.415,
+            0.987
+          ],
+          [
+            0.79,
+            0.94
+          ],
+          [
+            0.835,
+            0.893
+          ],
+          [
+            0.881,
+            0.846
+          ],
+          [
+            0.898,
+            0.799
+          ],
+          [
+            0.894,
+            0.752
+          ],
+          [
+            0.901,
+            0.705
+          ],
+          [
+            0.912,
+            0.658
+          ],
+          [
+            0.908,
+            0.614
+          ]
+        ]
+      ]
+    },
+    "shrine_empty": {
+      "collision_space": "ground_plane",
+      "depth_v": 0.981,
+      "notes": "v0.1.7 shrine ground base: bottom 40% of the shrine-empty reference silhouette, inset 7% each side, shared world footprint across states. Elevated paint is visual only.",
+      "overhead_split_v": 0.597,
+      "polygons": [
+        [
+          [
+            0.087,
+            0.597
+          ],
+          [
+            0.087,
+            0.644
+          ],
+          [
+            0.104,
+            0.694
+          ],
+          [
+            0.077,
+            0.745
+          ],
+          [
+            0.095,
+            0.795
+          ],
+          [
+            0.12,
+            0.845
+          ],
+          [
+            0.181,
+            0.896
+          ],
+          [
+            0.218,
+            0.946
+          ],
+          [
+            0.366,
+            0.996
+          ],
+          [
+            0.383,
+            0.996
+          ],
+          [
+            0.787,
+            0.946
+          ],
+          [
+            0.836,
+            0.896
+          ],
+          [
+            0.885,
+            0.845
+          ],
+          [
+            0.903,
+            0.795
+          ],
+          [
+            0.899,
+            0.745
+          ],
+          [
+            0.906,
+            0.694
+          ],
+          [
+            0.918,
+            0.644
+          ],
+          [
+            0.913,
+            0.597
+          ]
+        ]
+      ]
+    }
+  }
+}

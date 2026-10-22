@@ -2,7 +2,7 @@
   "checks": 46,
   "details": {
     "berries": 9,
-    "near_food": 6,
+    "near_food": 4,
     "reachable_food": 9
   },
   "failures": [],
