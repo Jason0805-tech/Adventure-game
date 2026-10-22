@@ -194,16 +194,14 @@ Physical-device compatibility is not guaranteed.
 
 ```text
 Adventure-game/
-├── output/
-│   ├── 0.1.5 series/
-│   ├── 0.1.6 series/
-│   └── Earlier game versions
-├── tests/
-├── 素材整理/
-├── 问题报告/
-├── AGENTS.md
-├── .gitignore
-├── .gitattributes
+├── output/            Game versions (0.1.5 series, 0.1.6 series, earlier builds)
+├── deployment/        itch.io upload packages
+├── 素材整理/           Reusable artwork and assets
+├── 主线思路/           Design notes and roadmap
+├── 问题报告/           Bug reports and screenshots
+├── 其他/
+│   ├── tests/         Test scripts, logs and verification results
+│   └── AGENTS.md      Project-specific development instructions
 ├── README.md
 ├── LICENSE
 └── ASSETS_LICENSE.md
@@ -215,7 +213,7 @@ Adventure-game/
 
 Contains game versions, source projects, and exported builds.
 
-**tests/**
+**其他/tests/**
 
 Contains testing materials, development experiments, and verification results.
 
@@ -227,7 +225,7 @@ Contains artwork, character assets, environmental textures, and other reusable d
 
 Contains bug reports and development screenshots.
 
-**AGENTS.md**
+**其他/AGENTS.md**
 
 Contains project-specific development instructions.
 
