@@ -9,12 +9,6 @@ Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
 [  83% ] [90m[1mfirst_scan_filesystem[22m | 正在启动文件扫描……[39m[0m
 [92m[ DONE ][39m [1mfirst_scan_filesystem[22m
 [0m
-[   0% ] [90m[1mupdate_scripts_classes[22m | Started 正在注册全局类…… (3 steps)[39m[0m
-[   0% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
-[  25% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
-[  50% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
-[92m[ DONE ][39m [1mupdate_scripts_classes[22m
-[0m
 [   0% ] [90m[1m_update_scan_actions[22m | Started 正在扫描动作…… (55 steps)[39m[0m
 [   0% ] [90m[1m_update_scan_actions[22m | beacon-broken.png[39m[0m
 [   1% ] [90m[1m_update_scan_actions[22m | beacon-lit.png[39m[0m
@@ -133,29 +127,33 @@ Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
 [  68% ] [90m[1msavepack[22m | 正在保存文件：res://assets/wildlife-fox.png[39m[0m
 [  69% ] [90m[1msavepack[22m | 正在保存文件：res://assets/wildlife-rabbit.png[39m[0m
 [  70% ] [90m[1msavepack[22m | 正在保存文件：res://assets/wildlife-wolf.png[39m[0m
-[  71% ] [90m[1msavepack[22m | 正在保存文件：res://animal_gait.gdc[39m[0m
-[  73% ] [90m[1msavepack[22m | 正在保存文件：res://.godot/imported/app_icon.png-f349b850a0f29361cfbcb17623f8bdde.ctex[39m[0m
-[  73% ] [90m[1msavepack[22m | 正在保存文件：res://app_icon.png.import[39m[0m
-[  74% ] [90m[1msavepack[22m | 正在保存文件：res://beacon_quest.gdc[39m[0m
-[  75% ] [90m[1msavepack[22m | 正在保存文件：res://collision_profiles.json[39m[0m
-[  76% ] [90m[1msavepack[22m | 正在保存文件：res://depth_layers.gdc[39m[0m
-[  78% ] [90m[1msavepack[22m | 正在保存文件：res://ground_painter.gdc[39m[0m
-[  79% ] [90m[1msavepack[22m | 正在保存文件：res://inventory.gdc[39m[0m
-[  80% ] [90m[1msavepack[22m | 正在保存文件：res://item_data.gdc[39m[0m
-[  81% ] [90m[1msavepack[22m | 正在保存文件：res://main.gdc[39m[0m
-[  82% ] [90m[1msavepack[22m | 正在保存文件：res://.godot/exported/133200997/export-3070c538c03ee49b7677ff960a3f5195-main.scn[39m[0m
-[  84% ] [90m[1msavepack[22m | 正在保存文件：res://mobile_controls.gdc[39m[0m
-[  85% ] [90m[1msavepack[22m | 正在保存文件：res://mobile_ui.gdc[39m[0m
-[  86% ] [90m[1msavepack[22m | 正在保存文件：res://npc_roaming.gdc[39m[0m
-[  87% ] [90m[1msavepack[22m | 正在保存文件：res://paint_density.gdc[39m[0m
-[  89% ] [90m[1msavepack[22m | 正在保存文件：res://predator_behavior.gdc[39m[0m
-[  90% ] [90m[1msavepack[22m | 正在保存文件：res://sanity_system.gdc[39m[0m
-[  91% ] [90m[1msavepack[22m | 正在保存文件：res://survival_balance.gdc[39m[0m
-[  92% ] [90m[1msavepack[22m | 正在保存文件：res://wildlife.gdc[39m[0m
-[  94% ] [90m[1msavepack[22m | 正在保存文件：res://wildlife_data.gdc[39m[0m
-[  95% ] [90m[1msavepack[22m | 正在保存文件：res://world_geometry.gdc[39m[0m
-[  96% ] [90m[1msavepack[22m | 正在保存文件：res://world_lighting.gdc[39m[0m
-[  97% ] [90m[1msavepack[22m | 正在保存文件：res://assets/animal-skin-topology.bin[39m[0m
+[  71% ] [90m[1msavepack[22m | 正在保存文件：res://world_lighting.gdc[39m[0m
+[  73% ] [90m[1msavepack[22m | 正在保存文件：res://wildlife_data.gdc[39m[0m
+[  74% ] [90m[1msavepack[22m | 正在保存文件：res://assets/animal-skin-topology.bin[39m[0m
+[  75% ] [90m[1msavepack[22m | 正在保存文件：res://wildlife.gdc[39m[0m
+[  76% ] [90m[1msavepack[22m | 正在保存文件：res://world_geometry.gdc[39m[0m
+[  78% ] [90m[1msavepack[22m | 正在保存文件：res://animal_gait.gdc[39m[0m
+[  79% ] [90m[1msavepack[22m | 正在保存文件：res://.godot/imported/app_icon.png-f349b850a0f29361cfbcb17623f8bdde.ctex[39m[0m
+[  79% ] [90m[1msavepack[22m | 正在保存文件：res://app_icon.png.import[39m[0m
+[  80% ] [90m[1msavepack[22m | 正在保存文件：res://beacon_quest.gdc[39m[0m
+[  81% ] [90m[1msavepack[22m | 正在保存文件：res://collision_profiles.json[39m[0m
+[  82% ] [90m[1msavepack[22m | 正在保存文件：res://depth_layers.gdc[39m[0m
+[  84% ] [90m[1msavepack[22m | 正在保存文件：res://ground_painter.gdc[39m[0m
+[  85% ] [90m[1msavepack[22m | 正在保存文件：res://inventory.gdc[39m[0m
+[  86% ] [90m[1msavepack[22m | 正在保存文件：res://item_data.gdc[39m[0m
+[  87% ] [90m[1msavepack[22m | 正在保存文件：res://main.gdc[39m[0m
+[  89% ] [90m[1msavepack[22m | 正在保存文件：res://.godot/exported/133200997/export-3070c538c03ee49b7677ff960a3f5195-main.scn[39m[0m
+[  90% ] [90m[1msavepack[22m | 正在保存文件：res://mobile_controls.gdc[39m[0m
+[  91% ] [90m[1msavepack[22m | 正在保存文件：res://mobile_ui.gdc[39m[0m
+[  92% ] [90m[1msavepack[22m | 正在保存文件：res://npc_roaming.gdc[39m[0m
+[  94% ] [90m[1msavepack[22m | 正在保存文件：res://paint_density.gdc[39m[0m
+[  95% ] [90m[1msavepack[22m | 正在保存文件：res://predator_behavior.gdc[39m[0m
+[  96% ] [90m[1msavepack[22m | 正在保存文件：res://sanity_system.gdc[39m[0m
+[  97% ] [90m[1msavepack[22m | 正在保存文件：res://survival_balance.gdc[39m[0m
+[  97% ] [90m[1msavepack[22m | 正在保存文件：res://world_lighting.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 正在保存文件：res://wildlife_data.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 正在保存文件：res://wildlife.gd.remap[39m[0m
+[  97% ] [90m[1msavepack[22m | 正在保存文件：res://world_geometry.gd.remap[39m[0m
 [  97% ] [90m[1msavepack[22m | 正在保存文件：res://animal_gait.gd.remap[39m[0m
 [  97% ] [90m[1msavepack[22m | 正在保存文件：res://beacon_quest.gd.remap[39m[0m
 [  97% ] [90m[1msavepack[22m | 正在保存文件：res://depth_layers.gd.remap[39m[0m
@@ -171,10 +169,6 @@ Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
 [  97% ] [90m[1msavepack[22m | 正在保存文件：res://predator_behavior.gd.remap[39m[0m
 [  97% ] [90m[1msavepack[22m | 正在保存文件：res://sanity_system.gd.remap[39m[0m
 [  97% ] [90m[1msavepack[22m | 正在保存文件：res://survival_balance.gd.remap[39m[0m
-[  97% ] [90m[1msavepack[22m | 正在保存文件：res://wildlife.gd.remap[39m[0m
-[  97% ] [90m[1msavepack[22m | 正在保存文件：res://wildlife_data.gd.remap[39m[0m
-[  97% ] [90m[1msavepack[22m | 正在保存文件：res://world_geometry.gd.remap[39m[0m
-[  97% ] [90m[1msavepack[22m | 正在保存文件：res://world_lighting.gd.remap[39m[0m
 [  97% ] [90m[1msavepack[22m | 正在保存文件：res://.godot/global_script_class_cache.cfg[39m[0m
 [  97% ] [90m[1msavepack[22m | 正在保存文件：res://app_icon.png[39m[0m
 [  97% ] [90m[1msavepack[22m | 正在保存文件：res://.godot/uid_cache.bin[39m[0m

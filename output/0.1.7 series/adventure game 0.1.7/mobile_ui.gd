@@ -48,9 +48,14 @@ func draw(game:Variant,screen:Vector2)->void:
 		# Keep the goal clear of the centred toast.
 		var goal:String=game.beacon.objective(game)
 		var room:float=(screen.x-minf(650,screen.x-700))*.5-40
-		var goal_size:int=22 if game.font.get_string_size(goal,HORIZONTAL_ALIGNMENT_LEFT,-1,22).x+32<=room else 18
-		game.paper_panel(Rect2(28,y+64,minf(room,game.font.get_string_size(goal,HORIZONTAL_ALIGNMENT_LEFT,-1,goal_size).x+32),44),PAPER,8)
-		text(game,Vector2(44,y+94),goal,goal_size,Color("6a4a22"))
+		var one_line:float=game.font.get_string_size(goal,HORIZONTAL_ALIGNMENT_LEFT,-1,22).x+32
+		if one_line<=room:
+			game.paper_panel(Rect2(28,y+64,one_line,44),PAPER,8)
+			text(game,Vector2(44,y+94),goal,22,Color("6a4a22"))
+		else:
+			# Narrow phones: wrap onto two lines instead of clipping under the toast.
+			game.paper_panel(Rect2(28,y+64,room,74),PAPER,8)
+			game.draw_wrapped_text(goal,Vector2(44,y+92),room-32,20,2)
 		if game.message_time>0:
 			var width:float=minf(650,screen.x-700)
 			var toast_y:float=142 if screen.x>=1320 and game.mobile.css_height>=360 else 280
