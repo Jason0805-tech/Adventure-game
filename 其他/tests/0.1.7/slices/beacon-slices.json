@@ -1,0 +1,86 @@
+{
+  "objects": {
+    "beacon-broken": {
+      "source_rect": [
+        4,
+        20,
+        456,
+        544
+      ]
+    },
+    "beacon-lit": {
+      "source_rect": [
+        839,
+        0,
+        404,
+        563
+      ]
+    },
+    "beacon-repaired": {
+      "source_rect": [
+        446,
+        0,
+        408,
+        560
+      ]
+    },
+    "part-core": {
+      "source_rect": [
+        704,
+        546,
+        309,
+        255
+      ]
+    },
+    "part-gear": {
+      "source_rect": [
+        408,
+        543,
+        278,
+        263
+      ]
+    },
+    "part-lens": {
+      "source_rect": [
+        82,
+        546,
+        292,
+        253
+      ]
+    },
+    "rune-rock": {
+      "source_rect": [
+        1225,
+        111,
+        371,
+        408
+      ]
+    },
+    "rune-rock-open": {
+      "source_rect": [
+        1590,
+        143,
+        354,
+        396
+      ]
+    },
+    "shrine-core": {
+      "source_rect": [
+        1058,
+        511,
+        446,
+        298
+      ]
+    },
+    "shrine-empty": {
+      "source_rect": [
+        1511,
+        531,
+        414,
+        278
+      ]
+    }
+  },
+  "resampled": false,
+  "source": "信标高清图.png"
+}

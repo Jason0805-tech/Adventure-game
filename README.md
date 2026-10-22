@@ -6,7 +6,7 @@ Forest Wanderer is an independent adventure game focused on exploration, surviva
 
 Players explore a forest environment, collect resources, craft equipment, interact with wildlife, and overcome environmental challenges.
 
-The ultimate objective is to survive three nights in the wilderness.
+The ultimate objective is to recover three lost parts, repair the old beacon and light it to escape the forest.
 
 This project is actively under development.
 
@@ -17,7 +17,7 @@ This project is actively under development.
 | Category | Details |
 |---|---|
 | Game | Forest Wanderer |
-| Current Version | v0.1.6-alpha.5 |
+| Current Version | v0.1.7 |
 | Development Status | Early Development |
 | Game Engine | Godot 4.7 |
 | Programming Language | GDScript |
@@ -42,9 +42,9 @@ The game includes a dynamic day-night cycle, environmental lighting, wildlife in
 
 Different environmental conditions introduce different challenges.
 
-### Survival Objective
+### Main Objective
 
-Survive three consecutive nights.
+Find the beacon lens, bronze gear and ember core, repair the old beacon, then guard its fire for one night watch to escape. Days and nights continue until you succeed.
 
 Players must prepare during the daytime and manage increasing environmental threats after sunset.
 
@@ -160,7 +160,7 @@ Additional development and debugging controls may be available.
 
 4. Locate the following directory:
 
-   `output/0.1.6 series/adventure game 0.1.6.5/`
+   `output/0.1.7 series/adventure game 0.1.7/`
 
 5. Select `project.godot`.
 
@@ -178,7 +178,7 @@ The web distribution includes browser-compatible game files and additional launc
 
 Some browsers may require the game to be served through a local web server rather than opened directly as a local HTML file.
 
-For additional information, refer to the web instructions included with v0.1.6-alpha.5.
+For additional information, refer to the web instructions included with v0.1.7.
 
 ### Mobile Browser Testing
 
@@ -270,7 +270,7 @@ The project is not yet considered a stable final release.
 
 The repository preserves multiple development versions.
 
-The current documented version is **v0.1.6-alpha.5**.
+The current documented version is **v0.1.7**.
 
 Earlier versions remain available for development reference and comparison.
 
