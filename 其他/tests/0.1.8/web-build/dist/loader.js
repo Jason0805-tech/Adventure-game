@@ -35,7 +35,8 @@
      const arm=()=>{clearTimeout(timer);timer=setTimeout(()=>controller.abort(),STALL_MS)};
      try{
        arm();
-       const response=await fetch(part.url,{cache:'default',signal:controller.signal});
+       // The content hash in the URL means a new build can never mix with cached parts of an old one.
+       const response=await fetch(part.url+'?h='+String(part.sha256||'').slice(0,16),{cache:'default',signal:controller.signal});
        if(!response.ok)throw new Error('Download failed ('+response.status+').');
        if(response.body&&response.body.getReader){
          const reader=response.body.getReader();
@@ -85,7 +86,7 @@
      if(!gl)throw new Error('This game needs WebGL 2. Try opening the link in Safari.');
      if(gl.getParameter(gl.MAX_TEXTURE_SIZE)<8192)throw new Error('This device cannot load the full-quality character artwork. Try a newer device.');
      gl.getExtension('WEBGL_lose_context')?.loseContext();
-     const response=await fetch('payload.json');if(!response.ok)throw new Error('Game download is unavailable.');
+     const response=await fetch('payload.json',{cache:'no-cache'});if(!response.ok)throw new Error('Game download is unavailable.');
      const payload=await response.json();const total=payload.files.reduce((n,f)=>n+f.bytes,0),finished={value:0};
      const buffers=await loadBinaries(payload.files,finished,total);
      // Godot's stock loader requests these two exact URLs. Serve the assembled
