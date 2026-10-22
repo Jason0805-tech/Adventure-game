@@ -23,18 +23,59 @@
  window.addEventListener('resize',resize);window.visualViewport?.addEventListener('resize',resize);
  window.forestReady=false;
  function ready(){window.forestReady=true;document.getElementById('welcome').classList.add('hidden');canvas.focus();resize()}
- async function loadBinary(spec,finished,total){
-   const output=new Uint8Array(spec.bytes);let offset=0;
-   for(const part of spec.parts){
-     const response=await fetch(part.url,{cache:'default'});
-     if(!response.ok)throw new Error('Download failed ('+response.status+'). Please try again.');
-     const bytes=new Uint8Array(await response.arrayBuffer());
-     if(bytes.byteLength!==part.bytes)throw new Error('Incomplete game download. Please reload.');
-     output.set(bytes,offset);offset+=bytes.length;finished.value+=bytes.length;
-     progress.value=finished.value/total;status.textContent='Gathering the forest… '+Math.round(progress.value*100)+'%';
+ // Hosted CDNs (itch.io) can stall or drop a connection mid-download. Each
+ // part streams with live progress, is aborted when no bytes arrive for
+ // STALL_MS, and is retried with backoff. A few parts download in parallel.
+ const STALL_MS=25000, ATTEMPTS=6, PARALLEL=3;
+ const wait=ms=>new Promise(r=>setTimeout(r,ms));
+ function show(finished,total,note){progress.value=finished.value/total;status.textContent=(note||'Gathering the forest… ')+Math.round(progress.value*100)+'%'}
+ async function fetchPart(part,target,offset,finished,total){
+   for(let attempt=1;attempt<=ATTEMPTS;attempt++){
+     const controller=new AbortController();let timer=null,received=0;
+     const arm=()=>{clearTimeout(timer);timer=setTimeout(()=>controller.abort(),STALL_MS)};
+     try{
+       arm();
+       const response=await fetch(part.url,{cache:'default',signal:controller.signal});
+       if(!response.ok)throw new Error('Download failed ('+response.status+').');
+       if(response.body&&response.body.getReader){
+         const reader=response.body.getReader();
+         for(;;){
+           const {done,value}=await reader.read();
+           if(done)break;
+           arm();
+           if(received+value.byteLength>part.bytes)throw new Error('Unexpected game data size.');
+           target.set(value,offset+received);received+=value.byteLength;finished.value+=value.byteLength;show(finished,total);
+         }
+       }else{
+         const all=new Uint8Array(await response.arrayBuffer());
+         if(all.byteLength<=part.bytes)target.set(all,offset);
+         received=all.byteLength;finished.value+=received;show(finished,total);
+       }
+       clearTimeout(timer);
+       if(received!==part.bytes)throw new Error('Incomplete game download.');
+       return;
+     }catch(e){
+       clearTimeout(timer);finished.value-=received;
+       if(attempt===ATTEMPTS)throw new Error('The game download keeps failing. Please check your connection and reload.');
+       show(finished,total,'Connection slow, retrying… ');
+       await wait(1000*attempt);
+     }
    }
-   if(offset!==spec.bytes)throw new Error('Game data size mismatch.');
-   return output.buffer;
+ }
+ async function loadBinaries(files,finished,total){
+   // Parts are written straight into one buffer per file at their offsets,
+   // so the assembled game is held in memory only once.
+   const jobs=[],buffers=new Map();
+   for(const file of files){
+     const target=new Uint8Array(file.bytes);let offset=0;
+     for(const part of file.parts){jobs.push({part,target,offset});offset+=part.bytes}
+     if(offset!==file.bytes)throw new Error('Game data size mismatch.');
+     buffers.set(new URL(file.name,location.href).href,target.buffer);
+   }
+   let next=0;
+   const worker=async()=>{while(next<jobs.length){const job=jobs[next++];await fetchPart(job.part,job.target,job.offset,finished,total)}};
+   await Promise.all(Array.from({length:Math.min(PARALLEL,jobs.length)},worker));
+   return buffers;
  }
  start.addEventListener('click',async()=>{
    if(starting)return;starting=true;start.disabled=true;error.textContent='';progress.hidden=false;
@@ -46,8 +87,7 @@
      gl.getExtension('WEBGL_lose_context')?.loseContext();
      const response=await fetch('payload.json');if(!response.ok)throw new Error('Game download is unavailable.');
      const payload=await response.json();const total=payload.files.reduce((n,f)=>n+f.bytes,0),finished={value:0};
-     const buffers=new Map();
-     for(const file of payload.files)buffers.set(new URL(file.name,location.href).href,await loadBinary(file,finished,total));
+     const buffers=await loadBinaries(payload.files,finished,total);
      // Godot's stock loader requests these two exact URLs. Serve the assembled
      // original bytes as Responses so the supported Engine API stays unchanged.
      nativeFetch=window.fetch.bind(window);

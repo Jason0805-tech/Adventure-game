@@ -3,12 +3,14 @@ from pathlib import Path
 import hashlib,json,shutil,subprocess
 ROOT=Path(__file__).resolve().parent
 GAME=ROOT.parents[3]/'output/0.1.7 series/adventure game 0.1.7'
+# Raw Godot export: in the release folder right after export, or archived in tests.
+EXPORT=GAME/'web' if (GAME/'web'/'game.pck').is_file() else ROOT.parent/'raw-export'
 OUT=ROOT/'dist'
 shutil.rmtree(OUT,ignore_errors=True);OUT.mkdir()
 (OUT/'data').mkdir(exist_ok=True)
 payload={'version':'v0.1.7','files':[],'sizes':{}}
 for name in ['game.wasm','game.pck']:
-    raw=(GAME/'web'/name).read_bytes()
+    raw=(EXPORT/name).read_bytes()
     record={'name':name,'bytes':len(raw),'sha256':hashlib.sha256(raw).hexdigest(),'parts':[]}
     for i,offset in enumerate(range(0,len(raw),8*1024*1024)):
         part=raw[offset:offset+8*1024*1024];url=f'data/{name}.{i:02}.bin'
@@ -16,7 +18,7 @@ for name in ['game.wasm','game.pck']:
         record['parts'].append({'url':url,'bytes':len(part),'sha256':hashlib.sha256(part).hexdigest()})
     payload['files'].append(record);payload['sizes'][name]=len(raw)
 (OUT/'payload.json').write_text(json.dumps(payload,indent=2)+'\n')
-for path in (GAME/'web').glob('*.js'):
+for path in EXPORT.glob('*.js'):
     shutil.copy2(path,OUT/path.name)
 shutil.copy2(ROOT/'loader.js',OUT/'loader.js')
 total=sum(f['bytes'] for f in payload['files'])
