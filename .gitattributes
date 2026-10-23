@@ -2021,3 +2021,4 @@
 "其他/tests/0.2.0/web-build/dist/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
 "其他/tests/0.2.0/web-build/dist/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
 "其他/tests/0.2.0/web-build/dist/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
+"deployment/itchio/v0.2.0/Forest-Wanderer-v0.2.0-itchio.zip" filter=lfs diff=lfs merge=lfs -text
