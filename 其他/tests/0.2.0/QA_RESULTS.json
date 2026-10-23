@@ -1,0 +1,4 @@
+{"version":"v0.2.0","suites":{"nights":51,"hunting":19,"progression":652,"alpha1":78,"survival":46,"beacon":482,"dialog_fit":"pass","dialog_close":9,"predators":72,"edges":24,"actual_world":45737,"all_passed":true},
+"last_watch_dodging_bot":{"night1":"3/3 lit, 24-46 dmg","night2":"3/3 lit, 106-154 dmg","night3":"1/3 lit","night4":"2/3 lit","before_backoff_fix":"0/12 lit"},
+"bugs_found":["predators pinned the player with their bodies after attacking","blood-moon shadows were dismissed on arrival by a hard-coded 35 sanity check"],
+"browser":{"desktop_1280x720":"GAME_READY v0.2.0","fixture_night_tests_only":"blood moon red tint, fog grey-blue tint, dusk banner, HUD event name"},"physical_phone":false}
