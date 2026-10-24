@@ -1,0 +1,131 @@
+{
+  "objects": {
+    "ruin-column": {
+      "sheet": "ruins-props.png",
+      "source_rect": [
+        101,
+        35,
+        302,
+        464
+      ]
+    },
+    "ruin-fallen-column": {
+      "sheet": "ruins-props.png",
+      "source_rect": [
+        518,
+        189,
+        488,
+        277
+      ]
+    },
+    "ruin-rubble": {
+      "sheet": "ruins-props.png",
+      "source_rect": [
+        519,
+        658,
+        494,
+        283
+      ]
+    },
+    "ruin-rubble-mined": {
+      "sheet": "ruins-props.png",
+      "source_rect": [
+        1039,
+        726,
+        470,
+        221
+      ]
+    },
+    "ruin-statue": {
+      "sheet": "ruins-props.png",
+      "source_rect": [
+        103,
+        517,
+        295,
+        491
+      ]
+    },
+    "ruin-wall": {
+      "sheet": "ruins-props.png",
+      "source_rect": [
+        1035,
+        198,
+        484,
+        277
+      ]
+    },
+    "valley-boulder": {
+      "sheet": "valley-props.png",
+      "source_rect": [
+        48,
+        641,
+        401,
+        322
+      ]
+    },
+    "valley-bridge-deck": {
+      "sheet": "valley-bridge.png",
+      "source_rect": [
+        43,
+        226,
+        1312,
+        361
+      ]
+    },
+    "valley-dock": {
+      "sheet": "valley-bridge.png",
+      "source_rect": [
+        1448,
+        144,
+        423,
+        496
+      ]
+    },
+    "valley-driftwood": {
+      "sheet": "valley-props.png",
+      "source_rect": [
+        517,
+        616,
+        548,
+        373
+      ]
+    },
+    "valley-ferry-post": {
+      "sheet": "valley-props.png",
+      "source_rect": [
+        1182,
+        543,
+        283,
+        442
+      ]
+    },
+    "valley-reeds": {
+      "sheet": "valley-props.png",
+      "source_rect": [
+        554,
+        76,
+        459,
+        449
+      ]
+    },
+    "valley-reeds-cut": {
+      "sheet": "valley-props.png",
+      "source_rect": [
+        1065,
+        287,
+        425,
+        237
+      ]
+    },
+    "valley-willow": {
+      "sheet": "valley-props.png",
+      "source_rect": [
+        24,
+        19,
+        503,
+        507
+      ]
+    }
+  },
+  "resampled": false
+}

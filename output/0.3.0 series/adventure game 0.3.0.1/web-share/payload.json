@@ -1,0 +1,108 @@
+{
+  "version": "v0.3.0-alpha.1",
+  "files": [
+    {
+      "name": "game.wasm",
+      "bytes": 39514754,
+      "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0",
+      "parts": [
+        {
+          "url": "data/game.wasm.00.bin",
+          "bytes": 8388608,
+          "sha256": "8a56546b5f9b9137e80adde4400b797a5189062dee30d2505871ebd8e83987d3"
+        },
+        {
+          "url": "data/game.wasm.01.bin",
+          "bytes": 8388608,
+          "sha256": "62901720225c5663e708a233614396a6943357de7c98cead67f11669773dccae"
+        },
+        {
+          "url": "data/game.wasm.02.bin",
+          "bytes": 8388608,
+          "sha256": "c14dee0b88ada7bc7b4b48f3b8ae20e16922818417292b06082484fe183ae397"
+        },
+        {
+          "url": "data/game.wasm.03.bin",
+          "bytes": 8388608,
+          "sha256": "ca498a54fdb112b659cf23bc79a932e58d350a0f4cc8fabb639f230233ad6c72"
+        },
+        {
+          "url": "data/game.wasm.04.bin",
+          "bytes": 5960322,
+          "sha256": "219249da87c3cfda9a89fba24e253e60d6efd5191d0b108120ad93e51e54d707"
+        }
+      ]
+    },
+    {
+      "name": "game.pck",
+      "bytes": 95335280,
+      "sha256": "4aac6124e1af7695f2576e7010abbfd1b7f238d734b615d63b8763db5419df6c",
+      "parts": [
+        {
+          "url": "data/game.pck.00.bin",
+          "bytes": 8388608,
+          "sha256": "b4e996d114f59000898549b58bf2699ec5338c0ec7620759e17429a996e44ce2"
+        },
+        {
+          "url": "data/game.pck.01.bin",
+          "bytes": 8388608,
+          "sha256": "bc9701ce60170a50c0284daffd859f56aac16788825e84837ead77c064b08d5e"
+        },
+        {
+          "url": "data/game.pck.02.bin",
+          "bytes": 8388608,
+          "sha256": "4ee7f416b20ee56163425a795653cba1c9485e512a5b66a248152a6c4136bde8"
+        },
+        {
+          "url": "data/game.pck.03.bin",
+          "bytes": 8388608,
+          "sha256": "e96a8393ae917bfdbf6d90251fc25e78b0c3767c707b67b9c3b68b969f2743f5"
+        },
+        {
+          "url": "data/game.pck.04.bin",
+          "bytes": 8388608,
+          "sha256": "fbffa52ec0710123e9829d8da94d362f66f06c2bf3f7f5c35d23a75eb05f4c5b"
+        },
+        {
+          "url": "data/game.pck.05.bin",
+          "bytes": 8388608,
+          "sha256": "e3828a45cb79408356c99d71bad3d86672259bb8dea0b708427a044e37d69333"
+        },
+        {
+          "url": "data/game.pck.06.bin",
+          "bytes": 8388608,
+          "sha256": "cac4609f0be50c22e54489e3b20fd7bd74ed74d492380c4d1146acc9088e7a80"
+        },
+        {
+          "url": "data/game.pck.07.bin",
+          "bytes": 8388608,
+          "sha256": "50901413a28d6aab0fefdb6751155ce0b4e295cb9e08d354e60a59255e73b2c0"
+        },
+        {
+          "url": "data/game.pck.08.bin",
+          "bytes": 8388608,
+          "sha256": "eab90f6139b0834048dc88586e6c02afd4e4735be2cc8eb02b71179654e53ae5"
+        },
+        {
+          "url": "data/game.pck.09.bin",
+          "bytes": 8388608,
+          "sha256": "86a3099fd42d559fe699cd30eccbb84ff0af3ca8f4ed2cd9f9610a0ddd152844"
+        },
+        {
+          "url": "data/game.pck.10.bin",
+          "bytes": 8388608,
+          "sha256": "14cb3a3dcedb5fdd99f2281ce2f387291e1530f5bb0ef28a9b1acf6518fd936d"
+        },
+        {
+          "url": "data/game.pck.11.bin",
+          "bytes": 3060592,
+          "sha256": "3f3d88dcebb537709e400ace0a042e2540e063c404bc795cdbce6769f8819959"
+        }
+      ]
+    }
+  ],
+  "sizes": {
+    "game.wasm": 39514754,
+    "game.pck": 95335280
+  }
+}

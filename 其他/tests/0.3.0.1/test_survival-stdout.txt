@@ -1,0 +1,276 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/beacon-broken.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:253)
+         [1] load_art (res://beacon_quest.gd:47)
+         [2] load_art (res://main.gd:269)
+         [3] _ready (res://main.gd:494)
+         [4] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/beacon-lit.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:253)
+         [1] load_art (res://beacon_quest.gd:47)
+         [2] load_art (res://main.gd:269)
+         [3] _ready (res://main.gd:494)
+         [4] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/beacon-repaired.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:253)
+         [1] load_art (res://beacon_quest.gd:47)
+         [2] load_art (res://main.gd:269)
+         [3] _ready (res://main.gd:494)
+         [4] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/rune-rock.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:253)
+         [1] load_art (res://beacon_quest.gd:47)
+         [2] load_art (res://main.gd:269)
+         [3] _ready (res://main.gd:494)
+         [4] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/rune-rock-open.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:253)
+         [1] load_art (res://beacon_quest.gd:47)
+         [2] load_art (res://main.gd:269)
+         [3] _ready (res://main.gd:494)
+         [4] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/shrine-core.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:253)
+         [1] load_art (res://beacon_quest.gd:47)
+         [2] load_art (res://main.gd:269)
+         [3] _ready (res://main.gd:494)
+         [4] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/shrine-empty.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:253)
+         [1] load_art (res://beacon_quest.gd:47)
+         [2] load_art (res://main.gd:269)
+         [3] _ready (res://main.gd:494)
+         [4] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/part-lens.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:253)
+         [1] load_art (res://beacon_quest.gd:49)
+         [2] load_art (res://main.gd:269)
+         [3] _ready (res://main.gd:494)
+         [4] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/part-gear.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:253)
+         [1] load_art (res://beacon_quest.gd:49)
+         [2] load_art (res://main.gd:269)
+         [3] _ready (res://main.gd:494)
+         [4] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/part-core.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:253)
+         [1] load_art (res://beacon_quest.gd:49)
+         [2] load_art (res://main.gd:269)
+         [3] _ready (res://main.gd:494)
+         [4] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/environment.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:198)
+         [1] load_art (res://main.gd:270)
+         [2] _ready (res://main.gd:494)
+         [3] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/materials.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:198)
+         [1] load_art (res://main.gd:271)
+         [2] _ready (res://main.gd:494)
+         [3] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/ponds.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:198)
+         [1] load_art (res://main.gd:272)
+         [2] _ready (res://main.gd:494)
+         [3] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/tree-variants.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:198)
+         [1] load_art (res://main.gd:273)
+         [2] _ready (res://main.gd:494)
+         [3] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/equipment.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:198)
+         [1] load_art (res://main.gd:274)
+         [2] _ready (res://main.gd:494)
+         [3] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/ground-blends.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:198)
+         [1] load_art (res://main.gd:275)
+         [2] _ready (res://main.gd:494)
+         [3] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/harvest-nodes.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] auto_grid (res://main.gd:214)
+         [1] load_art (res://main.gd:276)
+         [2] _ready (res://main.gd:494)
+         [3] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/harvest-nodes.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:198)
+         [1] auto_grid (res://main.gd:250)
+         [2] load_art (res://main.gd:276)
+         [3] _ready (res://main.gd:494)
+         [4] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/cabin-props.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] auto_grid (res://main.gd:214)
+         [1] load_art (res://main.gd:277)
+         [2] _ready (res://main.gd:494)
+         [3] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/cabin-props.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:198)
+         [1] auto_grid (res://main.gd:250)
+         [2] load_art (res://main.gd:277)
+         [3] _ready (res://main.gd:494)
+         [4] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/status-icons.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] auto_grid (res://main.gd:214)
+         [1] load_art (res://main.gd:278)
+         [2] _ready (res://main.gd:494)
+         [3] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/status-icons.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:198)
+         [1] auto_grid (res://main.gd:250)
+         [2] load_art (res://main.gd:278)
+         [3] _ready (res://main.gd:494)
+         [4] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/utility-icons.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:198)
+         [1] load_art (res://main.gd:279)
+         [2] _ready (res://main.gd:494)
+         [3] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/utility-props.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:198)
+         [1] load_art (res://main.gd:280)
+         [2] _ready (res://main.gd:494)
+         [3] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/traveler-unarmed-directions.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:253)
+         [1] load_art (res://main.gd:284)
+         [2] _ready (res://main.gd:494)
+         [3] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/npc-rowan-directions.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:253)
+         [1] load_art (res://main.gd:287)
+         [2] _ready (res://main.gd:494)
+         [3] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/npc-ash-directions.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:253)
+         [1] load_art (res://main.gd:287)
+         [2] _ready (res://main.gd:494)
+         [3] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/npc-rowan-lantern.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:253)
+         [1] load_art (res://main.gd:288)
+         [2] _ready (res://main.gd:494)
+         [3] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-bear.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:253)
+         [1] load_animal_art (res://main.gd:350)
+         [2] load_art (res://main.gd:289)
+         [3] _ready (res://main.gd:494)
+         [4] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-deer.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:253)
+         [1] load_animal_art (res://main.gd:350)
+         [2] load_art (res://main.gd:289)
+         [3] _ready (res://main.gd:494)
+         [4] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-fox.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:253)
+         [1] load_animal_art (res://main.gd:350)
+         [2] load_art (res://main.gd:289)
+         [3] _ready (res://main.gd:494)
+         [4] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-rabbit.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:253)
+         [1] load_animal_art (res://main.gd:350)
+         [2] load_art (res://main.gd:289)
+         [3] _ready (res://main.gd:494)
+         [4] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-wolf.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:253)
+         [1] load_animal_art (res://main.gd:350)
+         [2] load_art (res://main.gd:289)
+         [3] _ready (res://main.gd:494)
+         [4] run (res://test_survival.gd:21)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/meadow.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_art (res://main.gd:297)
+         [1] _ready (res://main.gd:494)
+         [2] run (res://test_survival.gd:21)
+GAME_READY v0.3.0-alpha.1
+SURVIVAL_RESULTS {"checks":46,"details":{"berries":13,"near_food":3,"reachable_food":13},"failures":[],"passed":true}
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/traveler-armed-directions.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:253)
+         [1] draw_traveler (res://main.gd:1331)
+         [2] person (res://main.gd:1382)
+         [3] draw_paint_entry (res://main.gd:1526)
+         [4] _draw (res://main.gd:1694)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/held-weapon-2.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:253)
+         [1] held_weapon_texture (res://main.gd:264)
+         [2] draw_traveler (res://main.gd:1336)
+         [3] person (res://main.gd:1382)
+         [4] draw_paint_entry (res://main.gd:1526)
+         [5] _draw (res://main.gd:1694)
