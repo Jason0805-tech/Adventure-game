@@ -1,0 +1,10 @@
+{
+  "checks": 46,
+  "details": {
+    "berries": 13,
+    "near_food": 3,
+    "reachable_food": 13
+  },
+  "failures": [],
+  "passed": true
+}

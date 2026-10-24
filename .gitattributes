@@ -2065,3 +2065,71 @@
 "output/0.2.0 series/adventure game 0.2.0.1/web-share/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
 "output/0.2.0 series/adventure game 0.2.0.1/web-share/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
 "其他/tests/0.2.0.1/web-build/cover-original.png" filter=lfs diff=lfs merge=lfs -text
+"deployment/itchio/v0.3.0/Forest-Wanderer-v0.3.0-itchio.zip" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/Forest Wanderer 0.3.0 - Web.zip" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/assets/animal-skin-topology.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/tools/web_nothreads_release.zip" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/web-share/cover.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/web-share/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/web-share/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/web-share/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/web-share/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/web-share/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/web-share/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/web-share/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/web-share/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/web-share/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/web-share/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/web-share/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/web-share/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/web-share/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0/web-share/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/fixture-regions/assets/animal-skin-topology.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/fixture-regions/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/fixture-regions/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/fixture-regions/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/fixture-regions/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/fixture-regions/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/fixture-regions/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/fixture-regions/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/fixture-regions/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/fixture-regions/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/fixture-regions/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/fixture-regions/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/fixture-regions/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/fixture-regions/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/fixture-regions/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/fixture-regions/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/fixture-regions/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/fixture-regions/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/fixture-regions/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/fixture-regions/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/fixture-regions/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/fixture-regions/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/fixture-regions/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/fixture-regions/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/fixture-regions/tools/web_nothreads_release.zip" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0/web-build/cover-original.png" filter=lfs diff=lfs merge=lfs -text
