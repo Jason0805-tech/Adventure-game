@@ -24,3 +24,6 @@ node_modules/
 其他/tests/*/raw-export/
 其他/tests/*/fixture-*/web/
 其他/tests/*/fixture-*/.godot/
+
+# Godot editor creates these when a release folder is opened; never part of a build
+output/**/web-share/*.import

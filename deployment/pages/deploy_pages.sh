@@ -9,6 +9,9 @@ set -eu
 SRC="$1"
 VERSION="$2"
 REPO_ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
+# The local project is not a git repository; the GitHub checkout made by
+# deployment/github/sync_github.py holds the remote and the git identity.
+[ -d "$REPO_ROOT/.git" ] || REPO_ROOT="$HOME/.local/share/forest-wanderer-github"
 REMOTE="$(git -C "$REPO_ROOT" remote get-url origin)"
 [ -f "$SRC/index.html" ] || { echo "Missing $SRC/index.html" >&2; exit 1; }
 [ -f "$SRC/payload.json" ] || { echo "Missing $SRC/payload.json" >&2; exit 1; }

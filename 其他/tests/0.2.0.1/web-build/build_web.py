@@ -2,7 +2,8 @@
 from pathlib import Path
 import hashlib,json,shutil,subprocess
 ROOT=Path(__file__).resolve().parent
-GAME=ROOT.parents[3]/'output/0.2.X/adventure game 0.2.0.1'
+# Local layout first, then the GitHub folder names.
+GAME=next(p for p in [ROOT.parents[3]/'output/0.2.X/adventure game 0.2.0.1',ROOT.parents[3]/'output/0.2.0 series/adventure game 0.2.0.1'] if p.is_dir())
 # Raw Godot export: in the release folder right after export, or archived in tests.
 EXPORT=GAME/'web' if (GAME/'web'/'game.pck').is_file() else ROOT.parent/'raw-export'
 OUT=ROOT/'dist'

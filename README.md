@@ -167,7 +167,7 @@ Additional development and debugging controls may be available.
 
 4. Locate the following directory:
 
-   `output/0.2.X/adventure game 0.2.0.1/`
+   `output/0.2.0 series/adventure game 0.2.0.1/`
 
 5. Select `project.godot`.
 
