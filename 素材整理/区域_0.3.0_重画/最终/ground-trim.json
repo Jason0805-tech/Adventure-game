@@ -1,0 +1,131 @@
+{
+  "grounds": {
+    "ground-path": {
+      "cut": {
+        "bottom": 0,
+        "left": 0,
+        "right": 0,
+        "top": 0
+      },
+      "from": "地面原图",
+      "size_in": [
+        1536,
+        1024
+      ],
+      "size_out": [
+        1536,
+        1024
+      ],
+      "source": "ground-path.png"
+    },
+    "ground-river-ford": {
+      "cut": {
+        "bottom": 0,
+        "left": 48,
+        "right": 0,
+        "top": 10
+      },
+      "from": "第1版",
+      "size_in": [
+        1536,
+        1024
+      ],
+      "size_out": [
+        1488,
+        1014
+      ],
+      "source": "ground-river-ford.png"
+    },
+    "ground-river-water": {
+      "cut": {
+        "bottom": 0,
+        "left": 0,
+        "right": 0,
+        "top": 0
+      },
+      "from": "第1版",
+      "size_in": [
+        1536,
+        1024
+      ],
+      "size_out": [
+        1536,
+        1024
+      ],
+      "source": "ground-river-water.png"
+    },
+    "ground-riverbank": {
+      "cut": {
+        "bottom": 8,
+        "left": 12,
+        "right": 6,
+        "top": 10
+      },
+      "from": "第1版",
+      "size_in": [
+        1536,
+        1024
+      ],
+      "size_out": [
+        1518,
+        1006
+      ],
+      "source": "ground-riverbank.png"
+    },
+    "ground-ruins-dry-grass": {
+      "cut": {
+        "bottom": 0,
+        "left": 0,
+        "right": 0,
+        "top": 0
+      },
+      "from": "地面原图",
+      "size_in": [
+        1536,
+        1024
+      ],
+      "size_out": [
+        1536,
+        1024
+      ],
+      "source": "ground-ruins-dry-grass.png"
+    },
+    "ground-ruins-flagstone": {
+      "cut": {
+        "bottom": 0,
+        "left": 0,
+        "right": 0,
+        "top": 0
+      },
+      "from": "地面原图",
+      "size_in": [
+        1536,
+        1024
+      ],
+      "size_out": [
+        1536,
+        1024
+      ],
+      "source": "ground-ruins-flagstone.png"
+    },
+    "ground-valley-grass": {
+      "cut": {
+        "bottom": 12,
+        "left": 0,
+        "right": 12,
+        "top": 10
+      },
+      "from": "第1版",
+      "size_in": [
+        1536,
+        1024
+      ],
+      "size_out": [
+        1524,
+        1002
+      ],
+      "source": "ground-valley-grass.png"
+    }
+  },
+  "resampled": false
+}

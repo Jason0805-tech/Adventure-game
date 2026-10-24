@@ -1,0 +1,76 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Can't get id path. Point (200, 166) out of bounds [P: (0, 0), S: (184, 125)].
+   at: get_id_path (core/math/a_star_grid_2d.cpp:688)
+   GDScript backtrace (most recent call first):
+       [0] _spawn_one (res://wildlife.gd:192)
+       [1] one (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.1.6.4/test_predators.gd:34)
+       [2] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.1.6.4/test_predators.gd:58)
+ERROR: Can't get id path. Point (223, 146) out of bounds [P: (0, 0), S: (184, 125)].
+   at: get_id_path (core/math/a_star_grid_2d.cpp:688)
+   GDScript backtrace (most recent call first):
+       [0] _spawn_one (res://wildlife.gd:192)
+       [1] one (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.1.6.4/test_predators.gd:34)
+       [2] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.1.6.4/test_predators.gd:58)
+ERROR: Can't get id path. Point (222, 159) out of bounds [P: (0, 0), S: (184, 125)].
+   at: get_id_path (core/math/a_star_grid_2d.cpp:688)
+   GDScript backtrace (most recent call first):
+       [0] _spawn_one (res://wildlife.gd:192)
+       [1] one (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.1.6.4/test_predators.gd:34)
+       [2] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.1.6.4/test_predators.gd:58)
+ERROR: Can't get id path. Point (192, 165) out of bounds [P: (0, 0), S: (184, 125)].
+   at: get_id_path (core/math/a_star_grid_2d.cpp:688)
+   GDScript backtrace (most recent call first):
+       [0] _spawn_one (res://wildlife.gd:192)
+       [1] one (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.1.6.4/test_predators.gd:34)
+       [2] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.1.6.4/test_predators.gd:58)
+ERROR: Can't get id path. Point (55, 158) out of bounds [P: (0, 0), S: (184, 125)].
+   at: get_id_path (core/math/a_star_grid_2d.cpp:688)
+   GDScript backtrace (most recent call first):
+       [0] _spawn_one (res://wildlife.gd:192)
+       [1] one (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.1.6.4/test_predators.gd:34)
+       [2] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.1.6.4/test_predators.gd:63)
+ERROR: Can't get id path. Point (199, 79) out of bounds [P: (0, 0), S: (184, 125)].
+   at: get_id_path (core/math/a_star_grid_2d.cpp:688)
+   GDScript backtrace (most recent call first):
+       [0] _spawn_one (res://wildlife.gd:192)
+       [1] one (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.1.6.4/test_predators.gd:34)
+       [2] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.1.6.4/test_predators.gd:77)
+ERROR: Can't get id path. Point (259, 169) out of bounds [P: (0, 0), S: (184, 125)].
+   at: get_id_path (core/math/a_star_grid_2d.cpp:688)
+   GDScript backtrace (most recent call first):
+       [0] _spawn_one (res://wildlife.gd:192)
+       [1] one (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.1.6.4/test_predators.gd:34)
+       [2] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.1.6.4/test_predators.gd:77)
+ERROR: Can't get id path. Point (221, 115) out of bounds [P: (0, 0), S: (184, 125)].
+   at: get_id_path (core/math/a_star_grid_2d.cpp:688)
+   GDScript backtrace (most recent call first):
+       [0] _spawn_one (res://wildlife.gd:192)
+       [1] one (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.1.6.4/test_predators.gd:34)
+       [2] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.1.6.4/test_predators.gd:67)
+ERROR: Can't get id path. Point (286, 173) out of bounds [P: (0, 0), S: (184, 125)].
+   at: get_id_path (core/math/a_star_grid_2d.cpp:688)
+   GDScript backtrace (most recent call first):
+       [0] _spawn_one (res://wildlife.gd:192)
+       [1] one (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.1.6.4/test_predators.gd:34)
+       [2] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.1.6.4/test_predators.gd:93)
+ERROR: Can't get id path. Point (267, 144) out of bounds [P: (0, 0), S: (184, 125)].
+   at: get_id_path (core/math/a_star_grid_2d.cpp:688)
+   GDScript backtrace (most recent call first):
+       [0] _spawn_one (res://wildlife.gd:192)
+       [1] one (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.1.6.4/test_predators.gd:34)
+       [2] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.1.6.4/test_predators.gd:93)
+ERROR: Can't get id path. Point (271, 31) out of bounds [P: (0, 0), S: (184, 125)].
+   at: get_id_path (core/math/a_star_grid_2d.cpp:688)
+   GDScript backtrace (most recent call first):
+       [0] _spawn_one (res://wildlife.gd:192)
+       [1] one (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.1.6.4/test_predators.gd:34)
+       [2] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.1.6.4/test_predators.gd:93)
+ERROR: Can't get id path. Point (184, 63) out of bounds [P: (0, 0), S: (184, 125)].
+   at: get_id_path (core/math/a_star_grid_2d.cpp:688)
+   GDScript backtrace (most recent call first):
+       [0] _spawn_one (res://wildlife.gd:192)
+       [1] _populate (res://wildlife.gd:284)
+       [2] update (res://wildlife.gd:292)
+       [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.1.6.4/test_predators.gd:103)
+PREDATOR_RESULTS {"checks":72,"failures":[],"passed":true}

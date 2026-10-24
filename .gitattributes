@@ -2290,3 +2290,147 @@
 "素材整理/区域_0.3.0_重画/参考图/ref3-树和草丛.png" filter=lfs diff=lfs merge=lfs -text
 "素材整理/区域_0.3.0_重画/参考图/ref4-图标画法.png" filter=lfs diff=lfs merge=lfs -text
 "素材整理/区域_0.3.0_重画/参考图/ref5-森林地面.png" filter=lfs diff=lfs merge=lfs -text
+"deployment/itchio/v0.3.0-alpha.3/Forest-Wanderer-v0.3.0-alpha.3-itchio.zip" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/Forest Wanderer 0.3.0-alpha.3 - Web.zip" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/animal-skin-topology.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/region/ground-path.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/region/ground-ruins-dry-grass.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/region/ground-ruins-flagstone.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/region/ground-valley-grass.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/region/ruin-gate.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/region/ruin-well.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/tools/web_nothreads_release.zip" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/web-share/cover.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/web-share/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/web-share/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/web-share/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/web-share/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/web-share/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/web-share/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/web-share/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/web-share/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/web-share/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/web-share/data/game.pck.09.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/web-share/data/game.pck.10.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/web-share/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/web-share/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/web-share/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/web-share/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.3/web-share/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/animal-skin-topology.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/region/ground-path.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/region/ground-ruins-dry-grass.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/region/ground-ruins-flagstone.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/region/ground-valley-grass.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/region/ruin-gate.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/region/ruin-well.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/fixture-regions/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/old-region-assets/region/ground-path.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/old-region-assets/region/ground-river-ford.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/old-region-assets/region/ground-river-water.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/old-region-assets/region/ground-riverbank.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/old-region-assets/region/ground-ruins-dry-grass.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/old-region-assets/region/ground-ruins-flagstone.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/old-region-assets/region/ground-valley-grass.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/old-region-assets/region/ruin-gate.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/old-region-assets/region/ruin-well.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/web-build/cover-original.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/web-build/dist/cover.png" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/web-build/dist/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/web-build/dist/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/web-build/dist/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/web-build/dist/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/web-build/dist/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/web-build/dist/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/web-build/dist/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/web-build/dist/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/web-build/dist/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/web-build/dist/data/game.pck.09.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/web-build/dist/data/game.pck.10.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/web-build/dist/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/web-build/dist/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/web-build/dist/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/web-build/dist/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.3/web-build/dist/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/production/ruin-gate.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/production/ruin-well.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/最终/ground-path.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/最终/ground-river-ford.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/最终/ground-riverbank.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/最终/ground-ruins-dry-grass.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/最终/ground-ruins-flagstone.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/最终/ground-valley-grass.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/最终/region-item-icons-sheet.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/最终/ruin-gate.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/最终/ruin-well.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/最终/ruins-props.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/最终/valley-bridge.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/最终/valley-props.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/最终/地面原图/ground-path.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/最终/地面原图/ground-ruins-dry-grass.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/最终/地面原图/ground-ruins-flagstone.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/最终/无缝地面/ground-path.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/最终/无缝地面/ground-ruins-dry-grass.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/最终/无缝地面/ground-ruins-flagstone.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/最终/无缝地面/ground-valley-grass.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/第1版/%E6%B2%B3%E8%B0%B7%E4%B8%8E%E5%BA%9F%E5%A2%9F_13%E5%BC%A0%E7%B4%A0%E6%9D%90 (3).zip" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/第1版/%E7%B4%A0%E6%9D%90%E6%80%BB%E8%A7%88 (1).png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/第1版/ground-river-ford.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/第1版/ground-riverbank.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/第1版/ground-ruins-flagstone.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/第1版/ground-valley-grass.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/第1版/素材总览.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/第2版/250b9e47-7fb3-4cb4-9b5f-75dcd48c5354.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/第2版/2c7e683e-7fc0-4528-a705-4f775b29cf90.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/第2版/4bdece5b-3f11-4dcd-9b82-204b4aca703f.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/第2版/4d38ac58-9113-4c4b-b570-1d651584ea12.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/第2版/5c43e363-0993-4778-bf41-475fc2be4c9c.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/第2版/89b75dd2-d7d8-4c44-b457-5479f88700df.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/第2版/946525e6-90ee-4879-8750-6e1749d77934.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/第2版/9b1c1f06-231f-4293-ba6c-acb2a8d57546.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/第2版/f174df09-2883-4921-9b49-41f6d8ade51c.png" filter=lfs diff=lfs merge=lfs -text

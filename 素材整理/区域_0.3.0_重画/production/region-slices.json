@@ -1,0 +1,202 @@
+{
+  "objects": {
+    "icon-ancient-stone": {
+      "sheet": "region-item-icons-sheet.png",
+      "source_rect": [
+        1104,
+        120,
+        393,
+        425
+      ]
+    },
+    "icon-bronze-scrap": {
+      "sheet": "region-item-icons-sheet.png",
+      "source_rect": [
+        250,
+        598,
+        522,
+        340
+      ]
+    },
+    "icon-reeds": {
+      "sheet": "region-item-icons-sheet.png",
+      "source_rect": [
+        38,
+        89,
+        493,
+        451
+      ]
+    },
+    "icon-rune-charm": {
+      "sheet": "region-item-icons-sheet.png",
+      "source_rect": [
+        887,
+        552,
+        455,
+        392
+      ]
+    },
+    "icon-trout": {
+      "sheet": "region-item-icons-sheet.png",
+      "source_rect": [
+        508,
+        176,
+        576,
+        319
+      ]
+    },
+    "region-item-icons": {
+      "cell": [
+        636,
+        511
+      ],
+      "count": 5,
+      "packed_from": "region-item-icons-sheet.png"
+    },
+    "ruin-column": {
+      "sheet": "ruins-props.png",
+      "source_rect": [
+        43,
+        121,
+        404,
+        372
+      ]
+    },
+    "ruin-fallen-column": {
+      "sheet": "ruins-props.png",
+      "source_rect": [
+        478,
+        194,
+        524,
+        308
+      ]
+    },
+    "ruin-gate": {
+      "sheet": "ruin-gate.png",
+      "source_rect": [
+        18,
+        83,
+        1496,
+        852
+      ]
+    },
+    "ruin-rubble": {
+      "sheet": "ruins-props.png",
+      "source_rect": [
+        508,
+        645,
+        502,
+        311
+      ]
+    },
+    "ruin-rubble-mined": {
+      "sheet": "ruins-props.png",
+      "source_rect": [
+        1069,
+        685,
+        444,
+        263
+      ]
+    },
+    "ruin-statue": {
+      "sheet": "ruins-props.png",
+      "source_rect": [
+        43,
+        550,
+        424,
+        405
+      ]
+    },
+    "ruin-wall": {
+      "sheet": "ruins-props.png",
+      "source_rect": [
+        1010,
+        185,
+        513,
+        346
+      ]
+    },
+    "ruin-well": {
+      "sheet": "ruin-well.png",
+      "source_rect": [
+        70,
+        32,
+        1137,
+        1171
+      ]
+    },
+    "valley-boulder": {
+      "sheet": "valley-props.png",
+      "source_rect": [
+        56,
+        711,
+        447,
+        276
+      ]
+    },
+    "valley-bridge-deck": {
+      "sheet": "valley-bridge.png",
+      "source_rect": [
+        14,
+        280,
+        1108,
+        439
+      ]
+    },
+    "valley-dock": {
+      "sheet": "valley-bridge.png",
+      "source_rect": [
+        1169,
+        278,
+        355,
+        423
+      ]
+    },
+    "valley-driftwood": {
+      "sheet": "valley-props.png",
+      "source_rect": [
+        552,
+        727,
+        521,
+        251
+      ]
+    },
+    "valley-ferry-post": {
+      "sheet": "valley-props.png",
+      "source_rect": [
+        1167,
+        661,
+        305,
+        325
+      ]
+    },
+    "valley-reeds": {
+      "sheet": "valley-props.png",
+      "source_rect": [
+        625,
+        214,
+        443,
+        403
+      ]
+    },
+    "valley-reeds-cut": {
+      "sheet": "valley-props.png",
+      "source_rect": [
+        1094,
+        374,
+        411,
+        243
+      ]
+    },
+    "valley-willow": {
+      "sheet": "valley-props.png",
+      "source_rect": [
+        43,
+        26,
+        569,
+        590
+      ]
+    }
+  },
+  "resampled": false
+}
