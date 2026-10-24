@@ -1,0 +1,114 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+[   0% ] [90m[1mfirst_scan_filesystem[22m | Started 项目初始化 (5 steps)[39m[0m
+[   0% ] [90m[1mfirst_scan_filesystem[22m | 正在扫描文件结构……[39m[0m
+[  16% ] [90m[1mfirst_scan_filesystem[22m | 正在加载全局类名……[39m[0m
+[  33% ] [90m[1mfirst_scan_filesystem[22m | 正在校验 GDExtension……[39m[0m
+[  50% ] [90m[1mfirst_scan_filesystem[22m | 正在创建自动加载脚本……[39m[0m
+[  66% ] [90m[1mfirst_scan_filesystem[22m | 正在初始化插件……[39m[0m
+[  83% ] [90m[1mfirst_scan_filesystem[22m | 正在启动文件扫描……[39m[0m
+[92m[ DONE ][39m [1mfirst_scan_filesystem[22m
+[0m
+[   0% ] [90m[1mupdate_scripts_classes[22m | Started 正在注册全局类…… (9 steps)[39m[0m
+[   0% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  10% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  20% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  30% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  40% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  50% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  60% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  70% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[  80% ] [90m[1mupdate_scripts_classes[22m | [39m[0m
+[92m[ DONE ][39m [1mupdate_scripts_classes[22m
+[0m
+[   0% ] [90m[1m_update_scan_actions[22m | Started 正在扫描动作…… (79 steps)[39m[0m
+[   0% ] [90m[1m_update_scan_actions[22m | ground-path.png[39m[0m
+[   1% ] [90m[1m_update_scan_actions[22m | ground-river-ford.png[39m[0m
+[   2% ] [90m[1m_update_scan_actions[22m | ground-river-water.png[39m[0m
+[   3% ] [90m[1m_update_scan_actions[22m | ground-riverbank.png[39m[0m
+[   5% ] [90m[1m_update_scan_actions[22m | ground-ruins-dry-grass.png[39m[0m
+[   6% ] [90m[1m_update_scan_actions[22m | ground-ruins-flagstone.png[39m[0m
+[   7% ] [90m[1m_update_scan_actions[22m | ground-valley-grass.png[39m[0m
+[   8% ] [90m[1m_update_scan_actions[22m | region-item-icons.png[39m[0m
+[  10% ] [90m[1m_update_scan_actions[22m | ruin-column.png[39m[0m
+[  11% ] [90m[1m_update_scan_actions[22m | ruin-fallen-column.png[39m[0m
+[  12% ] [90m[1m_update_scan_actions[22m | ruin-gate.png[39m[0m
+[  13% ] [90m[1m_update_scan_actions[22m | ruin-rubble-mined.png[39m[0m
+[  15% ] [90m[1m_update_scan_actions[22m | ruin-rubble.png[39m[0m
+[  16% ] [90m[1m_update_scan_actions[22m | ruin-statue.png[39m[0m
+[  17% ] [90m[1m_update_scan_actions[22m | ruin-wall.png[39m[0m
+[  18% ] [90m[1m_update_scan_actions[22m | ruin-well.png[39m[0m
+[  20% ] [90m[1m_update_scan_actions[22m | valley-boulder.png[39m[0m
+[  21% ] [90m[1m_update_scan_actions[22m | valley-bridge-deck.png[39m[0m
+[  22% ] [90m[1m_update_scan_actions[22m | valley-dock.png[39m[0m
+[  23% ] [90m[1m_update_scan_actions[22m | valley-driftwood.png[39m[0m
+[  25% ] [90m[1m_update_scan_actions[22m | valley-ferry-post.png[39m[0m
+[  26% ] [90m[1m_update_scan_actions[22m | valley-reeds-cut.png[39m[0m
+[  27% ] [90m[1m_update_scan_actions[22m | valley-reeds.png[39m[0m
+[  28% ] [90m[1m_update_scan_actions[22m | valley-willow.png[39m[0m
+[  30% ] [90m[1m_update_scan_actions[22m | beacon-broken.png[39m[0m
+[  31% ] [90m[1m_update_scan_actions[22m | beacon-lit.png[39m[0m
+[  32% ] [90m[1m_update_scan_actions[22m | beacon-repaired.png[39m[0m
+[  33% ] [90m[1m_update_scan_actions[22m | cabin-props.png[39m[0m
+[  35% ] [90m[1m_update_scan_actions[22m | environment.png[39m[0m
+[  36% ] [90m[1m_update_scan_actions[22m | equipment.png[39m[0m
+[  37% ] [90m[1m_update_scan_actions[22m | ground-blends.png[39m[0m
+[  38% ] [90m[1m_update_scan_actions[22m | harvest-nodes.png[39m[0m
+[  40% ] [90m[1m_update_scan_actions[22m | held-use-weapon-0.png[39m[0m
+[  41% ] [90m[1m_update_scan_actions[22m | held-use-weapon-1.png[39m[0m
+[  42% ] [90m[1m_update_scan_actions[22m | held-use-weapon-2.png[39m[0m
+[  43% ] [90m[1m_update_scan_actions[22m | held-use-weapon-3.png[39m[0m
+[  45% ] [90m[1m_update_scan_actions[22m | held-use-weapon-4.png[39m[0m
+[  46% ] [90m[1m_update_scan_actions[22m | held-use-weapon-5.png[39m[0m
+[  47% ] [90m[1m_update_scan_actions[22m | held-use-weapon-6.png[39m[0m
+[  48% ] [90m[1m_update_scan_actions[22m | held-use-weapon-7.png[39m[0m
+[  50% ] [90m[1m_update_scan_actions[22m | held-use-weapon-8.png[39m[0m
+[  51% ] [90m[1m_update_scan_actions[22m | held-weapon-0.png[39m[0m
+[  52% ] [90m[1m_update_scan_actions[22m | held-weapon-1.png[39m[0m
+[  53% ] [90m[1m_update_scan_actions[22m | held-weapon-2.png[39m[0m
+[  55% ] [90m[1m_update_scan_actions[22m | held-weapon-3.png[39m[0m
+[  56% ] [90m[1m_update_scan_actions[22m | held-weapon-4.png[39m[0m
+[  57% ] [90m[1m_update_scan_actions[22m | held-weapon-5.png[39m[0m
+[  58% ] [90m[1m_update_scan_actions[22m | held-weapon-6.png[39m[0m
+[  60% ] [90m[1m_update_scan_actions[22m | held-weapon-7.png[39m[0m
+[  61% ] [90m[1m_update_scan_actions[22m | held-weapon-8.png[39m[0m
+[  62% ] [90m[1m_update_scan_actions[22m | materials.png[39m[0m
+[  63% ] [90m[1m_update_scan_actions[22m | meadow.png[39m[0m
+[  65% ] [90m[1m_update_scan_actions[22m | npc-ash-directions.png[39m[0m
+[  66% ] [90m[1m_update_scan_actions[22m | npc-rowan-directions.png[39m[0m
+[  67% ] [90m[1m_update_scan_actions[22m | npc-rowan-lantern.png[39m[0m
+[  68% ] [90m[1m_update_scan_actions[22m | npc-torso-source.png[39m[0m
+[  70% ] [90m[1m_update_scan_actions[22m | npcs.png[39m[0m
+[  71% ] [90m[1m_update_scan_actions[22m | paint-materials.png[39m[0m
+[  72% ] [90m[1m_update_scan_actions[22m | painted-torso-source.png[39m[0m
+[  73% ] [90m[1m_update_scan_actions[22m | part-core.png[39m[0m
+[  75% ] [90m[1m_update_scan_actions[22m | part-gear.png[39m[0m
+[  76% ] [90m[1m_update_scan_actions[22m | part-lens.png[39m[0m
+[  77% ] [90m[1m_update_scan_actions[22m | ponds.png[39m[0m
+[  78% ] [90m[1m_update_scan_actions[22m | rune-rock-open.png[39m[0m
+[  80% ] [90m[1m_update_scan_actions[22m | rune-rock.png[39m[0m
+[  81% ] [90m[1m_update_scan_actions[22m | shrine-core.png[39m[0m
+[  82% ] [90m[1m_update_scan_actions[22m | shrine-empty.png[39m[0m
+[  83% ] [90m[1m_update_scan_actions[22m | status-icons.png[39m[0m
+[  85% ] [90m[1m_update_scan_actions[22m | traveler-armed-directions.png[39m[0m
+[  86% ] [90m[1m_update_scan_actions[22m | traveler-unarmed-directions.png[39m[0m
+[  87% ] [90m[1m_update_scan_actions[22m | traveler-use-directions.png[39m[0m
+[  88% ] [90m[1m_update_scan_actions[22m | tree-variants.png[39m[0m
+[  90% ] [90m[1m_update_scan_actions[22m | utility-icons.png[39m[0m
+[  91% ] [90m[1m_update_scan_actions[22m | utility-props.png[39m[0m
+[  92% ] [90m[1m_update_scan_actions[22m | wildlife-bear.png[39m[0m
+[  93% ] [90m[1m_update_scan_actions[22m | wildlife-deer.png[39m[0m
+[  95% ] [90m[1m_update_scan_actions[22m | wildlife-fox.png[39m[0m
+[  96% ] [90m[1m_update_scan_actions[22m | wildlife-rabbit.png[39m[0m
+[  97% ] [90m[1m_update_scan_actions[22m | wildlife-wolf.png[39m[0m
+[92m[ DONE ][39m [1m_update_scan_actions[22m
+[0m
+[   0% ] [90m[1mloading_editor_layout[22m | Started 正在加载编辑器 (5 steps)[39m[0m
+[   0% ] [90m[1mloading_editor_layout[22m | 正在加载编辑器布局……[39m[0m
+[  16% ] [90m[1mloading_editor_layout[22m | 正在加载停靠面板……[39m[0m
+[  33% ] [90m[1mloading_editor_layout[22m | 正在重新打开场景……[39m[0m
+[  50% ] [90m[1mloading_editor_layout[22m | 正在加载中央编辑器布局……[39m[0m
+[  66% ] [90m[1mloading_editor_layout[22m | 正在加载插件窗口布局……[39m[0m
+[  83% ] [90m[1mloading_editor_layout[22m | 编辑器布局就绪。[39m[0m
+[92m[ DONE ][39m [1mloading_editor_layout[22m
+[0m

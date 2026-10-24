@@ -1,0 +1,16 @@
+test_alpha4 exit 0
+test_regions exit 1
+test_world exit 0
+test_progression exit 0
+test_alpha1 exit 0
+test_beacon exit 0
+test_boot exit 0
+test_dialog_close exit 0
+test_dialog_fit exit 0
+test_edges exit 0
+test_hunting exit 0
+test_nights exit 0
+test_predators exit 0
+test_stumps exit 0
+test_survival exit 0
+ALL_DONE

@@ -1,0 +1,931 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/beacon-broken.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://beacon_quest.gd:47)
+         [2] load_art (res://main.gd:271)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/beacon-lit.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://beacon_quest.gd:47)
+         [2] load_art (res://main.gd:271)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/beacon-repaired.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://beacon_quest.gd:47)
+         [2] load_art (res://main.gd:271)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/rune-rock.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://beacon_quest.gd:47)
+         [2] load_art (res://main.gd:271)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/rune-rock-open.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://beacon_quest.gd:47)
+         [2] load_art (res://main.gd:271)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/shrine-core.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://beacon_quest.gd:47)
+         [2] load_art (res://main.gd:271)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/shrine-empty.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://beacon_quest.gd:47)
+         [2] load_art (res://main.gd:271)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/part-lens.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://beacon_quest.gd:49)
+         [2] load_art (res://main.gd:271)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/part-gear.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://beacon_quest.gd:49)
+         [2] load_art (res://main.gd:271)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/part-core.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://beacon_quest.gd:49)
+         [2] load_art (res://main.gd:271)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/environment.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:200)
+         [1] load_art (res://main.gd:272)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/materials.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:200)
+         [1] load_art (res://main.gd:273)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/ponds.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:200)
+         [1] load_art (res://main.gd:274)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/tree-variants.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:200)
+         [1] load_art (res://main.gd:275)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/equipment.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:200)
+         [1] load_art (res://main.gd:276)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/ground-blends.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:200)
+         [1] load_art (res://main.gd:277)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/harvest-nodes.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] auto_grid (res://main.gd:216)
+         [1] load_art (res://main.gd:278)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/harvest-nodes.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:200)
+         [1] auto_grid (res://main.gd:252)
+         [2] load_art (res://main.gd:278)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/cabin-props.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] auto_grid (res://main.gd:216)
+         [1] load_art (res://main.gd:279)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/cabin-props.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:200)
+         [1] auto_grid (res://main.gd:252)
+         [2] load_art (res://main.gd:279)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/status-icons.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] auto_grid (res://main.gd:216)
+         [1] load_art (res://main.gd:280)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/status-icons.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:200)
+         [1] auto_grid (res://main.gd:252)
+         [2] load_art (res://main.gd:280)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/utility-icons.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:200)
+         [1] load_art (res://main.gd:281)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/utility-props.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:200)
+         [1] load_art (res://main.gd:282)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ruin-column.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ruin-fallen-column.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ruin-wall.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ruin-statue.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ruin-rubble.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ruin-rubble-mined.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/valley-willow.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/valley-reeds.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/valley-reeds-cut.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/valley-boulder.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/valley-driftwood.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/valley-ferry-post.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ruin-well.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ruin-gate.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/valley-bridge-deck.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:68)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/valley-dock.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:68)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/region-item-icons.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] auto_grid (res://main.gd:216)
+         [1] load_art (res://main.gd:285)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/region-item-icons.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:200)
+         [1] auto_grid (res://main.gd:252)
+         [2] load_art (res://main.gd:285)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/traveler-unarmed-directions.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://main.gd:286)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/npc-rowan-directions.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://main.gd:289)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/npc-ash-directions.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://main.gd:289)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/npc-rowan-lantern.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://main.gd:290)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-bear.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_animal_art (res://main.gd:352)
+         [2] load_art (res://main.gd:291)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-deer.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_animal_art (res://main.gd:352)
+         [2] load_art (res://main.gd:291)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-fox.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_animal_art (res://main.gd:352)
+         [2] load_art (res://main.gd:291)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-rabbit.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_animal_art (res://main.gd:352)
+         [2] load_art (res://main.gd:291)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-wolf.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_animal_art (res://main.gd:352)
+         [2] load_art (res://main.gd:291)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/meadow.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_art (res://main.gd:299)
+         [1] _ready (res://main.gd:496)
+         [2] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ground-valley-grass.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] _load_textures (res://region_ground.gd:179)
+         [1] setup (res://region_ground.gd:112)
+         [2] _ready (res://main.gd:499)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ground-riverbank.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] _load_textures (res://region_ground.gd:179)
+         [1] setup (res://region_ground.gd:112)
+         [2] _ready (res://main.gd:499)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ground-river-water.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] _load_textures (res://region_ground.gd:179)
+         [1] setup (res://region_ground.gd:112)
+         [2] _ready (res://main.gd:499)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ground-river-ford.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] _load_textures (res://region_ground.gd:179)
+         [1] setup (res://region_ground.gd:112)
+         [2] _ready (res://main.gd:499)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ground-ruins-flagstone.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] _load_textures (res://region_ground.gd:179)
+         [1] setup (res://region_ground.gd:112)
+         [2] _ready (res://main.gd:499)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ground-ruins-dry-grass.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] _load_textures (res://region_ground.gd:179)
+         [1] setup (res://region_ground.gd:112)
+         [2] _ready (res://main.gd:499)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ground-path.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] _load_textures (res://region_ground.gd:179)
+         [1] setup (res://region_ground.gd:112)
+         [2] _ready (res://main.gd:499)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:27)
+GAME_READY v0.3.0-alpha.4
+BEACON_IGNITE night=1
+DISCOVERED beacon
+NIGHT_SURVIVED 1
+BEACON_IGNITE night=2
+BEACON_WOLF home_dist=1427 drawn=0/40
+LAST_WATCH_WAVE 1 wolves=1
+LAST_WATCH_WAVE 2 wolves=2
+LAST_WATCH_WAVE 3 wolves=2
+BEACON_LIT night=2
+BEACON_ESCAPE night=2
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/beacon-broken.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://beacon_quest.gd:47)
+         [2] load_art (res://main.gd:271)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/beacon-lit.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://beacon_quest.gd:47)
+         [2] load_art (res://main.gd:271)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/beacon-repaired.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://beacon_quest.gd:47)
+         [2] load_art (res://main.gd:271)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/rune-rock.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://beacon_quest.gd:47)
+         [2] load_art (res://main.gd:271)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/rune-rock-open.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://beacon_quest.gd:47)
+         [2] load_art (res://main.gd:271)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/shrine-core.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://beacon_quest.gd:47)
+         [2] load_art (res://main.gd:271)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/shrine-empty.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://beacon_quest.gd:47)
+         [2] load_art (res://main.gd:271)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/part-lens.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://beacon_quest.gd:49)
+         [2] load_art (res://main.gd:271)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/part-gear.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://beacon_quest.gd:49)
+         [2] load_art (res://main.gd:271)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/part-core.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://beacon_quest.gd:49)
+         [2] load_art (res://main.gd:271)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/environment.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:200)
+         [1] load_art (res://main.gd:272)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/materials.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:200)
+         [1] load_art (res://main.gd:273)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/ponds.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:200)
+         [1] load_art (res://main.gd:274)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/tree-variants.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:200)
+         [1] load_art (res://main.gd:275)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/equipment.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:200)
+         [1] load_art (res://main.gd:276)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/ground-blends.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:200)
+         [1] load_art (res://main.gd:277)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/harvest-nodes.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] auto_grid (res://main.gd:216)
+         [1] load_art (res://main.gd:278)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/harvest-nodes.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:200)
+         [1] auto_grid (res://main.gd:252)
+         [2] load_art (res://main.gd:278)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/cabin-props.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] auto_grid (res://main.gd:216)
+         [1] load_art (res://main.gd:279)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/cabin-props.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:200)
+         [1] auto_grid (res://main.gd:252)
+         [2] load_art (res://main.gd:279)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/status-icons.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] auto_grid (res://main.gd:216)
+         [1] load_art (res://main.gd:280)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/status-icons.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:200)
+         [1] auto_grid (res://main.gd:252)
+         [2] load_art (res://main.gd:280)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/utility-icons.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:200)
+         [1] load_art (res://main.gd:281)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/utility-props.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:200)
+         [1] load_art (res://main.gd:282)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ruin-column.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ruin-fallen-column.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ruin-wall.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ruin-statue.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ruin-rubble.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ruin-rubble-mined.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/valley-willow.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/valley-reeds.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/valley-reeds-cut.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/valley-boulder.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/valley-driftwood.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/valley-ferry-post.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ruin-well.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ruin-gate.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:61)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/valley-bridge-deck.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:68)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/valley-dock.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://region_world.gd:68)
+         [2] load_art (res://main.gd:283)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/region-item-icons.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] auto_grid (res://main.gd:216)
+         [1] load_art (res://main.gd:285)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/region-item-icons.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_grid (res://main.gd:200)
+         [1] auto_grid (res://main.gd:252)
+         [2] load_art (res://main.gd:285)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/traveler-unarmed-directions.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://main.gd:286)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/npc-rowan-directions.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://main.gd:289)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/npc-ash-directions.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://main.gd:289)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/npc-rowan-lantern.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_art (res://main.gd:290)
+         [2] _ready (res://main.gd:496)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-bear.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_animal_art (res://main.gd:352)
+         [2] load_art (res://main.gd:291)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-deer.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_animal_art (res://main.gd:352)
+         [2] load_art (res://main.gd:291)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-fox.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_animal_art (res://main.gd:352)
+         [2] load_art (res://main.gd:291)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-rabbit.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_animal_art (res://main.gd:352)
+         [2] load_art (res://main.gd:291)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/wildlife-wolf.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] load_animal_art (res://main.gd:352)
+         [2] load_art (res://main.gd:291)
+         [3] _ready (res://main.gd:496)
+         [4] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/meadow.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_art (res://main.gd:299)
+         [1] _ready (res://main.gd:496)
+         [2] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ground-valley-grass.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] _load_textures (res://region_ground.gd:179)
+         [1] setup (res://region_ground.gd:112)
+         [2] _ready (res://main.gd:499)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ground-riverbank.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] _load_textures (res://region_ground.gd:179)
+         [1] setup (res://region_ground.gd:112)
+         [2] _ready (res://main.gd:499)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ground-river-water.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] _load_textures (res://region_ground.gd:179)
+         [1] setup (res://region_ground.gd:112)
+         [2] _ready (res://main.gd:499)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ground-river-ford.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] _load_textures (res://region_ground.gd:179)
+         [1] setup (res://region_ground.gd:112)
+         [2] _ready (res://main.gd:499)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ground-ruins-flagstone.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] _load_textures (res://region_ground.gd:179)
+         [1] setup (res://region_ground.gd:112)
+         [2] _ready (res://main.gd:499)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ground-ruins-dry-grass.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] _load_textures (res://region_ground.gd:179)
+         [1] setup (res://region_ground.gd:112)
+         [2] _ready (res://main.gd:499)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/region/ground-path.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] _load_textures (res://region_ground.gd:179)
+         [1] setup (res://region_ground.gd:112)
+         [2] _ready (res://main.gd:499)
+         [3] run (/Users/jasonsmacair/Documents/Coding life/adventure game program by AI tech/其他/tests/0.3.0.4/test_beacon.gd:160)
+GAME_READY v0.3.0-alpha.4
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/traveler-armed-directions.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] draw_traveler (res://main.gd:1338)
+         [2] person (res://main.gd:1389)
+         [3] draw_paint_entry (res://main.gd:1533)
+         [4] _draw (res://main.gd:1701)
+WARNING: Loaded resource as image file, this will not work on export: 'res://assets/held-weapon-7.png'. Instead, import the image file as an Image resource and load it normally as a resource.
+     at: load_from_file (core/io/image.cpp:2780)
+     GDScript backtrace (most recent call first):
+         [0] load_texture (res://main.gd:255)
+         [1] held_weapon_texture (res://main.gd:266)
+         [2] draw_traveler (res://main.gd:1343)
+         [3] person (res://main.gd:1389)
+         [4] draw_paint_entry (res://main.gd:1533)
+         [5] _draw (res://main.gd:1701)
+NIGHT_SURVIVED 1
+NIGHT_SURVIVED 2
+NIGHT_SURVIVED 3
+NIGHT_SURVIVED 4
+NIGHT_SURVIVED 5
+BEACON_RESULTS {"checks":1232,"failures":[],"passed":true}
