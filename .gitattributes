@@ -2225,3 +2225,68 @@
 "素材整理/区域_0.3.0/ruins-props.png" filter=lfs diff=lfs merge=lfs -text
 "素材整理/区域_0.3.0/valley-bridge.png" filter=lfs diff=lfs merge=lfs -text
 "素材整理/区域_0.3.0/valley-props.png" filter=lfs diff=lfs merge=lfs -text
+"deployment/itchio/v0.3.0-alpha.2/Forest-Wanderer-v0.3.0-alpha.2-itchio.zip" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/Forest Wanderer 0.3.0-alpha.2 - Web.zip" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/animal-skin-topology.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/cabin-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/environment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/equipment.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/ground-blends.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/harvest-nodes.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/meadow.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/npc-ash-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/npc-rowan-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/npc-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/paint-materials.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/painted-torso-source.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/ponds.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/region/ground-path.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/region/ground-river-ford.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/region/ground-river-water.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/region/ground-riverbank.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/region/ground-ruins-dry-grass.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/region/ground-ruins-flagstone.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/region/ground-valley-grass.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/region/ruin-gate.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/region/ruin-well.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/traveler-armed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/traveler-unarmed-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/traveler-use-directions.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/tree-variants.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/utility-icons.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/utility-props.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/wildlife-bear.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/wildlife-deer.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/wildlife-fox.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/wildlife-rabbit.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/assets/wildlife-wolf.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/tools/web_nothreads_release.zip" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/web-share/cover.png" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/web-share/data/game.pck.00.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/web-share/data/game.pck.01.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/web-share/data/game.pck.02.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/web-share/data/game.pck.03.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/web-share/data/game.pck.04.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/web-share/data/game.pck.05.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/web-share/data/game.pck.06.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/web-share/data/game.pck.07.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/web-share/data/game.pck.08.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/web-share/data/game.pck.09.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/web-share/data/game.pck.10.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/web-share/data/game.pck.11.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/web-share/data/game.wasm.00.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/web-share/data/game.wasm.01.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/web-share/data/game.wasm.02.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/web-share/data/game.wasm.03.bin" filter=lfs diff=lfs merge=lfs -text
+"output/0.3.0 series/adventure game 0.3.0.2/web-share/data/game.wasm.04.bin" filter=lfs diff=lfs merge=lfs -text
+"其他/tests/0.3.0.2/web-build/cover-original.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0/ground-path.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0/production/ruin-gate.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0/production/ruin-well.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0/ruin-gate.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0/ruin-well.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/参考图/ref1-整体画风.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/参考图/ref2-物件画法.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/参考图/ref3-树和草丛.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/参考图/ref4-图标画法.png" filter=lfs diff=lfs merge=lfs -text
+"素材整理/区域_0.3.0_重画/参考图/ref5-森林地面.png" filter=lfs diff=lfs merge=lfs -text
